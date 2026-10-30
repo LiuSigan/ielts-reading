@@ -23,6 +23,7 @@ export function norm(s) {
     .replace(/[‘’‛]/g, "'")
     .replace(/[“”]/g, '"')
     .replace(/[–—]/g, "-")
+    .replace(/(\d),(?=\d{3}\b)/g, "$1")
     .replace(/-/g, " ")
     .replace(/[.,;:!?"()]/g, " ")
     .replace(/\s+/g, " ")

@@ -291,7 +291,7 @@ function toast(msg) {
 function norm(s) {
   return String(s ?? "").toLowerCase()
     .replace(/[‘’‛]/g, "'").replace(/[“”]/g, '"').replace(/[–—]/g, "-")
-    .replace(/-/g, " ").replace(/[.,;:!?"()]/g, " ").replace(/\s+/g, " ").trim();
+    .replace(/(\d),(?=\d{3}\b)/g, "$1").replace(/-/g, " ").replace(/[.,;:!?"()]/g, " ").replace(/\s+/g, " ").trim();
 }
 const isNum = (t) => /^[\d][\d.,%:/]*$/.test(t) || /^[£$€]\d/.test(t);
 function overLimit(ans, g) {
