@@ -1,0 +1,117 @@
+{
+ "id": "2026-10-31-p",
+ "answers": {
+  "1": {
+   "a": "NO",
+   "ev": {
+    "p": "A",
+    "q": "Historians doubt that the demonstration ever took place."
+   },
+   "why": "A段第二句。题干 reliable evidence that Galileo performed … ↔ 原文 Historians doubt that the demonstration ever took place，直接矛盾，故为 NO。容易误选 NOT GIVEN（以为文中没谈证据），但“怀疑是否发生过”已否定了“有可靠证据”。"
+  },
+  "2": {
+   "a": "YES",
+   "ev": {
+    "p": "A",
+    "q": "Galileo later published an argument that made such a demonstration almost unnecessary"
+   },
+   "why": "A段。题干 reduced the need for any physical trial ↔ 原文 made such a demonstration almost unnecessary。almost unnecessary 与 reduced the need 程度一致，不是“完全不需要”，所以是 YES。"
+  },
+  "3": {
+   "a": "YES",
+   "ev": {
+    "p": "C",
+    "q": "It struggles, however, with cases like Galileo's, where the conclusion ran against what experience appeared to show"
+   },
+   "why": "C段末两句。题干 cannot easily account for ↔ 原文 struggles with；conflict with everyday observation ↔ ran against what experience appeared to show（羽毛和石头不会同时落地）。同段 has the attraction of being thoroughly naturalistic 是让步，不影响结论。"
+  },
+  "4": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "E",
+    "q": "Brown's position asks us to accept a faculty of intellectual perception that no psychologist has ever identified"
+   },
+   "why": "E段。原文只说没有心理学家“识别出”这种能力（no psychologist has ever identified），并未提到有人做实验“证明它不存在”。没找到 ≠ 证明不存在，作者对后者没有表态，故 NOT GIVEN；看起来像 YES 或 NO 是本题陷阱。"
+  },
+  "5": {
+   "a": "NO",
+   "ev": {
+    "p": "E",
+    "q": "Norton's, for its part, is very difficult to refute, since almost any piece of reasoning can be rewritten as a formal argument after the event"
+   },
+   "why": "E段。题干 easy to find counter-examples ↔ 原文 very difficult to refute，正好相反。作者确实认为 Norton 的观点有弱点（that is precisely its weakness），但弱点在于它“太难被反驳、解释不了发现过程”，而不是容易被反驳，所以是 NO 而非 YES。"
+  },
+  "6": {
+   "a": "B",
+   "ev": {
+    "p": "F",
+    "q": "Galileo's argument works only because it treats weight as the sole property that matters"
+   },
+   "why": "F段。B treating one property as the only relevant one ↔ 原文 treats weight as the sole property that matters。A 最具迷惑性：作者说在空气中结论不成立，但没说论证本身有逻辑错误（argument works）。C 过度概括（作者只说生动性 can conceal assumptions）；D 文中未作比较。"
+  },
+  "7": {
+   "a": "B",
+   "ev": {
+    "p": "F",
+    "q": "which suggests that the response is, at least in part, an artefact of the telling"
+   },
+   "why": "F段末句。B reactions may depend on how a scenario is presented ↔ 原文 the response is … an artefact of the telling；reworded ↔ minor changes in wording。A 过度绝对（原文 at least in part，且只说直觉可能反映框架）；D 偷换：作者说伦理学思想实验更危险，但提这项研究不是为了比较物理与伦理。"
+  },
+  "8": {
+   "a": "C",
+   "ev": {
+    "p": "G",
+    "q": "Its distinctive power is to rearrange what we already believe"
+   },
+   "why": "全文主旨在G段：思想实验不凭空产生知识，而是重新组织已有信念。C Rearranging what we already know ↔ 原文 rearrange what we already believe。D 看似涵盖 Norton（argument）和 Brown（window），但只概括了D段；A 只对应A段；B 只对应F段的让步部分。"
+  },
+  "9": {
+   "a": "A",
+   "ev": {
+    "p": "C",
+    "q": "the mind stores a vast amount of experience of how things behave, much of it never put into words"
+   },
+   "why": "C段。unspoken ↔ never put into words；accumulate a great deal ↔ stores a vast amount。scientific / recorded / experimental 在语法上都能填，但 Mach 强调的是未用语言表达的日常经验，recorded 恰好相反。"
+  },
+  "10": {
+   "a": "C",
+   "ev": {
+    "p": "D",
+    "q": "the imagery helps us follow the reasoning but adds nothing to its force"
+   },
+   "why": "D段 Norton。dispensable（可有可无的）↔ Strip away the stones and the string … adds nothing to its force。misleading 是陷阱：F段作者说生动性可能掩盖假设，但那不是 Norton 的观点；essential 与原文相反。"
+  },
+  "11": {
+   "a": "E",
+   "ev": {
+    "p": "D",
+    "q": "a few exceptional thought experiments, Galileo's among them, give us direct insight into the laws of nature"
+   },
+   "why": "D段 Brown。At the opposite extreme 说明 Brown 的立场比 Norton 激进得多，claiming direct insight into the laws of nature，故 ambitious（雄心勃勃的、主张很强的）。cautious 正好相反。"
+  },
+  "12": {
+   "a": "G",
+   "ev": {
+    "p": "D",
+    "q": "much as a mathematician might grasp a truth about numbers without measuring anything"
+   },
+   "why": "D段。requires no measurement ↔ without measuring anything；mathematical understanding ↔ a mathematician might grasp a truth about numbers。experimental / scientific 都与“无需测量”矛盾。"
+  },
+  "13": {
+   "a": "A",
+   "ev": {
+    "p": "G",
+    "q": "bringing commitments that normally sit in separate compartments into contact, so that a hidden tension becomes impossible to ignore"
+   },
+   "why": "13–14 题答案为 A 和 C（顺序不限）。A ↔ G段 commitments … in separate compartments into contact … hidden tension。B 与F段相反（伦理学中的思想实验 more hazardous）；D 文中没有此说法；E 与G段 less a source of new facts 相反。"
+  },
+  "14": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "why the version with the stones convinced readers when abstract statements of the same point had not"
+   },
+   "why": "C ↔ E段：作者认为 Norton 无法解释 why the version with the stones convinced readers，并说 the imagery cannot be dismissed as decoration，即意象有助于解释其说服力。注意 Norton 本人认为意象 adds nothing to its force，这是作者反对的观点。"
+  }
+ }
+}

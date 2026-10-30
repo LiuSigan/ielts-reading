@@ -1,6 +1,39 @@
 {
- "updatedAt": "2026-10-30T17:33:57.326Z",
+ "updatedAt": "2026-10-30T22:52:54.841Z",
  "passages": [
+  {
+   "id": "2026-10-31",
+   "date": "2026-10-31",
+   "slot": "main",
+   "title": "Fields Above the Water",
+   "level": 6.5,
+   "style": "P2",
+   "topicArea": "agriculture & food",
+   "types": [
+    "short_answer",
+    "diagram_label",
+    "match_features"
+   ],
+   "total": 13,
+   "generatedAt": "2026-10-31T06:50:00+08:00"
+  },
+  {
+   "id": "2026-10-31-p",
+   "date": "2026-10-31",
+   "slot": "p3",
+   "title": "Experiments in the Head",
+   "level": 7.5,
+   "style": "P3",
+   "topicArea": "philosophy of science",
+   "types": [
+    "ynng",
+    "mcq",
+    "summary_box",
+    "mcq_multi"
+   ],
+   "total": 14,
+   "generatedAt": "2026-10-31T06:55:00+08:00"
+  },
   {
    "id": "2026-10-30-c",
    "date": "2026-10-30",

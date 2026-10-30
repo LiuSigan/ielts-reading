@@ -1,0 +1,120 @@
+{
+ "id": "2026-10-31",
+ "answers": {
+  "1": {
+   "a": "suka kollus",
+   "alt": [],
+   "ev": {
+    "p": "A",
+    "q": "their Aymara-speaking neighbours use the term suka kollus"
+   },
+   "why": "A段末句。题干 speakers of Aymara ↔ 原文 Aymara-speaking neighbours；known … by what name ↔ use the term。最容易误填 waru waru，但那是讲克丘亚语（Quechua）的农民的叫法。"
+  },
+  "2": {
+   "a": "ducks and fish",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "they collect the droppings of the ducks and fish that colonise the water"
+   },
+   "why": "D段第二句。题干 enrich the channels with their waste ↔ 原文 collect the droppings；creatures ↔ ducks and fish。题干用 Apart from plant life 排除了同句前半的 algae and other aquatic plants。"
+  },
+  "3": {
+   "a": "Huatta",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "when archaeologists working near the village of Huatta, north of Puno in Peru, persuaded local farmers to rebuild a few hectares"
+   },
+   "why": "E段首句。题干 first modern reconstruction ↔ 原文 rebuild a few hectares (early 1980s)；settlement ↔ village。Puno 是干扰项：它只是用来说明 Huatta 的位置（north of Puno），C段 Quispe 监测的田也在 Puno 附近。"
+  },
+  "4": {
+   "a": "900 person-days",
+   "alt": [
+    "900 person days"
+   ],
+   "ev": {
+    "p": "F",
+    "q": "Building a field by hand takes roughly 900 person-days per hectare"
+   },
+   "why": "F段。题干 without machinery ↔ 原文 by hand；create ↔ building；approximately ↔ roughly。同段的 50 是每年维护所需的额外工日（keeping it in working order），不是修建所需。"
+  },
+  "5": {
+   "a": "mist",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "on still nights, a thin layer of mist forms that acts like a blanket over the crops"
+   },
+   "why": "C段。图中平台上方、标注 forms on still nights ↔ 原文 on still nights, a thin layer of mist forms。不要填 blanket：那只是比喻（acts like a blanket），并非实际形成的东西。"
+  },
+  "6": {
+   "a": "topsoil",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "The topsoil, in which potatoes and quinoa are actually planted, sits on top"
+   },
+   "why": "B段。图中最上层、标注 planting layer ↔ 原文 in which potatoes and quinoa are actually planted, sits on top。soil 一词在B段也出现（built from soil dug out of the canals），但那是指整个平台的材料，不是种植层。"
+  },
+  "7": {
+   "a": "clay",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "a band of clay that slows its downward escape, so that moisture is held within reach of the crops"
+   },
+   "why": "B段。图中中间层、标注 keeps moisture ↔ 原文 moisture is held within reach of the crops；位置 above this（在卵石层之上）。cobbles 也在同句，但它的作用是排水，与本标注相反。"
+  },
+  "8": {
+   "a": "cobbles",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "At the base of many platforms lies a layer of cobbles, which allows excess water to drain away from the roots"
+   },
+   "why": "B段。图中最底层、标注 lets surplus water drain ↔ 原文 allows excess water to drain away；底部 ↔ at the base。clay 在其上方，作用是保水，方向相反。"
+  },
+  "9": {
+   "a": "algae",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "Over a season they fill with algae and other aquatic plants, some of which take nitrogen from the air"
+   },
+   "why": "D段。图中渠道里的植物、标注 some fix nitrogen ↔ 原文 some of which take nitrogen from the air。mud 也出现在D段，但它是之后被挖出的淤泥，不是渠中生长的东西，也不能固氮。"
+  },
+  "10": {
+   "a": "A",
+   "ev": {
+    "p": "C",
+    "q": "the difference is greatest on clear, windless nights, which are precisely the conditions in which frosts are most severe"
+   },
+   "why": "C段 Quispe。题干 protection … at its strongest ↔ 原文 the difference is greatest；weather poses the greatest threat ↔ conditions in which frosts are most severe。Hale（E）是最大干扰：他说田地只在霜冻或干旱的年份才划算，讲的是经济收益而不是保温效果最强的时候。"
+  },
+  "11": {
+   "a": "D",
+   "ev": {
+    "p": "F",
+    "q": "agencies had often paid workers for construction but made no provision for maintenance"
+   },
+   "why": "F段 Villca。题干 outside funding ↔ agencies had paid；initial building work ↔ construction；continuing care ↔ maintenance。Lindqvist 在同段，但他讲的是选址与地下水位，不是资金。"
+  },
+  "12": {
+   "a": "C",
+   "ev": {
+    "p": "F",
+    "q": "some projects were located where the water table was too low for the canals to stay full"
+   },
+   "why": "F段 Lindqvist。题干 poor choice of site ↔ 原文 located where the water table was too low；failed ↔ benefits disappeared。Villca 也解释了田地被弃的原因，但她讲的是劳力和维护，而不是地点。"
+  },
+  "13": {
+   "a": "D",
+   "ev": {
+    "p": "F",
+    "q": "the fields had been treated as a technology to be installed rather than a practice to be sustained"
+   },
+   "why": "F段末句 Villca 的观点。题干 a piece of equipment ↔ 原文 a technology to be installed；a way of working the land ↔ a practice to be sustained。G段作者也说田地 never merely a clever piece of engineering，但那是作者的结论，不属于任何列表中的研究者；Mori（B）谈的是施肥循环，不选。"
+  }
+ }
+}

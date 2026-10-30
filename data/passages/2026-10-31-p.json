@@ -1,0 +1,293 @@
+{
+ "id": "2026-10-31-p",
+ "date": "2026-10-31",
+ "level": 7.5,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "philosophy of science",
+ "title": "Experiments in the Head",
+ "subtitle": "Can reasoning about an imagined situation teach us anything about the real world?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "In the late sixteenth century, so the story goes, Galileo dropped two balls of different weights from the Leaning Tower of Pisa and watched them strike the ground together. Historians doubt that the demonstration ever took place. What is certain is that Galileo later published an argument that made such a demonstration almost unnecessary. Suppose, he reasoned, that heavy bodies fall faster than light ones, as Aristotle had taught. Now tie a heavy stone to a light one. The light stone, falling more slowly, should act as a drag on the heavy one, so the pair should descend more slowly than the heavy stone alone. But the pair is heavier than either stone, so by the same principle it should fall faster. The assumption contradicts itself, and the only way out is to conclude that all bodies fall at the same rate. There is no tower here, no stopwatch and no data: merely a scenario examined in the imagination."
+  },
+  {
+   "label": "B",
+   "text": "Episodes like this pose a puzzle that philosophers have argued over for more than a century. If a thought experiment can overturn a theory about the physical world, where does the new knowledge come from? An ordinary experiment draws information from outside the experimenter, from the behaviour of balls, gases or cells. A thought experiment, by definition, has access to nothing that the thinker did not already possess. It seems either to conjure knowledge out of nothing, which looks like magic, or to tell us only what we knew all along, which looks like no discovery at all."
+  },
+  {
+   "label": "C",
+   "text": "The Austrian physicist Ernst Mach, who popularised the German term Gedankenexperiment, offered an early answer. On his account, the mind stores a vast amount of experience of how things behave, much of it never put into words, and a thought experiment draws on this store in a disciplined way. The knowledge is not new; it has simply been unavailable to deliberate reasoning until the scenario brings it to the surface. Mach's view has the attraction of being thoroughly naturalistic, requiring nothing more mysterious than memory. It struggles, however, with cases like Galileo's, where the conclusion ran against what experience appeared to show: anyone who has watched a feather and a stone fall knows that they do not arrive together."
+  },
+  {
+   "label": "D",
+   "text": "Two more recent positions mark the outer limits of the debate. The philosopher John Norton has argued that thought experiments are nothing more than arguments dressed in vivid particulars. Strip away the stones and the string, he maintains, and what remains is a chain of premises and inferences that could be set out in plain logical form; the imagery helps us follow the reasoning but adds nothing to its force. At the opposite extreme, James Robert Brown has defended the view that a few exceptional thought experiments, Galileo's among them, give us direct insight into the laws of nature, much as a mathematician might grasp a truth about numbers without measuring anything. For Brown, the falling stones are not an argument at all but a kind of window."
+  },
+  {
+   "label": "E",
+   "text": "Neither extreme is entirely satisfying. Brown's position asks us to accept a faculty of intellectual perception that no psychologist has ever identified, and it offers no way of telling a genuine glimpse of natural law from a persuasive illusion. Norton's, for its part, is very difficult to refute, since almost any piece of reasoning can be rewritten as a formal argument after the event. But that is precisely its weakness. The fact that Galileo's insight can be reconstructed as a syllogism tells us little about how anyone arrived at it, or why the version with the stones convinced readers when abstract statements of the same point had not. Admittedly, a theory of what justifies a belief need not explain how the belief was reached. Yet if we want to know why thought experiments are worth performing, rather than merely whether their conclusions are valid, the imagery cannot be dismissed as decoration."
+  },
+  {
+   "label": "F",
+   "text": "This is not to say that the imagination is a dependable instrument. The same vividness that makes a scenario persuasive can conceal assumptions that would not survive inspection. Galileo's argument works only because it treats weight as the sole property that matters; in air, where shape and surface affect the speed of a fall, its conclusion does not hold. Thought experiments in ethics are more hazardous still. Scenarios involving runaway trains and impossible choices remove the details on which real decisions depend, and the strong intuitions they provoke may reflect the artificial framing rather than any moral truth. Psychologists who have presented such dilemmas with minor changes in wording have found that people's judgements shift considerably, which suggests that the response is, at least in part, an artefact of the telling."
+  },
+  {
+   "label": "G",
+   "text": "What, then, does a thought experiment do? The most defensible answer lies somewhere between Mach and Norton. It does not create knowledge from nothing, but nor is it a mere argument in fancy dress. Its distinctive power is to rearrange what we already believe, bringing commitments that normally sit in separate compartments into contact, so that a hidden tension becomes impossible to ignore. Galileo's readers already believed that heavier things fall faster and that two things tied together form a single heavier thing; what they had never done was hold both beliefs in view at once. Understood in this way, the thought experiment is less a source of new facts than a test of the consistency of old ones, and that, in the history of science, has often been the more valuable service."
+  }
+ ],
+ "groups": [
+  {
+   "type": "ynng",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "Do the following statements agree with the claims of the writer in the reading passage?",
+    "In boxes 1–5 on your answer sheet, write",
+    "YES if the statement agrees with the claims of the writer",
+    "NO if the statement contradicts the claims of the writer",
+    "NOT GIVEN if it is impossible to say what the writer thinks about this"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "There is reliable evidence that Galileo performed a public test of falling bodies in Pisa."
+    },
+    {
+     "n": 2,
+     "text": "Galileo's reasoning reduced the need for any physical trial of the question."
+    },
+    {
+     "n": 3,
+     "text": "Mach's theory cannot easily account for a thought experiment whose result appears to conflict with everyday observation."
+    },
+    {
+     "n": 4,
+     "text": "Experimental studies have been carried out which show that Brown's proposed mental faculty does not exist."
+    },
+    {
+     "n": 5,
+     "text": "Norton's account is weak because it is easy to find counter-examples to it."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 6,
+   "to": 8,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 6–8 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 6,
+     "text": "What does the writer say about Galileo's argument in the sixth paragraph?",
+     "options": [
+      {
+       "k": "A",
+       "t": "It is logically flawed because it overlooks resistance from the air."
+      },
+      {
+       "k": "B",
+       "t": "Its conclusion depends on treating one property as the only relevant one."
+      },
+      {
+       "k": "C",
+       "t": "It proves that persuasive scenarios are generally untrustworthy."
+      },
+      {
+       "k": "D",
+       "t": "It was more convincing to readers than any later experiment."
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "text": "The writer refers to research in which moral dilemmas were reworded in order to",
+     "options": [
+      {
+       "k": "A",
+       "t": "show that ethical intuitions have no value whatsoever."
+      },
+      {
+       "k": "B",
+       "t": "suggest that reactions may depend on how a scenario is presented."
+      },
+      {
+       "k": "C",
+       "t": "explain why psychologists favour realistic decision problems."
+      },
+      {
+       "k": "D",
+       "t": "argue that physics offers safer ground than ethics for imagined cases."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Which of the following is the most suitable title for Reading Passage 3?",
+     "options": [
+      {
+       "k": "A",
+       "t": "How Galileo settled an ancient dispute"
+      },
+      {
+       "k": "B",
+       "t": "Why the imagination misleads scientists"
+      },
+      {
+       "k": "C",
+       "t": "Rearranging what we already know"
+      },
+      {
+       "k": "D",
+       "t": "Arguments, windows and the limits of logic"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "summary_box",
+   "from": 9,
+   "to": 12,
+   "instructions": [
+    "Complete the summary using the list of words, A–J, below.",
+    "Write the correct letter, A–J, in boxes 9–12 on your answer sheet."
+   ],
+   "title": "Three accounts of thought experiments",
+   "text": "Mach held that people accumulate a great deal of [[9]] knowledge about the behaviour of objects, and that an imagined scenario allows this to be used in conscious thought. Norton treats the concrete details of such scenarios as [[10]]: in his view they make an argument easier to follow without making it any stronger. Brown adopts a far more [[11]] stance, maintaining that certain cases give a direct grasp of the laws of nature, similar to the kind of [[12]] understanding that requires no measurement.",
+   "options": [
+    {
+     "k": "A",
+     "t": "unspoken"
+    },
+    {
+     "k": "B",
+     "t": "scientific"
+    },
+    {
+     "k": "C",
+     "t": "dispensable"
+    },
+    {
+     "k": "D",
+     "t": "essential"
+    },
+    {
+     "k": "E",
+     "t": "ambitious"
+    },
+    {
+     "k": "F",
+     "t": "cautious"
+    },
+    {
+     "k": "G",
+     "t": "mathematical"
+    },
+    {
+     "k": "H",
+     "t": "experimental"
+    },
+    {
+     "k": "I",
+     "t": "misleading"
+    },
+    {
+     "k": "J",
+     "t": "recorded"
+    }
+   ]
+  },
+  {
+   "type": "mcq_multi",
+   "from": 13,
+   "to": 14,
+   "pick": 2,
+   "instructions": [
+    "Choose TWO letters, A–E.",
+    "Write the correct letters in boxes 13 and 14 on your answer sheet."
+   ],
+   "text": "Which TWO of the following views about thought experiments does the writer express?",
+   "options": [
+    {
+     "k": "A",
+     "t": "They can reveal a conflict between beliefs that a person already holds."
+    },
+    {
+     "k": "B",
+     "t": "They tend to be more reliable in ethics than in physics."
+    },
+    {
+     "k": "C",
+     "t": "Their imagery may help to explain why they are persuasive."
+    },
+    {
+     "k": "D",
+     "t": "Their conclusions are normally confirmed later by laboratory work."
+    },
+    {
+     "k": "E",
+     "t": "Their main value lies in the new facts they generate."
+    }
+   ]
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "thought experiment",
+   "zh": "思想实验"
+  },
+  {
+   "w": "overturn",
+   "zh": "推翻"
+  },
+  {
+   "w": "conjure … out of nothing",
+   "zh": "凭空变出"
+  },
+  {
+   "w": "naturalistic",
+   "zh": "自然主义的（不诉诸超自然解释的）"
+  },
+  {
+   "w": "premise",
+   "zh": "前提"
+  },
+  {
+   "w": "inference",
+   "zh": "推论"
+  },
+  {
+   "w": "refute",
+   "zh": "驳斥；反驳"
+  },
+  {
+   "w": "syllogism",
+   "zh": "三段论"
+  },
+  {
+   "w": "justify / justification",
+   "zh": "证明……合理；（知识论中的）辩护"
+  },
+  {
+   "w": "conceal",
+   "zh": "隐藏；掩盖"
+  },
+  {
+   "w": "artefact",
+   "zh": "（由方法造成的）人为结果"
+  },
+  {
+   "w": "defensible",
+   "zh": "站得住脚的"
+  }
+ ],
+ "generatedAt": "2026-10-31T06:55:00+08:00",
+ "spec": "v2"
+}

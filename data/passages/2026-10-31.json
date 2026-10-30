@@ -1,0 +1,195 @@
+{
+ "id": "2026-10-31",
+ "date": "2026-10-31",
+ "level": 6.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "agriculture & food",
+ "title": "Fields Above the Water",
+ "subtitle": "How an ancient farming system on the Andean plateau protects crops from frost, and why reviving it has proved so difficult",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "On the high plains around Lake Titicaca, nearly 3,800 metres above sea level, farmers face a climate that seems designed to defeat agriculture. Nights below freezing can occur in almost any month, rain arrives in a short and often violent season, and the flat land beside the lake alternates between flood and drought. Yet the landscape itself carries traces of a solution. Across tens of thousands of hectares, aerial photographs reveal faint parallel ridges, the remains of raised fields that were cultivated for centuries before the Spanish conquest and then largely abandoned. Quechua-speaking farmers call them waru waru; their Aymara-speaking neighbours use the term suka kollus."
+  },
+  {
+   "label": "B",
+   "text": "A raised field is, in essence, a long platform of earth flanked on each side by a water-filled canal. The platforms, typically between four and ten metres wide and up to a hundred metres long, are built from soil dug out of the canals, so that the two features are created in a single operation. Excavations show, however, that the builders did not simply heap up earth. At the base of many platforms lies a layer of cobbles, which allows excess water to drain away from the roots, and above this a band of clay that slows its downward escape, so that moisture is held within reach of the crops during dry spells. The topsoil, in which potatoes and quinoa are actually planted, sits on top, usually about a metre above the surface of the canal water."
+  },
+  {
+   "label": "C",
+   "text": "The canals are the key to the system's most celebrated benefit. During the day, the water absorbs the intense sunshine of high altitude; at night, as the air temperature drops sharply, it gives this stored heat back. The warmth rises over the platforms and, on still nights, a thin layer of mist forms that acts like a blanket over the crops. Measurements taken in the 1980s suggested that temperatures on the platforms could remain one or two degrees above those on surrounding flat fields, and in a region where a single frost can destroy a potato harvest, that margin is often decisive. Dr Marisol Quispe, an agronomist who has monitored fields near Puno for fifteen years, notes that the difference is greatest on clear, windless nights, which are precisely the conditions in which frosts are most severe."
+  },
+  {
+   "label": "D",
+   "text": "The canals also serve as a source of fertility. Over a season they fill with algae and other aquatic plants, some of which take nitrogen from the air, and they collect the droppings of the ducks and fish that colonise the water. Every year or two, farmers dredge the nutrient-rich mud from the canals and spread it over the platforms. According to the soil scientist Dr Keiko Mori, this cycle means that a field can be cropped for many years without chemical fertiliser, although she cautions that yields decline quickly if the dredging is neglected. In wet years the canals hold back floodwater, and in dry ones they act as small reservoirs."
+  },
+  {
+   "label": "E",
+   "text": "Interest in the fields revived in the early 1980s, when archaeologists working near the village of Huatta, north of Puno in Peru, persuaded local farmers to rebuild a few hectares using traditional methods. The first harvests were striking. Potato yields on the reconstructed platforms were reported to be several times higher than on neighbouring plots, and in one of the early seasons the crops survived a hard frost that ruined much of the surrounding harvest. Development agencies were quick to take notice, and by the early 1990s non-governmental organisations had paid for the construction of hundreds of hectares of new fields across the Peruvian and Bolivian altiplano."
+  },
+  {
+   "label": "F",
+   "text": "The enthusiasm did not last. Surveys carried out towards the end of the decade found that a large proportion of the new fields had been abandoned within a few years of being built. The hydrologist Dr Tomas Lindqvist argues that some projects were located where the water table was too low for the canals to stay full, so that both the thermal and the fertility benefits disappeared. Others point to labour. Building a field by hand takes roughly 900 person-days per hectare, and keeping it in working order demands perhaps 50 more each year. The sociologist Dr Ana Villca, who interviewed farming families in Bolivia, found that agencies had often paid workers for construction but made no provision for maintenance, and that many younger people had left the land for jobs in the cities. In her view, the fields had been treated as a technology to be installed rather than a practice to be sustained."
+  },
+  {
+   "label": "G",
+   "text": "Few researchers now believe that raised fields will feed the altiplano on their own. The economist Professor Richard Hale has calculated that, once labour is costed at local wage rates, the fields are profitable only in years when frost or drought damages conventional crops; their real value, in other words, lies in reducing risk rather than in raising average output. Supporters respond that, as the climate becomes less predictable, insurance of this kind may grow more valuable, not less. What is clear is that the fields were never merely a clever piece of engineering. They depended on organised communities able to share the work of digging and dredging, and any attempt to bring them back will have to rebuild those arrangements as well."
+  }
+ ],
+ "groups": [
+  {
+   "type": "short_answer",
+   "from": 1,
+   "to": 4,
+   "instructions": [
+    "Answer the questions below.",
+    "Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+    "Write your answers in boxes 1–4 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+   "maxWords": 3,
+   "allowNumber": true,
+   "items": [
+    {
+     "n": 1,
+     "text": "By what name are the old cultivation platforms known among speakers of Aymara?"
+    },
+    {
+     "n": 2,
+     "text": "Apart from plant life, which creatures enrich the channels with their waste?"
+    },
+    {
+     "n": 3,
+     "text": "Close to which settlement did the first modern reconstruction take place?"
+    },
+    {
+     "n": 4,
+     "text": "Approximately how much labour does it take to create one hectare of platforms without machinery?"
+    }
+   ]
+  },
+  {
+   "type": "diagram_label",
+   "from": 5,
+   "to": 9,
+   "instructions": [
+    "Label the diagram below.",
+    "Choose ONE WORD ONLY from the passage for each answer.",
+    "Write your answers in boxes 5–9 on your answer sheet."
+   ],
+   "wordLimit": "ONE WORD ONLY",
+   "maxWords": 1,
+   "allowNumber": false,
+   "title": "Cross-section of a raised field",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 360\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#0f172a\">\n<rect x=\"0\" y=\"0\" width=\"600\" height=\"360\" fill=\"#ffffff\"/>\n<text x=\"300\" y=\"24\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">Cross-section of a raised field (not to scale)</text>\n<line x1=\"10\" y1=\"300\" x2=\"590\" y2=\"300\" stroke=\"#334155\" stroke-width=\"2\"/>\n<rect x=\"30\" y=\"250\" width=\"110\" height=\"50\" fill=\"#f1f5f9\" stroke=\"#334155\"/>\n<rect x=\"460\" y=\"250\" width=\"110\" height=\"50\" fill=\"#f1f5f9\" stroke=\"#334155\"/>\n<path d=\"M40 262 q8 -6 16 0 t16 0 t16 0 t16 0 t16 0\" fill=\"none\" stroke=\"#334155\"/>\n<path d=\"M470 262 q8 -6 16 0 t16 0 t16 0 t16 0 t16 0\" fill=\"none\" stroke=\"#334155\"/>\n<path d=\"M480 296 q4 -14 8 -22 M492 296 q-3 -12 2 -20 M520 296 q4 -14 8 -22 M540 296 q-3 -12 2 -20\" fill=\"none\" stroke=\"#334155\" stroke-width=\"2\"/>\n<polygon points=\"140,300 460,300 460,170 140,170\" fill=\"#ffffff\" stroke=\"#334155\"/>\n<rect x=\"140\" y=\"260\" width=\"320\" height=\"40\" fill=\"#f1f5f9\" stroke=\"#334155\"/>\n<circle cx=\"165\" cy=\"280\" r=\"9\" fill=\"#ffffff\" stroke=\"#334155\"/><circle cx=\"195\" cy=\"282\" r=\"10\" fill=\"#ffffff\" stroke=\"#334155\"/><circle cx=\"228\" cy=\"279\" r=\"9\" fill=\"#ffffff\" stroke=\"#334155\"/><circle cx=\"262\" cy=\"282\" r=\"10\" fill=\"#ffffff\" stroke=\"#334155\"/><circle cx=\"296\" cy=\"279\" r=\"9\" fill=\"#ffffff\" stroke=\"#334155\"/><circle cx=\"330\" cy=\"282\" r=\"10\" fill=\"#ffffff\" stroke=\"#334155\"/><circle cx=\"364\" cy=\"279\" r=\"9\" fill=\"#ffffff\" stroke=\"#334155\"/><circle cx=\"398\" cy=\"282\" r=\"10\" fill=\"#ffffff\" stroke=\"#334155\"/><circle cx=\"432\" cy=\"279\" r=\"9\" fill=\"#ffffff\" stroke=\"#334155\"/>\n<rect x=\"140\" y=\"215\" width=\"320\" height=\"45\" fill=\"#f1f5f9\" stroke=\"#334155\"/>\n<line x1=\"150\" y1=\"230\" x2=\"450\" y2=\"230\" stroke=\"#334155\" stroke-dasharray=\"2 6\"/><line x1=\"150\" y1=\"245\" x2=\"450\" y2=\"245\" stroke=\"#334155\" stroke-dasharray=\"2 6\"/>\n<rect x=\"140\" y=\"170\" width=\"320\" height=\"45\" fill=\"#ffffff\" stroke=\"#334155\"/>\n<path d=\"M190 170 v-22 m0 8 q-10 -4 -14 -12 m14 8 q10 -4 14 -12 M260 170 v-22 m0 8 q-10 -4 -14 -12 m14 8 q10 -4 14 -12 M330 170 v-22 m0 8 q-10 -4 -14 -12 m14 8 q10 -4 14 -12 M400 170 v-22 m0 8 q-10 -4 -14 -12 m14 8 q10 -4 14 -12\" fill=\"none\" stroke=\"#334155\" stroke-width=\"2\"/>\n<path d=\"M130 120 q40 -20 80 0 t80 0 t80 0 t80 0 t80 0\" fill=\"none\" stroke=\"#334155\" stroke-dasharray=\"6 5\"/>\n<path d=\"M130 106 q40 -20 80 0 t80 0 t80 0 t80 0 t80 0\" fill=\"none\" stroke=\"#334155\" stroke-dasharray=\"6 5\"/>\n<line x1=\"98\" y1=\"112\" x2=\"135\" y2=\"112\" stroke=\"#334155\"/>\n<rect x=\"72\" y=\"100\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#334155\"/><text x=\"85\" y=\"116\" text-anchor=\"middle\" font-weight=\"bold\">5</text>\n<text x=\"20\" y=\"90\">forms on still nights</text>\n<line x1=\"500\" y1=\"192\" x2=\"440\" y2=\"192\" stroke=\"#334155\"/>\n<rect x=\"500\" y=\"181\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#334155\"/><text x=\"513\" y=\"197\" text-anchor=\"middle\" font-weight=\"bold\">6</text>\n<text x=\"532\" y=\"186\">planting</text><text x=\"532\" y=\"201\">layer</text>\n<line x1=\"100\" y1=\"237\" x2=\"160\" y2=\"237\" stroke=\"#334155\"/>\n<rect x=\"74\" y=\"226\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#334155\"/><text x=\"87\" y=\"242\" text-anchor=\"middle\" font-weight=\"bold\">7</text>\n<text x=\"10\" y=\"222\">keeps moisture</text>\n<line x1=\"300\" y1=\"330\" x2=\"300\" y2=\"290\" stroke=\"#334155\"/>\n<rect x=\"287\" y=\"330\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#334155\"/><text x=\"300\" y=\"346\" text-anchor=\"middle\" font-weight=\"bold\">8</text>\n<text x=\"320\" y=\"346\">lets surplus water drain</text>\n<line x1=\"540\" y1=\"240\" x2=\"525\" y2=\"280\" stroke=\"#334155\"/>\n<rect x=\"527\" y=\"218\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#334155\"/><text x=\"540\" y=\"234\" text-anchor=\"middle\" font-weight=\"bold\">9</text>\n<text x=\"472\" y=\"322\">some fix nitrogen</text>\n<text x=\"40\" y=\"320\">canal</text>\n</svg>"
+  },
+  {
+   "type": "match_features",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Look at the following statements (Questions 10–13) and the list of researchers below.",
+    "Match each statement with the correct researcher, A–E.",
+    "Write the correct letter, A–E, in boxes 10–13 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "listTitle": "List of Researchers",
+   "reuse": true,
+   "options": [
+    {
+     "k": "A",
+     "t": "Marisol Quispe"
+    },
+    {
+     "k": "B",
+     "t": "Keiko Mori"
+    },
+    {
+     "k": "C",
+     "t": "Tomas Lindqvist"
+    },
+    {
+     "k": "D",
+     "t": "Ana Villca"
+    },
+    {
+     "k": "E",
+     "t": "Richard Hale"
+    }
+   ],
+   "items": [
+    {
+     "n": 10,
+     "text": "The protection the fields give is at its strongest when the weather poses the greatest threat."
+    },
+    {
+     "n": 11,
+     "text": "Outside funding covered the initial building work but not the continuing care the fields required."
+    },
+    {
+     "n": 12,
+     "text": "Some fields failed because of a poor choice of site."
+    },
+    {
+     "n": 13,
+     "text": "The fields came to be regarded as a piece of equipment rather than a way of working the land."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "alternate between",
+   "zh": "在……之间交替"
+  },
+  {
+   "w": "flanked by",
+   "zh": "两侧有……"
+  },
+  {
+   "w": "excavation",
+   "zh": "发掘；挖掘"
+  },
+  {
+   "w": "decisive",
+   "zh": "决定性的"
+  },
+  {
+   "w": "agronomist",
+   "zh": "农学家"
+  },
+  {
+   "w": "colonise",
+   "zh": "（动植物）在……定居、繁殖"
+  },
+  {
+   "w": "dredge",
+   "zh": "疏浚；挖出（淤泥）"
+  },
+  {
+   "w": "water table",
+   "zh": "地下水位"
+  },
+  {
+   "w": "make provision for",
+   "zh": "为……做准备／预留安排"
+  },
+  {
+   "w": "sustain",
+   "zh": "维持；使持续"
+  },
+  {
+   "w": "conventional crops",
+   "zh": "常规种植的作物"
+  },
+  {
+   "w": "average output",
+   "zh": "平均产量"
+  }
+ ],
+ "generatedAt": "2026-10-31T06:50:00+08:00",
+ "spec": "v2"
+}
