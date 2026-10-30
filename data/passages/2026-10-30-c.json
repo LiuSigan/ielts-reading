@@ -1,0 +1,262 @@
+{
+ "id": "2026-10-30-c",
+ "date": "2026-10-30",
+ "level": 6.5,
+ "style": "P2",
+ "topicArea": "urban planning & architecture",
+ "title": "Streets Without Signs",
+ "subtitle": "Why some planners want to take the traffic lights out of town centres, and what happens when they do",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "For most of the twentieth century, the guiding assumption of road design was that people and vehicles needed to be kept apart. Pavements, kerbs, barriers, signals and painted lines turned the street into a set of corridors, each assigned to a particular kind of user. Engineers measured success in terms of the speed and volume of traffic, and the pedestrian was treated largely as an obstacle to be managed. By the 1970s, however, critics were pointing out that streets designed in this way had lost their older role as places where people met, traded and children played."
+  },
+  {
+   "label": "B",
+   "text": "The Dutch traffic engineer Hans Monderman is usually credited with proposing an alternative. Working in the northern province of Friesland in the 1980s, he noticed that drivers behaved most carefully in places where the rules were least clear. His response was to strip some junctions of the signs and signals that told drivers what to do, and to merge road and pavement into a single surface, so that motorists had to negotiate their way through by looking at other people. The approach became known as 'shared space'. Monderman argued that excessive regulation made drivers passive: relieved of responsibility by a green light, they stopped paying attention to anything beyond the rules."
+  },
+  {
+   "label": "C",
+   "text": "Early evaluations seemed to bear out his reasoning. Dr Marta Lindqvist, a transport researcher at Lund University, followed seven redesigned junctions in Sweden and the Netherlands for three years from 2006. Average vehicle speeds fell at all of them, in some cases by almost a third, yet journey times through the junctions changed little, because vehicles no longer queued at signals. Injury accidents declined at five sites and stayed level at two. Lindqvist cautions, though, that these were small, relatively quiet junctions, and that her figures say little about what happens on busy arterial roads."
+  },
+  {
+   "label": "D",
+   "text": "Not everyone has welcomed the idea. Organisations representing blind and partially sighted people have been among the most vocal critics, since a street without kerbs removes the tactile cues on which many of their members rely to find the edge of the carriageway. Professor Daniel Okafor of the University of Leeds, who has worked with such groups, found in a series of trials that visually impaired participants took on average twice as long to cross a shared-space junction as a conventional one, and many said they avoided such places altogether. Okafor does not want the approach abandoned. He argues instead that designers should include features such as textured strips and clearly defined crossing zones, which would restore some of the information that kerbs once provided."
+  },
+  {
+   "label": "E",
+   "text": "A second line of criticism concerns the behaviour of drivers. Monderman's theory depends on motorists making eye contact with pedestrians and adjusting their speed accordingly, but this works only if drivers are willing to yield. Dr Priya Raman of the University of Auckland observed more than 4,000 encounters between cars and pedestrians at three redesigned streets in New Zealand and found that drivers gave way in roughly six cases out of ten, a rate no higher than on ordinary streets with marked crossings. Pedestrians, for their part, tended to take their cue from the traffic, waiting at the edge of the space until a gap appeared, so that the street, in Raman's words, 'looks shared but behaves segregated'."
+  },
+  {
+   "label": "F",
+   "text": "Raman's findings suggest that the success of a scheme depends on surrounding conditions rather than on the removal of signs alone. Shared space appears to work best where a street is a destination in its own right, such as a market or a school frontage, and where little traffic is simply passing through on its way elsewhere. Several towns that have tried the approach have therefore combined it with measures to discourage through traffic, including one-way systems and lower speed limits on the roads leading to the central area. In these settings, drivers are more likely to be local people who recognise the street as a place where others live and shop, and who are prepared to slow down for them."
+  },
+  {
+   "label": "G",
+   "text": "Economic arguments have also been made. Retailers were at first sceptical, but a survey of shopkeepers in one Dutch town found that takings had risen after the main street was rebuilt. The researchers admitted, however, that a number of other investments were made in the district at the same time, which makes it hard to isolate the effect of the new layout. Shared space is therefore best regarded not as a cure-all but as one tool among many. Its advocates have shown that carefully chosen signs and signals can sometimes be removed without harm; its critics have shown that the people who are least able to adapt to the change must not be forgotten when it happens."
+  }
+ ],
+ "groups": [
+  {
+   "type": "mcq",
+   "from": 1,
+   "to": 3,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "What had critics noticed about conventionally designed streets by the 1970s?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They had become too dangerous for young children."
+      },
+      {
+       "k": "B",
+       "t": "They no longer worked well as places for community life."
+      },
+      {
+       "k": "C",
+       "t": "They carried less traffic than engineers had predicted."
+      },
+      {
+       "k": "D",
+       "t": "They were too expensive for councils to maintain."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "text": "What was Monderman's view of traffic signals?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They lead drivers to misjudge the speed of pedestrians."
+      },
+      {
+       "k": "B",
+       "t": "They are generally ignored by drivers in rural areas."
+      },
+      {
+       "k": "C",
+       "t": "They are less effective than painted road markings."
+      },
+      {
+       "k": "D",
+       "t": "They make drivers less attentive to their surroundings."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "text": "What does Lindqvist say about the results of her study?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They offer limited guidance about more heavily used roads."
+      },
+      {
+       "k": "B",
+       "t": "They prove the approach is suitable for roads of every kind."
+      },
+      {
+       "k": "C",
+       "t": "They are unreliable because few junctions were examined."
+      },
+      {
+       "k": "D",
+       "t": "They contradict earlier findings from Friesland."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 4,
+   "to": 7,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–G, below."
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "he thinks suitable design features could reduce the difficulties it causes."
+    },
+    {
+     "k": "B",
+     "t": "retailers are afraid of losing customers who pass by."
+    },
+    {
+     "k": "C",
+     "t": "they can no longer feel where the carriageway starts."
+    },
+    {
+     "k": "D",
+     "t": "drivers on such streets give way more often than elsewhere."
+    },
+    {
+     "k": "E",
+     "t": "the approach is most effective where little traffic merely passes through."
+    },
+    {
+     "k": "F",
+     "t": "pedestrians wait for a gap in the traffic instead of moving freely."
+    },
+    {
+     "k": "G",
+     "t": "the cost of repainting road markings is too high."
+    }
+   ],
+   "items": [
+    {
+     "n": 4,
+     "text": "Some visually impaired people avoid shared-space junctions because"
+    },
+    {
+     "n": 5,
+     "text": "Okafor does not want shared space abandoned because"
+    },
+    {
+     "n": 6,
+     "text": "Raman concluded that the streets she studied were not truly shared because"
+    },
+    {
+     "n": 7,
+     "text": "Some towns introduce one-way systems around shared-space areas because"
+    }
+   ]
+  },
+  {
+   "type": "table_completion",
+   "from": 8,
+   "to": 13,
+   "instructions": [
+    "Complete the table below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "title": "Evaluations of shared space",
+   "head": [
+    "Researcher",
+    "What was studied",
+    "Main finding"
+   ],
+   "rows": [
+    [
+     "Lindqvist",
+     "Seven rebuilt [[8]] in two countries",
+     "Speeds dropped, but [[9]] were barely altered"
+    ],
+    [
+     "Okafor",
+     "Trials with [[10]] volunteers",
+     "Crossing took [[11]] the time needed at a standard junction"
+    ],
+    [
+     "Raman",
+     "Over 4,000 car–pedestrian encounters on three streets in [[12]]",
+     "Motorists gave way in around [[13]] of every ten encounters"
+    ]
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "segregate",
+   "zh": "隔离；分开"
+  },
+  {
+   "w": "obstacle",
+   "zh": "障碍"
+  },
+  {
+   "w": "credit sb with",
+   "zh": "把……归功于某人"
+  },
+  {
+   "w": "excessive",
+   "zh": "过度的"
+  },
+  {
+   "w": "passive",
+   "zh": "被动的"
+  },
+  {
+   "w": "evaluation",
+   "zh": "评估"
+  },
+  {
+   "w": "caution",
+   "zh": "提醒；告诫"
+  },
+  {
+   "w": "tactile",
+   "zh": "触觉的"
+  },
+  {
+   "w": "yield",
+   "zh": "让行；屈服"
+  },
+  {
+   "w": "take one's cue from",
+   "zh": "以……为提示行事"
+  },
+  {
+   "w": "isolate the effect",
+   "zh": "分离出影响因素"
+  },
+  {
+   "w": "cure-all",
+   "zh": "万灵药"
+  }
+ ],
+ "generatedAt": "2026-10-30T16:20:00+08:00",
+ "spec": "v1"
+}

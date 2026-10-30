@@ -1,0 +1,124 @@
+{
+ "id": "2026-10-30-c",
+ "answers": {
+  "1": {
+   "a": "B",
+   "alt": [],
+   "ev": {
+    "p": "A",
+    "q": "had lost their older role as places where people met, traded and children played"
+   },
+   "why": "题干 no longer worked well as places for community life ↔ 原文 lost their older role as places where people met, traded… 。A 项只是借用了 children，原文并未说街道对儿童危险。"
+  },
+  "2": {
+   "a": "D",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "relieved of responsibility by a green light, they stopped paying attention to anything beyond the rules"
+   },
+   "why": "题干 less attentive to their surroundings ↔ 原文 stopped paying attention to anything beyond the rules。其余选项在文中均无依据。"
+  },
+  "3": {
+   "a": "A",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "her figures say little about what happens on busy arterial roads"
+   },
+   "why": "选项 limited guidance about more heavily used roads ↔ 原文 say little about… busy arterial roads。C 项把“路口小”偷换成“研究的路口少”，错误。"
+  },
+  "4": {
+   "a": "C",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "a street without kerbs removes the tactile cues on which many of their members rely to find the edge of the carriageway"
+   },
+   "why": "题干 can no longer feel where the carriageway starts ↔ 原文 removes the tactile cues… to find the edge of the carriageway。"
+  },
+  "5": {
+   "a": "A",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "He argues instead that designers should include features such as textured strips and clearly defined crossing zones"
+   },
+   "why": "选项 suitable design features could reduce the difficulties ↔ 原文 designers should include features such as textured strips… 。Okafor 主张改进设计而非放弃。"
+  },
+  "6": {
+   "a": "F",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "tended to take their cue from the traffic, waiting at the edge of the space until a gap appeared"
+   },
+   "why": "选项 wait for a gap in the traffic ↔ 原文 waiting at the edge… until a gap appeared。D 项与原文相反：司机让行率并不高于普通街道。"
+  },
+  "7": {
+   "a": "E",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "where little traffic is simply passing through on its way elsewhere"
+   },
+   "why": "选项 little traffic merely passes through ↔ 原文 little traffic is simply passing through。原文说共享空间在此类地方效果最好，所以配合措施减少过境车辆。"
+  },
+  "8": {
+   "a": "junctions",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "followed seven redesigned junctions in Sweden and the Netherlands"
+   },
+   "why": "表格 rebuilt ↔ 原文 redesigned；two countries ↔ Sweden and the Netherlands。"
+  },
+  "9": {
+   "a": "journey times",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "journey times through the junctions changed little"
+   },
+   "why": "表格 barely altered ↔ 原文 changed little；答案为 journey times。"
+  },
+  "10": {
+   "a": "visually impaired",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "visually impaired participants took on average twice as long"
+   },
+   "why": "表格 volunteers ↔ 原文 participants；答案为 visually impaired。"
+  },
+  "11": {
+   "a": "twice",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "visually impaired participants took on average twice as long to cross a shared-space junction as a conventional one"
+   },
+   "why": "表格 standard junction ↔ 原文 conventional one；twice as long ↔ twice the time。"
+  },
+  "12": {
+   "a": "New Zealand",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "three redesigned streets in New Zealand"
+   },
+   "why": "Raman 的研究地点在新西兰，答案 New Zealand（两个词）。"
+  },
+  "13": {
+   "a": "six",
+   "alt": [
+    "6"
+   ],
+   "ev": {
+    "p": "E",
+    "q": "drivers gave way in roughly six cases out of ten"
+   },
+   "why": "表格 around… of every ten encounters ↔ 原文 roughly six cases out of ten。"
+  }
+ }
+}

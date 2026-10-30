@@ -1,6 +1,21 @@
 {
- "updatedAt": "2026-10-30T08:04:42.029Z",
+ "updatedAt": "2026-10-30T08:23:20.493Z",
  "passages": [
+  {
+   "id": "2026-10-30-c",
+   "date": "2026-10-30",
+   "title": "Streets Without Signs",
+   "level": 6.5,
+   "style": "P2",
+   "topicArea": "urban planning & architecture",
+   "types": [
+    "mcq",
+    "sentence_endings",
+    "table_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-10-30T16:20:00+08:00"
+  },
   {
    "id": "2026-10-30-b",
    "date": "2026-10-30",
