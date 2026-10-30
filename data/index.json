@@ -1,9 +1,10 @@
 {
- "updatedAt": "2026-10-30T08:23:20.493Z",
+ "updatedAt": "2026-10-30T17:33:57.326Z",
  "passages": [
   {
    "id": "2026-10-30-c",
    "date": "2026-10-30",
+   "slot": "main",
    "title": "Streets Without Signs",
    "level": 6.5,
    "style": "P2",
@@ -19,6 +20,7 @@
   {
    "id": "2026-10-30-b",
    "date": "2026-10-30",
+   "slot": "main",
    "title": "Sowing the Seabed",
    "level": 6.5,
    "style": "P2",
@@ -34,6 +36,7 @@
   {
    "id": "2026-10-30",
    "date": "2026-10-30",
+   "slot": "main",
    "title": "The Pneumatic Post",
    "level": 6.5,
    "style": "P2",

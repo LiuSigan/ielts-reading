@@ -1,4 +1,4 @@
-// IELTS daily reading — passage/key validator (spec v1)
+// IELTS daily reading — passage/key validator (spec v2)
 // Usage: node validate.mjs passage.json key.json
 // Prints ERROR / WARN lines and ends with OK or FAILED (exit code 1).
 import { readFileSync } from "node:fs";
@@ -60,18 +60,24 @@ const LIMITS = {
   "NO MORE THAN THREE WORDS AND/OR A NUMBER": [3, true],
 };
 const LEVELS = [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9];
-const WORDS_BY_LEVEL = (l) => (l <= 5.5 ? [650, 750] : l <= 6.5 ? [750, 850] : l <= 7.5 ? [850, 950] : [900, 1000]);
+const WORDS_BY_LEVEL = (l) => (l <= 5.5 ? [700, 800] : l <= 6.5 ? [800, 900] : l <= 7.5 ? [880, 980] : [950, 1100]);
+const STOP = new Set("a an the of in on at to for from by with and or but as is are was were be been that this these those it its their there which who whom whose than then into onto about over under after before during between".split(" "));
 const ROMAN = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi", "xii"];
 const letters = (n) => Array.from({ length: n }, (_, i) => String.fromCharCode(65 + i));
 
 // ---- passage ----
-for (const f of ["id", "date", "level", "style", "topicArea", "title", "paragraphs", "groups", "total"]) {
+for (const f of ["id", "date", "level", "slot", "style", "topicArea", "title", "paragraphs", "groups", "total"]) {
   if (P[f] === undefined || P[f] === "") err(`passage.${f} missing`);
 }
 if (K.id !== P.id) err(`key.id (${K.id}) != passage.id (${P.id})`);
 if (!/^\d{4}-\d{2}-\d{2}(-[b-z])?$/.test(P.id || "")) err(`id must be YYYY-MM-DD or YYYY-MM-DD-b…`);
 if (!LEVELS.includes(P.level)) err(`level ${P.level} not in ${LEVELS.join(",")}`);
 if (!["P1", "P2", "P3"].includes(P.style)) err(`style must be P1|P2|P3`);
+const isP3 = P.slot === "p3";
+if (!["main", "p3"].includes(P.slot)) err(`slot must be "main" or "p3"`);
+if (isP3 !== /-p$/.test(P.id || "")) err(`Part 3 passages (and only they) use ids ending in -p`);
+if (isP3 && P.style !== "P3") err(`Part 3 passage must have style P3`);
+if (isP3 && P.level < 7) err(`Part 3 passage level ${P.level} (want ≥ 7.0)`);
 
 const paras = Array.isArray(P.paragraphs) ? P.paragraphs : [];
 if (paras.length < 5 || paras.length > 8) err(`paragraph count ${paras.length} (want 5–8)`);
@@ -82,7 +88,7 @@ const paraMap = new Map(paras.map((p, i) => [paraKey(p, i), squash(p.text)]));
 const fullText = paras.map((p) => squash(p.text)).join("\n");
 const fullNorm = " " + norm(fullText) + " ";
 const words = paras.reduce((s, p) => s + wc(p.text), 0);
-const [wmin, wmax] = WORDS_BY_LEVEL(P.level);
+const [wmin, wmax] = isP3 ? [Math.max(900, WORDS_BY_LEVEL(P.level)[0]), 1100] : WORDS_BY_LEVEL(P.level);
 if (words < wmin * 0.9 || words > wmax * 1.12) err(`passage has ${words} words; level ${P.level} wants ${wmin}–${wmax}`);
 else if (words < wmin || words > wmax) warn(`passage has ${words} words; level ${P.level} wants ${wmin}–${wmax}`);
 if (labelled && labels.join("") !== letters(paras.length).join("")) err(`paragraph labels must be A, B, C… in order`);
@@ -107,8 +113,9 @@ for (const g of groups) {
 }
 const total = expect - 1;
 if (total !== P.total) err(`numbering ends at ${total} but total=${P.total}`);
-if (![13, 14].includes(total)) err(`total questions ${total} (want 13, or 14 at level ≥ 7.5)`);
-if (total === 14 && P.level < 7.5) warn(`14 questions below level 7.5`);
+if (![13, 14].includes(total)) err(`total questions ${total} (want 13, or 14 at level ≥ 7.5 / Part 3)`);
+if (total === 14 && P.level < 7.5 && !isP3) warn(`14 questions below level 7.5`);
+if (isP3 && total !== 14) warn(`Part 3 normally has 14 questions`);
 
 // ---- key coverage ----
 const A = K.answers || {};
@@ -148,6 +155,26 @@ const longestCopy = (text) => {
   return best;
 };
 
+const copyCheck = (label, text) => {
+  const L = longestCopy(text);
+  if (L >= 8) err(`${label} repeats ${L} consecutive words of the text — paraphrase it`);
+  else if (L >= 6) warn(`${label} repeats ${L} consecutive words of the text`);
+};
+// A gap whose neighbouring content word sits next to the answer in the text is a giveaway.
+const gapContext = (g, body) => {
+  const parts = String(body).split(/\[\[(\d+)\]\]/);
+  for (let i = 1; i < parts.length; i += 2) {
+    const n = +parts[i], a = A[String(n)];
+    if (!a || g.type === "summary_box") continue;
+    const before = norm(parts[i - 1]).split(" ").filter(Boolean).slice(-2);
+    const after = norm(parts[i + 1] || "").split(" ").filter(Boolean).slice(0, 2);
+    const ans = norm(a.a);
+    const content = (ws) => ws.some((w) => !STOP.has(w) && !isNum(w));
+    if (before.length && content(before) && fullNorm.includes(" " + before.join(" ") + " " + ans + " ")) err(`Q${n}: "${before.join(" ")} ___" is copied from the text next to the answer — reword the gap context`);
+    if (after.length && content(after) && fullNorm.includes(" " + ans + " " + after.join(" ") + " ")) err(`Q${n}: "___ ${after.join(" ")}" is copied from the text next to the answer — reword the gap context`);
+  }
+};
+
 // ---- per type ----
 for (const g of groups) {
   const ns = nums(g);
@@ -177,6 +204,12 @@ for (const g of groups) {
     if (T === "note_completion") body = (g.lines || []).map((l) => l.text).join(" ");
     if (T === "table_completion") body = [...(g.head || []), ...(g.rows || []).flat()].join(" ");
     if (T === "flowchart_completion") body = (g.steps || []).join(" ");
+    if (T === "sentence_completion") (g.items || []).forEach((i) => gapContext(g, i.text));
+    else if (T === "table_completion") [...(g.head || []), ...(g.rows || []).flat()].forEach((c) => gapContext(g, c));
+    else if (T === "note_completion") (g.lines || []).forEach((l) => gapContext(g, l.text));
+    else if (T === "flowchart_completion") (g.steps || []).forEach((st) => gapContext(g, st));
+    else gapContext(g, body);
+    String(body).split(/\[\[\d+\]\]/).forEach((chunk, i) => copyCheck(`${T} text (part ${i + 1})`, chunk));
     ns.forEach((n) => {
       const c = body.split(`[[${n}]]`).length - 1;
       if (c !== 1) err(`${T}: gap [[${n}]] appears ${c} times`);
@@ -202,7 +235,7 @@ for (const g of groups) {
         if (size >= 4 && c === 0) err(`${T}: no ${v} answer in group`);
         if (c > 3) err(`${T}: ${v} used ${c} times (max 3)`);
       });
-      (g.items || []).forEach((it) => { const L = longestCopy(it.text); if (L >= 8) warn(`Q${it.n} copies ${L} consecutive words from the text`); });
+      (g.items || []).forEach((it) => copyCheck(`Q${it.n}`, it.text));
       break;
     }
     case "mcq": {
@@ -211,6 +244,8 @@ for (const g of groups) {
       (g.items || []).forEach((it) => {
         const ks = (it.options || []).map((o) => o.k).join("");
         if (ks !== "ABCD") err(`Q${it.n} options must be A–D`);
+        copyCheck(`Q${it.n} stem`, it.text);
+        (it.options || []).forEach((o) => copyCheck(`Q${it.n} option ${o.k}`, o.t));
         const lens = (it.options || []).map((o) => wc(o.t));
         if (Math.max(...lens) > 2.5 * Math.min(...lens) + 2) warn(`Q${it.n} option lengths uneven (${lens.join("/")})`);
       });
@@ -224,6 +259,7 @@ for (const g of groups) {
       if (new Set(ans).size !== ans.length) err(`mcq_multi: answers must be distinct letters`);
       ans.forEach((a, i) => !optKeys(g).includes(a) && err(`Q${ns[i]} answer ${a} not an option`));
       if (!g.text) err(`mcq_multi: missing question text`);
+      (g.options || []).forEach((o) => copyCheck(`mcq_multi option ${o.k}`, o.t));
       break;
     }
     case "headings": {
@@ -231,7 +267,7 @@ for (const g of groups) {
       if (size < 4 || size > 7) err(`headings group size ${size} (want 4–7)`);
       const ks = optKeys(g);
       if (ks.join(",") !== ROMAN.slice(0, ks.length).join(",")) err(`headings options must be i, ii, iii…`);
-      const need = size + 2 + (g.example ? 1 : 0);
+      const need = size + 3 + (g.example ? 1 : 0);
       if (ks.length < need) err(`headings: ${ks.length} headings for ${size} items${g.example ? " + example" : ""} (want ≥ ${need})`);
       if (new Set(ans).size !== ans.length) err(`headings: a heading is used twice`);
       if (g.example && ans.includes(g.example.k)) err(`headings: example heading reused`);
@@ -248,12 +284,16 @@ for (const g of groups) {
       ans.forEach((a, i) => !labels.includes(a) && err(`Q${ns[i]} answer ${a} is not a paragraph letter`));
       ns.forEach((n) => { const a = A[String(n)]; if (a && a.ev && a.ev.p !== a.a) err(`Q${n} evidence paragraph ${a.ev.p} != answer ${a.a}`); });
       if (!(g.instructions || []).join(" ").includes("NB")) warn(`match_info: add "NB You may use any letter more than once."`);
+      (g.items || []).forEach((it) => copyCheck(`Q${it.n}`, it.text));
       break;
     }
     case "match_features": {
       itemsMatchRange(g);
       const ks = optKeys(g);
-      if (ks.length < 3 || ks.length > 7) err(`match_features: ${ks.length} options (want 3–5, max 7)`);
+      if (ks.length < 4 || ks.length > 7) err(`match_features: ${ks.length} options (want 4–6, max 7)`);
+      if (ks.every((k) => ans.includes(k))) err(`match_features: every option is used — add at least one option that is never the answer`);
+      if (size >= 4 && new Set(ans).size === ans.length) warn(`match_features: with 4+ items, use one option twice`);
+      (g.items || []).forEach((it) => copyCheck(`Q${it.n}`, it.text));
       if (ks.join("") !== letters(ks.length).join("")) err(`match_features options must be A, B, C…`);
       ans.forEach((a, i) => !ks.includes(a) && err(`Q${ns[i]} answer ${a} not an option`));
       const reused = new Set(ans).size < ans.length;
@@ -264,7 +304,9 @@ for (const g of groups) {
     case "sentence_endings": {
       itemsMatchRange(g);
       const ks = optKeys(g);
-      if (ks.length < size + 2) err(`sentence_endings: ${ks.length} endings for ${size} beginnings (want ≥ ${size + 2})`);
+      if (ks.length < size + 3) err(`sentence_endings: ${ks.length} endings for ${size} beginnings (want ≥ ${size + 3})`);
+      (g.items || []).forEach((it) => copyCheck(`Q${it.n}`, it.text));
+      (g.options || []).forEach((o) => copyCheck(`ending ${o.k}`, o.t));
       if (ks.join("") !== letters(ks.length).join("")) err(`sentence_endings options must be A, B, C…`);
       if (new Set(ans).size !== ans.length) err(`sentence_endings: an ending is used twice`);
       ans.forEach((a, i) => !ks.includes(a) && err(`Q${ns[i]} answer ${a} not an option`));
@@ -272,7 +314,7 @@ for (const g of groups) {
     }
     case "summary_box": {
       const ks = optKeys(g);
-      if (ks.length < size + 3) err(`summary_box: ${ks.length} options for ${size} gaps (want ≥ ${size + 3}, normally A–J)`);
+      if (ks.length < size + 5) err(`summary_box: ${ks.length} options for ${size} gaps (want ≥ ${size + 5})`);
       if (ks.join("") !== letters(ks.length).join("")) err(`summary_box options must be A, B, C…`);
       ans.forEach((a, i) => !ks.includes(a) && err(`Q${ns[i]} answer ${a} not an option`));
       if (new Set(ans).size !== ans.length) warn(`summary_box: an option is used twice`);
@@ -288,7 +330,7 @@ for (const g of groups) {
     }
     case "short_answer":
       itemsMatchRange(g);
-      (g.items || []).forEach((it) => !/\?\s*$/.test(it.text) && warn(`Q${it.n} short answer should be a question`));
+      (g.items || []).forEach((it) => { if (!/\?\s*$/.test(it.text)) warn(`Q${it.n} short answer should be a question`); copyCheck(`Q${it.n}`, it.text); });
       break;
   }
 

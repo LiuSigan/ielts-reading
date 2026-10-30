@@ -16,10 +16,11 @@ function nextLevel(L, acc, prevAcc) {
   return [L, "正确率在 50%–85% 之间，保持当前难度"];
 }
 function applyAttempt(profile, attempts, a) {
-  const prev = attempts.filter((x) => x.passageId !== a.passageId).sort((x, y) => String(y.submittedAt).localeCompare(String(x.submittedAt)))[0];
+  const isP3 = a.slot === "p3";
+  const prev = attempts.filter((x) => x.passageId !== a.passageId && x.slot !== "p3").sort((x, y) => String(y.submittedAt).localeCompare(String(x.submittedAt)))[0];
   const fromL = profile && typeof profile.level === "number" ? profile.level : DEFAULT_LEVEL;
   const acc = a.score / a.total;
-  const [toL, why] = nextLevel(fromL, acc, prev ? prev.score / prev.total : null);
+  const [toL, why] = isP3 ? [fromL, "Part 3 不参与难度调整"] : nextLevel(fromL, acc, prev ? prev.score / prev.total : null);
   const ts = { ...((profile && profile.typeStats) || {}) };
   for (const [t, v] of Object.entries(a.byType || {})) { const o = ts[t] || { c: 0, t: 0 }; ts[t] = { c: o.c + v.c, t: o.t + v.t }; }
   const hist = ((profile && profile.history) || []).concat([{ id: a.passageId, acc: Math.round(acc * 1000) / 1000, from: fromL, to: toL, why, at: a.submittedAt }]).slice(-300);
@@ -54,7 +55,7 @@ export default {
 
     if (pathname === "/attempt") {
       const a = body;
-      const ok = typeof a.passageId === "string" && /^\d{4}-\d{2}-\d{2}(-[b-z])?$/.test(a.passageId)
+      const ok = typeof a.passageId === "string" && /^\d{4}-\d{2}-\d{2}(-[a-z])?$/.test(a.passageId)
         && Number.isInteger(a.score) && Number.isInteger(a.total) && a.total > 0 && a.score >= 0 && a.score <= a.total;
       if (!ok) return json({ error: "bad attempt" }, 400);
       if (JSON.stringify(a).length > 20000) return json({ error: "too large" }, 413);
