@@ -59,6 +59,7 @@ button { cursor: pointer; }
 .timer { font-family: var(--f-mono); font-size: 14px; font-variant-numeric: tabular-nums; color: var(--muted); white-space: nowrap; }
 .timer b { color: var(--ink); font-weight: 600; }
 .timer.over b { color: var(--bad); }
+#tstart { padding: 4px 10px; font-size: 12.5px; }
 .btn { border: 1px solid var(--line); background: var(--sheet); padding: 6px 14px; border-radius: 8px; font-size: 13.5px; font-weight: 500; }
 .btn:hover { border-color: var(--muted); }
 .btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); font-weight: 600; }
@@ -228,6 +229,7 @@ table.qt th { background: var(--field); font-weight: 600; }
     <span class="grow"></span>
     <span id="lvl" class="chip" hidden></span>
     <span id="timer" class="timer" hidden><b>00:00</b> / 20:00</span>
+    <button id="tstart" class="btn" type="button" hidden>开始计时</button>
     <button id="submit" class="btn primary" hidden>交卷</button>
   </div>
 </header>
@@ -259,7 +261,7 @@ const S = {
   config: {}, api: "", pass: "", sync: "local", busy: false, loading: false, loadError: false,
   index: [], cache: {}, attempts: {}, profile: null,
   id: null, answers: {}, key: null, result: null, redo: false,
-  view: "practice", tab: "passage", t0: null, elapsed: 0, timerId: null, confirmArm: false,
+  view: "practice", tab: "passage", t0: null, elapsed: 0, timerId: null, running: false, confirmArm: false,
 };
 const $ = (s, r = document) => r.querySelector(s);
 const el = (tag, attrs = {}, ...kids) => {
@@ -418,6 +420,7 @@ const profileLevel = () => (S.profile && typeof S.profile.level === "number" ? S
 
 async function openPassage(id, quiet) {
   stopTimer();
+  S.running = false;
   if (!S.cache[id]) {
     S.id = id; S.loading = true; render();
     try { S.cache[id] = await getJSON(`data/passages/${id}.json`); }
@@ -438,7 +441,6 @@ async function openPassage(id, quiet) {
     S.answers = draft.answers || {};
     S.elapsed = draft.elapsed || 0;
     render();
-    startTimer();
   }
 }
 async function loadKey() {
@@ -503,8 +505,13 @@ function tick() {
   t.classList.toggle("over", s > lim);
   if (s % 15 === 0) saveDraft();
 }
+function setRunning(on) {
+  S.running = on;
+  if (on) startTimer(); else { stopTimer(); saveDraft(); }
+  renderHeader();
+}
 document.addEventListener("visibilitychange", () => {
-  if (!S.id || S.result || S.attempts[S.id] && !S.redo) return;
+  if (!S.running || S.result) return;
   if (document.hidden) { stopTimer(); saveDraft(); } else startTimer();
 });
 
@@ -532,6 +539,10 @@ function renderHeader() {
   const doing = S.view === "practice" && p && !S.result;
   timer.hidden = !(S.view === "practice" && p);
   sub.hidden = !doing;
+  const ts = $("#tstart");
+  ts.hidden = !doing;
+  ts.textContent = S.running ? "暂停" : curElapsed() > 0 ? "继续计时" : "开始计时";
+  ts.className = "btn" + (S.running ? "" : " primary");
   sub.textContent = S.confirmArm ? "确认交卷" : "交卷";
   sub.className = "btn " + (S.confirmArm ? "warn" : "primary");
   tick();
@@ -539,6 +550,7 @@ function renderHeader() {
 $("#v-practice").addEventListener("click", () => { S.view = "practice"; try { history.replaceState(null, "", S.id ? "#p-" + S.id : "#"); } catch {} render(); });
 $("#v-history").addEventListener("click", () => { S.view = "history"; try { history.replaceState(null, "", "#history"); } catch {} render(); });
 $("#pick").addEventListener("change", (e) => openPassage(e.target.value));
+$("#tstart").addEventListener("click", () => setRunning(!S.running));
 $("#submit").addEventListener("click", () => {
   if (!S.confirmArm) {
     S.confirmArm = true; renderHeader();
@@ -563,9 +575,10 @@ function answeredCount() {
 // ---------- submit ----------
 async function submit() {
   const p = cur(); if (!p) return;
-  stopTimer();
+  const wasRunning = S.running;
+  stopTimer(); S.running = false;
   const key = await loadKey();
-  if (!key) { startTimer(); return; }
+  if (!key) { if (wasRunning) setRunning(true); return; }
   const r = grade(p, key, S.answers);
   S.result = r;
   render();
@@ -680,7 +693,8 @@ function renderScore(p) {
 }
 function startRedo() {
   S.redo = true; S.result = null; S.answers = {}; S.elapsed = 0; S.lastChange = null;
-  render(); startTimer();
+  S.running = false;
+  render();
 }
 
 const locked = () => !!S.result;
