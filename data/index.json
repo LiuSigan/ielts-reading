@@ -1,0 +1,35 @@
+{
+ "updatedAt": "2026-10-30T08:04:42.029Z",
+ "passages": [
+  {
+   "id": "2026-10-30-b",
+   "date": "2026-10-30",
+   "title": "Sowing the Seabed",
+   "level": 6.5,
+   "style": "P2",
+   "topicArea": "biology & ecology",
+   "types": [
+    "tfng",
+    "match_info",
+    "flowchart_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-10-30T15:50:00+08:00"
+  },
+  {
+   "id": "2026-10-30",
+   "date": "2026-10-30",
+   "title": "The Pneumatic Post",
+   "level": 6.5,
+   "style": "P2",
+   "topicArea": "history of technology",
+   "types": [
+    "headings",
+    "match_features",
+    "summary_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-10-30T10:00:00+08:00"
+  }
+ ]
+}
