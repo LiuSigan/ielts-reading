@@ -1,0 +1,118 @@
+{
+ "id": "2026-11-01-a",
+ "answers": {
+  "1": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "A",
+    "q": "made it burn far more brightly and almost without smoke"
+   },
+   "why": "A段只说 Argand 灯更亮、几乎无烟，并取代了明火，完全没有比较运行成本。B段提到灯油 expensive，但那是说反射镜系统耗油多，并未与明火比较，所以是 NOT GIVEN 而不是 TRUE/FALSE。"
+  },
+  "2": {
+   "a": "TRUE",
+   "ev": {
+    "p": "B",
+    "q": "Even when freshly polished, a reflector absorbed around half of the light that fell on it"
+   },
+   "why": "B段。However well it had been cleaned ↔ Even when freshly polished；failed to send out roughly half ↔ absorbed around half of the light（被吸收就是没有反射出去）。题干与原文意思一致。"
+  },
+  "3": {
+   "a": "TRUE",
+   "ev": {
+    "p": "C",
+    "q": "a great deal of light would be lost inside the glass itself"
+   },
+   "why": "C段。an ordinary lens of sufficient size ↔ a conventional lens large enough；waste much of the light passing through it ↔ a great deal of light would be lost inside the glass itself。注意同句还说这种透镜会太厚太重，但题干只考光损失这一点。"
+  },
+  "4": {
+   "a": "FALSE",
+   "ev": {
+    "p": "D",
+    "q": "Fresnel presented his design in 1822, and the following year the first lens of this kind was installed"
+   },
+   "why": "D段。made his design public ↔ presented his design（1822）；put into service ↔ installed，是 the following year（1823），并非同一年，与原文矛盾，故 FALSE。本题容易被当作“没提到”而误选 NOT GIVEN，其实 the following year 已给出时间关系。"
+  },
+  "5": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "E",
+    "q": "who was reluctant to spend money on lenses that had to be imported from France at considerable cost"
+   },
+   "why": "E段只给出 Pleasonton 不愿买透镜的原因是进口费用高（at considerable cost），没有说他是否怀疑透镜效果更好。看起来像 FALSE，但原文对他是否相信透镜性能没有任何信息，所以是 NOT GIVEN。"
+  },
+  "6": {
+   "a": "FALSE",
+   "ev": {
+    "p": "F",
+    "q": "it is now found in car headlamps, traffic signals, overhead projectors and the flat plastic magnifiers"
+   },
+   "why": "F段。原文说菲涅尔透镜原理如今用于车灯、交通信号灯、投影仪、放大镜和太阳能电站，说明仍在制造使用，与 no longer manufactured 矛盾。被灯塔自动化淘汰、送进博物馆的只是原来的玻璃透镜（the original glass lenses），这是本题陷阱。"
+  },
+  "7": {
+   "a": "copper",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "usually made of copper coated with silver and shaped as a parabola"
+   },
+   "why": "B段。silver-plated ↔ coated with silver；parabolic dish ↔ curved metal reflector … shaped as a parabola。被镀银的金属是 copper；不要填 silver，题干已用 silver-plated 表示镀层。"
+  },
+  "8": {
+   "a": "soot",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "the silver surface was gradually worn away by the cleaning needed to remove soot"
+   },
+   "why": "B段。surface slowly damaged ↔ gradually worn away；polishing to clear away ↔ cleaning needed to remove。同段的 oil 是燃料，不是被清理的东西。"
+  },
+  "9": {
+   "a": "bull's-eye",
+   "alt": [
+    "bull's eye",
+    "bullseye"
+   ],
+   "ev": {
+    "p": "C",
+    "q": "At the centre was a small, relatively thin lens known as the bull's-eye"
+   },
+   "why": "C段。in the middle ↔ At the centre；thin central element called ↔ relatively thin lens known as。不要填 lens（太泛），也不要填 prisms（那是周围的环）。"
+  },
+  "10": {
+   "a": "prisms",
+   "alt": [
+    "glass prisms"
+   ],
+   "ev": {
+    "p": "C",
+    "q": "around it were rings of glass prisms, each one shaped so that it bent the light at exactly the angle needed to join the main beam"
+   },
+   "why": "C段。surrounded by circles of ↔ around it were rings of；angled to bend light into the beam ↔ bent the light at exactly the angle needed to join the main beam。rings 已在题干中被改写为 circles，所以答案是 prisms（glass prisms 也可）。"
+  },
+  "11": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "he died of tuberculosis in 1827, at the age of 39"
+   },
+   "why": "D段末句：Fresnel 于 1827 年去世，享年 39 岁。age of an inventor at the time of his death ↔ died … at the age of 39。A段也提到发明者 Argand 和年代（1780s），但没有提他的年龄或去世。"
+  },
+  "12": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "who was reluctant to spend money on lenses that had to be imported from France at considerable cost"
+   },
+   "why": "E段。one nation was slow ↔ the United States was much slower；explanation ↔ Pleasonton 不愿花钱进口透镜。同段的 Britain 只说 1830s 开始安装，没有解释原因。"
+  },
+  "13": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "it is now found in car headlamps, traffic signals, overhead projectors and the flat plastic magnifiers sold for reading small print"
+   },
+   "why": "F段。present-day objects ↔ now found in car headlamps, traffic signals…；old optical principle ↔ The principle has outlived the lighthouses。D段虽然列出了不同 orders 的透镜用途（海岸灯、港口），但那是19世纪的灯塔，不是现代物品。"
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "id": "2026-11-01-a",
+ "date": "2026-11-01",
+ "level": 6.0,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "history of technology",
+ "title": "The Lens That Lit the Coast",
+ "subtitle": "How a French engineer's rings of glass transformed the lighthouse",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Before the nineteenth century, lighthouses were often far less useful than sailors hoped. Most burned wood or coal in open iron baskets, or candles inside glazed lanterns, and their light spread in every direction, much of it upwards into the sky where no ship would ever see it. In fog or heavy rain, a coal fire might be visible for only a few kilometres, and keeping it alight on a stormy night could require several tonnes of fuel in a single winter. A major step forward came in the 1780s, when the Swiss physicist Aimé Argand designed an oil lamp with a hollow, circular wick and a glass chimney. The extra air drawn up through the centre of the flame made it burn far more brightly and almost without smoke, and within a few decades Argand lamps had replaced open fires in many of Europe's lighthouses."
+  },
+  {
+   "label": "B",
+   "text": "To concentrate the light, engineers placed each lamp in front of a curved metal reflector, usually made of copper coated with silver and shaped as a parabola, so that the rays were sent out in a horizontal beam. A large lighthouse might contain twenty or more such lamps, each with its own reflector, mounted together on an iron frame. The arrangement was a great improvement, but it had serious drawbacks. Even when freshly polished, a reflector absorbed around half of the light that fell on it, and the silver surface was gradually worn away by the cleaning needed to remove soot. Keepers spent hours every day polishing, and the lamps consumed large quantities of expensive whale or vegetable oil."
+  },
+  {
+   "label": "C",
+   "text": "The solution came from an unexpected quarter. Augustin Fresnel, a French engineer who had made his reputation through research on the wave theory of light, was appointed to France's lighthouse commission in 1819. He realised that a conventional lens large enough to gather the light of a lighthouse lamp would be impossibly thick and heavy, and that a great deal of light would be lost inside the glass itself. His answer was to divide the lens into a series of concentric rings. At the centre was a small, relatively thin lens known as the bull's-eye; around it were rings of glass prisms, each one shaped so that it bent the light at exactly the angle needed to join the main beam. Above and below these, further prisms caught rays that would otherwise have escaped upwards or downwards and reflected them back towards the horizon."
+  },
+  {
+   "label": "D",
+   "text": "Fresnel presented his design in 1822, and the following year the first lens of this kind was installed at the Cordouan lighthouse, at the mouth of the Gironde estuary in south-west France. Its beam could be seen from more than 30 kilometres away, although it relied on a single lamp in place of dozens. To suit different locations, lenses were soon manufactured in a range of sizes, called orders. The largest, the first order, stood well over two metres tall and was reserved for major coastal lights; the smallest, the sixth order, was used in harbours and at the ends of piers. Many lenses were also mounted on a base that was turned by a clockwork mechanism, so that the beam swept round and each lighthouse produced its own pattern of flashes, allowing sailors to identify it at night. Fresnel himself did not live to see his invention spread: he died of tuberculosis in 1827, at the age of 39."
+  },
+  {
+   "label": "E",
+   "text": "Other countries adopted the new lenses at very different speeds. Britain began installing them in the 1830s, but the United States was much slower. For three decades American lighthouses were managed by Stephen Pleasonton, a Treasury official with no technical training, who was reluctant to spend money on lenses that had to be imported from France at considerable cost. Instead, he relied on lamps and reflectors supplied by the contractor Winslow Lewis. Complaints from ship captains eventually led Congress to order an investigation, and in 1852 a new Lighthouse Board was created to take over the service. Its members, several of them engineers and naval officers, quickly ordered lenses from Paris. By the early 1860s, most of the country's lighthouses had been fitted with Fresnel lenses."
+  },
+  {
+   "label": "F",
+   "text": "The principle has outlived the lighthouses that made it famous. Because a Fresnel lens is so much thinner and lighter than a solid lens of the same power, it is now found in car headlamps, traffic signals, overhead projectors and the flat plastic magnifiers sold for reading small print. Much larger versions are used to concentrate sunlight in some solar power stations. Many of the original glass lenses, meanwhile, have been taken out of working lighthouses as automated electric lights have taken over, and today they are displayed in museums, where visitors can see for themselves the precision with which their prisms were ground and polished by hand."
+  }
+ ],
+ "groups": [
+  {
+   "type": "tfng",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "Do the following statements agree with the information given in the reading passage?",
+    "In boxes 1–6 on your answer sheet, write",
+    "TRUE if the statement agrees with the information",
+    "FALSE if the statement contradicts the information",
+    "NOT GIVEN if there is no information on this"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "Argand lamps were less expensive to operate than the open fires they replaced."
+    },
+    {
+     "n": 2,
+     "text": "However well it had been cleaned, a reflector failed to send out roughly half of the light directed at it."
+    },
+    {
+     "n": 3,
+     "text": "Fresnel thought that an ordinary lens of sufficient size would waste much of the light passing through it."
+    },
+    {
+     "n": 4,
+     "text": "The first lens of Fresnel's type was put into service in the same year that he made his design public."
+    },
+    {
+     "n": 5,
+     "text": "Pleasonton doubted that the French lenses would perform better than reflectors."
+    },
+    {
+     "n": 6,
+     "text": "Lenses based on Fresnel's idea are no longer manufactured now that lighthouses have become automated."
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 7–10 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "title": "Two ways of directing a lighthouse beam",
+   "lines": [
+    {
+     "text": "Lamp-and-reflector system",
+     "indent": 0
+    },
+    {
+     "text": "– every lamp backed by a parabolic dish of silver-plated [[7]]",
+     "indent": 1
+    },
+    {
+     "text": "– surface slowly damaged by polishing to clear away [[8]]",
+     "indent": 1
+    },
+    {
+     "text": "Fresnel's design",
+     "indent": 0
+    },
+    {
+     "text": "– in the middle: a thin central element called the [[9]]",
+     "indent": 1
+    },
+    {
+     "text": "– surrounded by circles of [[10]], each angled to bend light into the beam",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "The reading passage has six paragraphs, A–F.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–F, in boxes 11–13 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 11,
+     "text": "a reference to the age of an inventor at the time of his death"
+    },
+    {
+     "n": 12,
+     "text": "an explanation of why one nation was slow to take up a new technology"
+    },
+    {
+     "n": 13,
+     "text": "examples of present-day objects that rely on an old optical principle"
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "mariner / sailor",
+   "zh": "水手；航海者"
+  },
+  {
+   "w": "wick",
+   "zh": "灯芯"
+  },
+  {
+   "w": "parabola",
+   "zh": "抛物线"
+  },
+  {
+   "w": "drawback",
+   "zh": "缺点；弊端"
+  },
+  {
+   "w": "absorb",
+   "zh": "吸收"
+  },
+  {
+   "w": "concentric",
+   "zh": "同心的"
+  },
+  {
+   "w": "prism",
+   "zh": "棱镜"
+  },
+  {
+   "w": "estuary",
+   "zh": "河口；入海口"
+  },
+  {
+   "w": "be reluctant to",
+   "zh": "不情愿做……"
+  },
+  {
+   "w": "contractor",
+   "zh": "承包商；供应商"
+  },
+  {
+   "w": "outlive",
+   "zh": "比……存在得久"
+  },
+  {
+   "w": "automated",
+   "zh": "自动化的"
+  }
+ ],
+ "generatedAt": "2026-11-01T06:50:00+08:00",
+ "spec": "v3"
+}

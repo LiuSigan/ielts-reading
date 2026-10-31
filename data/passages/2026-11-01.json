@@ -1,0 +1,290 @@
+{
+ "id": "2026-11-01",
+ "date": "2026-11-01",
+ "level": 6.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "psychology & cognition",
+ "title": "The Optimism Trap",
+ "subtitle": "Why projects of every size take longer and cost more than planned, and what can be done about it",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "In 1957 the government of New South Wales announced that Sydney would have a new opera house, to be completed by 1963 at a cost of seven million Australian dollars. It opened in 1973, ten years late, and the final bill came to 102 million. The building is now one of the most admired in the world, but its history is often cited as an extreme example of a pattern that is anything but rare. Bridges, software systems, kitchen renovations and university essays are all routinely finished later, and at greater cost, than those responsible predicted, even when the people involved have carried out similar projects before."
+  },
+  {
+   "label": "B",
+   "text": "The psychologists Daniel Kahneman and Amos Tversky gave the phenomenon a name in 1979: the planning fallacy. What made it a fallacy, in their view, was not simply that forecasts turned out to be wrong, since the future is uncertain and some errors are inevitable. It was that the errors ran consistently in one direction. If people were merely bad at prediction, projects would finish early about as often as they finished late. Instead, overruns vastly outnumber underruns, and they persist even among people who know perfectly well that their previous estimates were too hopeful."
+  },
+  {
+   "label": "C",
+   "text": "Why should this be? One influential explanation concerns the way in which forecasts are constructed. When asked how long a task will take, people tend to picture the specific steps involved and imagine themselves working through them in turn. Dr Helen Marsh, who studies decision-making at the University of Leeds, calls this 'building the future from the inside'. The difficulty, she argues, is that such a mental rehearsal contains only the steps that go to plan. Illness, missing materials, the bankruptcy of a supplier or the resignation of a key colleague are each unlikely on their own, so none of them features in the imagined sequence; yet over the course of a long project, the chance that at least one such interruption will occur is very high. Marsh has found that the more detailed a plan is, the more confident its authors become, even though detail of this kind does nothing to protect against the unexpected."
+  },
+  {
+   "label": "D",
+   "text": "Other researchers place more weight on motivation. In a series of experiments, the social psychologist Dr Samuel Okafor offered some participants a cash reward for finishing a set of puzzles quickly, while others received a fixed payment regardless of their speed. Those who stood to gain from finishing early predicted that they would do so, yet they took no less time than the second group. Okafor concludes that wanting a task to be over makes people more optimistic about how soon it will be, without making them any faster. In organisations, the pressure can be external as well as internal: a contractor who submits a realistic estimate may simply lose the contract to a rival who submits an optimistic one."
+  },
+  {
+   "label": "E",
+   "text": "A third factor is memory. When people recall past tasks, they often remember them as having gone more smoothly than they actually did. Dr Lin Wei of the National University of Singapore asked office workers to keep diaries recording how long routine jobs took, and several weeks later to estimate those durations from memory. On average, they recalled the jobs as having taken around a quarter less time than their own records showed, and the gap was largest for the jobs they had found most tedious. Because memories of earlier projects are the obvious basis for planning new ones, this distortion feeds directly into the next forecast."
+  },
+  {
+   "label": "F",
+   "text": "If the problem lies in looking at a project from the inside, the remedy may be to look at it from the outside. Kahneman recommended that forecasters set aside the details of their own plan and ask instead how long similar projects have taken in the past. This approach, known as reference class forecasting, was adopted by the British government in the early 2000s for major transport schemes, whose budgets are now increased by a fixed percentage according to the record of comparable projects. A related technique, sometimes called the 'pre-mortem', asks a team to imagine that their project has already failed and to write down the reasons, which brings into view the very interruptions that ordinary planning leaves out. Teams that use it, according to its advocates, become noticeably more willing to raise doubts they would otherwise keep to themselves."
+  },
+  {
+   "label": "G",
+   "text": "None of these remedies is a complete cure. Reference classes can be hard to define for genuinely novel projects, and Marsh points out that a team which knows its budget will be inflated may simply relax its own efforts to control costs. Okafor, for his part, suspects that a degree of optimism is necessary: if people foresaw every difficulty, many valuable projects would never be started at all. The Sydney Opera House, after all, would probably not exist if its true cost had been known in 1957. The aim, most researchers now agree, is not to eliminate optimism but to stop it from being mistaken for a forecast."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Choose the correct heading for paragraphs B–G from the list of headings below.",
+    "Write the correct number, i–xi, in boxes 1–6 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "Limits to the solutions, and a case for hope"
+    },
+    {
+     "k": "ii",
+     "t": "How rewards can make people work faster"
+    },
+    {
+     "k": "iii",
+     "t": "A famous case of a widespread problem"
+    },
+    {
+     "k": "iv",
+     "t": "Picturing only the steps that go right"
+    },
+    {
+     "k": "v",
+     "t": "Why experienced planners make fewer mistakes"
+    },
+    {
+     "k": "vi",
+     "t": "A one-sided pattern of error"
+    },
+    {
+     "k": "vii",
+     "t": "Official rules for budgeting transport schemes"
+    },
+    {
+     "k": "viii",
+     "t": "The effect of wanting a job to be finished"
+    },
+    {
+     "k": "ix",
+     "t": "Changing the vantage point of the forecaster"
+    },
+    {
+     "k": "x",
+     "t": "Recollections that flatter past performance"
+    },
+    {
+     "k": "xi",
+     "t": "The true price of an iconic building"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    },
+    {
+     "n": 6,
+     "para": "G"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 7,
+   "to": 9,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 7–9 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "According to Kahneman and Tversky, inaccurate forecasts count as a fallacy because",
+     "options": [
+      {
+       "k": "A",
+       "t": "the future can never be predicted with any confidence."
+      },
+      {
+       "k": "B",
+       "t": "they are systematically biased in the same direction."
+      },
+      {
+       "k": "C",
+       "t": "people refuse to accept that earlier estimates were wrong."
+      },
+      {
+       "k": "D",
+       "t": "large projects are more likely to suffer from them."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "What did Okafor's experiments show?",
+     "options": [
+      {
+       "k": "A",
+       "t": "A financial incentive improved both speed and accuracy."
+      },
+      {
+       "k": "B",
+       "t": "People with an incentive expected to finish sooner but did not."
+      },
+      {
+       "k": "C",
+       "t": "People on a fixed payment overestimated the time required."
+      },
+      {
+       "k": "D",
+       "t": "Rewards made people less willing to commit to a deadline."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "text": "Lin Wei's study found that the office workers",
+     "options": [
+      {
+       "k": "A",
+       "t": "kept less accurate diaries than they believed."
+      },
+      {
+       "k": "B",
+       "t": "remembered routine jobs as shorter than they had been."
+      },
+      {
+       "k": "C",
+       "t": "took about a quarter longer than their managers estimated."
+      },
+      {
+       "k": "D",
+       "t": "misjudged unfamiliar tasks more than familiar ones."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 10,
+     "text": "Setbacks such as illness or the collapse of a supplier are left out of mental plans because each one, taken separately, is [[10]]."
+    },
+    {
+     "n": 11,
+     "text": "In business, a firm that quotes honestly may see the work go to a [[11]] with a more hopeful estimate."
+    },
+    {
+     "n": 12,
+     "text": "Under the British approach, the budget for a major transport project is raised by a set [[12]] drawn from earlier schemes."
+    },
+    {
+     "n": 13,
+     "text": "Marsh warns that a team expecting extra money may reduce its [[13]] to keep spending down."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "overrun",
+   "zh": "（时间、预算）超支；超出"
+  },
+  {
+   "w": "fallacy",
+   "zh": "谬误"
+  },
+  {
+   "w": "inevitable",
+   "zh": "不可避免的"
+  },
+  {
+   "w": "persist",
+   "zh": "持续存在"
+  },
+  {
+   "w": "mental rehearsal",
+   "zh": "在脑中预演"
+  },
+  {
+   "w": "bankruptcy",
+   "zh": "破产"
+  },
+  {
+   "w": "stand to gain",
+   "zh": "有望获益"
+  },
+  {
+   "w": "distortion",
+   "zh": "扭曲；失真"
+  },
+  {
+   "w": "tedious",
+   "zh": "乏味的；冗长的"
+  },
+  {
+   "w": "reference class forecasting",
+   "zh": "参照类预测法"
+  },
+  {
+   "w": "comparable",
+   "zh": "可比的；类似的"
+  },
+  {
+   "w": "inflate",
+   "zh": "使膨胀；抬高（预算等）"
+  }
+ ],
+ "generatedAt": "2026-11-01T06:55:00+08:00",
+ "spec": "v3"
+}

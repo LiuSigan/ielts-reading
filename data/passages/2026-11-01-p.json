@@ -1,0 +1,206 @@
+{
+ "id": "2026-11-01-p",
+ "date": "2026-11-01",
+ "level": 7.5,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "linguistics",
+ "title": "Who Should Save a Language?",
+ "subtitle": "The familiar arguments for preserving endangered languages are not all as strong as they seem",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Of the roughly 7,000 languages spoken today, around 40 per cent are classed as endangered, and many linguists expect that half of all current languages could fall silent by the end of this century. Most of these are spoken by small communities; a few hundred speakers is typical, and in some cases only a handful of elderly people remain. The usual response among linguists has been alarm, and a considerable share of the field's energy and funding is now devoted to recording and revitalising threatened languages. Language loss is often described in the vocabulary of ecology, as an extinction comparable to the disappearance of species, and the implication is clear: what is being lost should, wherever possible, be saved. The argument deserves to be taken seriously, but it also deserves more scrutiny than it usually receives."
+  },
+  {
+   "label": "B",
+   "text": "The first case for preservation is scientific. Each language, it is said, represents a distinct solution to the problem of human communication, and the full range of possible grammars can be understood only if it is studied in as many forms as possible. There is substance to this. Features once thought impossible have repeatedly turned up in little-known languages: some lack words for left and right altogether and describe every location by compass direction, while others require speakers to mark in their grammar whether they witnessed an event or merely heard about it. Yet the scientific argument, strictly speaking, supports documentation rather than survival. A thorough grammar, a dictionary and an archive of recordings preserve most of what a researcher needs, whether or not anyone continues to speak the language."
+  },
+  {
+   "label": "C",
+   "text": "A second argument holds that languages encode knowledge that would otherwise disappear: names for plants and their uses, classifications of fish, terms for subtle changes in sea ice. The ethnobotanist Dr Rosa Tamang, who has worked with villages in eastern Nepal, has recorded cases in which the medicinal properties of a plant were known only through its traditional name and the stories attached to it. Again, though, the argument is weaker than it first appears. Knowledge of this kind can, in principle, be translated; what is lost when a language dies is less the information itself than the setting in which it was routinely passed on. That loss is real, but it is the loss of a way of life rather than of a vocabulary, and saving the words will not necessarily save the practices."
+  },
+  {
+   "label": "D",
+   "text": "The strongest arguments are not about knowledge at all. For many communities, a heritage language is bound up with identity, with a connection to ancestors and with memories of having been forced to abandon it. In Australia, Canada and elsewhere, children were punished well into the twentieth century for speaking their own languages at school, and for their descendants revitalisation can be an act of repair. The sociolinguist Professor Ewan Morrow argues that this is why programmes driven by communities themselves tend to succeed where those designed by outside experts fail: the motivation to learn a language comes from what it means to its speakers, not from its value to science. The Māori language nests of New Zealand, preschools set up by parents in the early 1980s in which young children hear only Māori, are the example he returns to most often."
+  },
+  {
+   "label": "E",
+   "text": "Here, however, a difficulty arises. If the case for revitalisation rests on the wishes of speakers, it cannot also override them. Many parents who stop passing on a minority language do so deliberately, judging that their children's prospects depend on fluency in a national or global language. Dr Kofi Mensah, who has studied language shift in northern Ghana, found that most parents who had switched to English at home did not regret the decision, even when they valued their own first language highly. To insist that such families ought to have chosen differently is to treat the language as more important than the people who speak it, which is the very attitude that revitalisation movements set out to resist."
+  },
+  {
+   "label": "F",
+   "text": "Nor is revival straightforward where it is wanted. Hebrew, which ceased to be anyone's everyday language for well over a thousand years before becoming the mother tongue of millions, is the example always cited, but its circumstances were exceptional: a large population with a shared religious literacy, strong political motivation and a new state that made it the language of schools and government. Welsh, supported by legislation and broadcasting for decades, has stabilised rather than expanded dramatically, and Irish, although it has been a compulsory school subject for nearly a century, is spoken daily outside the classroom by only a small minority of the population. For a language with fifty elderly speakers and no institutions, the realistic goal may be a modest one: a community of second-language learners who use it for ceremony, song and some daily conversation."
+  },
+  {
+   "label": "G",
+   "text": "None of this means that the disappearance of languages should be met with indifference. It means that the ecological metaphor is misleading. A species has no say in whether it survives; a language community does. The obligations that follow are therefore of two kinds. Outsiders have a clear duty to document languages while there is still time, since a recording that can be made today may be impossible to make tomorrow, and to support communities that choose to revive their languages with resources rather than advice. What they do not have is the right to decide, on behalf of speakers, which languages ought to live. The most useful thing a linguist can offer may be the assurance that, if a later generation wants its language back, the materials to reclaim it will exist."
+  }
+ ],
+ "groups": [
+  {
+   "type": "ynng",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "Do the following statements agree with the claims of the writer in the reading passage?",
+    "In boxes 1–5 on your answer sheet, write",
+    "YES if the statement agrees with the claims of the writer",
+    "NO if the statement contradicts the claims of the writer",
+    "NOT GIVEN if it is impossible to say what the writer thinks about this"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "Linguists have generally examined the case for preserving languages with sufficient care."
+    },
+    {
+     "n": 2,
+     "text": "A well-documented language can serve the needs of researchers almost as well as one that is still spoken."
+    },
+    {
+     "n": 3,
+     "text": "Most traditional knowledge about plants has already been recorded in widely spoken languages."
+    },
+    {
+     "n": 4,
+     "text": "Parents who give up a minority language usually fail to consider the consequences for their children."
+    },
+    {
+     "n": 5,
+     "text": "The revival of Hebrew depended on conditions that most endangered languages do not enjoy."
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 6,
+   "to": 9,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–H, below.",
+    "Write the correct letter, A–H, in boxes 6–9 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 6,
+     "text": "Rosa Tamang's fieldwork shows that"
+    },
+    {
+     "n": 7,
+     "text": "Ewan Morrow maintains that"
+    },
+    {
+     "n": 8,
+     "text": "Kofi Mensah's findings indicate that"
+    },
+    {
+     "n": 9,
+     "text": "The experience of Welsh suggests that"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "children were once penalised for using their own language in class."
+    },
+    {
+     "k": "B",
+     "t": "language programmes tend to work best when communities themselves lead them."
+    },
+    {
+     "k": "C",
+     "t": "some medical knowledge survived only through local names and the tales linked to them."
+    },
+    {
+     "k": "D",
+     "t": "a newly founded state chose one language as the medium of education."
+    },
+    {
+     "k": "E",
+     "t": "official backing can halt a language's decline without making it grow rapidly."
+    },
+    {
+     "k": "F",
+     "t": "certain languages indicate position by points of the compass rather than by left and right."
+    },
+    {
+     "k": "G",
+     "t": "many parents who changed the language of the home did not later wish they had acted otherwise."
+    },
+    {
+     "k": "H",
+     "t": "a recording which is possible now may not be possible in future."
+    }
+   ]
+  },
+  {
+   "type": "summary_completion",
+   "from": 10,
+   "to": 14,
+   "instructions": [
+    "Complete the summary below.",
+    "Choose ONE WORD ONLY from the passage for each answer.",
+    "Write your answers in boxes 10–14 on your answer sheet."
+   ],
+   "wordLimit": "ONE WORD ONLY",
+   "maxWords": 1,
+   "allowNumber": false,
+   "title": "The writer's conclusion",
+   "text": "The writer rejects the comparison between dying languages and threatened [[10]], since a community of speakers, unlike them, can influence its own fate. Linguists from outside are obliged to [[11]] endangered tongues while time remains, and to give practical [[12]] to communities seeking a revival instead of simply telling them what to do. They cannot, however, claim the [[13]] to choose which languages survive. Their most valuable contribution may be to ensure that later generations who hope to recover a language will find the necessary [[14]] available."
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "endangered",
+   "zh": "濒危的"
+  },
+  {
+   "w": "scrutiny",
+   "zh": "仔细审查"
+  },
+  {
+   "w": "documentation",
+   "zh": "记录；文献化"
+  },
+  {
+   "w": "encode",
+   "zh": "（以某种形式）承载、编码"
+  },
+  {
+   "w": "in principle",
+   "zh": "原则上；理论上"
+  },
+  {
+   "w": "heritage language",
+   "zh": "祖传语言；传承语"
+  },
+  {
+   "w": "revitalisation",
+   "zh": "复兴；振兴"
+  },
+  {
+   "w": "override",
+   "zh": "凌驾于……之上；推翻"
+  },
+  {
+   "w": "language shift",
+   "zh": "语言转用"
+  },
+  {
+   "w": "legislation",
+   "zh": "立法；法律"
+  },
+  {
+   "w": "indifference",
+   "zh": "漠不关心"
+  },
+  {
+   "w": "metaphor",
+   "zh": "比喻；隐喻"
+  }
+ ],
+ "generatedAt": "2026-11-01T07:00:00+08:00",
+ "spec": "v3"
+}

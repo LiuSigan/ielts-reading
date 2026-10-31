@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-10-31T10:00:17.462Z",
+ "updatedAt": "2026-10-31T22:53:29.110Z",
  "passages": [
+  {
+   "id": "2026-11-01-a",
+   "date": "2026-11-01",
+   "slot": "p1",
+   "title": "The Lens That Lit the Coast",
+   "level": 6,
+   "style": "P1",
+   "topicArea": "history of technology",
+   "types": [
+    "tfng",
+    "note_completion",
+    "match_info"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-01T06:50:00+08:00"
+  },
+  {
+   "id": "2026-11-01",
+   "date": "2026-11-01",
+   "slot": "main",
+   "title": "The Optimism Trap",
+   "level": 6.5,
+   "style": "P2",
+   "topicArea": "psychology & cognition",
+   "types": [
+    "headings",
+    "mcq",
+    "sentence_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-01T06:55:00+08:00"
+  },
+  {
+   "id": "2026-11-01-p",
+   "date": "2026-11-01",
+   "slot": "p3",
+   "title": "Who Should Save a Language?",
+   "level": 7.5,
+   "style": "P3",
+   "topicArea": "linguistics",
+   "types": [
+    "ynng",
+    "sentence_endings",
+    "summary_completion"
+   ],
+   "total": 14,
+   "generatedAt": "2026-11-01T07:00:00+08:00"
+  },
   {
    "id": "2026-10-31",
    "date": "2026-10-31",

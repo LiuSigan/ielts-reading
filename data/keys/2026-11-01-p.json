@@ -1,0 +1,122 @@
+{
+ "id": "2026-11-01-p",
+ "answers": {
+  "1": {
+   "a": "NO",
+   "ev": {
+    "p": "A",
+    "q": "it also deserves more scrutiny than it usually receives"
+   },
+   "why": "A段末句。examined … with sufficient care ↔ 原文 deserves more scrutiny than it usually receives，作者认为审视得不够，直接矛盾，故 NO。The usual response … has been alarm 说明的是语言学家的态度，并不能支持 YES。"
+  },
+  "2": {
+   "a": "YES",
+   "ev": {
+    "p": "B",
+    "q": "A thorough grammar, a dictionary and an archive of recordings preserve most of what a researcher needs, whether or not anyone continues to speak the language."
+   },
+   "why": "B段末句。well-documented ↔ thorough grammar, dictionary and archive of recordings；almost as well ↔ preserve most of what a researcher needs；one that is still spoken ↔ whether or not anyone continues to speak。B段前面虽承认科学论点 There is substance to this，但段落主旨在最后一句：科学论点只支持记录，不支持存续。"
+  },
+  "3": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "C",
+    "q": "Knowledge of this kind can, in principle, be translated"
+   },
+   "why": "C段只说这类知识“原则上可以翻译”（can, in principle, be translated），没有说大部分已经被翻译或记录下来。can 表示可能性，不等于已经完成，作者对此没有表态，所以是 NOT GIVEN；本题看起来像 YES。"
+  },
+  "4": {
+   "a": "NO",
+   "ev": {
+    "p": "E",
+    "q": "Many parents who stop passing on a minority language do so deliberately, judging that their children's prospects depend on fluency in a national or global language"
+   },
+   "why": "E段。give up a minority language ↔ stop passing on a minority language；但原文说他们是 deliberately（有意地）这样做，并考虑了孩子的前途（children's prospects），与 fail to consider the consequences 相反，故 NO。"
+  },
+  "5": {
+   "a": "YES",
+   "ev": {
+    "p": "F",
+    "q": "its circumstances were exceptional: a large population with a shared religious literacy, strong political motivation and a new state"
+   },
+   "why": "F段。conditions that most endangered languages do not enjoy ↔ circumstances were exceptional（人口多、宗教识字传统、政治动力、新国家支持）；同段对比了只剩五十位老人、没有机构的语言。作者认为希伯来语的成功难以复制，所以是 YES。"
+  },
+  "6": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "the medicinal properties of a plant were known only through its traditional name and the stories attached to it"
+   },
+   "why": "C段 Tamang。C some medical knowledge survived only through local names and the tales ↔ medicinal properties … known only through its traditional name and the stories attached to it。F 讲方位表达，属于B段的另一话题。"
+  },
+  "7": {
+   "a": "B",
+   "ev": {
+    "p": "D",
+    "q": "programmes driven by communities themselves tend to succeed where those designed by outside experts fail"
+   },
+   "why": "D段 Morrow。B work best when communities themselves lead them ↔ programmes driven by communities themselves tend to succeed。A（孩子在学校受罚）也在D段，是真实信息，但不是 Morrow 的观点，而是作者的背景描述。"
+  },
+  "8": {
+   "a": "G",
+   "ev": {
+    "p": "E",
+    "q": "most parents who had switched to English at home did not regret the decision"
+   },
+   "why": "E段 Mensah。G did not later wish they had acted otherwise ↔ did not regret the decision；changed the language of the home ↔ switched to English at home。原文说 most parents，选项说 many parents，范围更小，没有超出原文。"
+  },
+  "9": {
+   "a": "E",
+   "ev": {
+    "p": "F",
+    "q": "Welsh, supported by legislation and broadcasting for decades, has stabilised rather than expanded dramatically"
+   },
+   "why": "F段。E official backing ↔ supported by legislation and broadcasting；halt a language's decline ↔ has stabilised；without making it grow rapidly ↔ rather than expanded dramatically。D（新国家把语言定为教育语言）讲的是希伯来语，不是威尔士语。"
+  },
+  "10": {
+   "a": "species",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "A species has no say in whether it survives; a language community does."
+   },
+   "why": "G段。rejects the comparison ↔ the ecological metaphor is misleading；unlike them, can influence its own fate ↔ A species has no say … a language community does。A段也说 comparable to the disappearance of species，答案一致。不要填 ecology（与 threatened 搭配不通，也不是比较对象）。"
+  },
+  "11": {
+   "a": "document",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "Outsiders have a clear duty to document languages while there is still time"
+   },
+   "why": "G段。obliged to ↔ have a clear duty to；while time remains ↔ while there is still time。同句的 support 后面接的是 communities，不能接 tongues（语言），而且对应的是下一空所在的分句。"
+  },
+  "12": {
+   "a": "resources",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "to support communities that choose to revive their languages with resources rather than advice"
+   },
+   "why": "G段。give practical ↔ support … with；instead of simply telling them what to do ↔ rather than advice。advice 正是被否定的一方，是最诱人的错误答案。"
+  },
+  "13": {
+   "a": "right",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "What they do not have is the right to decide, on behalf of speakers, which languages ought to live."
+   },
+   "why": "G段。cannot claim the ___ to choose ↔ do not have the right to decide；which languages survive ↔ which languages ought to live。duty 是干扰项：外人有记录的义务（duty），但没有决定的权利（right），意思相反。"
+  },
+  "14": {
+   "a": "materials",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "if a later generation wants its language back, the materials to reclaim it will exist"
+   },
+   "why": "G段末句。later generations who hope to recover a language ↔ a later generation wants its language back / reclaim；will find … available ↔ will exist。recording(s) 在G段和B段也出现，但本句对应的原文用词是 materials，所以只能填 materials。"
+  }
+ }
+}

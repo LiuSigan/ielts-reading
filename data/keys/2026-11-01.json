@@ -1,0 +1,113 @@
+{
+ "id": "2026-11-01",
+ "answers": {
+  "1": {
+   "a": "vi",
+   "ev": {
+    "p": "B",
+    "q": "It was that the errors ran consistently in one direction."
+   },
+   "why": "B段的核心：计划谬误之所以是“谬误”，在于误差总是朝同一方向。vi A one-sided pattern of error ↔ errors ran consistently in one direction。v 是干扰项：段末说有经验的人也照样犯错（persist even among people who know…），与“经验丰富者犯错更少”相反。"
+  },
+  "2": {
+   "a": "iv",
+   "ev": {
+    "p": "C",
+    "q": "such a mental rehearsal contains only the steps that go to plan"
+   },
+   "why": "C段 Marsh 的解释：人们在脑中只预演顺利的步骤。iv Picturing only the steps that go right ↔ mental rehearsal contains only the steps that go to plan。ix（换视角）讲的是F段的补救办法，不是原因。"
+  },
+  "3": {
+   "a": "viii",
+   "ev": {
+    "p": "D",
+    "q": "wanting a task to be over makes people more optimistic about how soon it will be, without making them any faster"
+   },
+   "why": "D段讲动机：想尽快完成会让人更乐观但并不更快。viii The effect of wanting a job to be finished ↔ wanting a task to be over。ii 是陷阱：段中有现金奖励，但结论恰恰是奖励没有让人更快（took no less time）。"
+  },
+  "4": {
+   "a": "x",
+   "ev": {
+    "p": "E",
+    "q": "they often remember them as having gone more smoothly than they actually did"
+   },
+   "why": "E段讲记忆偏差：回忆过去的任务比实际更顺利、更短。x Recollections that flatter past performance ↔ remember them as having gone more smoothly。整段围绕记忆，而不是日记本身是否准确。"
+  },
+  "5": {
+   "a": "ix",
+   "ev": {
+    "p": "F",
+    "q": "the remedy may be to look at it from the outside"
+   },
+   "why": "F段主旨：从“内部视角”转向“外部视角”（参照同类项目、事前验尸法）。ix Changing the vantage point of the forecaster ↔ look at it from the outside。vii 只对应段中英国交通项目预算这一细节，不能概括整段（还有 pre-mortem）。"
+  },
+  "6": {
+   "a": "i",
+   "ev": {
+    "p": "G",
+    "q": "None of these remedies is a complete cure."
+   },
+   "why": "G段：补救方法各有局限（参照类难定义、团队会放松控制），同时 Okafor 认为一定的乐观必不可少。i Limits to the solutions, and a case for hope ↔ None of these remedies is a complete cure + a degree of optimism is necessary。xi 只对应段中再次提到的悉尼歌剧院这个细节，且真实造价是A段内容。"
+  },
+  "7": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "It was that the errors ran consistently in one direction."
+   },
+   "why": "B段。B systematically biased in the same direction ↔ errors ran consistently in one direction。A 是他们明确说“不是”的理由（not simply that forecasts turned out to be wrong, since the future is uncertain）；C 与原文相反——人们其实清楚以前估计过于乐观（know perfectly well）；D 文中没有比较项目大小。"
+  },
+  "8": {
+   "a": "B",
+   "ev": {
+    "p": "D",
+    "q": "Those who stood to gain from finishing early predicted that they would do so, yet they took no less time than the second group."
+   },
+   "why": "D段。B expected to finish sooner but did not ↔ predicted that they would do so, yet they took no less time。A 错在“提高了速度”；C 文中没说固定报酬组高估时间；D 未提及。"
+  },
+  "9": {
+   "a": "B",
+   "ev": {
+    "p": "E",
+    "q": "they recalled the jobs as having taken around a quarter less time than their own records showed"
+   },
+   "why": "E段。B remembered routine jobs as shorter ↔ recalled the jobs as having taken around a quarter less time。C 偷换了 a quarter：是回忆比自己的日记记录少四分之一，而不是比经理估计的多四分之一；D 文中比较的是乏味与否（tedious），不是熟悉与否。"
+  },
+  "10": {
+   "a": "unlikely",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "are each unlikely on their own, so none of them features in the imagined sequence"
+   },
+   "why": "C段。taken separately ↔ on their own；left out of mental plans ↔ none of them features in the imagined sequence。同段的 very high 说的是整个项目中至少发生一次的概率，正好相反。"
+  },
+  "11": {
+   "a": "rival",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "a contractor who submits a realistic estimate may simply lose the contract to a rival who submits an optimistic one"
+   },
+   "why": "D段末句。quotes honestly ↔ submits a realistic estimate；see the work go to ↔ lose the contract to；more hopeful estimate ↔ an optimistic one。contractor 是报价诚实、丢掉合同的一方，不能填。"
+  },
+  "12": {
+   "a": "percentage",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "whose budgets are now increased by a fixed percentage according to the record of comparable projects"
+   },
+   "why": "F段。raised by a set ↔ increased by a fixed；drawn from earlier schemes ↔ according to the record of comparable projects。不要填 reference class（那是方法的名称，不是预算增加的量）。"
+  },
+  "13": {
+   "a": "efforts",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "a team which knows its budget will be inflated may simply relax its own efforts to control costs"
+   },
+   "why": "G段 Marsh 的观点。expecting extra money ↔ knows its budget will be inflated；reduce its ↔ relax its own；keep spending down ↔ control costs。Okafor 在同段讲的是乐观的必要性，与本句无关。"
+  }
+ }
+}
