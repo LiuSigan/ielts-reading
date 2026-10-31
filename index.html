@@ -184,7 +184,7 @@ table.qt th { background: var(--field); font-weight: 600; }
 .spark { width: 100%; height: auto; display: block; }
 .spark text { fill: var(--muted); font-family: var(--f-mono); font-size: 11px; }
 .plist { display: grid; gap: 0; }
-.prow { display: grid; grid-template-columns: 6.5em minmax(0,1fr) auto; gap: 12px; align-items: center; padding: 10px 4px; border-top: 1px solid var(--line); text-align: left; background: none; border-left: 0; border-right: 0; border-bottom: 0; width: 100%; }
+.prow { display: grid; grid-template-columns: 8.5em minmax(0,1fr) auto; gap: 12px; align-items: center; padding: 10px 4px; border-top: 1px solid var(--line); text-align: left; background: none; border-left: 0; border-right: 0; border-bottom: 0; width: 100%; }
 .prow:hover { background: var(--field); }
 .prow .d { font-family: var(--f-mono); font-size: 13px; color: var(--muted); }
 .prow .t { font-weight: 600; min-width: 0; }
@@ -416,6 +416,7 @@ async function poll() {
   if (S.view === "history") renderHistory(); else renderHeader();
 }
 const cur = () => S.cache[S.id];
+const partName = (slot) => (slot === "p1" ? "Part 1" : slot === "p3" ? "Part 3" : "Part 2");
 const profileLevel = () => (S.profile && typeof S.profile.level === "number" ? S.profile.level : DEFAULT_LEVEL);
 
 async function openPassage(id, quiet) {
@@ -455,11 +456,12 @@ function saveDraft() {
 }
 // Same rule as worker/worker.js — keep them in sync.
 function applyAttempt(profile, attempts, a) {
-  const isP3 = a.slot === "p3";
-  const prev = attempts.filter((x) => x.passageId !== a.passageId && x.slot !== "p3").sort((x, y) => String(y.submittedAt).localeCompare(String(x.submittedAt)))[0];
+  // Only Part 2 ("main") passages move the level; Part 1 and Part 3 only add to the type stats.
+  const fixed = a.adaptive === false || (a.slot && a.slot !== "main");
+  const prev = attempts.filter((x) => x.passageId !== a.passageId && (!x.slot || x.slot === "main")).sort((x, y) => String(y.submittedAt).localeCompare(String(x.submittedAt)))[0];
   const fromL = profile && typeof profile.level === "number" ? profile.level : DEFAULT_LEVEL;
   const acc = a.score / a.total;
-  const [toL, why] = isP3 ? [fromL, "Part 3 不参与难度调整"] : nextLevel(fromL, acc, prev ? prev.score / prev.total : null);
+  const [toL, why] = fixed ? [fromL, "只有 Part 2 参与难度调整"] : nextLevel(fromL, acc, prev ? prev.score / prev.total : null);
   const ts = { ...((profile && profile.typeStats) || {}) };
   for (const [t, v] of Object.entries(a.byType || {})) { const o = ts[t] || { c: 0, t: 0 }; ts[t] = { c: o.c + v.c, t: o.t + v.t }; }
   const hist = ((profile && profile.history) || []).concat([{ id: a.passageId, acc: Math.round(acc * 1000) / 1000, from: fromL, to: toL, why, at: a.submittedAt }]).slice(-300);
@@ -523,14 +525,14 @@ function renderHeader() {
   const pick = $("#pick");
   pick.replaceChildren(...S.index.map((p) => {
     const a = S.attempts[p.id];
-    return el("option", { value: p.id, selected: p.id === S.id, text: `${p.date.slice(5)} ${p.slot === "p3" ? "Part 3" : "主篇"} · ${p.title}${a ? `（${a.score}/${a.total}）` : "（未做）"}` });
+    return el("option", { value: p.id, selected: p.id === S.id, text: `${p.date.slice(5)} ${partName(p.slot)} · ${p.title}${a ? `（${a.score}/${a.total}）` : "（未做）"}` });
   }));
   pick.hidden = S.view !== "practice" || !S.index.length;
   const p = cur();
   const lvl = $("#lvl");
   if (S.view === "practice" && p) {
     lvl.hidden = false;
-    lvl.textContent = p.slot === "p3" ? `Part 3 · Band ${fmtBand(p.level)}` : `Band ${fmtBand(p.level)} · ${p.style}`;
+    lvl.textContent = `${partName(p.slot)} · Band ${fmtBand(p.level)}`;
     lvl.title = "这篇文章的目标难度";
   } else if (S.view === "history") {
     lvl.hidden = false;
@@ -586,7 +588,7 @@ async function submit() {
   if (S.redo || S.attempts[p.id]) { toast("重做结果不计入难度调整"); return; }
   store.set("draft:" + p.id, null);
   const attempt = {
-    passageId: p.id, slot: p.slot || "main", level: p.level, style: p.style, title: p.title, types: p.groups.map((g) => g.type),
+    passageId: p.id, slot: p.slot || "main", adaptive: (p.slot || "main") === "main", level: p.level, style: p.style, title: p.title, types: p.groups.map((g) => g.type),
     score: r.score, total: r.total, byType: r.byType, answers: S.answers,
     wrong: Object.entries(r.per).filter(([, v]) => !v.ok).map(([n]) => +n),
     durationSec: curElapsed(), submittedAt: new Date().toISOString()
@@ -943,7 +945,7 @@ function renderHistory() {
     el("p", { class: "note", text: "红色是正确率低于 60% 的题型。出题时会优先安排薄弱题型和最近没练过的题型。" }));
 
   // level trend
-  const lvCard = el("div", { class: "card" }, el("h3", { text: "难度变化" }), sparkline(atts.filter((a) => a.slot !== "p3")));
+  const lvCard = el("div", { class: "card" }, el("h3", { text: "难度变化" }), sparkline(atts.filter((a) => !a.slot || a.slot === "main")));
   const hist = ((S.profile && S.profile.history) || []).slice(-6).reverse();
   if (hist.length) lvCard.append(el("div", { class: "bytype", style: "margin-top:10px" }, ...hist.map((h) =>
     el("div", {}, el("span", { text: `${h.id === "manual" ? "手动" : h.id.slice(5)} · ${h.why}` }), el("span", { text: `${fmtBand(h.from)}→${fmtBand(h.to)}` })))));
@@ -951,7 +953,7 @@ function renderHistory() {
   const list = el("div", { class: "plist" }, ...S.index.map((p) => {
     const a = S.attempts[p.id];
     return el("button", { class: "prow", onclick: () => { S.view = "practice"; openPassage(p.id); } },
-      el("span", { class: "d", text: p.slot === "p3" ? `${p.date} P3` : p.id }),
+      el("span", { class: "d", text: `${p.date.slice(5)} ${partName(p.slot)}` }),
       el("span", { class: "t" }, p.title, el("small", { text: `Band ${fmtBand(p.level)} · ${(p.types || []).map((t) => TYPE_NAMES[t] || t).join(" / ")}` })),
       el("span", { class: "s", text: a ? `${a.score}/${a.total}` : "未做" }));
   }));

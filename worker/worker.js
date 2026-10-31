@@ -16,11 +16,12 @@ function nextLevel(L, acc, prevAcc) {
   return [L, "正确率在 50%–85% 之间，保持当前难度"];
 }
 function applyAttempt(profile, attempts, a) {
-  const isP3 = a.slot === "p3";
-  const prev = attempts.filter((x) => x.passageId !== a.passageId && x.slot !== "p3").sort((x, y) => String(y.submittedAt).localeCompare(String(x.submittedAt)))[0];
+  // Only Part 2 ("main") passages move the level; Part 1 and Part 3 only add to the type stats.
+  const fixed = a.adaptive === false || (a.slot && a.slot !== "main");
+  const prev = attempts.filter((x) => x.passageId !== a.passageId && (!x.slot || x.slot === "main")).sort((x, y) => String(y.submittedAt).localeCompare(String(x.submittedAt)))[0];
   const fromL = profile && typeof profile.level === "number" ? profile.level : DEFAULT_LEVEL;
   const acc = a.score / a.total;
-  const [toL, why] = isP3 ? [fromL, "Part 3 不参与难度调整"] : nextLevel(fromL, acc, prev ? prev.score / prev.total : null);
+  const [toL, why] = fixed ? [fromL, "只有 Part 2 参与难度调整"] : nextLevel(fromL, acc, prev ? prev.score / prev.total : null);
   const ts = { ...((profile && profile.typeStats) || {}) };
   for (const [t, v] of Object.entries(a.byType || {})) { const o = ts[t] || { c: 0, t: 0 }; ts[t] = { c: o.c + v.c, t: o.t + v.t }; }
   const hist = ((profile && profile.history) || []).concat([{ id: a.passageId, acc: Math.round(acc * 1000) / 1000, from: fromL, to: toL, why, at: a.submittedAt }]).slice(-300);

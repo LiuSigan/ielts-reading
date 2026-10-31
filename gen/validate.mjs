@@ -1,4 +1,4 @@
-// IELTS daily reading — passage/key validator (spec v2)
+// IELTS daily reading — passage/key validator (spec v3)
 // Usage: node validate.mjs passage.json key.json
 // Prints ERROR / WARN lines and ends with OK or FAILED (exit code 1).
 import { readFileSync } from "node:fs";
@@ -71,12 +71,15 @@ for (const f of ["id", "date", "level", "slot", "style", "topicArea", "title", "
   if (P[f] === undefined || P[f] === "") err(`passage.${f} missing`);
 }
 if (K.id !== P.id) err(`key.id (${K.id}) != passage.id (${P.id})`);
-if (!/^\d{4}-\d{2}-\d{2}(-[b-z])?$/.test(P.id || "")) err(`id must be YYYY-MM-DD or YYYY-MM-DD-b…`);
+if (!/^\d{4}-\d{2}-\d{2}(-[a-z])?$/.test(P.id || "")) err(`id must be YYYY-MM-DD, YYYY-MM-DD-a (Part 1), YYYY-MM-DD-p (Part 3) or YYYY-MM-DD-b…`);
 if (!LEVELS.includes(P.level)) err(`level ${P.level} not in ${LEVELS.join(",")}`);
 if (!["P1", "P2", "P3"].includes(P.style)) err(`style must be P1|P2|P3`);
-const isP3 = P.slot === "p3";
-if (!["main", "p3"].includes(P.slot)) err(`slot must be "main" or "p3"`);
+const isP3 = P.slot === "p3", isP1 = P.slot === "p1";
+if (!["p1", "main", "p3"].includes(P.slot)) err(`slot must be "p1", "main" or "p3"`);
 if (isP3 !== /-p$/.test(P.id || "")) err(`Part 3 passages (and only they) use ids ending in -p`);
+if (isP1 !== /-a$/.test(P.id || "")) err(`Part 1 passages (and only they) use ids ending in -a`);
+if (isP1 && P.style !== "P1") err(`Part 1 passage must have style P1`);
+if (P.slot === "main" && P.style !== "P2") err(`Part 2 (main) passage must have style P2`);
 if (isP3 && P.style !== "P3") err(`Part 3 passage must have style P3`);
 if (isP3 && P.level < 7) err(`Part 3 passage level ${P.level} (want ≥ 7.0)`);
 

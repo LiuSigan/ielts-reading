@@ -1,11 +1,12 @@
-# IELTS Academic Reading — daily passage generator spec (v2)
+# IELTS Academic Reading — daily passage generator spec (v3)
 
-Every day you write TWO original IELTS Academic Reading passages for a single learner and commit
-them to the GitHub Pages site ("雅思阅读日练"):
+Every day you write THREE original IELTS Academic Reading passages for a single learner — a full
+Reading test, Part 1 to Part 3, 20 minutes each — and commit them to the GitHub Pages site
+("雅思阅读日练"):
 
-- the **main passage** (`slot: "main"`), pitched at the learner's adaptive level L, and
-- the **Part 3 passage** (`slot: "p3"`), always in Reading Passage 3 style, pitched at
-  `P3 = min(9, max(7.0, L + 1))`.
+- **Part 1** (`slot: "p1"`, `style: "P1"`), pitched at `max(5.0, L − 0.5)`;
+- **Part 2** (`slot: "main"`, `style: "P2"`), pitched at the learner's adaptive level L;
+- **Part 3** (`slot: "p3"`, `style: "P3"`), pitched at `min(9, max(7.0, L + 1))`.
 
 Everything must look and behave like a real Cambridge/IDP/BC Academic Reading passage, but be
 **harder than Cambridge IELTS at the same nominal band**: the learner wants to over-train. Write
@@ -24,9 +25,9 @@ The site is a static GitHub Pages site. Paths below are relative to the reposito
      use the level of the newest main passage in `data/index.json` (or 6.5) and no type stats.
    - `data/index.json` → earlier passages: `id`, `slot`, `topicArea`, `title`, `types` (to avoid
      repeating topics and to rotate question types).
-2. For each of the two passages decide the level (section 2), the passage profile (section 3), the
-   topic (section 4) and the question-type mix (section 5). The two passages must have different
-   topic areas and different question types.
+2. For each of the three passages decide the level (section 2), the passage profile (section 3),
+   the topic (section 4) and the question-type mix (section 5). The three passages must have
+   different topic areas and no question type in common.
 3. Write each passage and its questions as JSON exactly in the schema of section 7 to
    `data/passages/<id>.json`, and the answer key to `data/keys/<id>.json`.
 4. Self-check every answer against the item-writing rules in section 6. For every item, quote the
@@ -37,20 +38,21 @@ The site is a static GitHub Pages site. Paths below are relative to the reposito
 5. Run `node gen/validate.mjs data/passages/<id>.json data/keys/<id>.json` for each passage. Fix
    every ERROR and re-run until it prints `OK`. Treat WARN lines seriously. Never commit a passage
    that fails.
-6. Run `node gen/build-index.mjs`, then commit the five changed files (two passages, two keys,
-   `data/index.json`) with the message `Add passages <date>: <main title> / <P3 title>` and push
-   to `main`. GitHub Pages redeploys within a few minutes.
+6. Run `node gen/build-index.mjs`, then commit the seven changed files (three passages, three
+   keys, `data/index.json`) with the message `Add passages <date>: <P1 title> / <P2 title> /
+   <P3 title>` and push to `main`. GitHub Pages redeploys within a few minutes.
 7. Reply with a short summary: for each passage its id, level, title and question types.
 
-Document ids, using the date in Asia/Singapore time: main passage `YYYY-MM-DD`, Part 3 passage
-`YYYY-MM-DD-p`. If an extra main passage is needed on the same day use `-b`, `-c`, … (never `-p`).
+Document ids, using the date in Asia/Singapore time: Part 1 `YYYY-MM-DD-a`, Part 2
+`YYYY-MM-DD`, Part 3 `YYYY-MM-DD-p`. If an extra Part 2 passage is needed on the same day use
+`-b`, `-c`, … (never `-a` or `-p`).
 
 ## 1. The learner's level model
 
 - Levels are target bands: 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0.
-- Only main passages move the level. The sync API (worker/worker.js) recomputes `profile.level`
-  after every first attempt on a main passage using the rule below; Part 3 attempts only update
-  the per-type statistics. The generator uses `profile.level` as is. Only if the profile is
+- Only Part 2 (`slot: "main"`) passages move the level. The sync API (worker/worker.js)
+  recomputes `profile.level` after every first attempt on a Part 2 passage using the rule below;
+  Part 1 and Part 3 attempts only update the per-type statistics. The generator uses `profile.level` as is. Only if the profile is
   missing, compute it yourself from the main-passage attempts (sorted by `submittedAt`) with the
   same rule, starting from 6.5.
 - Rule, applied after each main-passage attempt with accuracy `acc = score/total` at level `L`:
@@ -74,7 +76,8 @@ set above the Cambridge analogue named in it:
 | 7.0–7.5 | a Cambridge Passage 3 | 880–980 | discursive; contrasting views of 3–5 researchers; hedged claims; concessions | very heavy: nominalisation, inference from two places in a paragraph | every option is a partial truth or a misattribution; FALSE vs NOT GIVEN turns on a qualifier |
 | 8.0–9.0 | the hardest Cambridge Passage 3 | 950–1100 | abstract / argumentative (philosophy of science, cognition, economics of …); the writer's own stance develops across the text | abstract restatement, writer's attitude, implication, reference across paragraphs | near-miss options, reversed causation, scope traps (some/most/all, may/will, tends to/always) |
 
-Part 3 passages use the 7.0+ rows only and follow section 3's Part 3 profile.
+Each passage uses the row of its own level. Part 1 follows section 3's Part 1 profile whatever its
+level, Part 2 the Part 2 profile, and Part 3 uses the 7.0+ rows only with the Part 3 profile.
 
 Sentence length, academic vocabulary (AWL) density and the proportion of abstract nouns rise with
 level. Keep the English natural and edited: it should read like a well-written article from New
@@ -91,6 +94,22 @@ Scientist, The Economist, Aeon, a university press book or a museum journal, ada
   that each label is recoverable from the text.
 - Plant competition for every answer: the paragraph that holds an answer should also mention a
   second date, figure, name or term of the same kind that a careless reader could pick instead.
+
+Part 1 profile (`slot: "p1"`, `style: "P1"`):
+- Word count from the level table, 5–7 paragraphs, 13 questions, `suggestedMinutes: 20`.
+- A factual text: the history of an invention or discovery, how a natural process or a
+  technology works, or a description of a place, species or practice. Mostly chronological or
+  process-ordered, rich in dates, figures, names and technical terms.
+- Typical mix: `tfng` + one or two completion types (`note_completion`, `table_completion`,
+  `flowchart_completion`, `sentence_completion`, `summary_completion`, `diagram_label`) or
+  `short_answer`. `match_info` is also common.
+
+Part 2 profile (`slot: "main"`, `style: "P2"`):
+- Word count from the level table, 6–8 paragraphs, 13 questions, `suggestedMinutes: 20`.
+- A descriptive-discursive text: a problem and responses to it, research findings with the views
+  of 2–5 named researchers, or the development of an idea, with labelled paragraphs.
+- Typical mix: `headings` or `match_info` + `match_features` / `mcq` / `sentence_endings` +
+  `summary_box` / `summary_completion` / `sentence_completion`.
 
 Part 3 profile (`slot: "p3"`, `style: "P3"`):
 - 900–1100 words, 6–8 paragraphs, 14 questions (13 allowed), `suggestedMinutes: 20`.
@@ -141,7 +160,7 @@ people.
 Mix rules:
 - 3 groups per passage (2 or 4 allowed), numbered continuously 1..13 (or 1..14). Each group has
   3–7 items (`headings` 4–7, `mcq` 2–4, `mcq_multi` 2 or 3 numbers).
-- Main passage: combine one "locate & check" type (tfng/ynng/mcq/match_*), one completion type
+- Part 1 and Part 2: combine one "locate & check" type (tfng/ynng/mcq/match_*), one completion type
   and one matching/global type, as real passages do. Part 3: see section 3.
 - `ynng` only on texts that state the writer's opinions/claims; `tfng` on factual texts.
   Never both in one passage. `headings` and `match_info` not both in one passage.
@@ -152,7 +171,7 @@ Mix rules:
   6.5–7.0: headings, match_features, mcq, summary_box, sentence_completion;
   ≥ 7.5: ynng, mcq, mcq_multi, sentence_endings, summary_box, match_features).
 - Do not reuse exactly the same three types as the previous passage of the same slot, and do not
-  give the two passages of one day any type in common.
+  give the three passages of one day any type in common.
 
 ## 6. Item-writing rules (the quality bar)
 
@@ -230,8 +249,8 @@ Explanations (shown to the learner after submission, in Simplified Chinese)
   "id": "2026-10-30",
   "date": "2026-10-30",
   "level": 6.5,
-  "slot": "main",                // "main" (adaptive) | "p3" (daily Part 3, id ends in -p)
-  "style": "P2",                 // P1 | P2 | P3, from the level table; always P3 for slot "p3"
+  "slot": "main",                // "p1" (Part 1, id ends in -a) | "main" (Part 2, adaptive) | "p3" (Part 3, id ends in -p)
+  "style": "P2",                 // P1 for slot p1, P2 for slot main, P3 for slot p3
   "topicArea": "biology & ecology",
   "title": "…",
   "subtitle": "…",               // optional, "" if none
@@ -241,7 +260,7 @@ Explanations (shown to the learner after submission, in Simplified Chinese)
   "suggestedMinutes": 20,
   "vocab": [ {"w": "mitigate", "zh": "减轻；缓和"} ],
   "generatedAt": "2026-10-30T06:50:00+08:00",
-  "spec": "v2"
+  "spec": "v3"
 }
 ```
 Every GROUP has `type`, `from`, `to`, `instructions` (array of strings, official wording) and
