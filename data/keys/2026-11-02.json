@@ -1,0 +1,112 @@
+{
+ "id": "2026-11-02",
+ "answers": {
+  "1": {
+   "a": "i",
+   "ev": {
+    "p": "B",
+    "q": "the children were better at recognising the letters they had written than those they had typed"
+   },
+   "why": "B段主旨：手写学习的字母更容易认出，尤其是相似字母（b 和 d）。i Letters learned by hand are easier to tell apart ↔ better at recognising the letters they had written… letters that closely resembled one another。ix 是干扰项：段中有幼儿和键盘，但没有说孩子更喜欢屏幕。"
+  },
+  "2": {
+   "a": "iv",
+   "ev": {
+    "p": "C",
+    "q": "her study measured brain activity rather than learning, and that a busier brain is not necessarily one that remembers more"
+   },
+   "why": "C段：手写时大脑活动更广，但 Solberg 强调测量的是大脑活动而不是学习效果。iv Activity in the brain is not proof of learning ↔ measured brain activity rather than learning。只看段落前半容易选“手写更好”类标题，但本段的关键在于这个限定。"
+  },
+  "3": {
+   "a": "v",
+   "ev": {
+    "p": "D",
+    "q": "typists, able to keep up with the speaker, tended to copy down what was said word for word"
+   },
+   "why": "D段：打字者逐字记录，理解题反而更差。v The cost of copying everything down ↔ copy down what was said word for word + performed worse。ii（打字更快）只是段中的一个细节（able to keep up），不是主旨。"
+  },
+  "4": {
+   "a": "vi",
+   "ev": {
+    "p": "E",
+    "q": "what matters is the strategy a student adopts, not the tool"
+   },
+   "why": "E段：重复实验差距很小；要求笔记本用户用自己的话记录后成绩追平。vi The method matters more than the instrument ↔ the strategy a student adopts, not the tool。v 也与“抄写”有关，但E段的重点是推翻D段的结论，而不是抄写的代价。"
+  },
+  "5": {
+   "a": "vii",
+   "ev": {
+    "p": "F",
+    "q": "examiners tend to award lower marks to answers written in untidy handwriting, even when the content is identical"
+   },
+   "why": "F段：字迹潦草会被打低分，Grant 主张机考。vii How appearance can influence a mark ↔ lower marks to answers written in untidy handwriting。x 是干扰项：段末只顺带提到设备成本（cost of equipment），并非段落主旨。"
+  },
+  "6": {
+   "a": "viii",
+   "ev": {
+    "p": "G",
+    "q": "it remains valuable in the early years, when children are learning to recognise and form letters, while keyboard skills deserve serious and systematic teaching from the later years of primary school onwards"
+   },
+   "why": "G段：低年级重手写，小学高年级起系统教键盘。viii A place for each skill at a different age ↔ early years… later years of primary school；Petrov 的 when each should be introduced 也印证这一点。iii（学校必须教什么的变化）是A段的示例标题。"
+  },
+  "7": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "the effort of forming each shape by hand forces children to attend to the features that distinguish one letter from another"
+   },
+   "why": "B段 Tanaka。shape each symbol oneself ↔ forming each shape by hand；draws attention to what makes it different ↔ attend to the features that distinguish one letter from another。Petrov（E）也谈低龄儿童，但她讲的是何时引入哪种工具。"
+  },
+  "8": {
+   "a": "D",
+   "ev": {
+    "p": "F",
+    "q": "examiners tend to award lower marks to answers written in untidy handwriting, even when the content is identical to that of neater scripts"
+   },
+   "why": "F段 Grant。visual quality of a script ↔ untidy handwriting / neater scripts；affect the score ↔ award lower marks；regardless of what it says ↔ even when the content is identical。"
+  },
+  "9": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "he instructed laptop users to put the lecture into their own words rather than transcribing it, and their scores rose to match those of the handwriting group"
+   },
+   "why": "E段 Avery。Telling students how to take notes ↔ instructed laptop users to put the lecture into their own words；remove the benefit of using a pen ↔ scores rose to match those of the handwriting group。D段的实验没有给出研究者姓名，不能对应任何选项。"
+  },
+  "10": {
+   "a": "D",
+   "ev": {
+    "p": "F",
+    "q": "requiring handwritten papers may penalise them for a skill they rarely practise"
+   },
+   "why": "F段 Grant 的第二个观点。disadvantaged ↔ penalise；a format they seldom use ↔ a skill they rarely practise（手写长文）。Solberg（B）不选：她的研究与考试无关。"
+  },
+  "11": {
+   "a": "electrodes",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "Using caps fitted with more than 250 electrodes"
+   },
+   "why": "C段。over 250 ↔ more than 250；attached to a cap ↔ caps fitted with。不要填 caps：题干已把 cap 作为载体给出。"
+  },
+  "12": {
+   "a": "information",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "particularly in regions associated with memory and the processing of new information"
+   },
+   "why": "C段。areas linked to ↔ regions associated with；handling unfamiliar ↔ the processing of new。memory 在题干中已出现，所以答案是 information。"
+  },
+  "13": {
+   "a": "words",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "students who typed their notes during a recorded lecture produced far more words than those who wrote by hand"
+   },
+   "why": "D段。typed notes contained a far larger number of ↔ produced far more words。notes 已在题干中出现；facts 是理解题之外的回忆题内容，不是笔记中多出来的东西。"
+  }
+ }
+}

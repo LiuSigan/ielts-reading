@@ -1,0 +1,262 @@
+{
+ "id": "2026-11-02",
+ "date": "2026-11-02",
+ "level": 6.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "education",
+ "title": "Pen Versus Keyboard",
+ "subtitle": "Schools are spending less time on handwriting. What does the research say about what is being lost?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "When Finland revised its national curriculum in 2016, it stopped requiring schools to teach joined-up handwriting and gave keyboard skills a larger place instead. A few years earlier, the Common Core standards adopted by most American states had left cursive writing out altogether. Other education systems have since debated similar changes. To supporters, these were sensible adjustments to a world in which most adult writing is done on screens. To critics, they risked discarding a skill whose value goes far beyond producing legible text. The disagreement has since attracted a substantial body of research, though the findings are rather less decisive than either side tends to suggest."
+  },
+  {
+   "label": "B",
+   "text": "Some of the strongest evidence concerns young children who are only beginning to read. Dr Mei Tanaka of Hiroshima University taught a class of forty children aged five a set of unfamiliar letter shapes from an invented alphabet, some by copying them with a pencil and others by selecting them on a keyboard. A week later, the children were better at recognising the letters they had written than those they had typed, and the advantage was clearest for letters that closely resembled one another, such as b and d. Tanaka believes that the effort of forming each shape by hand forces children to attend to the features that distinguish one letter from another, something that pressing a key does not require."
+  },
+  {
+   "label": "C",
+   "text": "Neuroscientists have looked for a physical basis for such effects. Using caps fitted with more than 250 electrodes, Dr Ingrid Solberg and her colleagues in Trondheim recorded the brain activity of university students as they either wrote words by hand or typed them. Handwriting produced more widespread and more closely coordinated activity, particularly in regions associated with memory and the processing of new information. Solberg is careful, however, to point out that her study measured brain activity rather than learning, and that a busier brain is not necessarily one that remembers more. Her team is now following a group of schoolchildren over three years to see whether the pattern translates into better results."
+  },
+  {
+   "label": "D",
+   "text": "The question that has drawn most public attention is whether students should take notes on laptops. In one widely reported experiment, students who typed their notes during a recorded lecture produced far more words than those who wrote by hand, but performed worse when later asked questions that required them to understand ideas rather than recall facts. The explanation offered was that typists, able to keep up with the speaker, tended to copy down what was said word for word, whereas those writing by hand could not keep pace and were therefore forced to select, summarise and, in the process, think. The study was quickly taken up by newspapers, and a number of universities began to discourage laptop use in lectures as a result."
+  },
+  {
+   "label": "E",
+   "text": "Later work has complicated this picture. Dr Paul Avery, an educational psychologist in Ohio, repeated the experiment with several hundred students and found the difference between the two groups to be small and, on some tests, absent altogether. In a further study he instructed laptop users to put the lecture into their own words rather than transcribing it, and their scores rose to match those of the handwriting group. For Avery, the lesson is that what matters is the strategy a student adopts, not the tool: someone who copies mechanically with a pen learns no more than someone who does so with a keyboard. He adds that laptops bring other risks, notably the temptation to check messages, which have nothing to do with typing as such."
+  },
+  {
+   "label": "F",
+   "text": "Practical considerations also enter the debate. Professor Laura Grant, who studies assessment at the University of Bristol, has found that examiners tend to award lower marks to answers written in untidy handwriting, even when the content is identical to that of neater scripts. Since many students now write at length by hand only in examinations, she argues that requiring handwritten papers may penalise them for a skill they rarely practise. Typed examinations, in her view, would allow markers to judge what candidates know rather than how their writing looks, although she concedes that they raise problems of their own, from the cost of equipment to the risk of technical failure."
+  },
+  {
+   "label": "G",
+   "text": "Few researchers, however, propose abandoning handwriting entirely, and even fewer suggest that children should be kept away from keyboards. The emerging consensus is that it remains valuable in the early years, when children are learning to recognise and form letters, while keyboard skills deserve serious and systematic teaching from the later years of primary school onwards. As Dr Nadia Petrov, a literacy specialist in Toronto, puts it, the useful question is not whether children should use a pen or a keyboard, but when each should be introduced and for what purpose. That, at least, is a question that research is well placed to answer."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Choose the correct heading for paragraphs B–G from the list of headings below.",
+    "Write the correct number, i–x, in boxes 1–6 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "Letters learned by hand are easier to tell apart"
+    },
+    {
+     "k": "ii",
+     "t": "Why typing is faster than writing"
+    },
+    {
+     "k": "iii",
+     "t": "A change in what schools must teach"
+    },
+    {
+     "k": "iv",
+     "t": "Activity in the brain is not proof of learning"
+    },
+    {
+     "k": "v",
+     "t": "The cost of copying everything down"
+    },
+    {
+     "k": "vi",
+     "t": "The method matters more than the instrument"
+    },
+    {
+     "k": "vii",
+     "t": "How appearance can influence a mark"
+    },
+    {
+     "k": "viii",
+     "t": "A place for each skill at a different age"
+    },
+    {
+     "k": "ix",
+     "t": "Young children who prefer screens to paper"
+    },
+    {
+     "k": "x",
+     "t": "Providing computers for every classroom"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    },
+    {
+     "n": 6,
+     "para": "G"
+    }
+   ]
+  },
+  {
+   "type": "match_features",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Look at the following statements (Questions 7–10) and the list of researchers below.",
+    "Match each statement with the correct researcher, A–E.",
+    "Write the correct letter, A–E, in boxes 7–10 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "listTitle": "List of Researchers",
+   "reuse": true,
+   "options": [
+    {
+     "k": "A",
+     "t": "Mei Tanaka"
+    },
+    {
+     "k": "B",
+     "t": "Ingrid Solberg"
+    },
+    {
+     "k": "C",
+     "t": "Paul Avery"
+    },
+    {
+     "k": "D",
+     "t": "Laura Grant"
+    },
+    {
+     "k": "E",
+     "t": "Nadia Petrov"
+    }
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "Being made to shape each symbol oneself draws attention to what makes it different from similar ones."
+    },
+    {
+     "n": 8,
+     "text": "The visual quality of a script can affect the score it receives, regardless of what it says."
+    },
+    {
+     "n": 9,
+     "text": "Telling students how to take notes can remove the benefit of using a pen."
+    },
+    {
+     "n": 10,
+     "text": "Students may be disadvantaged by being assessed in a format they seldom use."
+    }
+   ]
+  },
+  {
+   "type": "table_completion",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete the table below.",
+    "Choose ONE WORD ONLY from the passage for each answer.",
+    "Write your answers in boxes 11–13 on your answer sheet."
+   ],
+   "wordLimit": "ONE WORD ONLY",
+   "maxWords": 1,
+   "allowNumber": false,
+   "title": "Two studies of writing by hand",
+   "head": [
+    "Study",
+    "Procedure",
+    "Result"
+   ],
+   "rows": [
+    [
+     "Trondheim (Solberg)",
+     "brain activity recorded through over 250 [[11]] attached to a cap",
+     "handwriting produced broader, better-coordinated activity in areas linked to memory and handling unfamiliar [[12]]"
+    ],
+    [
+     "Lecture experiment",
+     "typed notes contained a far larger number of [[13]]",
+     "typists did worse on questions that tested understanding"
+    ]
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "curriculum",
+   "zh": "课程（体系）"
+  },
+  {
+   "w": "legible",
+   "zh": "（字迹）清楚易读的"
+  },
+  {
+   "w": "decisive",
+   "zh": "决定性的；明确的"
+  },
+  {
+   "w": "resemble",
+   "zh": "像；类似"
+  },
+  {
+   "w": "distinguish A from B",
+   "zh": "区分A与B"
+  },
+  {
+   "w": "coordinated",
+   "zh": "协调的"
+  },
+  {
+   "w": "transcribe",
+   "zh": "逐字记录；转录"
+  },
+  {
+   "w": "mechanically",
+   "zh": "机械地"
+  },
+  {
+   "w": "penalise",
+   "zh": "使处于不利地位；惩罚"
+  },
+  {
+   "w": "concede",
+   "zh": "（不情愿地）承认"
+  },
+  {
+   "w": "consensus",
+   "zh": "共识"
+  },
+  {
+   "w": "systematic",
+   "zh": "系统的"
+  }
+ ],
+ "generatedAt": "2026-11-02T06:55:00+08:00",
+ "spec": "v3"
+}

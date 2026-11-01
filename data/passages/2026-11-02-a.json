@@ -1,0 +1,174 @@
+{
+ "id": "2026-11-02-a",
+ "date": "2026-11-02",
+ "level": 6.0,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "biology & ecology",
+ "title": "The Long Way Home",
+ "subtitle": "The extraordinary life cycle of the European eel, and how it was finally pieced together",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "For more than two thousand years, the European eel was one of the great puzzles of natural history. Eels were caught in vast numbers in rivers and lakes from Scandinavia to North Africa, yet no one had ever found one carrying eggs, or seen a young eel smaller than a finger. Aristotle concluded that eels did not breed at all but arose spontaneously from mud and rotting seaweed. Later writers suggested that they grew from horse hairs dropped into water, or from the skin that adult eels rubbed off against rocks. Even careful naturalists of the eighteenth century, who classified thousands of plants and animals, could say nothing certain about how eels reproduced. As late as 1876, a young medical student in Trieste named Sigmund Freud spent several weeks dissecting around 400 eels in search of male reproductive organs, and failed to find any."
+  },
+  {
+   "label": "B",
+   "text": "The first real breakthrough came in 1896, when two Italian zoologists, Giovanni Battista Grassi and Salvatore Calandruccio, kept a number of small, transparent, leaf-shaped fish in a tank at Messina in Sicily. These creatures, known as leptocephali, had been described decades earlier and were generally believed to be a separate species. In captivity, however, they gradually shrank in length, became rounder and turned into miniature eels. The leptocephalus, Grassi realised, was simply the larval form of the eel. Because leptocephali had been caught only rarely, and never in rivers, it was clear that eels spent the early part of their lives at sea. The question now became where in the ocean the larvae themselves came from."
+  },
+  {
+   "label": "C",
+   "text": "The answer was supplied by the Danish biologist Johannes Schmidt, who spent almost two decades, beginning in 1904, sailing the North Atlantic and collecting leptocephali with fine nets. His method was simple in principle: the further west he travelled, the smaller the larvae he caught. By the early 1920s he had traced the very smallest, barely 5 millimetres long, to the Sargasso Sea, an area of warm, calm water, thick with floating seaweed, lying south-west of Bermuda and more than 5,000 kilometres from the coasts of Europe. Schmidt concluded that every European eel was born there, and his conclusion has stood for a century, although no one has yet observed adult eels spawning in the wild."
+  },
+  {
+   "label": "D",
+   "text": "The journey that follows is one of the longest undertaken by any fish. After hatching, the larvae drift north-east with the Gulf Stream and the North Atlantic Drift, feeding on tiny particles of organic matter known as marine snow. Estimates of how long this crossing takes vary from under one year to nearly three. As they approach the continental shelf, the larvae undergo their first transformation, becoming glass eels: still transparent, but now eel-shaped. On reaching the coast they gradually darken in colour and become known as elvers, and in spring they swim up rivers in large numbers, sometimes climbing damp walls and weirs to get past obstacles. In some European rivers, the arrival of elvers was once so predictable that whole villages turned out to catch them in baskets, and they were fried and eaten as a seasonal delicacy."
+  },
+  {
+   "label": "E",
+   "text": "Once in fresh water, the young fish become yellow eels, the stage at which most people encounter them. This phase may last anywhere from five to more than twenty years, with females generally staying longer and growing considerably larger than males, during which the eels feed mainly at night on insects, worms, snails and small fish. Then, in response to signals that are still poorly understood, some of them begin a final transformation. Their eyes enlarge, their digestive system shrinks so that they stop eating altogether, and their backs darken while their bellies turn a metallic colour. These silver eels leave the rivers on dark, moonless autumn nights and head back out to sea, living on stored fat for a journey that may last many months."
+  },
+  {
+   "label": "F",
+   "text": "For a long time, this return migration was the most mysterious part of the story, because eels released with tracking tags tended to disappear long before reaching their destination. In 2022, however, a team of researchers reported that they had followed a small number of silver eels released near the Azores, using satellite tags, all the way to the Sargasso Sea, providing the first direct evidence that adults complete the journey. The eels appeared to travel deep during the day and closer to the surface at night, perhaps to avoid predators. Such knowledge has become urgent. The number of glass eels arriving at European coasts has fallen by more than 90 per cent since the 1980s, and the species is now classified as critically endangered. Dams, pollution, an introduced parasite from Asia and overfishing have all been blamed, and because eels cannot yet be bred commercially in captivity, every eel on a fish farm began its life in the wild."
+  }
+ ],
+ "groups": [
+  {
+   "type": "tfng",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "Do the following statements agree with the information given in the reading passage?",
+    "In boxes 1–5 on your answer sheet, write",
+    "TRUE if the statement agrees with the information",
+    "FALSE if the statement contradicts the information",
+    "NOT GIVEN if there is no information on this"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "Aristotle thought that eels came into being from decaying matter rather than through reproduction."
+    },
+    {
+     "n": 2,
+     "text": "Grassi and Calandruccio were the first scientists to give an account of leptocephali."
+    },
+    {
+     "n": 3,
+     "text": "Schmidt's expeditions were paid for by the Danish government."
+    },
+    {
+     "n": 4,
+     "text": "Scientists have now watched mature eels releasing eggs in the Sargasso Sea."
+    },
+    {
+     "n": 5,
+     "text": "All farmed eels started their lives outside captivity."
+    }
+   ]
+  },
+  {
+   "type": "flowchart_completion",
+   "from": 6,
+   "to": 10,
+   "instructions": [
+    "Complete the flow-chart below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 6–10 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "title": "Stages in the life of a European eel",
+   "steps": [
+    "Eggs hatch in the Sargasso Sea",
+    "Larvae are carried by ocean currents, surviving on [[6]]",
+    "Close to the continental shelf, larvae change shape and become [[7]]",
+    "Near land their colour deepens and they are now called [[8]]",
+    "For between five and twenty or more years they live in fresh water as [[9]], hunting mainly after dark",
+    "Eyes grow larger, the gut stops working and the underside turns silvery",
+    "They return to the ocean, using reserves of [[10]] built up earlier"
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "The reading passage has six paragraphs, A–F.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–F, in boxes 11–13 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 11,
+     "text": "a description of an observation made on creatures kept in an aquarium"
+    },
+    {
+     "n": 12,
+     "text": "a reason why one part of the eel's journey was hard to study"
+    },
+    {
+     "n": 13,
+     "text": "an account of the reasoning used to locate the place where eels are born"
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "spontaneously",
+   "zh": "自发地"
+  },
+  {
+   "w": "dissect",
+   "zh": "解剖"
+  },
+  {
+   "w": "breakthrough",
+   "zh": "突破"
+  },
+  {
+   "w": "larva (pl. larvae)",
+   "zh": "幼虫；幼体"
+  },
+  {
+   "w": "spawn",
+   "zh": "产卵"
+  },
+  {
+   "w": "continental shelf",
+   "zh": "大陆架"
+  },
+  {
+   "w": "transformation",
+   "zh": "转变；变态"
+  },
+  {
+   "w": "weir",
+   "zh": "堰；拦河坝"
+  },
+  {
+   "w": "digestive system",
+   "zh": "消化系统"
+  },
+  {
+   "w": "migration",
+   "zh": "迁徙；洄游"
+  },
+  {
+   "w": "critically endangered",
+   "zh": "极度濒危的"
+  },
+  {
+   "w": "in captivity",
+   "zh": "在人工饲养条件下"
+  }
+ ],
+ "generatedAt": "2026-11-02T06:50:00+08:00",
+ "spec": "v3"
+}

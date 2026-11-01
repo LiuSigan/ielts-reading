@@ -1,0 +1,117 @@
+{
+ "id": "2026-11-02-p",
+ "answers": {
+  "1": {
+   "a": "B",
+   "ev": {
+    "p": "A",
+    "q": "because an ultrasound scan of the thyroid could be added to a check-up for a small extra fee, many clinics began to offer one"
+   },
+   "why": "A段。B cheap to include ↔ could be added … for a small extra fee；became widespread ↔ many clinics began to offer one, and millions of people accepted。A 与原文相反（Thyroid cancer was not among the diseases it targeted）；C 相反（millions accepted）；D 相反（deaths barely changed）。"
+  },
+  "2": {
+   "a": "C",
+   "ev": {
+    "p": "B",
+    "q": "In overdiagnosis the pathologist is right; it is the prediction implied by the diagnosis, namely that the condition is dangerous, that turns out to be wrong."
+   },
+   "why": "B段。C the abnormality exists but poses no threat ↔ genuine abnormality, correctly identified … the condition is dangerous … turns out to be wrong。B 把两个概念调换了：假阳性是根本没有病（disease where there is none）；A 把“化验结果不准”错安到过度诊断上。"
+  },
+  "3": {
+   "a": "A",
+   "ev": {
+    "p": "C",
+    "q": "Every overdiagnosed patient is counted among the survivors of the disease"
+   },
+   "why": "C段末两句（本段主旨在最后才点明）。A patients who were never at risk are recorded as having survived ↔ Every overdiagnosed patient is counted among the survivors。D 是病人和医生的主观看法（the operation saved her life），并不是作者给出的统计原因。"
+  },
+  "4": {
+   "a": "B",
+   "ev": {
+    "p": "G",
+    "q": "a medicine which finds more disease is not necessarily one that prevents more deaths"
+   },
+   "why": "全文主旨见G段末句：查出更多疾病不一定减少死亡。B detecting more illness need not improve health ↔ finds more disease is not necessarily one that prevents more deaths。A 过度：作者在E段明确说问题不在于筛查总体好坏，D段也承认部分筛查有效；C 只涉及局部例子。"
+  },
+  "5": {
+   "a": "A",
+   "ev": {
+    "p": "D",
+    "q": "estimates of overdiagnosis depend on assumptions about how cancers would have behaved without treatment"
+   },
+   "why": "D段。suppositions ↔ assumptions；the course an illness would have followed if left untreated ↔ how cancers would have behaved without treatment。measurements 语法上能填，但原文说这种情况 cannot be observed directly，恰恰不是测量。"
+  },
+  "6": {
+   "a": "C",
+   "ev": {
+    "p": "D",
+    "q": "screening has clearly reduced deaths from some cancers, such as those of the cervix and the bowel"
+   },
+   "why": "D段。undeniable benefits ↔ clearly reduced deaths；certain cancers ↔ some cancers, such as … cervix and bowel。harms 意思相反。"
+  },
+  "7": {
+   "a": "D",
+   "ev": {
+    "p": "E",
+    "q": "That depends on the natural history of the disease in question."
+   },
+   "why": "E段。how a disease naturally develops ↔ the natural history of the disease。unpredictably 语法可填，但原文强调的是疾病的“自然病程”，而非不可预测。"
+  },
+  "8": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "For conditions that progress steadily, finding them early makes obvious sense."
+   },
+   "why": "E段。advance steadily ↔ progress steadily；catching conditions early helps ↔ finding them early makes obvious sense。unpredictably 与之相对，属于干扰。"
+  },
+  "9": {
+   "a": "F",
+   "ev": {
+    "p": "E",
+    "q": "early detection mainly enlarges the pool of people who receive treatment, together with its side effects, without reducing the number who die"
+   },
+   "why": "E段。chiefly increases the number of people who are treated ↔ mainly enlarges the pool of people who receive treatment。cured 是最大陷阱：原文说死亡人数不变，多出来的只是“接受治疗的人”，不是“被治愈的人”。"
+  },
+  "10": {
+   "a": "G",
+   "ev": {
+    "p": "F",
+    "q": "Diagnostic thresholds are periodically lowered"
+   },
+   "why": "F段。the lowering of the levels at which conditions … are diagnosed ↔ Diagnostic thresholds are periodically lowered / the level … regarded as abnormal is reduced。raising 方向相反。"
+  },
+  "11": {
+   "a": "H",
+   "ev": {
+    "p": "F",
+    "q": "Doctors, meanwhile, are far more likely to be criticised for missing a disease than for treating one unnecessarily"
+   },
+   "why": "F段。greater blame … for overlooking an illness than for treating it needlessly ↔ far more likely to be criticised for missing a disease than for treating one unnecessarily。harms 语法可填，但原文讲的是医生受到的批评，而不是伤害。"
+  },
+  "12": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "Yet over the same period, the number of deaths from thyroid cancer barely changed."
+   },
+   "why": "12–14 题答案为 A、C、G（顺序不限）。A ↔ A段：诊断数增加约十五倍，而死亡人数 barely changed。B 错：甲状腺癌 was not among the diseases it targeted。"
+  },
+  "13": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "For those that often stay small or even regress, as many thyroid and prostate tumours appear to do"
+   },
+   "why": "C ↔ E段：许多甲状腺肿瘤 often stay small or even regress（regress ↔ shrink；appear ↔ appear not to grow）。D 与E段末句相反（frequently look identical under the microscope）；E 与G段相反（only a minority enlarge significantly over a decade）。"
+  },
+  "14": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "some specialists have proposed that the least aggressive thyroid abnormalities should no longer be called cancer at all"
+   },
+   "why": "G ↔ G段：some specialists ↔ Some experts；the least aggressive … should no longer be called cancer ↔ mildest forms should be given a different name。F 是D段关于宫颈癌和肠癌的说法，被张冠李戴到甲状腺癌上。"
+  }
+ }
+}

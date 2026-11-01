@@ -1,0 +1,297 @@
+{
+ "id": "2026-11-02-p",
+ "date": "2026-11-02",
+ "level": 7.5,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "health & medicine",
+ "title": "The Harm in Looking",
+ "subtitle": "Why finding more disease does not always mean saving more lives",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "In 1999 South Korea launched a national screening programme for several common cancers. Thyroid cancer was not among the diseases it targeted, but because an ultrasound scan of the thyroid could be added to a check-up for a small extra fee, many clinics began to offer one, and millions of people accepted. Over the following twelve years the number of thyroid cancers diagnosed in the country rose roughly fifteen-fold, until it had become the most commonly diagnosed cancer of all. Tens of thousands of people had their thyroid glands removed, and most of them now take hormone replacement for the rest of their lives. Yet over the same period, the number of deaths from thyroid cancer barely changed."
+  },
+  {
+   "label": "B",
+   "text": "The most plausible explanation is not that South Koreans had suddenly developed more cancer but that doctors had started to find tumours that would never have caused any harm. This is what epidemiologists call overdiagnosis: the detection of a genuine abnormality, correctly identified, that would not have produced symptoms or shortened life if it had been left alone. The concept is easily misunderstood, even by doctors. It is not the same as a false positive, in which a test suggests disease where there is none. In overdiagnosis the pathologist is right; it is the prediction implied by the diagnosis, namely that the condition is dangerous, that turns out to be wrong."
+  },
+  {
+   "label": "C",
+   "text": "Overdiagnosis is peculiarly hard to see, because no individual case can ever be identified. A patient whose small tumour is removed and who lives for another forty years will reasonably believe that the operation saved her life, and her doctor is likely to agree. Only at the level of whole populations, by comparing rates of diagnosis with rates of death, does the pattern become visible. This invisibility has a curious consequence. Every overdiagnosed patient is counted among the survivors of the disease, and so the more overdiagnosis a screening programme produces, the more successful it appears to be."
+  },
+  {
+   "label": "D",
+   "text": "Some researchers argue that the problem has been exaggerated. Dr Anna Lindgren, a Swedish oncologist, points out that estimates of overdiagnosis depend on assumptions about how cancers would have behaved without treatment, which by definition cannot be observed directly. Others note that screening has clearly reduced deaths from some cancers, such as those of the cervix and the bowel, where tests can detect changes before they become malignant and allow them to be removed. It would be absurd, they insist, to abandon programmes of proven value because of difficulties with others. Lindgren also warns that publicity about overdiagnosis may discourage people from attending screening that would genuinely benefit them, a risk that she considers far more serious than unnecessary surgery."
+  },
+  {
+   "label": "E",
+   "text": "These points are fair, but they do not dispose of the problem. The issue is not whether screening is good or bad in general, but whether a particular test, applied to a particular group of people, does more good than harm. That depends on the natural history of the disease in question. For conditions that progress steadily, finding them early makes obvious sense. For those that often stay small or even regress, as many thyroid and prostate tumours appear to do, early detection mainly enlarges the pool of people who receive treatment, together with its side effects, without reducing the number who die. Some tumours will kill if they are left untreated, and no responsible doctor would suggest ignoring them. The difficulty is that, at the moment of diagnosis, the two kinds of tumour frequently look identical under the microscope."
+  },
+  {
+   "label": "F",
+   "text": "The drift towards overdiagnosis is reinforced by forces that have little to do with biology. Diagnostic thresholds are periodically lowered: when the level of blood pressure or cholesterol regarded as abnormal is reduced, millions of people become patients overnight without any change in their health. Professor Daniel Okeke, who studies health policy in London, notes that the committees responsible for setting such thresholds have sometimes included experts with financial links to companies that make the relevant drugs. Doctors, meanwhile, are far more likely to be criticised for missing a disease than for treating one unnecessarily, and patients generally prefer action to waiting, even when they are told that waiting carries little risk. Each of these pressures pushes in the same direction, and none of them is easily resisted by an individual clinician."
+  },
+  {
+   "label": "G",
+   "text": "What might be done? One approach is active surveillance, in which low-risk tumours are monitored rather than removed, and treatment is offered only if they grow. Studies in Japan of small thyroid cancers managed in this way have found that only a minority enlarge significantly over a decade. Another is to change the language of diagnosis: some specialists have proposed that the least aggressive thyroid abnormalities should no longer be called cancer at all, since the word itself pushes patients towards surgery. A third is simply to screen less, and to ask more carefully who is likely to benefit. After the scale of the Korean experience became widely known, a group of doctors publicly urged an end to routine thyroid scans in healthy people, and the number of operations fell sharply within a few years. Admittedly, none of these will appeal to a patient who has just been told that something is growing in her body. But the lesson of South Korea is that looking harder is not a neutral act, and that a medicine which finds more disease is not necessarily one that prevents more deaths."
+  }
+ ],
+ "groups": [
+  {
+   "type": "mcq",
+   "from": 1,
+   "to": 4,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 1–4 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "What does the writer say about thyroid scans in South Korea?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They formed part of the national programme from the outset."
+      },
+      {
+       "k": "B",
+       "t": "They became widespread because they were cheap to include."
+      },
+      {
+       "k": "C",
+       "t": "Most people who were offered one chose to decline it."
+      },
+      {
+       "k": "D",
+       "t": "They brought about a fall in deaths from the disease."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "text": "How does the writer distinguish overdiagnosis from a false positive?",
+     "options": [
+      {
+       "k": "A",
+       "t": "In overdiagnosis, the laboratory result is inaccurate."
+      },
+      {
+       "k": "B",
+       "t": "In a false positive, a real condition proves harmless."
+      },
+      {
+       "k": "C",
+       "t": "In overdiagnosis, the abnormality exists but poses no threat."
+      },
+      {
+       "k": "D",
+       "t": "In a false positive, the patient receives no treatment."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "text": "According to the writer, overdiagnosis makes a screening programme look successful because",
+     "options": [
+      {
+       "k": "A",
+       "t": "patients who were never at risk are recorded as having survived."
+      },
+      {
+       "k": "B",
+       "t": "doctors are reluctant to report results that are unfavourable."
+      },
+      {
+       "k": "C",
+       "t": "deaths from other causes are left out of the statistics."
+      },
+      {
+       "k": "D",
+       "t": "tumours are removed before they have a chance to spread."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "text": "What is the writer's main purpose in the passage?",
+     "options": [
+      {
+       "k": "A",
+       "t": "to argue that screening for cancer should be abandoned"
+      },
+      {
+       "k": "B",
+       "t": "to show that detecting more illness need not improve health"
+      },
+      {
+       "k": "C",
+       "t": "to compare the medical systems of South Korea and Japan"
+      },
+      {
+       "k": "D",
+       "t": "to explain recent advances in diagnostic technology"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "summary_box",
+   "from": 5,
+   "to": 11,
+   "instructions": [
+    "Complete the summary using the list of words, A–L, below.",
+    "Write the correct letter, A–L, in boxes 5–11 on your answer sheet."
+   ],
+   "title": "The debate over overdiagnosis",
+   "text": "Critics such as Lindgren argue that figures for overdiagnosis rest on [[5]] about the course an illness would have followed if left untreated. Screening for certain cancers, they add, has produced undeniable [[6]]. The writer accepts this, but maintains that the worth of any test depends on how a disease [[7]] develops: catching conditions early helps when they advance [[8]], whereas for tumours that often remain small it chiefly increases the number of people who are [[9]]. The problem is made worse by the [[10]] of the levels at which conditions such as high blood pressure are diagnosed, and by the greater [[11]] that doctors face for overlooking an illness than for treating it needlessly.",
+   "options": [
+    {
+     "k": "A",
+     "t": "suppositions"
+    },
+    {
+     "k": "B",
+     "t": "measurements"
+    },
+    {
+     "k": "C",
+     "t": "benefits"
+    },
+    {
+     "k": "D",
+     "t": "naturally"
+    },
+    {
+     "k": "E",
+     "t": "steadily"
+    },
+    {
+     "k": "F",
+     "t": "treated"
+    },
+    {
+     "k": "G",
+     "t": "lowering"
+    },
+    {
+     "k": "H",
+     "t": "blame"
+    },
+    {
+     "k": "I",
+     "t": "harms"
+    },
+    {
+     "k": "J",
+     "t": "raising"
+    },
+    {
+     "k": "K",
+     "t": "cured"
+    },
+    {
+     "k": "L",
+     "t": "unpredictably"
+    }
+   ]
+  },
+  {
+   "type": "mcq_multi",
+   "from": 12,
+   "to": 14,
+   "pick": 3,
+   "instructions": [
+    "Choose THREE letters, A–G.",
+    "Write the correct letters in boxes 12–14 on your answer sheet."
+   ],
+   "text": "Which THREE of the following statements about thyroid cancer are made in the passage?",
+   "options": [
+    {
+     "k": "A",
+     "t": "In South Korea, diagnoses rose while the death rate stayed roughly level."
+    },
+    {
+     "k": "B",
+     "t": "It was one of the original targets of the Korean screening programme."
+    },
+    {
+     "k": "C",
+     "t": "Many small tumours appear not to grow, and some may shrink."
+    },
+    {
+     "k": "D",
+     "t": "Harmless and dangerous tumours are easy to tell apart under a microscope."
+    },
+    {
+     "k": "E",
+     "t": "Most small tumours monitored in Japan grew considerably within ten years."
+    },
+    {
+     "k": "F",
+     "t": "It can be prevented by removing changes in cells before they turn malignant."
+    },
+    {
+     "k": "G",
+     "t": "Some experts think its mildest forms should be given a different name."
+    }
+   ]
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "screening programme",
+   "zh": "筛查项目"
+  },
+  {
+   "w": "plausible",
+   "zh": "貌似合理的；可信的"
+  },
+  {
+   "w": "epidemiologist",
+   "zh": "流行病学家"
+  },
+  {
+   "w": "abnormality",
+   "zh": "异常；病变"
+  },
+  {
+   "w": "false positive",
+   "zh": "假阳性"
+  },
+  {
+   "w": "oncologist",
+   "zh": "肿瘤科医生"
+  },
+  {
+   "w": "malignant",
+   "zh": "恶性的"
+  },
+  {
+   "w": "dispose of (a problem)",
+   "zh": "解决；驳倒（问题）"
+  },
+  {
+   "w": "regress",
+   "zh": "消退；退化"
+  },
+  {
+   "w": "threshold",
+   "zh": "阈值；标准线"
+  },
+  {
+   "w": "active surveillance",
+   "zh": "主动监测"
+  },
+  {
+   "w": "neutral",
+   "zh": "中性的；不偏不倚的"
+  }
+ ],
+ "generatedAt": "2026-11-02T07:00:00+08:00",
+ "spec": "v3"
+}

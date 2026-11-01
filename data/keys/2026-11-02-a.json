@@ -1,0 +1,116 @@
+{
+ "id": "2026-11-02-a",
+ "answers": {
+  "1": {
+   "a": "TRUE",
+   "ev": {
+    "p": "A",
+    "q": "Aristotle concluded that eels did not breed at all but arose spontaneously from mud and rotting seaweed"
+   },
+   "why": "A段。came into being ↔ arose spontaneously；decaying matter ↔ mud and rotting seaweed；rather than through reproduction ↔ did not breed at all。同段 horse hairs、skin 是“后来的作者”（Later writers）的说法，不是亚里士多德的。"
+  },
+  "2": {
+   "a": "FALSE",
+   "ev": {
+    "p": "B",
+    "q": "These creatures, known as leptocephali, had been described decades earlier"
+   },
+   "why": "B段。原文说柳叶鳗“几十年前就已被描述过”（had been described decades earlier），所以这两位不是最早描述它的人，与题干矛盾。他们的贡献是发现柳叶鳗就是鳗鱼的幼体，并非首次描述。"
+  },
+  "3": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "C",
+    "q": "The answer was supplied by the Danish biologist Johannes Schmidt, who spent almost two decades, beginning in 1904, sailing the North Atlantic"
+   },
+   "why": "C段只提到 Schmidt 是丹麦生物学家、航行近二十年，没有说经费来源。Danish 一词容易让人联想到丹麦政府，但文中没有任何资助信息，故 NOT GIVEN。"
+  },
+  "4": {
+   "a": "FALSE",
+   "ev": {
+    "p": "C",
+    "q": "although no one has yet observed adult eels spawning in the wild"
+   },
+   "why": "C段末句。watched mature eels releasing eggs ↔ observed adult eels spawning，原文明确说 no one has yet observed，矛盾，故 FALSE。F段2022年的卫星追踪只证明成鳗到达了马尾藻海，并没有观察到产卵，这是本题陷阱。"
+  },
+  "5": {
+   "a": "TRUE",
+   "ev": {
+    "p": "F",
+    "q": "every eel on a fish farm began its life in the wild"
+   },
+   "why": "F段末句。All farmed eels ↔ every eel on a fish farm；started their lives outside captivity ↔ began its life in the wild。原因是鳗鱼还不能人工商业化繁殖（cannot yet be bred commercially in captivity）。"
+  },
+  "6": {
+   "a": "marine snow",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "feeding on tiny particles of organic matter known as marine snow"
+   },
+   "why": "D段。surviving on ↔ feeding on；carried by ocean currents ↔ drift … with the Gulf Stream and the North Atlantic Drift。不要填 organic matter，它只是对 marine snow 的解释，而且两词以内的原文名称是 marine snow。"
+  },
+  "7": {
+   "a": "glass eels",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "As they approach the continental shelf, the larvae undergo their first transformation, becoming glass eels"
+   },
+   "why": "D段。Close to the continental shelf ↔ As they approach the continental shelf；change shape ↔ undergo their first transformation … now eel-shaped。elvers 是到达海岸、颜色变深之后的阶段，对应下一格。"
+  },
+  "8": {
+   "a": "elvers",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "On reaching the coast they gradually darken in colour and become known as elvers"
+   },
+   "why": "D段。Near land ↔ On reaching the coast；colour deepens ↔ darken in colour；now called ↔ become known as。glass eels 是透明阶段，在颜色变深之前。"
+  },
+  "9": {
+   "a": "yellow eels",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "Once in fresh water, the young fish become yellow eels"
+   },
+   "why": "E段。in fresh water ↔ Once in fresh water；five to twenty or more years ↔ anywhere from five to more than twenty years；hunting mainly after dark ↔ feed mainly at night。silver eels 是之后再次变态、准备洄游的阶段。"
+  },
+  "10": {
+   "a": "fat",
+   "alt": [
+    "stored fat"
+   ],
+   "ev": {
+    "p": "E",
+    "q": "living on stored fat for a journey that may last many months"
+   },
+   "why": "E段末句。using reserves of ___ built up earlier ↔ living on stored fat。因为洄游时消化系统萎缩、停止进食（stop eating altogether），只能靠储存的脂肪。不要填 insects 或 small fish，那是黄鳗阶段的食物。"
+  },
+  "11": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "kept a number of small, transparent, leaf-shaped fish in a tank at Messina in Sicily"
+   },
+   "why": "B段。creatures kept in an aquarium ↔ fish in a tank at Messina；observation ↔ 观察到它们缩短、变圆、变成小鳗鱼。A段 Freud 解剖鳗鱼也是一种研究，但不是在水族箱里观察活体。"
+  },
+  "12": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "because eels released with tracking tags tended to disappear long before reaching their destination"
+   },
+   "why": "F段首句。hard to study ↔ the most mysterious part of the story；reason ↔ because eels … tended to disappear。C段也说到没人观察过产卵，但没有解释原因，也不是关于“旅程的一部分”难以研究。"
+  },
+  "13": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "the further west he travelled, the smaller the larvae he caught"
+   },
+   "why": "C段。reasoning used to locate ↔ His method was simple in principle: the further west…, the smaller the larvae；the place where eels are born ↔ every European eel was born there。B段只说明了幼体是什么，没有涉及出生地。"
+  }
+ }
+}
