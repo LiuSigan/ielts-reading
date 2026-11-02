@@ -1,0 +1,122 @@
+{
+ "id": "2026-11-03",
+ "answers": {
+  "1": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "standard hours have barely changed, even though productivity, the amount produced for each hour of work, has risen many times over"
+   },
+   "why": "A段。rising output per hour ↔ productivity, the amount produced for each hour of work, has risen；unchanging working time ↔ standard hours have barely changed。F段也同时提到 productivity 和工时，但那是冰岛试验中工时缩短而生产率保持不变，不是“工时不变”的对比。"
+  },
+  "2": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "Bello warns that this can increase fatigue and undermine the very benefits the change was meant to bring"
+   },
+   "why": "E段末句。cancel out its own advantages ↔ undermine the very benefits the change was meant to bring；arrangement ↔ 四天、每天更长工时的折中方案（four longer days）。"
+  },
+  "3": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "the organisations in the British trial chose to take part, and were therefore likely to be those best suited to the change"
+   },
+   "why": "D段。participants … may not have been typical ↔ chose to take part … likely to be those best suited to the change（自愿参与，样本有偏）。B段描述了参加的机构种类（从炸鱼薯条店到软件公司），但没有说它们不具代表性。"
+  },
+  "4": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "56 of the organisations had decided to continue with the shorter week, and 18 had made the change permanent"
+   },
+   "why": "B段。figures showing how many employers kept a new arrangement ↔ 56 of the organisations … continue … 18 had made the change permanent。F段是近似干扰：冰岛试验后工会为大多数劳动者争取到缩短工时的权利，但那是全国谈判结果，不是“雇主数量”。"
+  },
+  "5": {
+   "a": "A",
+   "ev": {
+    "p": "C",
+    "q": "When time is limited, she argues, employees and managers are forced to identify these activities and eliminate them."
+   },
+   "why": "C段 Ruiz。limiting the time available ↔ When time is limited；forces staff to identify and drop ↔ forced to identify these activities and eliminate them；low-value activities ↔ unnecessary meetings, messages of little importance。"
+  },
+  "6": {
+   "a": "B",
+   "ev": {
+    "p": "D",
+    "q": "He suspects that a randomly selected group of firms would have produced far less impressive results"
+   },
+   "why": "D段 Hale。a randomly chosen set of firms ↔ a randomly selected group of firms；considerably weaker results ↔ far less impressive results。E（多数雇主继续实行）是B段英国试验的事实，主语不同。"
+  },
+  "7": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "a shorter week for each employee usually means hiring additional staff"
+   },
+   "why": "E段 Bello。generally means taking on more workers ↔ usually means hiring additional staff。F（员工更疲劳）也出自 Bello，但说的是“四个更长工作日”的折中方案，不是缩短每人工作周本身。"
+  },
+  "8": {
+   "a": "D",
+   "ev": {
+    "p": "G",
+    "q": "Even Professor Hale accepts that some firms could gain from the change, particularly those that struggle to attract and keep skilled staff"
+   },
+   "why": "G段。Hale accepts ↔ Even Professor Hale accepts；companies which have difficulty keeping skilled employees ↔ those that struggle to attract and keep skilled staff；could benefit ↔ could gain。注意 Hale 在D段是批评者，这里是他的让步。"
+  },
+  "9": {
+   "a": "fifth",
+   "alt": [
+    "a fifth"
+   ],
+   "ev": {
+    "p": "B",
+    "q": "agreed to reduce their employees' working time by a fifth for six months without any cut in pay"
+   },
+   "why": "B段。hours reduced by one ___ ↔ reduce their employees' working time by a fifth；a half-year period ↔ six months；pay unchanged ↔ without any cut in pay。不要填 six months，那是试验时长。"
+  },
+  "10": {
+   "a": "output",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "In return, staff were expected to maintain their usual output."
+   },
+   "why": "B段。keep up their normal ↔ maintain their usual。revenue 是同段干扰：那是企业的收入，不是员工被要求保持的东西。"
+  },
+  "11": {
+   "a": "two-thirds",
+   "alt": [
+    "two thirds"
+   ],
+   "ev": {
+    "p": "B",
+    "q": "the number of sick days taken fell by around two-thirds"
+   },
+   "why": "B段。absence through illness ↔ sick days；about ↔ around。a fifth 是缩短工时的比例，不是病假下降的比例。"
+  },
+  "12": {
+   "a": "2,500",
+   "alt": [
+    "2500"
+   ],
+   "ev": {
+    "p": "F",
+    "q": "two large trials involving around 2,500 public employees"
+   },
+   "why": "F段。roughly ↔ around；people employed in the public sector ↔ public employees。同段的 40、35 or 36 是每周工时，2015、2019 是年份，都不能填。"
+  },
+  "13": {
+   "a": "trade unions",
+   "alt": [
+    "unions"
+   ],
+   "ev": {
+    "p": "F",
+    "q": "following the trials trade unions negotiated the right to shorter hours for a large majority of the country's workforce"
+   },
+   "why": "F段。afterwards ↔ following the trials；secured a right to shorter hours ↔ negotiated the right to shorter hours；most workers ↔ a large majority of the country's workforce。researchers 也在同段出现，但他们只是报告了结果。"
+  }
+ }
+}

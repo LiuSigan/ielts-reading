@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-01T22:53:41.984Z",
+ "updatedAt": "2026-11-02T22:53:22.628Z",
  "passages": [
+  {
+   "id": "2026-11-03-a",
+   "date": "2026-11-03",
+   "slot": "p1",
+   "title": "Towers That Catch the Wind",
+   "level": 6,
+   "style": "P1",
+   "topicArea": "urban planning & architecture",
+   "types": [
+    "tfng",
+    "diagram_label",
+    "short_answer"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-03T06:50:00+08:00"
+  },
+  {
+   "id": "2026-11-03",
+   "date": "2026-11-03",
+   "slot": "main",
+   "title": "Four Days a Week?",
+   "level": 6.5,
+   "style": "P2",
+   "topicArea": "economics & business",
+   "types": [
+    "match_info",
+    "sentence_endings",
+    "note_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-03T06:55:00+08:00"
+  },
+  {
+   "id": "2026-11-03-p",
+   "date": "2026-11-03",
+   "slot": "p3",
+   "title": "Calling Out to the Stars",
+   "level": 7.5,
+   "style": "P3",
+   "topicArea": "astronomy",
+   "types": [
+    "ynng",
+    "mcq",
+    "sentence_completion"
+   ],
+   "total": 14,
+   "generatedAt": "2026-11-03T07:00:00+08:00"
+  },
   {
    "id": "2026-11-02-a",
    "date": "2026-11-02",

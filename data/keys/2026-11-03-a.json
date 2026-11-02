@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-03-a",
+ "answers": {
+  "1": {
+   "a": "FALSE",
+   "ev": {
+    "p": "A",
+    "q": "but the Iranian examples are by far the most numerous and the most elaborate"
+   },
+   "why": "A段。more complex in design ↔ more elaborate。原文说伊朗的风塔最多、也最精巧（the most elaborate），埃及的（malqaf）不可能比伊朗的更复杂，矛盾，故 FALSE。这题看起来像“没比较过”的 NOT GIVEN，但最高级 the most elaborate 已经包含了比较。"
+  },
+  "2": {
+   "a": "TRUE",
+   "ev": {
+    "p": "B",
+    "q": "more elaborate towers have openings on four, six or even eight sides, so that they work whatever the direction of the wind"
+   },
+   "why": "B段。openings facing several directions ↔ openings on four, six or even eight sides；operate whichever way the wind is blowing ↔ work whatever the direction of the wind。简单的风塔只朝一个方向（a single direction），那是另一类。"
+  },
+  "3": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "C",
+    "q": "Engineers call this the stack effect"
+   },
+   "why": "C段只说工程师把这种现象称为 stack effect，并没有说是谁最早解释了它。伊朗工匠建造了利用这一原理的风塔，但文中没有说他们“首先解释”了原理，故 NOT GIVEN。"
+  },
+  "4": {
+   "a": "TRUE",
+   "ev": {
+    "p": "D",
+    "q": "when the temperature outside reached 40°C, the air in the basement was more than 10 degrees cooler"
+   },
+   "why": "D段。室外 40°C，地下室“低了10度以上”（more than 10 degrees cooler），所以地下室低于 30°C，与题干一致。需要把两个数字结合起来推断，不能只找 30 这个数字（原文没有出现）。"
+  },
+  "5": {
+   "a": "FALSE",
+   "ev": {
+    "p": "F",
+    "q": "Their designers acknowledge that a windcatcher cannot match the cooling power of an air-conditioning unit in the hottest weather"
+   },
+   "why": "F段。设计者承认风塔在最热的天气里比不上空调（cannot match the cooling power），与 fully replace air conditioning 矛盾，故 FALSE。他们只说一年中大部分时间能几乎零成本地供应新鲜空气（for much of the year）。"
+  },
+  "6": {
+   "a": "openings",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "each connected to its own set of openings at the top"
+   },
+   "why": "B段（A段也提到 tall, narrow openings）。图中塔顶的竖条、标注“在顶部让空气进出” ↔ openings at the top；C段说风从迎风的 openings 进入、从背风一侧排出。不要填 vents（那是F段现代风塔的用词）。"
+  },
+  "7": {
+   "a": "partitions",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "the shaft is divided by thin brick partitions into several narrow channels"
+   },
+   "why": "B段。图中塔身内部的竖线、标注 divide the shaft into channels ↔ divided by thin brick partitions into several narrow channels。channels 是被分出来的通道，不是分隔物本身，不能填。"
+  },
+  "8": {
+   "a": "beams",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "Short wooden beams cross the shaft at intervals."
+   },
+   "why": "B段。图中横穿塔身的粗横线、标注 wooden; used as footholds in repairs ↔ Short wooden beams cross the shaft … provide footholds for workers who climb up … to repair it。不要填 footholds（那是用途，不是部件名称）。"
+  },
+  "9": {
+   "a": "pool",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "The shaft descends to a basement room in which there is a shallow pool"
+   },
+   "why": "D段。图中地下室里的水面、标注 cools air as it evaporates ↔ As the incoming air passes over the water, some of the water evaporates。qanat 是从远山引水的地下水渠，图中画的是地下室里的浅水池（a shallow pool）；ab anbars 是城市蓄水池。"
+  },
+  "10": {
+   "a": "mud brick",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "A typical windcatcher consists of a vertical shaft, built of mud brick and plastered on the outside"
+   },
+   "why": "B段首句。construct the main shaft ↔ a vertical shaft, built of。plaster 只是外层的抹灰（plastered on the outside），wooden beams 是横梁，都不是主体材料。"
+  },
+  "11": {
+   "a": "qanat",
+   "alt": [
+    "a qanat",
+    "qanats"
+   ],
+   "ev": {
+    "p": "D",
+    "q": "or connects with an underground channel called a qanat, which brings water from distant mountains"
+   },
+   "why": "D段。underground watercourses ↔ underground channel；bring supplies from far-off mountains ↔ brings water from distant mountains。ab anbars 是城市里有顶的大型蓄水池，用来储水而不是引水，是本题干扰项。"
+  },
+  "12": {
+   "a": "33 metres",
+   "alt": [
+    "33 meters",
+    "33m",
+    "33 m"
+   ],
+   "ev": {
+    "p": "E",
+    "q": "it rises about 33 metres and has eight sides"
+   },
+   "why": "E段。Roughly what height ↔ rises about；Dolat Abad garden 中的风塔约 33 米。同段的 eight sides、eighteenth century 都是干扰数字。"
+  },
+  "13": {
+   "a": "sensors",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "sometimes fitted with small fans, or with sensors that open and close the vents automatically"
+   },
+   "why": "F段。adjust their vents without human help ↔ open and close the vents automatically。small fans 是另一种附加装置，用来推动空气，原文没有说它们开关通风口，所以不选。"
+  }
+ }
+}

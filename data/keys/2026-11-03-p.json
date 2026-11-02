@@ -1,0 +1,123 @@
+{
+ "id": "2026-11-03-p",
+ "answers": {
+  "1": {
+   "a": "NO",
+   "ev": {
+    "p": "A",
+    "q": "Its designers were frank that the transmission was largely symbolic"
+   },
+   "why": "A段。设计者坦言这次发送“很大程度上是象征性的”（largely symbolic），并指出要 25,000 年才能到达、目标星团届时已移动，与 believed it had a realistic chance of being received 矛盾，故 NO。"
+  },
+  "2": {
+   "a": "YES",
+   "ev": {
+    "p": "B",
+    "q": "Radio telescopes scan the sky for signals that could not have been produced by any natural process, and none has yet been confirmed."
+   },
+   "why": "B段。shown to have an artificial origin ↔ signals that could not have been produced by any natural process；No … yet ↔ none has yet been confirmed。"
+  },
+  "3": {
+   "a": "NO",
+   "ev": {
+    "p": "C",
+    "q": "Their argument does not depend on imagining that aliens would be hostile."
+   },
+   "why": "C段。base their case on the belief that … aggressive ↔ 原文明确说 does not depend on imagining that aliens would be hostile，他们的依据是“技术不对等的接触通常对弱者是灾难”。看似可以选 YES（同段提到 Hawking 的担忧），实际与原文直接矛盾。"
+  },
+  "4": {
+   "a": "YES",
+   "ev": {
+    "p": "D",
+    "q": "A narrow, powerful beam aimed deliberately at a particular star is a different matter entirely, potentially detectable at hundreds of times that range."
+   },
+   "why": "D段末句。deliberately directed at a star ↔ aimed deliberately at a particular star；far greater distances ↔ hundreds of times that range；accidental broadcasts ↔ ordinary television signals / leakage。作者认同这一点，并以此反驳 too late to hide。"
+  },
+  "5": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "E",
+    "q": "but this is guidance rather than law"
+   },
+   "why": "E段只说 1989 年的宣言是指导意见而非法律（guidance rather than law），没有说各国政府是否正式采纳。看起来像 NO（因为“不是法律”），但“非法律”不等于“各国未采纳”，文中无此信息，故 NOT GIVEN。"
+  },
+  "6": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "F",
+    "q": "Some scientists conclude that the whole debate is a distraction"
+   },
+   "why": "F段说的是 Some scientists（一些科学家）认为风险太遥远，不值得认真讨论；文中没有说这是多数科学家的看法。some ≠ the majority，原文也没有给出比例，故 NOT GIVEN。作者本人反对这种看法，但那与“多数科学家怎么想”是两回事。"
+  },
+  "7": {
+   "a": "B",
+   "ev": {
+    "p": "C",
+    "q": "contact between societies of very unequal technological power has usually been disastrous for the weaker one, whatever the intentions of the stronger"
+   },
+   "why": "C段。B unequal encounters damage the weaker side whatever the motives ↔ very unequal technological power … disastrous for the weaker one, whatever the intentions of the stronger。A 错在“强者通常有意加害”，原文恰恰说与意图无关；C 与原文相反（外星文明几乎必然更先进）。"
+  },
+  "8": {
+   "a": "B",
+   "ev": {
+    "p": "D",
+    "q": "This argument is weaker than it sounds. Most of this leakage is diffuse and spread across many frequencies, and its strength falls sharply with distance"
+   },
+   "why": "D段。作者认为 too late to hide 的论点 weaker than it sounds，因为泄漏信号分散、随距离迅速衰减，几光年外就很难探测。B exaggerates how easily accidental signals could be noticed far away 与此一致。A 是支持者的理由，作者并不认同；C 作者并没有忽略 1930s 这一事实。"
+  },
+  "9": {
+   "a": "B",
+   "ev": {
+    "p": "E",
+    "q": "it says nothing about messages sent before any signal has been received"
+   },
+   "why": "E段末句。B does not apply to messages sent before contact is established ↔ says nothing about messages sent before any signal has been received。A 错：原文说任何拥有大型射电天线的团体都可以发送；D 错：原文只说 international consultations，没有说需要所有国家投票。"
+  },
+  "10": {
+   "a": "C",
+   "ev": {
+    "p": "G",
+    "q": "If anyone is out there, the most prudent course is to hear them first."
+   },
+   "why": "全文立场：主动发信风险难以估计，应先倾听、谨慎决定。C Listening first: the case for caution ↔ the most prudent course is to hear them first / a reason for caution。B 只对应E段“信息无法撤回”这一细节；A 与G段相反（倾听才刚刚开始，应继续）；D 只对应B、G段的局部。"
+  },
+  "11": {
+   "a": "telescope",
+   "alt": [
+    "the telescope"
+   ],
+   "ev": {
+    "p": "A",
+    "q": "a human figure and the telescope itself"
+   },
+   "why": "A段。images contained in the 1974 transmission ↔ formed a simple picture showing…；the ___ from which it was sent ↔ the telescope itself（即发送信息的 Arecibo 射电望远镜）。DNA、human figure 也在图中，但不是“发送它的东西”。"
+  },
+  "12": {
+   "a": "silent",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "If every civilisation in the galaxy waits for others to speak first, they reason, the galaxy will remain silent however crowded it may be."
+   },
+   "why": "B段。wait for others to transmit ↔ waits for others to speak first；stay ↔ remain。crowded 是干扰：原文说即使星系“再拥挤”也会保持沉默，语义相反。"
+  },
+  "13": {
+   "a": "diffuse",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "Most of this leakage is diffuse and spread across many frequencies"
+   },
+   "why": "D段。Accidental radio leakage ↔ this leakage；scattered over a wide range of frequencies ↔ spread across many frequencies。weak at a distance ↔ its strength falls sharply with distance。不要填 powerful（那是指有意发射的窄波束）。"
+  },
+  "14": {
+   "a": "editing",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "from the storage of nuclear waste to the editing of the human genome"
+   },
+   "why": "G段。compares decisions about transmission with ↔ the kind of open debate that precedes other choices…；human genes ↔ the human genome。storage 是核废料那一项的搭配，不能填。"
+  }
+ }
+}

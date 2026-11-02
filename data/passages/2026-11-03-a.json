@@ -1,0 +1,172 @@
+{
+ "id": "2026-11-03-a",
+ "date": "2026-11-03",
+ "level": 6.0,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "urban planning & architecture",
+ "title": "Towers That Catch the Wind",
+ "subtitle": "How the windcatchers of Iran kept houses cool for centuries without using any power",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Long before electric air conditioning, the inhabitants of the hot, dry cities of the Iranian plateau had found a way to cool their homes using nothing but the wind. Across the old quarters of cities such as Yazd, Kerman and Kashan, rectangular towers rise above the flat roofs, their upper sections pierced by tall, narrow openings. These are badgirs, or windcatchers, and some of them have been in use for several hundred years. Similar structures can be found around the Persian Gulf, in Egypt, where they are known as malqaf, and in parts of Pakistan, but the Iranian examples are by far the most numerous and the most elaborate. Yazd alone was once said to contain several hundred, and the city is still sometimes described as the city of windcatchers."
+  },
+  {
+   "label": "B",
+   "text": "A typical windcatcher consists of a vertical shaft, built of mud brick and plastered on the outside, which runs from the top of the tower down into the main living space of the house. Inside, the shaft is divided by thin brick partitions into several narrow channels, each connected to its own set of openings at the top. In the simplest designs the openings face a single direction, towards the prevailing wind; more elaborate towers have openings on four, six or even eight sides, so that they work whatever the direction of the wind. Short wooden beams cross the shaft at intervals. These strengthen the structure, but they also serve a practical purpose: they provide footholds for workers who climb up inside the tower to repair it, and a place to hang wet cloths during the hottest months."
+  },
+  {
+   "label": "C",
+   "text": "The tower cools a building in two ways. When the wind blows, air is forced into the openings that face it and pushed down the channel into the rooms below, creating a draught that carries heat away from the occupants' skin. At the same time, the openings on the sheltered side of the tower are under lower pressure, and warm air from inside the house is drawn up and out through them. Even on still days the tower continues to function, though more weakly, which matters in a region where summer afternoons are often almost windless. Because warm air is lighter than cool air, it rises naturally up the shaft and escapes at the top, pulling fresher air in through doors and windows at ground level. Engineers call this the stack effect, and it is strongest in the afternoon, when the sun has heated the brickwork of the tower."
+  },
+  {
+   "label": "D",
+   "text": "In some houses the cooling is enhanced by water. The shaft descends to a basement room in which there is a shallow pool, or connects with an underground channel called a qanat, which brings water from distant mountains. As the incoming air passes over the water, some of the water evaporates, absorbing heat and lowering the temperature of the air before it reaches the living spaces. Measurements in a traditional house in Yazd found that on a summer afternoon, when the temperature outside reached 40°C, the air in the basement was more than 10 degrees cooler. Windcatchers were also built above the city's large covered reservoirs, known as ab anbars, where they kept the stored water cool enough to drink throughout the summer. Some of these reservoirs were served by as many as six towers placed around a single domed roof."
+  },
+  {
+   "label": "E",
+   "text": "The tallest surviving example stands in the Dolat Abad garden in Yazd. Built in the eighteenth century as part of a governor's residence, it rises about 33 metres and has eight sides, making it one of the tallest windcatchers anywhere in the world. Height matters, because the wind is stronger and cleaner higher above the ground, where it carries less dust and sand. However, taller towers were also more expensive to build and maintain, and over time the size and decoration of a family's windcatcher came to be regarded as a sign of its wealth and social standing. Poorer households, by contrast, often relied on a single low tower facing one direction, or shared the cooling of a larger tower with their neighbours."
+  },
+  {
+   "label": "F",
+   "text": "During the twentieth century, as electricity and mechanical air conditioning spread, many windcatchers were neglected or demolished, and the skills needed to build and repair them began to disappear. More recently, however, they have attracted renewed interest from architects looking for ways to cool buildings without consuming large amounts of energy. Modern versions, made of metal or plastic and sometimes fitted with small fans, or with sensors that open and close the vents automatically, have been installed on schools and offices in Britain and elsewhere in Europe. Their designers acknowledge that a windcatcher cannot match the cooling power of an air-conditioning unit in the hottest weather, but they argue that for much of the year it can supply fresh air at almost no running cost."
+  }
+ ],
+ "groups": [
+  {
+   "type": "tfng",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "Do the following statements agree with the information given in the reading passage?",
+    "In boxes 1–5 on your answer sheet, write",
+    "TRUE if the statement agrees with the information",
+    "FALSE if the statement contradicts the information",
+    "NOT GIVEN if there is no information on this"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "Egyptian windcatchers are generally more complex in design than those found in Iran."
+    },
+    {
+     "n": 2,
+     "text": "A tower with openings facing several directions can operate whichever way the wind is blowing."
+    },
+    {
+     "n": 3,
+     "text": "The stack effect was first explained by the builders of Iranian windcatchers."
+    },
+    {
+     "n": 4,
+     "text": "On a hot afternoon in Yazd, the basement of one house was found to be below 30°C."
+    },
+    {
+     "n": 5,
+     "text": "The designers of modern windcatchers claim that they can fully replace air conditioning."
+    }
+   ]
+  },
+  {
+   "type": "diagram_label",
+   "from": 6,
+   "to": 9,
+   "instructions": [
+    "Label the diagram below.",
+    "Choose ONE WORD ONLY from the passage for each answer.",
+    "Write your answers in boxes 6–9 on your answer sheet."
+   ],
+   "wordLimit": "ONE WORD ONLY",
+   "maxWords": 1,
+   "allowNumber": false,
+   "title": "Section through a windcatcher",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 360\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#0f172a\">\n<rect x=\"0\" y=\"0\" width=\"600\" height=\"360\" fill=\"#ffffff\"/>\n<text x=\"300\" y=\"22\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">Section through a windcatcher and house (not to scale)</text>\n<rect x=\"250\" y=\"40\" width=\"100\" height=\"200\" fill=\"#f1f5f9\" stroke=\"#334155\" stroke-width=\"2\"/>\n<rect x=\"256\" y=\"52\" width=\"10\" height=\"44\" fill=\"#ffffff\" stroke=\"#334155\"/>\n<rect x=\"334\" y=\"52\" width=\"10\" height=\"44\" fill=\"#ffffff\" stroke=\"#334155\"/>\n<line x1=\"283\" y1=\"44\" x2=\"283\" y2=\"236\" stroke=\"#334155\" stroke-width=\"2\"/>\n<line x1=\"317\" y1=\"44\" x2=\"317\" y2=\"236\" stroke=\"#334155\" stroke-width=\"2\"/>\n<line x1=\"252\" y1=\"130\" x2=\"348\" y2=\"130\" stroke=\"#334155\" stroke-width=\"4\"/>\n<line x1=\"252\" y1=\"180\" x2=\"348\" y2=\"180\" stroke=\"#334155\" stroke-width=\"4\"/>\n<path d=\"M180 66 h60 m-10 -6 l10 6 l-10 6\" fill=\"none\" stroke=\"#334155\" stroke-width=\"2\"/>\n<text x=\"150\" y=\"58\">wind</text>\n<rect x=\"120\" y=\"240\" width=\"360\" height=\"60\" fill=\"#ffffff\" stroke=\"#334155\" stroke-width=\"2\"/>\n<text x=\"140\" y=\"275\">living room</text>\n<line x1=\"20\" y1=\"300\" x2=\"580\" y2=\"300\" stroke=\"#334155\" stroke-width=\"2\"/>\n<rect x=\"200\" y=\"300\" width=\"200\" height=\"45\" fill=\"#ffffff\" stroke=\"#334155\"/>\n<rect x=\"240\" y=\"325\" width=\"120\" height=\"16\" fill=\"#f1f5f9\" stroke=\"#334155\"/>\n<path d=\"M248 333 q6 -4 12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0 t12 0\" fill=\"none\" stroke=\"#334155\"/>\n<text x=\"210\" y=\"316\">basement</text>\n<line x1=\"385\" y1=\"74\" x2=\"346\" y2=\"74\" stroke=\"#334155\"/>\n<rect x=\"385\" y=\"63\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#334155\"/><text x=\"398\" y=\"79\" text-anchor=\"middle\" font-weight=\"bold\">6</text>\n<text x=\"418\" y=\"72\">let air in and out</text><text x=\"418\" y=\"87\">at the top</text>\n<line x1=\"385\" y1=\"155\" x2=\"319\" y2=\"155\" stroke=\"#334155\"/>\n<rect x=\"385\" y=\"144\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#334155\"/><text x=\"398\" y=\"160\" text-anchor=\"middle\" font-weight=\"bold\">7</text>\n<text x=\"418\" y=\"153\">divide the shaft</text><text x=\"418\" y=\"168\">into channels</text>\n<line x1=\"215\" y1=\"180\" x2=\"252\" y2=\"180\" stroke=\"#334155\"/>\n<rect x=\"189\" y=\"169\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#334155\"/><text x=\"202\" y=\"185\" text-anchor=\"middle\" font-weight=\"bold\">8</text>\n<text x=\"40\" y=\"178\">wooden; used as</text><text x=\"40\" y=\"193\">footholds in repairs</text>\n<line x1=\"445\" y1=\"333\" x2=\"362\" y2=\"333\" stroke=\"#334155\"/>\n<rect x=\"445\" y=\"322\" width=\"26\" height=\"22\" fill=\"#ffffff\" stroke=\"#334155\"/><text x=\"458\" y=\"338\" text-anchor=\"middle\" font-weight=\"bold\">9</text>\n<text x=\"478\" y=\"331\">cools air as it</text><text x=\"478\" y=\"346\">evaporates</text>\n</svg>"
+  },
+  {
+   "type": "short_answer",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Answer the questions below.",
+    "Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+   "maxWords": 2,
+   "allowNumber": true,
+   "items": [
+    {
+     "n": 10,
+     "text": "What material is used to construct the main shaft of a windcatcher?"
+    },
+    {
+     "n": 11,
+     "text": "What is the name of the underground watercourses that bring supplies from far-off mountains?"
+    },
+    {
+     "n": 12,
+     "text": "Roughly what height does the tower in the Dolat Abad garden reach?"
+    },
+    {
+     "n": 13,
+     "text": "What devices allow some modern towers to adjust their vents without human help?"
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "plateau",
+   "zh": "高原"
+  },
+  {
+   "w": "pierce",
+   "zh": "刺穿；在……上开孔"
+  },
+  {
+   "w": "elaborate",
+   "zh": "复杂精巧的"
+  },
+  {
+   "w": "prevailing wind",
+   "zh": "盛行风"
+  },
+  {
+   "w": "partition",
+   "zh": "隔板；隔墙"
+  },
+  {
+   "w": "foothold",
+   "zh": "立足点；踏脚处"
+  },
+  {
+   "w": "draught",
+   "zh": "（室内的）气流；穿堂风"
+  },
+  {
+   "w": "evaporate",
+   "zh": "蒸发"
+  },
+  {
+   "w": "reservoir",
+   "zh": "水库；蓄水池"
+  },
+  {
+   "w": "social standing",
+   "zh": "社会地位"
+  },
+  {
+   "w": "demolish",
+   "zh": "拆除"
+  },
+  {
+   "w": "running cost",
+   "zh": "运行成本"
+  }
+ ],
+ "generatedAt": "2026-11-03T06:50:00+08:00",
+ "spec": "v3"
+}

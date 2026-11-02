@@ -1,0 +1,230 @@
+{
+ "id": "2026-11-03",
+ "date": "2026-11-03",
+ "level": 6.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "economics & business",
+ "title": "Four Days a Week?",
+ "subtitle": "Trials of a shorter working week have produced striking results. How far can they be trusted?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "For much of the twentieth century, the length of the working week fell steadily in industrialised countries. In 1926 the American car manufacturer Henry Ford introduced a five-day, forty-hour week in his factories, and over the following decades the two-day weekend became the norm across much of the world. In 1930 the economist John Maynard Keynes even predicted that his grandchildren's generation would need to work only around fifteen hours a week. Since then, however, standard hours have barely changed, even though productivity, the amount produced for each hour of work, has risen many times over. It is this gap between what workers produce and the time they are expected to spend producing it that advocates of a four-day week hope to close."
+  },
+  {
+   "label": "B",
+   "text": "The most widely discussed experiment took place in Britain in 2022, when 61 organisations, ranging from a fish-and-chip shop to software developers, agreed to reduce their employees' working time by a fifth for six months without any cut in pay. In return, staff were expected to maintain their usual output. By the end of the trial, 56 of the organisations had decided to continue with the shorter week, and 18 had made the change permanent. Employees reported lower levels of stress and fatigue, and the number of sick days taken fell by around two-thirds compared with the same period a year earlier. Revenue, for those firms that supplied figures, stayed broadly the same."
+  },
+  {
+   "label": "C",
+   "text": "Supporters argue that such results show how much of the standard working week is wasted. Dr Clara Ruiz, an economist at the University of Valencia, points to research suggesting that office workers spend a substantial part of each day in unnecessary meetings, answering messages of little importance or switching between tasks. When time is limited, she argues, employees and managers are forced to identify these activities and eliminate them. On this view, the shorter week does not so much reduce work as concentrate it, and the benefits to health and morale come at little or no cost to the employer. She adds that firms offering a shorter week may find it easier to recruit, since many candidates value free time as highly as a rise in salary."
+  },
+  {
+   "label": "D",
+   "text": "Critics are not convinced that the findings can be generalised. Professor Martin Hale, who studies labour markets at the University of Manchester, points out that the organisations in the British trial chose to take part, and were therefore likely to be those best suited to the change, and perhaps those whose managers were already enthusiastic about it. Most were small, and a large proportion worked in offices or in marketing and professional services, where output is difficult to measure precisely. He suspects that a randomly selected group of firms would have produced far less impressive results, and that some of the reported gains reflect the enthusiasm of participants rather than any lasting change."
+  },
+  {
+   "label": "E",
+   "text": "There is also the question of which jobs the model can be applied to. In a hospital, a school or a bus company, the work cannot simply be compressed: patients must be cared for and buses must run every day of the week, and a teacher cannot deliver five days of lessons in four. Dr Aisha Bello, who has advised several local authorities on working practices, notes that in such settings a shorter week for each employee usually means hiring additional staff, which raises costs rather than saving them. Some public bodies have tried a compromise in which staff work the same number of hours over four longer days, but Bello warns that this can increase fatigue and undermine the very benefits the change was meant to bring."
+  },
+  {
+   "label": "F",
+   "text": "Iceland's experience is often cited as evidence that the public sector can adapt. Between 2015 and 2019, two large trials involving around 2,500 public employees, including office staff, social workers and some hospital workers, cut weekly hours from 40 to 35 or 36 without reducing pay. Researchers reported that productivity and the quality of services were maintained or improved in most workplaces, and following the trials trade unions negotiated the right to shorter hours for a large majority of the country's workforce. Sceptics note, however, that most participants had their hours reduced by around four hours a week rather than by a whole day, which is a considerably smaller change."
+  },
+  {
+   "label": "G",
+   "text": "Whatever the eventual outcome, the experiments have changed the terms of the debate. Dr Ruiz believes that the important question is no longer whether a shorter week is possible but for whom and under what conditions. Even Professor Hale accepts that some firms could gain from the change, particularly those that struggle to attract and keep skilled staff. For employees the attraction is obvious; for employers, who must weigh possible savings against real risks, the case is likely to depend less on general arguments than on careful measurement of what happens in their own workplaces."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_info",
+   "from": 1,
+   "to": 4,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 1–4 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "a contrast between rising output per hour and unchanging working time"
+    },
+    {
+     "n": 2,
+     "text": "an example of an arrangement that may cancel out its own advantages"
+    },
+    {
+     "n": 3,
+     "text": "a reason why the participants in a study may not have been typical"
+    },
+    {
+     "n": 4,
+     "text": "figures showing how many employers kept a new arrangement after a trial ended"
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 5,
+   "to": 8,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–H, below.",
+    "Write the correct letter, A–H, in boxes 5–8 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 5,
+     "text": "Ruiz claims that limiting the time available"
+    },
+    {
+     "n": 6,
+     "text": "Hale suspects that a randomly chosen set of firms"
+    },
+    {
+     "n": 7,
+     "text": "Bello argues that, where services run every day, a shorter week for each worker"
+    },
+    {
+     "n": 8,
+     "text": "Hale accepts that companies which have difficulty keeping skilled employees"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "forces staff to identify and drop low-value activities."
+    },
+    {
+     "k": "B",
+     "t": "would have produced considerably weaker results."
+    },
+    {
+     "k": "C",
+     "t": "generally means taking on more workers."
+    },
+    {
+     "k": "D",
+     "t": "could benefit from adopting the change."
+    },
+    {
+     "k": "E",
+     "t": "led most employers to continue with the new arrangement."
+    },
+    {
+     "k": "F",
+     "t": "can leave employees more tired than before."
+    },
+    {
+     "k": "G",
+     "t": "resulted in fewer days lost to illness."
+    },
+    {
+     "k": "H",
+     "t": "allowed unions to win reduced hours nationally."
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 9,
+   "to": 13,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+    "Write your answers in boxes 9–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+   "maxWords": 2,
+   "allowNumber": true,
+   "title": "Two trials of shorter working time",
+   "lines": [
+    {
+     "text": "British trial (2022)",
+     "indent": 0
+    },
+    {
+     "text": "– hours reduced by one [[9]] over a half-year period, pay unchanged",
+     "indent": 1
+    },
+    {
+     "text": "– staff expected to keep up their normal [[10]]",
+     "indent": 1
+    },
+    {
+     "text": "– absence through illness fell by about [[11]]",
+     "indent": 1
+    },
+    {
+     "text": "Icelandic trials (2015–2019)",
+     "indent": 0
+    },
+    {
+     "text": "– roughly [[12]] people employed in the public sector took part",
+     "indent": 1
+    },
+    {
+     "text": "– afterwards, [[13]] secured a right to shorter hours for most workers",
+     "indent": 1
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "industrialised",
+   "zh": "工业化的"
+  },
+  {
+   "w": "productivity",
+   "zh": "生产率"
+  },
+  {
+   "w": "advocate",
+   "zh": "倡导者；提倡"
+  },
+  {
+   "w": "fatigue",
+   "zh": "疲劳"
+  },
+  {
+   "w": "eliminate",
+   "zh": "消除；去掉"
+  },
+  {
+   "w": "morale",
+   "zh": "士气"
+  },
+  {
+   "w": "generalise",
+   "zh": "推广；概括"
+  },
+  {
+   "w": "compress",
+   "zh": "压缩"
+  },
+  {
+   "w": "undermine",
+   "zh": "削弱；破坏"
+  },
+  {
+   "w": "trade union",
+   "zh": "工会"
+  },
+  {
+   "w": "sceptic",
+   "zh": "怀疑者"
+  },
+  {
+   "w": "the terms of the debate",
+   "zh": "争论的焦点／框架"
+  }
+ ],
+ "generatedAt": "2026-11-03T06:55:00+08:00",
+ "spec": "v3"
+}

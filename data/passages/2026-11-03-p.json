@@ -1,0 +1,264 @@
+{
+ "id": "2026-11-03-p",
+ "date": "2026-11-03",
+ "level": 7.5,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "astronomy",
+ "title": "Calling Out to the Stars",
+ "subtitle": "Should humanity send deliberate messages into space, and who has the right to decide?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "In November 1974, astronomers at the Arecibo radio telescope in Puerto Rico used its enormous transmitter to send a short message towards a cluster of stars about 25,000 light years away. The message, which lasted less than three minutes, consisted of 1,679 binary digits which, arranged correctly, formed a simple picture showing the numbers one to ten, the chemical basis of DNA, a human figure and the telescope itself. Its designers were frank that the transmission was largely symbolic: it would take 25,000 years to arrive, and the stars at which it was aimed will have moved by the time it does. Yet the gesture raised a question that has since become a genuine dispute among scientists. Should humanity be announcing its presence at all?"
+  },
+  {
+   "label": "B",
+   "text": "The search for extraterrestrial intelligence, known as SETI, has for more than sixty years been a matter of listening. Radio telescopes scan the sky for signals that could not have been produced by any natural process, and none has yet been confirmed. A smaller group of researchers argues that listening alone is too passive. If every civilisation in the galaxy waits for others to speak first, they reason, the galaxy will remain silent however crowded it may be. This position, usually called METI, for messaging extraterrestrial intelligence, holds that deliberate, powerful and repeated transmissions aimed at nearby stars offer a far better chance of eventually receiving a reply. Several such messages have already been sent from radar installations in Ukraine and elsewhere, some of them containing music, drawings and greetings contributed by members of the public."
+  },
+  {
+   "label": "C",
+   "text": "Opponents reply that the risks, however small, are too great to justify. Their argument does not depend on imagining that aliens would be hostile. It rests instead on the observation that, throughout human history, contact between societies of very unequal technological power has usually been disastrous for the weaker one, whatever the intentions of the stronger. Any civilisation capable of receiving our signals and replying across interstellar distances would almost certainly be far more advanced than our own. The physicist Stephen Hawking expressed similar concerns in his later years, comparing a possible encounter to the arrival of Europeans in the Americas. The comparison is imperfect, since no one supposes that a reply would arrive in ships, but the underlying point is that the consequences of contact would be decided by the stronger party."
+  },
+  {
+   "label": "D",
+   "text": "Supporters of METI have a ready answer: it is too late to hide. Television and radio broadcasts have been leaking into space since the 1930s, and powerful military radars sweep the sky every day. Any civilisation with sensitive enough equipment, they argue, already knows we are here, so a few deliberate messages can make little difference. This argument is weaker than it sounds. Most of this leakage is diffuse and spread across many frequencies, and its strength falls sharply with distance; studies suggest that even a receiver as large as the biggest on Earth would struggle to detect ordinary television signals from more than a few light years away. A narrow, powerful beam aimed deliberately at a particular star is a different matter entirely, potentially detectable at hundreds of times that range."
+  },
+  {
+   "label": "E",
+   "text": "A subtler objection, and in the end a more persuasive one, concerns who has the right to decide on behalf of everyone else. The decision to transmit, once taken, cannot be reversed: a message travelling at the speed of light can never be recalled, and its consequences, if there are any, may fall on generations not yet born. Yet at present no international body has authority over such transmissions, and any group with access to a large radio dish could send one. In 1989 a committee of the International Academy of Astronautics drew up a declaration recommending that no reply to a confirmed signal should be sent until international consultations had taken place, but this is guidance rather than law, and it says nothing about messages sent before any signal has been received."
+  },
+  {
+   "label": "F",
+   "text": "Admittedly, the probability that any particular message will be received is extremely low. The nearest stars are several light years away, the galaxy is vast, and we have no evidence that anyone is out there to listen. Some scientists conclude that the whole debate is a distraction from more pressing questions in astronomy, an argument about risks so remote that they hardly deserve serious attention. But the same reasoning could be used to justify almost any action whose consequences are uncertain but potentially irreversible. A low probability multiplied by a catastrophic outcome is not obviously a small number, and the fact that we cannot estimate either term with any confidence is a reason for caution rather than for complacency."
+  },
+  {
+   "label": "G",
+   "text": "None of this means that transmission should be prohibited for ever. It means that the decision belongs to humanity as a whole, and that it should be taken deliberately, after the kind of open debate that precedes other choices with long-term consequences, from the storage of nuclear waste to the editing of the human genome. In the meantime, listening carries no comparable risk and has barely begun: the volume of space that radio telescopes have examined in detail is, by one estimate, comparable to a glass of water drawn from the world's oceans. There is no hurry to speak, and nothing would be lost by waiting while the question is properly considered. If anyone is out there, the most prudent course is to hear them first."
+  }
+ ],
+ "groups": [
+  {
+   "type": "ynng",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "Do the following statements agree with the claims of the writer in the reading passage?",
+    "In boxes 1–6 on your answer sheet, write",
+    "YES if the statement agrees with the claims of the writer",
+    "NO if the statement contradicts the claims of the writer",
+    "NOT GIVEN if it is impossible to say what the writer thinks about this"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "Those who designed the Arecibo message believed it had a realistic chance of being received."
+    },
+    {
+     "n": 2,
+     "text": "No signal from space has yet been shown to have an artificial origin."
+    },
+    {
+     "n": 3,
+     "text": "Opponents of METI base their case on the belief that other civilisations are likely to be aggressive."
+    },
+    {
+     "n": 4,
+     "text": "A signal deliberately directed at a star could be picked up over far greater distances than accidental broadcasts."
+    },
+    {
+     "n": 5,
+     "text": "Most national governments have formally adopted the recommendations made in 1989."
+    },
+    {
+     "n": 6,
+     "text": "The majority of scientists regard the dangers of METI as too slight to be worth discussing."
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 7–10 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "Why does the writer refer to contact between human societies in the third paragraph?",
+     "options": [
+      {
+       "k": "A",
+       "t": "to show that more powerful societies have usually meant to cause harm"
+      },
+      {
+       "k": "B",
+       "t": "to suggest that unequal encounters damage the weaker side whatever the motives"
+      },
+      {
+       "k": "C",
+       "t": "to argue that humans are technologically ahead of any other civilisation"
+      },
+      {
+       "k": "D",
+       "t": "to explain why Hawking eventually abandoned his support for SETI"
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "What is the writer's view of the claim that it is 'too late to hide'?",
+     "options": [
+      {
+       "k": "A",
+       "t": "It is justified because military radar is extremely powerful."
+      },
+      {
+       "k": "B",
+       "t": "It exaggerates how easily accidental signals could be noticed far away."
+      },
+      {
+       "k": "C",
+       "t": "It overlooks the fact that broadcasting began in the 1930s."
+      },
+      {
+       "k": "D",
+       "t": "It cannot be assessed until more powerful receivers are built."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "text": "What point does the writer make about the 1989 declaration?",
+     "options": [
+      {
+       "k": "A",
+       "t": "It prevents private groups from using large radio dishes."
+      },
+      {
+       "k": "B",
+       "t": "It does not apply to messages sent before contact is established."
+      },
+      {
+       "k": "C",
+       "t": "It was drawn up as a direct response to the Arecibo message."
+      },
+      {
+       "k": "D",
+       "t": "It requires a vote by all nations before any reply is sent."
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "text": "Which of the following is the most suitable title for Reading Passage 3?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Why the search for alien life should end"
+      },
+      {
+       "k": "B",
+       "t": "A message that can never be recalled"
+      },
+      {
+       "k": "C",
+       "t": "Listening first: the case for caution"
+      },
+      {
+       "k": "D",
+       "t": "The silent galaxy and the limits of radio"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 11,
+   "to": 14,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 11–14 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 11,
+     "text": "One of the images contained in the 1974 transmission depicted the [[11]] from which it was sent."
+    },
+    {
+     "n": 12,
+     "text": "Supporters of METI fear that if all civilisations wait for others to transmit, the galaxy will stay [[12]]."
+    },
+    {
+     "n": 13,
+     "text": "Accidental radio leakage is weak at a distance because it is [[13]], scattered over a wide range of frequencies."
+    },
+    {
+     "n": 14,
+     "text": "The writer compares decisions about transmission with those concerning nuclear waste and the [[14]] of human genes."
+    }
+   ]
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "extraterrestrial",
+   "zh": "外星的；地球以外的"
+  },
+  {
+   "w": "symbolic",
+   "zh": "象征性的"
+  },
+  {
+   "w": "passive",
+   "zh": "被动的"
+  },
+  {
+   "w": "hostile",
+   "zh": "有敌意的"
+  },
+  {
+   "w": "interstellar",
+   "zh": "星际的"
+  },
+  {
+   "w": "diffuse",
+   "zh": "分散的；漫射的"
+  },
+  {
+   "w": "irreversible",
+   "zh": "不可逆的"
+  },
+  {
+   "w": "consultation",
+   "zh": "磋商；协商"
+  },
+  {
+   "w": "catastrophic",
+   "zh": "灾难性的"
+  },
+  {
+   "w": "complacency",
+   "zh": "自满；掉以轻心"
+  },
+  {
+   "w": "prohibit",
+   "zh": "禁止"
+  },
+  {
+   "w": "prudent",
+   "zh": "谨慎的；审慎的"
+  }
+ ],
+ "generatedAt": "2026-11-03T07:00:00+08:00",
+ "spec": "v3"
+}
