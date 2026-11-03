@@ -1,0 +1,205 @@
+{
+ "id": "2026-11-04-a",
+ "date": "2026-11-04",
+ "level": 6.0,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "earth science & climate",
+ "title": "Reading the Rings",
+ "subtitle": "How the growth layers of trees became a calendar and a record of past climates",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Almost everyone knows that the age of a tree can be found by counting the rings in its trunk. Each year, in temperate regions, a tree adds a new layer of wood just beneath its bark: pale, open wood in spring, when growth is rapid, and darker, denser wood later in the summer. The contrast between the two creates the visible ring. In the tropics, where growth may continue all year, rings are often faint or absent, which is why most early work was done in cooler climates. What is less widely known is that the rings record far more than age. Because a tree grows more in a favourable year than in a poor one, the width of each ring carries information about the conditions in which it formed, and a sequence of rings can therefore serve as a calendar and a climate record at the same time."
+  },
+  {
+   "label": "B",
+   "text": "The basic idea is old. Around 1500, Leonardo da Vinci observed both that the rings of a sawn branch revealed its age and that their thickness reflected whether a particular year had been wet or dry. In the 1730s, the French naturalists Henri-Louis Duhamel du Monceau and Georges-Louis Buffon found that the trees they felled all contained a damaged ring dating from the exceptionally harsh winter of 1709, which suggested that a single event could leave the same mark across many trees. Yet for a long time such observations remained curiosities, recorded in notebooks and scientific papers but never developed into a method. Most naturalists assumed that differences in ring width reflected the circumstances of individual trees, such as shade or poor soil, rather than conditions shared across a whole region."
+  },
+  {
+   "label": "C",
+   "text": "The person who turned the rings into a scientific tool was an astronomer. In 1901 Andrew Ellicott Douglass, then working at the Lowell Observatory in Arizona, began to wonder whether changes in the activity of the sun affected the climate on Earth, and he realised that he needed a record of rainfall far longer than any written one. Trees, he reasoned, might provide it. In the dry south-west of the United States, where water rather than temperature limits growth, ring widths rise and fall with rainfall, so that trees across a wide area display the same pattern of thick and thin rings. Douglass spent years examining thousands of samples, often under a magnifying glass, before he was confident that the patterns were genuine. He called the technique of matching these patterns between different trees cross-dating, and it remains the foundation of the field."
+  },
+  {
+   "label": "D",
+   "text": "Cross-dating made it possible to extend the record backwards beyond the life of any single tree. A living tree provides a sequence that ends in the present; a beam from an old building may contain rings that overlap with the oldest part of that sequence and continue further back. The technique is rather like matching overlapping photographs to make a panorama. In the 1920s Douglass applied this method to the ruins of ancient Pueblo settlements in the American south-west, collecting beams from abandoned buildings. For years a gap remained between his modern sequence and an older, 'floating' sequence from the ruins that could not be tied to any calendar date. It was finally closed in 1929, when a charred beam found at Show Low, Arizona, contained rings that linked the two, allowing dozens of sites to be dated to the exact year in which their timbers had been cut."
+  },
+  {
+   "label": "E",
+   "text": "In 1937 Douglass founded the Laboratory of Tree-Ring Research at the University of Arizona, and his successors pushed the record further back still. In the 1950s Edmund Schulman, searching for the oldest trees on Earth, turned to the Great Basin bristlecone pines of the White Mountains of California. Growing very slowly in cold, dry, rocky conditions near the tree line, some of these trees proved to be more than 4,000 years old; one, later named Methuselah, was found in 1957 to be over 4,700. By combining samples from living bristlecones with dead wood that had survived for thousands of years on the dry slopes, researchers eventually built an unbroken sequence covering nearly 9,000 years."
+  },
+  {
+   "label": "F",
+   "text": "These long sequences have found uses far beyond archaeology. When radiocarbon dating was developed by the American chemist Willard Libby in the late 1940s, it was assumed that the amount of radiocarbon in the atmosphere had always been constant. Tree rings, whose exact ages were known, showed that this was not the case, and they were used to calibrate radiocarbon dates, correcting errors of several centuries for some periods. Today, thanks to the efforts of many research teams, networks of tree-ring records from every continent except Antarctica are used to reconstruct droughts, volcanic eruptions and changes in temperature over the past two thousand years, allowing scientists to judge how unusual the warming of recent decades really is."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_features",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "Look at the following statements (Questions 1–5) and the list of people below.",
+    "Match each statement with the correct person or people, A–E.",
+    "Write the correct letter, A–E, in boxes 1–5 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "listTitle": "List of People",
+   "reuse": true,
+   "options": [
+    {
+     "k": "A",
+     "t": "Leonardo da Vinci"
+    },
+    {
+     "k": "B",
+     "t": "Duhamel du Monceau and Buffon"
+    },
+    {
+     "k": "C",
+     "t": "Andrew Ellicott Douglass"
+    },
+    {
+     "k": "D",
+     "t": "Edmund Schulman"
+    },
+    {
+     "k": "E",
+     "t": "Willard Libby"
+    }
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "traced a feature shared by many trees to one season of extreme weather"
+    },
+    {
+     "n": 2,
+     "text": "first became interested in tree rings because of a question about the sun"
+    },
+    {
+     "n": 3,
+     "text": "recognised that the rings in a piece of wood indicated how old it was"
+    },
+    {
+     "n": 4,
+     "text": "established the great age of trees growing in a harsh mountain environment"
+    },
+    {
+     "n": 5,
+     "text": "joined two separate ring sequences so that old settlements could be dated exactly"
+    }
+   ]
+  },
+  {
+   "type": "table_completion",
+   "from": 6,
+   "to": 9,
+   "instructions": [
+    "Complete the table below.",
+    "Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+    "Write your answers in boxes 6–9 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+   "maxWords": 2,
+   "allowNumber": true,
+   "title": "Milestones in tree-ring dating",
+   "head": [
+    "Date",
+    "Event",
+    "Significance"
+   ],
+   "rows": [
+    [
+     "1901",
+     "Douglass starts to study tree rings",
+     "he needs evidence of rainfall going back further than [[6]] records"
+    ],
+    [
+     "1929",
+     "a burnt timber from [[7]] is discovered",
+     "the modern and the 'floating' sequences are connected"
+    ],
+    [
+     "1957",
+     "the age of [[8]] is determined",
+     "the tree is shown to be over 4,700 years old"
+    ],
+    [
+     "late 1940s onwards",
+     "radiocarbon dating comes into use",
+     "tree rings help to [[9]] its dates"
+    ]
+   ]
+  },
+  {
+   "type": "summary_completion",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the summary below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "title": "How tree rings form and are matched",
+   "text": "Every year, a tree growing in a temperate climate lays down a fresh layer of wood immediately under its [[10]]. The wood produced early in the year is light in colour and open in texture, whereas the wood produced later is darker and [[11]]. In places where growth is limited chiefly by the supply of [[12]], not by warmth, trees over a large area show similar patterns of wide and narrow rings, and the process of comparing these patterns is called [[13]]."
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "temperate",
+   "zh": "温带的；温和的"
+  },
+  {
+   "w": "favourable",
+   "zh": "有利的"
+  },
+  {
+   "w": "fell (a tree)",
+   "zh": "砍伐（树木）"
+  },
+  {
+   "w": "curiosity",
+   "zh": "奇闻；稀奇之物"
+  },
+  {
+   "w": "reason (v.)",
+   "zh": "推理；推断"
+  },
+  {
+   "w": "foundation",
+   "zh": "基础"
+  },
+  {
+   "w": "overlap",
+   "zh": "重叠"
+  },
+  {
+   "w": "charred",
+   "zh": "烧焦的"
+  },
+  {
+   "w": "tree line",
+   "zh": "林木线（树木生长的海拔上限）"
+  },
+  {
+   "w": "unbroken sequence",
+   "zh": "连续不断的序列"
+  },
+  {
+   "w": "calibrate",
+   "zh": "校准"
+  },
+  {
+   "w": "reconstruct",
+   "zh": "重建；还原"
+  }
+ ],
+ "generatedAt": "2026-11-04T06:50:00+08:00",
+ "spec": "v3"
+}

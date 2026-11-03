@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-02T22:53:22.628Z",
+ "updatedAt": "2026-11-03T22:53:24.434Z",
  "passages": [
+  {
+   "id": "2026-11-04-a",
+   "date": "2026-11-04",
+   "slot": "p1",
+   "title": "Reading the Rings",
+   "level": 6,
+   "style": "P1",
+   "topicArea": "earth science & climate",
+   "types": [
+    "match_features",
+    "table_completion",
+    "summary_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-04T06:50:00+08:00"
+  },
+  {
+   "id": "2026-11-04",
+   "date": "2026-11-04",
+   "slot": "main",
+   "title": "Cleaning the Old Masters",
+   "level": 6.5,
+   "style": "P2",
+   "topicArea": "arts & cultural history",
+   "types": [
+    "headings",
+    "tfng",
+    "summary_box"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-04T06:55:00+08:00"
+  },
+  {
+   "id": "2026-11-04-p",
+   "date": "2026-11-04",
+   "slot": "p3",
+   "title": "The Trouble with Food Miles",
+   "level": 7.5,
+   "style": "P3",
+   "topicArea": "agriculture & food",
+   "types": [
+    "mcq",
+    "mcq_multi",
+    "sentence_endings"
+   ],
+   "total": 14,
+   "generatedAt": "2026-11-04T07:00:00+08:00"
+  },
   {
    "id": "2026-11-03-a",
    "date": "2026-11-03",

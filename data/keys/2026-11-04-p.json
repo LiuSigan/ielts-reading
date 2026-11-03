@@ -1,0 +1,117 @@
+{
+ "id": "2026-11-04-p",
+ "answers": {
+  "1": {
+   "a": "B",
+   "ev": {
+    "p": "A",
+    "q": "The concept had the great advantage of being easy to understand and easy to act upon."
+   },
+   "why": "A段。B simple for ordinary people to grasp and apply ↔ easy to understand and easy to act upon。A 与原文相反：段末说研究者很快指出它 measured the wrong thing；C 原文只说 Several supermarkets began labelling，并非法律要求。"
+  },
+  "2": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "For most foods, by far the largest share of emissions arises on the farm itself"
+   },
+   "why": "B段。B Most emissions are generated before food leaves the farm ↔ by far the largest share of emissions arises on the farm itself。A 与 less than a tenth 相反；C 与 many times more 相反；D 张冠李戴——甲烷来自牛羊消化草料，不是化肥。"
+  },
+  "3": {
+   "a": "B",
+   "ev": {
+    "p": "C",
+    "q": "Yet even sceptics acknowledged that its basic point, that where and how food is produced matters more than how far it travels, was sound."
+   },
+   "why": "C段末句。B central message was accepted even by those who doubted its details ↔ even sceptics acknowledged that its basic point … was sound。A 过度：批评者质疑的是假设，并未否定结论；C 偷换：批评者说的是关于英国农业的假设不被所有人接受，而不是研究忽略了英国做法；D 绝对化（always）。"
+  },
+  "4": {
+   "a": "B",
+   "ev": {
+    "p": "G",
+    "q": "it means that distance is a poor guide to what matters most"
+   },
+   "why": "全文主旨：食物里程（距离）不能反映食物的气候影响，吃什么比从哪来更重要。B distance is a misleading guide ↔ distance is a poor guide to what matters most。A 过度：作者没有劝人只买进口食品，E段还肯定了本地食品的社会价值；C、D 只是局部例子。"
+  },
+  "5": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "Transport, it found, accounted on average for less than a tenth of the total."
+   },
+   "why": "5–7 题答案为 A、C、F（顺序不限）。A ↔ B段：运输平均只占总排放的不到十分之一。B 与D段相反（air freight carries only a tiny proportion）；G 与G段首句相反（None of this means that the distance food travels is irrelevant）。"
+  },
+  "6": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "concluded that the imported meat had the lower carbon footprint"
+   },
+   "why": "C ↔ C段：新西兰运来的羊肉、西班牙运来的番茄可能比本地生产排放更少（Distance can even mislead）。D 文中只说超市贴标签，没有说消费者不感兴趣；E 与E段相反（作者承认本地食品有社会价值）。"
+  },
+  "7": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "a campaign that persuaded European shoppers to boycott air-freighted produce would fall hardest on some of the world's poorest farmers"
+   },
+   "why": "F ↔ F段：抵制空运农产品会让最贫穷的农民受害最深。avoiding certain imports ↔ boycott air-freighted produce；farmers in poorer countries ↔ the world's poorest farmers / smallholders in East Africa。"
+  },
+  "8": {
+   "a": "C",
+   "ev": {
+    "p": "A",
+    "q": "Several supermarkets began labelling products that had been flown in from abroad"
+   },
+   "why": "A段。started to mark goods that had arrived by air ↔ began labelling products that had been flown in。I 是干扰：提议每件商品都标明运输距离的是 some campaigners，不是超市。"
+  },
+  "9": {
+   "a": "F",
+   "ev": {
+    "p": "B",
+    "q": "by far the largest share of emissions arises on the farm itself: from fertiliser, from the methane produced by cattle and sheep as they digest grass, and from the clearing of forests to create pasture and cropland"
+   },
+   "why": "B段。Clearances of forest for pasture and crops ↔ the clearing of forests to create pasture and cropland；它是农场阶段主要排放来源之一 ↔ are among the largest sources of emissions。E（需要大量化肥）不对：原文只是把化肥列为另一排放来源，并没有说毁林需要化肥。"
+  },
+  "10": {
+   "a": "A",
+   "ev": {
+    "p": "C",
+    "q": "New Zealand's sheep graze outdoors all year round on grass that grows with little fertiliser"
+   },
+   "why": "C段。are able to graze in the open throughout the year ↔ graze outdoors all year round。E 正好相反：新西兰的草几乎不用化肥（with little fertiliser）。"
+  },
+  "11": {
+   "a": "H",
+   "ev": {
+    "p": "C",
+    "q": "tomatoes grown in heated greenhouses in northern Europe during the winter may be responsible for more emissions than tomatoes grown outdoors in Spain and carried north by lorry"
+   },
+   "why": "C段。may cause more emissions than produce brought by road from the south ↔ may be responsible for more emissions than tomatoes grown outdoors in Spain and carried north by lorry。by road ↔ by lorry；from the south ↔ Spain … carried north。"
+  },
+  "12": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "the products concerned are usually easy to identify, since they tend to be perishable goods on sale outside their normal season"
+   },
+   "why": "D段。Perishable goods sold outside their usual season ↔ perishable goods on sale outside their normal season；这类商品正是空运商品的特征 ↔ are likely to have been transported by plane。G（只占全球食品运输的极小份额）说的是 air freight 整体，主语不同。"
+  },
+  "13": {
+   "a": "J",
+   "ev": {
+    "p": "E",
+    "q": "customers valued the conversations they had with producers almost as much as the produce itself"
+   },
+   "why": "E段 Okoro 的研究。appreciate talking to growers ↔ valued the conversations they had with producers；almost as much as the food itself ↔ almost as much as the produce itself。"
+  },
+  "14": {
+   "a": "B",
+   "ev": {
+    "p": "F",
+    "q": "tens of thousands of smallholders in East Africa depend on exports of vegetables and flowers to Europe"
+   },
+   "why": "F段 Mwangi。rely on selling their crops to Europe ↔ depend on exports of vegetables and flowers to Europe。E 不对：原文说肯尼亚豆类种植 with little machinery or artificial fertiliser，正好相反。"
+  }
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "id": "2026-11-04",
+ "answers": {
+  "1": {
+   "a": "i",
+   "ev": {
+    "p": "B",
+    "q": "they reacted with light and air, gradually darkening and becoming brittle, so that within a few decades a fresh coat was often needed"
+   },
+   "why": "B段主旨：旧式天然树脂清漆会变暗变脆，需要反复重涂，给修复造成困难。i A finish that was never designed to last ↔ gradually darkening and becoming brittle … a fresh coat was often needed。ii 是干扰：段中只说19世纪收藏家喜欢金黄色调，没有说公众偏爱暗色画，且只是一个细节。"
+  },
+  "2": {
+   "a": "iv",
+   "ev": {
+    "p": "C",
+    "q": "An exhibition of cleaned pictures in 1947 drew enormous crowds, but it also attracted fierce criticism."
+   },
+   "why": "C段：战后国家美术馆清洗画作，1947年展览引发激烈批评。iv A post-war exhibition provokes dispute ↔ after the Second World War … exhibition … in 1947 … fierce criticism。"
+  },
+  "3": {
+   "a": "vi",
+   "ev": {
+    "p": "D",
+    "q": "can be mounted and examined under the microscope to reveal the sequence of layers from the canvas upwards"
+   },
+   "why": "D段：显微镜、红外和紫外成像、化学分析让修复师看清画面下的各层。vi Seeing beneath the surface ↔ reveal the sequence of layers / show where later paint has been added。v（发现隐藏签名）没有在文中出现，只是借用了“成像发现”的联想。"
+  },
+  "4": {
+   "a": "vii",
+   "ev": {
+    "p": "E",
+    "q": "the episode showed how strongly expectations can shape what people believe a painting should look like"
+   },
+   "why": "E段：西斯廷天顶画清洗后出现鲜艳色彩，与学者对米开朗琪罗的既有印象相冲突。vii Bright colours confound expectations ↔ revealed bright pinks, greens and oranges … expectations can shape…。xi 是干扰：段中只给出项目年份，没有谈费用。"
+  },
+  "5": {
+   "a": "viii",
+   "ev": {
+    "p": "F",
+    "q": "Rather than removing all the varnish, they reduce it, leaving a thin layer that protects the paint"
+   },
+   "why": "F段：部分清洗——只减薄清漆而不全部去除。viii Removing some but not all ↔ Rather than removing all the varnish, they reduce it。ix 是干扰：段中提到意法与英美做法不同，但说的是清洗方法，不是博物馆设计，也不是段落主旨。"
+  },
+  "6": {
+   "a": "x",
+   "ev": {
+    "p": "G",
+    "q": "whose decisions should, as far as possible, leave options open for those who come after them"
+   },
+   "why": "G段：强调可逆性，让未来的修复师可以撤销今天的工作。x Leaving choices to the next generation ↔ leave options open for those who come after them / any future conservator can undo today's work。iii 是A段的示例标题（不可逆的行为），与G段的“可逆”正好相反。"
+  },
+  "7": {
+   "a": "TRUE",
+   "ev": {
+    "p": "B",
+    "q": "a warm, golden tone, which nineteenth-century collectors associated with the work of the old masters"
+   },
+   "why": "B段。linked a warm, yellowish appearance with ↔ associated a warm, golden tone with；the great painters of the past ↔ the old masters。"
+  },
+  "8": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "C",
+    "q": "During the war the collection had been stored in a slate quarry in north Wales"
+   },
+   "why": "C段只说战时藏品存放在威尔士的板岩采石场，回来后美术馆趁机清洗，没有提到存放期间有无受损。清洗是“趁机”（took the opportunity），不是因为受损，因此无法判断，故 NOT GIVEN；本题容易被误判为 TRUE。"
+  },
+  "9": {
+   "a": "FALSE",
+   "ev": {
+    "p": "E",
+    "q": "a project carried out between 1980 and 1994"
+   },
+   "why": "E段。1980 到 1994 年共约十四年，超过十年，与 less than a decade 矛盾，故 FALSE。需要自己计算年份差，原文没有直接给出“几年”。"
+  },
+  "10": {
+   "a": "FALSE",
+   "ev": {
+    "p": "F",
+    "q": "has long been standard in a number of Italian and French museums, whereas British and American institutions have historically favoured more complete removal"
+   },
+   "why": "F段。部分清洗长期是意大利和法国博物馆的标准做法，而英美机构历来偏向完全去除，与题干（英国比意大利更常用部分清洗）正好相反，故 FALSE。"
+  },
+  "11": {
+   "a": "A",
+   "ev": {
+    "p": "G",
+    "q": "so that any future conservator can undo today's work without harming the paint"
+   },
+   "why": "G段。can later be removed without risk to the picture ↔ to be removable with mild solvents … undo today's work without harming the paint。copied、coloured 语法上可填，但与“可逆性”无关。"
+  },
+  "12": {
+   "a": "C",
+   "ev": {
+    "p": "G",
+    "q": "Modern synthetic varnishes are designed to remain stable for long periods"
+   },
+   "why": "G段。stay stable over time ↔ remain stable for long periods。brittle、glossy 是B段旧式天然清漆的特点（光亮但会变脆），是本空的干扰项。"
+  },
+  "13": {
+   "a": "E",
+   "ev": {
+    "p": "G",
+    "q": "their modern successors regard themselves as caretakers"
+   },
+   "why": "G段。guardians ↔ caretakers；perfecting a work of art ↔ completing or improving a painting（那是早期修复师的自我定位）。creators 对应的是早期修复师“完成作品”的心态，与现代修复师相反。"
+  }
+ }
+}

@@ -1,0 +1,257 @@
+{
+ "id": "2026-11-04",
+ "date": "2026-11-04",
+ "level": 6.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "arts & cultural history",
+ "title": "Cleaning the Old Masters",
+ "subtitle": "Removing old varnish can reveal a painting's true colours, but how can anyone be sure what the artist intended?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Few activities in the art world arouse stronger feelings than the cleaning of famous paintings. Over time, the varnish that painters and later restorers applied to protect their work turns yellow and then brown, and it collects dirt and smoke. Removing it can transform a picture, revealing colours that have not been seen for centuries and details that had disappeared into the gloom. But cleaning cannot be undone, and critics have repeatedly accused museums of stripping away not only dirt but part of the original work itself. The debate has rarely been calm, and it has never been fully resolved."
+  },
+  {
+   "label": "B",
+   "text": "Part of the difficulty lies in the nature of varnish itself and in its long history. Until the twentieth century, most varnishes were made from natural resins dissolved in oil or spirits. These gave paintings a pleasing gloss when first applied, but they reacted with light and air, gradually darkening and becoming brittle, so that within a few decades a fresh coat was often needed. Many paintings were therefore varnished several times over the centuries, sometimes with tinted varnishes that deliberately gave them a warm, golden tone, which nineteenth-century collectors associated with the work of the old masters. Distinguishing between these later layers and anything the artist applied is one of the conservator's hardest tasks."
+  },
+  {
+   "label": "C",
+   "text": "The first great public controversy erupted at the National Gallery in London after the Second World War. During the war the collection had been stored in a slate quarry in north Wales, and when the paintings returned, the gallery took the opportunity to clean a number of major works. An exhibition of cleaned pictures in 1947 drew enormous crowds, but it also attracted fierce criticism. Some art historians, the Austrian-born scholar Ernst Gombrich among them, argued that the old masters may have applied thin, tinted glazes over their paintings to soften and unify the colours, and that cleaning risked removing these along with the discoloured varnish. The dispute continued in academic journals for more than fifteen years. The gallery's conservators replied that they had found no technical evidence for such glazes in the works concerned."
+  },
+  {
+   "label": "D",
+   "text": "Since then, science has transformed the conservator's work. Tiny samples taken from the edges of damaged areas, no bigger than a pinhead, can be mounted and examined under the microscope to reveal the sequence of layers from the canvas upwards. Infrared and ultraviolet imaging, which do not touch the painting at all, show where later paint has been added, and chemical analysis can identify the materials in each layer. Dr Paula Henriksen, a conservation scientist in Copenhagen, says that it is now usually possible to tell whether a layer is original before it is removed, although she admits that thin glazes which have partly soaked into the paint beneath can still be extremely hard to detect."
+  },
+  {
+   "label": "E",
+   "text": "The most famous restoration of recent times was that of Michelangelo's frescoes in the Sistine Chapel in Rome, a project carried out between 1980 and 1994. Centuries of candle smoke, dust and layers of animal glue applied by earlier restorers had given the ceiling a dark, sombre appearance, and many scholars had built their understanding of Michelangelo around it, describing him as a painter who was indifferent to colour. When the cleaning revealed bright pinks, greens and oranges, some critics claimed that the restorers had removed a final layer of shading added by the artist himself. Most specialists now accept that the bright colours are original, but the episode showed how strongly expectations can shape what people believe a painting should look like."
+  },
+  {
+   "label": "F",
+   "text": "Faced with such uncertainty, many conservators have adopted a cautious approach, preferring to do too little rather than too much. Rather than removing all the varnish, they reduce it, leaving a thin layer that protects the paint and evens out the surface. This practice, sometimes called partial cleaning, has long been standard in a number of Italian and French museums, whereas British and American institutions have historically favoured more complete removal. Dr Marco Ferri of the University of Florence argues that partial cleaning respects the history of the object, since the painting that has come down to us is not the same as the one that left the artist's studio, and can never be made so."
+  },
+  {
+   "label": "G",
+   "text": "There is also a growing emphasis on reversibility, a principle now written into the professional codes of most conservation organisations. Modern synthetic varnishes are designed to remain stable for long periods and to be removable with mild solvents, so that any future conservator can undo today's work without harming the paint. Henriksen believes that this is perhaps the most important change of all. Earlier restorers often saw themselves as completing or improving a painting, whereas their modern successors regard themselves as caretakers whose decisions should, as far as possible, leave options open for those who come after them."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Choose the correct heading for paragraphs B–G from the list of headings below.",
+    "Write the correct number, i–xi, in boxes 1–6 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "A finish that was never designed to last"
+    },
+    {
+     "k": "ii",
+     "t": "Why the public preferred darker pictures"
+    },
+    {
+     "k": "iii",
+     "t": "An irreversible act that divides opinion"
+    },
+    {
+     "k": "iv",
+     "t": "A post-war exhibition provokes dispute"
+    },
+    {
+     "k": "v",
+     "t": "The discovery of a hidden signature"
+    },
+    {
+     "k": "vi",
+     "t": "Seeing beneath the surface"
+    },
+    {
+     "k": "vii",
+     "t": "Bright colours confound expectations"
+    },
+    {
+     "k": "viii",
+     "t": "Removing some but not all"
+    },
+    {
+     "k": "ix",
+     "t": "National differences in museum design"
+    },
+    {
+     "k": "x",
+     "t": "Leaving choices to the next generation"
+    },
+    {
+     "k": "xi",
+     "t": "The cost of restoring a famous ceiling"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    },
+    {
+     "n": 6,
+     "para": "G"
+    }
+   ]
+  },
+  {
+   "type": "tfng",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Do the following statements agree with the information given in the reading passage?",
+    "In boxes 7–10 on your answer sheet, write",
+    "TRUE if the statement agrees with the information",
+    "FALSE if the statement contradicts the information",
+    "NOT GIVEN if there is no information on this"
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "Collectors in the nineteenth century linked a warm, yellowish appearance with the great painters of the past."
+    },
+    {
+     "n": 8,
+     "text": "Some of the National Gallery's paintings suffered damage while they were kept in Wales."
+    },
+    {
+     "n": 9,
+     "text": "The restoration work in the Sistine Chapel took less than a decade to complete."
+    },
+    {
+     "n": 10,
+     "text": "Partial cleaning has traditionally been more widely practised in Britain than in Italy."
+    }
+   ]
+  },
+  {
+   "type": "summary_box",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete the summary using the list of words, A–H, below.",
+    "Write the correct letter, A–H, in boxes 11–13 on your answer sheet."
+   ],
+   "title": "A new attitude among conservators",
+   "text": "Conservators today increasingly choose materials that can later be [[11]] without risk to the picture. Synthetic varnishes are favoured because they stay [[12]] over time and come off easily with gentle solvents. Whereas earlier restorers often believed they were perfecting a work of art, their modern counterparts think of themselves as [[13]] who should keep future possibilities open.",
+   "options": [
+    {
+     "k": "A",
+     "t": "removed"
+    },
+    {
+     "k": "B",
+     "t": "coloured"
+    },
+    {
+     "k": "C",
+     "t": "stable"
+    },
+    {
+     "k": "D",
+     "t": "glossy"
+    },
+    {
+     "k": "E",
+     "t": "guardians"
+    },
+    {
+     "k": "F",
+     "t": "creators"
+    },
+    {
+     "k": "G",
+     "t": "brittle"
+    },
+    {
+     "k": "H",
+     "t": "copied"
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "arouse",
+   "zh": "激起；引起"
+  },
+  {
+   "w": "varnish",
+   "zh": "清漆；光油"
+  },
+  {
+   "w": "resin",
+   "zh": "树脂"
+  },
+  {
+   "w": "brittle",
+   "zh": "易碎的；脆的"
+  },
+  {
+   "w": "tinted",
+   "zh": "着色的；带色调的"
+  },
+  {
+   "w": "conservator",
+   "zh": "（文物、艺术品）修复师"
+  },
+  {
+   "w": "glaze",
+   "zh": "（绘画中的）透明罩染层"
+  },
+  {
+   "w": "fresco",
+   "zh": "湿壁画"
+  },
+  {
+   "w": "sombre",
+   "zh": "昏暗的；阴沉的"
+  },
+  {
+   "w": "solvent",
+   "zh": "溶剂"
+  },
+  {
+   "w": "reversibility",
+   "zh": "可逆性"
+  },
+  {
+   "w": "caretaker",
+   "zh": "看管人；守护者"
+  }
+ ],
+ "generatedAt": "2026-11-04T06:55:00+08:00",
+ "spec": "v3"
+}

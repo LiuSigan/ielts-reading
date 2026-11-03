@@ -1,0 +1,317 @@
+{
+ "id": "2026-11-04-p",
+ "date": "2026-11-04",
+ "level": 7.5,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "agriculture & food",
+ "title": "The Trouble with Food Miles",
+ "subtitle": "Why the distance food travels says surprisingly little about its effect on the climate",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "In the early years of this century, the idea of 'food miles' became one of the most successful slogans of the environmental movement. The reasoning seemed straightforward: food transported over long distances burns more fuel, so eating food grown close to home must be better for the planet. Several supermarkets began labelling products that had been flown in from abroad, and some campaigners proposed that every item should carry a figure showing how far it had travelled. The concept had the great advantage of being easy to understand and easy to act upon. It also appealed to a widespread unease about globalised supply chains and to a feeling that food from familiar places must be more trustworthy. Its weakness, as researchers soon began to point out, was that it measured the wrong thing."
+  },
+  {
+   "label": "B",
+   "text": "The most comprehensive analysis to date, published in 2018, combined data from roughly 38,000 farms in 119 countries to estimate the greenhouse gas emissions associated with different foods across their whole life cycle, from the clearing of land to the supermarket shelf. Transport, it found, accounted on average for less than a tenth of the total. For most foods, by far the largest share of emissions arises on the farm itself: from fertiliser, from the methane produced by cattle and sheep as they digest grass, and from the clearing of forests to create pasture and cropland. Beef produced with the lowest emissions, the study concluded, still generated many times more greenhouse gases than the most carbon-intensive peas or beans."
+  },
+  {
+   "label": "C",
+   "text": "Distance can even mislead. A frequently cited study from New Zealand compared lamb raised there and shipped to Britain with lamb raised in Britain itself, and concluded that the imported meat had the lower carbon footprint, because New Zealand's sheep graze outdoors all year round on grass that grows with little fertiliser, while British farms rely more heavily on supplementary feed. In the same way, tomatoes grown in heated greenhouses in northern Europe during the winter may be responsible for more emissions than tomatoes grown outdoors in Spain and carried north by lorry. Critics of the New Zealand study noted that it had been produced by researchers in an exporting country, and that its results depended on assumptions about British farming that not everyone accepted. Yet even sceptics acknowledged that its basic point, that where and how food is produced matters more than how far it travels, was sound."
+  },
+  {
+   "label": "D",
+   "text": "There is one important exception. Food carried by air produces far more emissions per kilogram than food carried by ship, often fifty times as much or more. Fresh fish, asparagus, green beans and soft fruit such as berries, flown out of season from distant countries can therefore have a substantial transport footprint. But air freight carries only a tiny proportion of the world's food, and the products concerned are usually easy to identify, since they tend to be perishable goods on sale outside their normal season. A simpler rule, to be wary of food that has been flown, would capture most of what is valuable in the food-miles idea without its distortions, although, as will become clear, even this rule has complications."
+  },
+  {
+   "label": "E",
+   "text": "Supporters of local food do not rest their case on carbon alone, and it would be unfair to suggest that they do. Buying from nearby farms, they argue, keeps money within the community, helps to preserve farmland and traditional varieties, and reconnects consumers with the seasons and with the people who grow what they eat. Dr Hannah Okoro, a rural sociologist who has studied farmers' markets in England, found that customers valued the conversations they had with producers almost as much as the produce itself. These are legitimate considerations, and nothing in the evidence on emissions undermines them. A thriving local food economy may also make a region less vulnerable to disruptions in international trade, as the shortages of the pandemic years reminded many people. The difficulty arises only when they are presented as environmental benefits that they do not, in fact, deliver."
+  },
+  {
+   "label": "F",
+   "text": "Some economists go further and argue that the emphasis on local food may harm people in poorer countries. Professor Daniel Mwangi, who studies agricultural trade, points out that tens of thousands of smallholders in East Africa depend on exports of vegetables and flowers to Europe. Kenyan beans grown with little machinery or artificial fertiliser and flown to Britain may, he suggests, generate fewer emissions in total than some beans grown in heated conditions in Europe, despite the flight. Admittedly, such comparisons are contested, and the figures depend heavily on the assumptions used. But a campaign that persuaded European shoppers to boycott air-freighted produce would fall hardest on some of the world's poorest farmers, for an environmental gain that is far from certain."
+  },
+  {
+   "label": "G",
+   "text": "None of this means that the distance food travels is irrelevant; it means that distance is a poor guide to what matters most. For consumers who want to reduce the environmental impact of their diet, the evidence points overwhelmingly in one direction: what we eat matters far more than where it comes from. Replacing a portion of beef with beans, wherever each was grown, does more for the climate than any amount of careful attention to labels showing distance. Food miles succeeded because they offered a simple measure for a complicated problem. The lesson of their failure is not that simple measures are useless, but that a measure is only as good as its connection to the thing it is meant to represent."
+  }
+ ],
+ "groups": [
+  {
+   "type": "mcq",
+   "from": 1,
+   "to": 4,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 1–4 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "According to the writer, the idea of food miles became popular mainly because",
+     "options": [
+      {
+       "k": "A",
+       "t": "it was supported by detailed scientific research."
+      },
+      {
+       "k": "B",
+       "t": "it was simple for ordinary people to grasp and apply."
+      },
+      {
+       "k": "C",
+       "t": "supermarkets were legally obliged to adopt it."
+      },
+      {
+       "k": "D",
+       "t": "it reduced the price of locally grown produce."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "text": "What did the analysis published in 2018 find?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Transport was the largest source of emissions for most foods."
+      },
+      {
+       "k": "B",
+       "t": "Most emissions are generated before food leaves the farm."
+      },
+      {
+       "k": "C",
+       "t": "Low-emission beef has a similar impact to peas and beans."
+      },
+      {
+       "k": "D",
+       "t": "Fertiliser releases more methane than cattle and sheep do."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "text": "What is the writer's view of the New Zealand lamb study?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Its conclusions were rejected by most of those who examined it."
+      },
+      {
+       "k": "B",
+       "t": "Its central message was accepted even by those who doubted its details."
+      },
+      {
+       "k": "C",
+       "t": "It was flawed because it ignored the methods used on British farms."
+      },
+      {
+       "k": "D",
+       "t": "It proved that imported meat is always the better environmental choice."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "text": "What is the writer's main purpose in the passage?",
+     "options": [
+      {
+       "k": "A",
+       "t": "to persuade readers to buy imported rather than local food"
+      },
+      {
+       "k": "B",
+       "t": "to argue that distance is a misleading guide to food's climate impact"
+      },
+      {
+       "k": "C",
+       "t": "to describe the growth of farmers' markets in England"
+      },
+      {
+       "k": "D",
+       "t": "to compare farming methods in New Zealand and Britain"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "mcq_multi",
+   "from": 5,
+   "to": 7,
+   "pick": 3,
+   "instructions": [
+    "Choose THREE letters, A–G.",
+    "Write the correct letters in boxes 5–7 on your answer sheet."
+   ],
+   "text": "Which THREE of the following does the writer present as reasons for doubting the value of food miles?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Transport makes up only a small part of the emissions of most foods."
+    },
+    {
+     "k": "B",
+     "t": "Food carried by air accounts for a large share of the global food trade."
+    },
+    {
+     "k": "C",
+     "t": "Food grown further away may sometimes produce fewer emissions overall."
+    },
+    {
+     "k": "D",
+     "t": "Shoppers have shown little interest in labels that show distance."
+    },
+    {
+     "k": "E",
+     "t": "Buying food from local farms brings no social benefits."
+    },
+    {
+     "k": "F",
+     "t": "Avoiding certain imports could hurt farmers in poorer countries."
+    },
+    {
+     "k": "G",
+     "t": "The distance that food travels has no environmental significance."
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 8,
+   "to": 14,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–J, below.",
+    "Write the correct letter, A–J, in boxes 8–14 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 8,
+     "text": "In the early years of the century, some supermarkets"
+    },
+    {
+     "n": 9,
+     "text": "Clearances of forest for pasture and crops"
+    },
+    {
+     "n": 10,
+     "text": "Sheep raised in New Zealand"
+    },
+    {
+     "n": 11,
+     "text": "Winter tomatoes from heated greenhouses in northern Europe"
+    },
+    {
+     "n": 12,
+     "text": "Perishable goods sold outside their usual season"
+    },
+    {
+     "n": 13,
+     "text": "Customers at farmers' markets in England"
+    },
+    {
+     "n": 14,
+     "text": "Many smallholders in East Africa"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "are able to graze in the open throughout the year."
+    },
+    {
+     "k": "B",
+     "t": "rely on selling their crops to Europe."
+    },
+    {
+     "k": "C",
+     "t": "started to mark goods that had arrived by air."
+    },
+    {
+     "k": "D",
+     "t": "are likely to have been transported by plane."
+    },
+    {
+     "k": "E",
+     "t": "require large quantities of artificial fertiliser."
+    },
+    {
+     "k": "F",
+     "t": "are among the largest sources of emissions connected with food."
+    },
+    {
+     "k": "G",
+     "t": "make up only a tiny share of the food moved around the world."
+    },
+    {
+     "k": "H",
+     "t": "may cause more emissions than produce brought by road from the south."
+    },
+    {
+     "k": "I",
+     "t": "were the first to propose that every item display its distance."
+    },
+    {
+     "k": "J",
+     "t": "appreciate talking to growers almost as much as the food itself."
+    }
+   ]
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "slogan",
+   "zh": "口号；标语"
+  },
+  {
+   "w": "comprehensive",
+   "zh": "全面的"
+  },
+  {
+   "w": "life cycle",
+   "zh": "生命周期"
+  },
+  {
+   "w": "carbon-intensive",
+   "zh": "碳密集的；高碳排放的"
+  },
+  {
+   "w": "carbon footprint",
+   "zh": "碳足迹"
+  },
+  {
+   "w": "supplementary feed",
+   "zh": "补充饲料"
+  },
+  {
+   "w": "perishable",
+   "zh": "易腐烂的"
+  },
+  {
+   "w": "air freight",
+   "zh": "空运货物；航空货运"
+  },
+  {
+   "w": "distortion",
+   "zh": "歪曲；失真"
+  },
+  {
+   "w": "legitimate",
+   "zh": "合理的；正当的"
+  },
+  {
+   "w": "smallholder",
+   "zh": "小农户"
+  },
+  {
+   "w": "boycott",
+   "zh": "抵制"
+  }
+ ],
+ "generatedAt": "2026-11-04T07:00:00+08:00",
+ "spec": "v3"
+}

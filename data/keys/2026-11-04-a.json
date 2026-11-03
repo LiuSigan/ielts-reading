@@ -1,0 +1,123 @@
+{
+ "id": "2026-11-04-a",
+ "answers": {
+  "1": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "the trees they felled all contained a damaged ring dating from the exceptionally harsh winter of 1709"
+   },
+   "why": "B段。traced a feature shared by many trees ↔ the trees they felled all contained a damaged ring；one season of extreme weather ↔ the exceptionally harsh winter of 1709。Leonardo（A）虽然也把年轮和干湿年份联系起来，但他说的是一根树枝，不是很多树的共同特征。"
+  },
+  "2": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "began to wonder whether changes in the activity of the sun affected the climate on Earth"
+   },
+   "why": "C段 Douglass。a question about the sun ↔ whether changes in the activity of the sun affected the climate；first became interested ↔ began to wonder … realised that he needed a record of rainfall。他是天文学家（an astronomer），这一点也是线索。"
+  },
+  "3": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "Leonardo da Vinci observed both that the rings of a sawn branch revealed its age"
+   },
+   "why": "B段。recognised that the rings in a piece of wood indicated how old it was ↔ the rings of a sawn branch revealed its age。A段说几乎人人都知道数年轮可知树龄，但那不是列表中任何人的发现；Schulman（D）测定的是具体树木的年龄，不是发现年轮代表年龄这一原理。"
+  },
+  "4": {
+   "a": "D",
+   "ev": {
+    "p": "E",
+    "q": "Growing very slowly in cold, dry, rocky conditions near the tree line, some of these trees proved to be more than 4,000 years old"
+   },
+   "why": "E段 Schulman。harsh mountain environment ↔ cold, dry, rocky conditions near the tree line in the White Mountains；established the great age ↔ proved to be more than 4,000 years old。Douglass 虽然创办了实验室，但寻找最古老树木的是 Schulman。"
+  },
+  "5": {
+   "a": "C",
+   "ev": {
+    "p": "D",
+    "q": "contained rings that linked the two, allowing dozens of sites to be dated to the exact year in which their timbers had been cut"
+   },
+   "why": "D段 Douglass。joined two separate ring sequences ↔ linked the two（现代序列与 floating 序列）；old settlements could be dated exactly ↔ dozens of sites to be dated to the exact year。本题与第2题都选 C。Libby（E）出现在F段，与考古遗址定年无关，是从未被选的选项。"
+  },
+  "6": {
+   "a": "written",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "he realised that he needed a record of rainfall far longer than any written one"
+   },
+   "why": "C段。evidence of rainfall going back further than ___ records ↔ a record of rainfall far longer than any written one。不要填 rainfall（题干已出现）。"
+  },
+  "7": {
+   "a": "Show Low",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "when a charred beam found at Show Low, Arizona, contained rings that linked the two"
+   },
+   "why": "D段。a burnt timber ↔ a charred beam；1929 年发现地点是 Show Low。只填 Arizona 不够具体（C段的 Lowell Observatory 和E段的大学也都在亚利桑那州），且 Show Low, Arizona 超过两个词，所以答案是 Show Low。"
+  },
+  "8": {
+   "a": "Methuselah",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "one, later named Methuselah, was found in 1957 to be over 4,700"
+   },
+   "why": "E段。1957 年测定树龄超过 4,700 年的那棵树后来被命名为 Methuselah。不要填 bristlecone pines（那是树种，不是那一棵树）。"
+  },
+  "9": {
+   "a": "calibrate",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "they were used to calibrate radiocarbon dates, correcting errors of several centuries for some periods"
+   },
+   "why": "F段。tree rings help to ___ its dates ↔ they were used to calibrate radiocarbon dates。correct 也出现在同句（correcting errors），但原文是 correcting errors，填 correct 不是原词形，答案应为 calibrate。"
+  },
+  "10": {
+   "a": "bark",
+   "alt": [
+    "its bark"
+   ],
+   "ev": {
+    "p": "A",
+    "q": "a tree adds a new layer of wood just beneath its bark"
+   },
+   "why": "A段。lays down a fresh layer of wood immediately under its ↔ adds a new layer of wood just beneath its bark。trunk 也在同段（rings in its trunk），但新木层是长在树皮下，而不是“树干下”。"
+  },
+  "11": {
+   "a": "denser",
+   "alt": [],
+   "ev": {
+    "p": "A",
+    "q": "darker, denser wood later in the summer"
+   },
+   "why": "A段。the wood produced later ↔ later in the summer；darker and ___ ↔ darker, denser。与之相对的是早材的 pale, open（题干已改写为 light in colour and open in texture）。"
+  },
+  "12": {
+   "a": "water",
+   "alt": [
+    "rainfall"
+   ],
+   "ev": {
+    "p": "C",
+    "q": "where water rather than temperature limits growth"
+   },
+   "why": "C段。growth is limited chiefly by the supply of ___, not by warmth ↔ where water rather than temperature limits growth。同段 ring widths rise and fall with rainfall 表达同一意思，所以 rainfall 也可接受。temperature 是被排除的一方（not by warmth）。"
+  },
+  "13": {
+   "a": "cross-dating",
+   "alt": [
+    "cross dating"
+   ],
+   "ev": {
+    "p": "C",
+    "q": "He called the technique of matching these patterns between different trees cross-dating"
+   },
+   "why": "C段。the process of comparing these patterns is called ↔ called the technique of matching these patterns … cross-dating。radiocarbon dating 是F段的另一种方法，不能填。"
+  }
+ }
+}
