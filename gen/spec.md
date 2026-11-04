@@ -1,12 +1,13 @@
-# IELTS Academic Reading — daily passage generator spec (v3)
+# IELTS Academic Reading — daily passage generator spec (v4)
 
-Every day you write THREE original IELTS Academic Reading passages for a single learner — a full
-Reading test, Part 1 to Part 3, 20 minutes each — and commit them to the GitHub Pages site
-("雅思阅读日练"):
+Every day you write TWO original IELTS Academic Reading passages for a single learner, 20 minutes
+each, and commit them to the GitHub Pages site ("雅思阅读日练"). The three kinds of passage are:
 
 - **Part 1** (`slot: "p1"`, `style: "P1"`), pitched at `max(5.0, L − 0.5)`;
 - **Part 2** (`slot: "main"`, `style: "P2"`), pitched at the learner's adaptive level L;
 - **Part 3** (`slot: "p3"`, `style: "P3"`), pitched at `min(9, max(7.0, L + 1))`.
+
+Which two to write is decided each day by the rule in "Choosing today's two parts" below.
 
 Everything must look and behave like a real Cambridge/IDP/BC Academic Reading passage, but be
 **harder than Cambridge IELTS at the same nominal band**: the learner wants to over-train. Write
@@ -25,9 +26,9 @@ The site is a static GitHub Pages site. Paths below are relative to the reposito
      use the level of the newest main passage in `data/index.json` (or 6.5) and no type stats.
    - `data/index.json` → earlier passages: `id`, `slot`, `topicArea`, `title`, `types` (to avoid
      repeating topics and to rotate question types).
-2. For each of the three passages decide the level (section 2), the passage profile (section 3),
-   the topic (section 4) and the question-type mix (section 5). The three passages must have
-   different topic areas and no question type in common.
+2. Choose today's two parts (rule below). For each of the two passages decide the level
+   (section 2), the passage profile (section 3), the topic (section 4) and the question-type mix
+   (section 5). The two passages must have different topic areas and no question type in common.
 3. Write each passage and its questions as JSON exactly in the schema of section 7 to
    `data/passages/<id>.json`, and the answer key to `data/keys/<id>.json`.
 4. Self-check every answer against the item-writing rules in section 6. For every item, quote the
@@ -38,10 +39,29 @@ The site is a static GitHub Pages site. Paths below are relative to the reposito
 5. Run `node gen/validate.mjs data/passages/<id>.json data/keys/<id>.json` for each passage. Fix
    every ERROR and re-run until it prints `OK`. Treat WARN lines seriously. Never commit a passage
    that fails.
-6. Run `node gen/build-index.mjs`, then commit the seven changed files (three passages, three
-   keys, `data/index.json`) with the message `Add passages <date>: <P1 title> / <P2 title> /
-   <P3 title>` and push to `main`. GitHub Pages redeploys within a few minutes.
-7. Reply with a short summary: for each passage its id, level, title and question types.
+6. Run `node gen/build-index.mjs`, then commit the five changed files (two passages, two keys,
+   `data/index.json`) with the message `Add passages <date>: <first title> / <second title>`
+   (in Part order) and push to `main`. GitHub Pages redeploys within a few minutes.
+7. Reply with a short summary: which two parts you chose and why, and for each passage its id,
+   level, title and question types.
+
+### Choosing today's two parts
+
+Part 2 is written every day: it is the adaptive passage and the only one that moves L. The
+second passage is Part 1 or Part 3, chosen in this order:
+
+1. Use only first attempts (`attempts`, one per `passageId`, earliest `submittedAt`).
+   Let `acc2` = mean accuracy (`score/total`) of the learner's last two Part 2 attempts.
+2. If there are no attempts at all, or fewer than two Part 2 attempts: alternate — pick whichever
+   of Part 1 / Part 3 was generated less recently (see `data/index.json`).
+3. Otherwise:
+   - `acc2 < 0.60` → **Part 1** (consolidate: easier text, more locating practice);
+   - `acc2 ≥ 0.75` → **Part 3** (stretch);
+   - in between → the part on which the learner's most recent first attempt scored lower
+     (if one of them has never been attempted, that one).
+4. Override: never choose the same second part on three days in a row; if the rule would do so,
+   take the other one. This keeps both Part 1 and Part 3 types in circulation.
+5. "Last 8 passages" in section 5 means the last 8 passages of any slot.
 
 Document ids, using the date in Asia/Singapore time: Part 1 `YYYY-MM-DD-a`, Part 2
 `YYYY-MM-DD`, Part 3 `YYYY-MM-DD-p`. If an extra Part 2 passage is needed on the same day use
@@ -171,7 +191,7 @@ Mix rules:
   6.5–7.0: headings, match_features, mcq, summary_box, sentence_completion;
   ≥ 7.5: ynng, mcq, mcq_multi, sentence_endings, summary_box, match_features).
 - Do not reuse exactly the same three types as the previous passage of the same slot, and do not
-  give the three passages of one day any type in common.
+  give the two passages of one day any type in common.
 
 ## 6. Item-writing rules (the quality bar)
 
@@ -260,7 +280,7 @@ Explanations (shown to the learner after submission, in Simplified Chinese)
   "suggestedMinutes": 20,
   "vocab": [ {"w": "mitigate", "zh": "减轻；缓和"} ],
   "generatedAt": "2026-10-30T06:50:00+08:00",
-  "spec": "v3"
+  "spec": "v4"
 }
 ```
 Every GROUP has `type`, `from`, `to`, `instructions` (array of strings, official wording) and

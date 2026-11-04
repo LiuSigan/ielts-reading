@@ -82,7 +82,7 @@ select.pick { border: 1px solid var(--line); background: var(--sheet); border-ra
 .psub { font-family: var(--f-read); font-style: italic; color: var(--muted); font-size: 17px; margin: 0 0 22px; text-wrap: balance; }
 .para { display: grid; grid-template-columns: 26px minmax(0,1fr); gap: 6px; margin-bottom: 16px; }
 .para .lab { font-family: var(--f-read); font-weight: 600; font-size: 17px; padding-top: 1px; }
-.para p { margin: 0; font-family: var(--f-read); font-size: 17.5px; line-height: 1.72; }
+.para p { margin: 0; font-family: var(--f-read); font-size: 17.5px; line-height: 1.72; -webkit-user-select: text; user-select: text; }
 .para .hchip { display: block; font-family: var(--f-ui); font-size: 12.5px; color: var(--accent); margin-bottom: 4px; }
 mark.hl { background: var(--hl); color: inherit; border-radius: 2px; cursor: pointer; }
 mark.ev { background: var(--ev); color: inherit; border-radius: 2px; box-shadow: 0 0 0 2px var(--ev); }
@@ -237,7 +237,7 @@ table.qt th { background: var(--field); font-weight: 600; }
 <main id="app">
   <div class="empty" id="boot">
     <h2>正在载入今天的文章…</h2>
-    <p>每天早上 6:47（北京/新加坡时间）会自动生成一篇新的雅思学术类阅读：约 800 词，13 道题。难度会根据之前的正确率调整。</p>
+    <p>每天早上 6:47（北京/新加坡时间）会自动生成两篇新的雅思学术类阅读：Part 2 每天都有，另一篇按你的成绩在 Part 1 和 Part 3 之间选择。难度会根据 Part 2 的正确率调整。</p>
   </div>
 </main>
 
@@ -619,7 +619,7 @@ function render() {
   if (!p) {
     const [h, t] = S.loading ? ["正在载入文章…", ""]
       : S.loadError ? ["题库没能载入", "请检查网络后刷新页面。"]
-      : ["还没有文章", "每天早上 6:47（北京/新加坡时间）会自动生成一篇新文章，打开页面时会自动出现。"];
+      : ["还没有文章", "每天早上 6:47（北京/新加坡时间）会自动生成新文章，打开页面时会自动出现。"];
     $("#app").replaceChildren(el("div", { class: "empty" }, el("h2", { text: h }), t ? el("p", { text: t }) : null));
     return;
   }
@@ -634,6 +634,7 @@ function render() {
   const sr = keepR && keepR.dataset.pid === p.id ? keepR.scrollTop : 0;
   left.dataset.pid = right.dataset.pid = p.id;
   $("#app").replaceChildren(tabs, split);
+  restoreHighlights(p.id);
   left.scrollTop = sl; right.scrollTop = sr;
   document.documentElement.style.setProperty("--hdr-h", $(".hdr").offsetHeight + "px");
 }
@@ -644,13 +645,33 @@ function setTab(t) {
   window.scrollTo({ top: 0 });
 }
 
-function renderPassage(p) {
+// The heading chosen for each paragraph, shown above it while answering a headings group.
+function headingChips(p) {
   const headG = p.groups.find((g) => g.type === "headings");
   const chosen = {};
   if (headG) {
     if (headG.example) chosen[headG.example.para] = headG.example.k;
     headG.items.forEach((it) => { if (S.answers[it.n]) chosen[it.para] = S.answers[it.n]; });
   }
+  const chip = {};
+  Object.entries(chosen).forEach(([para, k]) => { chip[para] = `${k}. ${(headG.options.find((o) => o.k === k) || {}).t || ""}`; });
+  return chip;
+}
+// Update the chips in place so the reader's highlights survive.
+function refreshHeadingChips(p) {
+  const chip = headingChips(p);
+  p.paragraphs.forEach((para, i) => {
+    const box = document.getElementById("para-" + (para.label || String(i + 1)));
+    if (!box) return;
+    const body = box.lastElementChild;
+    let c = body.querySelector(".hchip");
+    if (!chip[para.label]) { if (c) c.remove(); return; }
+    if (!c) { c = el("span", { class: "hchip" }); body.prepend(c); }
+    c.textContent = chip[para.label];
+  });
+}
+function renderPassage(p) {
+  const chip = headingChips(p);
   const out = [
     el("div", { class: "eyebrow", text: `Reading Passage · ${p.topicArea}` }),
     el("p", { class: "rubric", text: `You should spend about ${p.suggestedMinutes || 20} minutes on Questions 1–${p.total}, which are based on the Reading Passage below.` }),
@@ -660,7 +681,7 @@ function renderPassage(p) {
   p.paragraphs.forEach((para, i) => {
     const pk = para.label || String(i + 1);
     const ptext = el("p", { "data-para": pk, text: para.text });
-    const body = el("div", {}, chosen[para.label] ? el("span", { class: "hchip", text: `${chosen[para.label]}. ${(headG.options.find((o) => o.k === chosen[para.label]) || {}).t || ""}` }) : null, ptext);
+    const body = el("div", {}, chip[para.label] ? el("span", { class: "hchip", text: chip[para.label] }) : null, ptext);
     out.push(el("div", { class: "para", id: "para-" + pk }, el("span", { class: "lab", text: para.label || "" }), body));
   });
   if (p.vocab && p.vocab.length) {
@@ -799,7 +820,7 @@ function renderGroup(p, g) {
   } else if (T === "headings") {
     sec.append(optionBox("List of Headings", g.options));
     if (g.example) sec.append(el("p", { class: "note", text: `Example: Paragraph ${g.example.para} — ${g.example.k}` }));
-    S.headingsChanged = () => { if (S.result) return; const left = $(".pane.left .pane-in"); if (left) left.replaceChildren(...renderPassage(p)); };
+    S.headingsChanged = () => { if (S.result) return; refreshHeadingChips(p); };
     g.items.forEach((it) => {
       sec.append(el("div", { class: "item" }, el("span", { class: "qn", text: it.n }),
         el("div", {}, el("p", { class: "qtext" }, `Paragraph ${it.para}  `, selectFor(it.n, g.options.map((o) => o.k).filter((k) => !g.example || k !== g.example.k))), review(it.n))));
@@ -857,42 +878,141 @@ function renderGroup(p, g) {
 }
 
 // ---------- evidence & highlight ----------
+// Text nodes of the passage that a range touches, with the part of each that is selected.
+function passageSlices(r) {
+  const c = r.commonAncestorContainer;
+  let nodes = [];
+  if (c.nodeType === 3) nodes = [c];
+  else {
+    const w = document.createTreeWalker(c, NodeFilter.SHOW_TEXT);
+    while (w.nextNode()) if (r.intersectsNode(w.currentNode)) nodes.push(w.currentNode);
+  }
+  return nodes.filter((t) => t.parentElement && t.parentElement.closest("[data-para]")).map((t) => ({
+    t, s: t === r.startContainer ? r.startOffset : 0, e: t === r.endContainer ? r.endOffset : t.length
+  })).filter((x) => x.e > x.s && x.t.data.slice(x.s, x.e).trim());
+}
+// Wrap each selected piece in its own <mark>, so a selection may cross earlier highlights and paragraphs.
+let hlGroup = 0;
+function wrapRange(r, cls) {
+  const marks = [], g = String(++hlGroup);
+  for (const { t, s, e } of passageSlices(r)) {
+    if (cls === "hl" && t.parentElement.closest("mark.hl")) continue;
+    let node = t;
+    if (s > 0) node = node.splitText(s);
+    if (e - s < node.length) node.splitText(e - s);
+    const m = el("mark", cls === "hl" ? { class: "hl", title: "点击取消高亮", "data-g": g } : { class: cls });
+    node.replaceWith(m);
+    m.append(node);
+    marks.push(m);
+  }
+  return marks;
+}
+// Highlights are kept per passage as character offsets within each paragraph, so they
+// survive re-renders (submitting, switching passages) and page reloads on this device.
+function saveHighlights() {
+  const pane = $(".pane.left");
+  if (!pane || !pane.dataset.pid) return;
+  const out = {};
+  pane.querySelectorAll("[data-para]").forEach((p) => {
+    const w = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
+    let pos = 0;
+    const spans = [];
+    while (w.nextNode()) {
+      const t = w.currentNode;
+      if (t.parentElement.closest("mark.hl")) {
+        const last = spans[spans.length - 1];
+        if (last && last[1] === pos) last[1] = pos + t.length; else spans.push([pos, pos + t.length]);
+      }
+      pos += t.length;
+    }
+    if (spans.length) out[p.dataset.para] = spans;
+  });
+  store.set("hl:" + pane.dataset.pid, Object.keys(out).length ? out : null);
+}
+function restoreHighlights(pid) {
+  const saved = store.get("hl:" + pid);
+  if (!saved) return;
+  Object.entries(saved).forEach(([pk, spans]) => {
+    const p = document.querySelector(`[data-para="${CSS.escape(pk)}"]`);
+    if (!p) return;
+    spans.forEach(([a, z]) => { const r = paraRange(p, a, z); if (r) wrapRange(r, "hl"); });
+  });
+}
+// A range covering characters a..z of a paragraph's text, whatever marks it already contains.
+function paraRange(p, a, z) {
+  const r = document.createRange();
+  const w = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
+  let pos = 0, started = false;
+  while (w.nextNode()) {
+    const t = w.currentNode, end = pos + t.length;
+    if (!started && a < end) { r.setStart(t, a - pos); started = true; }
+    if (started && z <= end) { r.setEnd(t, z - pos); return r; }
+    pos = end;
+  }
+  return null;
+}
+function unwrap(m) {
+  const parent = m.parentNode;
+  m.replaceWith(...m.childNodes);
+  if (parent) parent.normalize();
+}
 function locate(ev) {
-  document.querySelectorAll("mark.ev").forEach((m) => m.replaceWith(document.createTextNode(m.textContent)));
+  document.querySelectorAll("mark.ev").forEach(unwrap);
   const p = document.querySelector(`[data-para="${CSS.escape(String(ev.p))}"]`);
   if (!p) return;
-  p.normalize();
-  const text = p.textContent;
-  const q = String(ev.q).replace(/\s+/g, " ").trim();
-  const i = text.indexOf(q);
   if (S.tab !== "passage" && window.matchMedia("(max-width: 860px)").matches) setTab("passage");
+  const q = String(ev.q).replace(/\s+/g, " ").trim();
+  const i = p.textContent.indexOf(q);
   if (i < 0) { p.scrollIntoView({ block: "center", behavior: "smooth" }); return; }
-  p.replaceChildren(document.createTextNode(text.slice(0, i)), el("mark", { class: "ev", text: text.slice(i, i + q.length) }), document.createTextNode(text.slice(i + q.length)));
-  p.querySelector("mark.ev").scrollIntoView({ block: "center", behavior: "smooth" });
+  const r = paraRange(p, i, i + q.length);
+  const marks = r ? wrapRange(r, "ev") : [];
+  if (marks[0]) marks[0].scrollIntoView({ block: "center", behavior: "smooth" });
 }
-let tip = null;
-document.addEventListener("mouseup", (e) => {
-  if (tip && e.target === tip) return;
-  setTimeout(() => {
-    if (tip) { tip.remove(); tip = null; }
-    const sel = window.getSelection();
-    if (!sel || sel.isCollapsed || !sel.rangeCount) return;
-    const r = sel.getRangeAt(0);
-    const host = r.commonAncestorContainer.nodeType === 1 ? r.commonAncestorContainer : r.commonAncestorContainer.parentElement;
-    if (!host || !host.closest("[data-para]")) return;
-    const rect = r.getBoundingClientRect();
-    tip = el("button", { class: "hl-tip", style: `left:${Math.max(8, rect.left)}px;top:${Math.max(8, rect.top - 34)}px`, text: "高亮" });
-    tip.addEventListener("mousedown", (ev) => ev.preventDefault());
-    tip.addEventListener("click", () => {
-      try { r.surroundContents(el("mark", { class: "hl", title: "点击取消高亮" })); } catch { toast("一次只能高亮同一段里的文字"); }
-      sel.removeAllRanges(); tip.remove(); tip = null;
-    });
+// Highlighting: works with a mouse and with long-press selection on phones and tablets.
+let tip = null, tipRange = null, tipTimer = 0;
+function hideTip() { if (tip) { tip.remove(); tip = null; tipRange = null; } }
+function showTip() {
+  const sel = window.getSelection();
+  if (!sel || sel.isCollapsed || !sel.rangeCount) return hideTip();
+  const r = sel.getRangeAt(0);
+  if (!passageSlices(r).length) return hideTip();
+  tipRange = r.cloneRange();
+  const rects = r.getClientRects();
+  const first = rects[0] || r.getBoundingClientRect(), last = rects[rects.length - 1] || first;
+  // On touch screens the system menu sits above the selection, so put the button below it.
+  const touch = window.matchMedia("(pointer: coarse)").matches;
+  const top = touch ? last.bottom + 12 : first.top - 38;
+  const left = touch ? last.right - 30 : first.left;
+  if (!tip) {
+    tip = el("button", { class: "hl-tip", type: "button", text: "高亮" });
+    const keep = (e) => e.preventDefault();
+    tip.addEventListener("mousedown", keep);
+    tip.addEventListener("touchstart", keep, { passive: false });
+    tip.addEventListener("pointerdown", keep);
+    const go = (e) => {
+      e.preventDefault();
+      if (!tipRange) return;
+      wrapRange(tipRange, "hl");
+      saveHighlights();
+      const s = window.getSelection(); if (s) s.removeAllRanges();
+      hideTip();
+    };
+    tip.addEventListener("click", go);
+    tip.addEventListener("touchend", go);
     document.body.append(tip);
-  }, 0);
-});
+  }
+  tip.style.left = `${Math.min(window.innerWidth - 70, Math.max(8, left))}px`;
+  tip.style.top = `${Math.min(window.innerHeight - 44, Math.max(8, top))}px`;
+}
+document.addEventListener("selectionchange", () => { clearTimeout(tipTimer); tipTimer = setTimeout(showTip, 200); });
+document.addEventListener("mouseup", (e) => { if (tip && e.target === tip) return; setTimeout(showTip, 0); });
+document.addEventListener("scroll", () => { if (tip) showTip(); }, true);
 document.addEventListener("click", (e) => {
+  if (e.target === tip) return;
+  const sel = window.getSelection();
+  if (sel && !sel.isCollapsed) return;
   const m = e.target.closest && e.target.closest("mark.hl");
-  if (m) m.replaceWith(document.createTextNode(m.textContent));
+  if (m) { document.querySelectorAll(`mark.hl[data-g="${m.dataset.g}"]`).forEach(unwrap); saveHighlights(); }
 });
 
 // ---------- history ----------
