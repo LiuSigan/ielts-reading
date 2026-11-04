@@ -377,9 +377,14 @@ function saveLocalState() { store.set("ielts:attempts", S.attempts); store.set("
 async function boot() {
   try { S.config = await getJSON("config.json"); } catch { S.config = {}; }
   S.api = String(S.config.apiBase || "").replace(/\/+$/, "");
-  S.pass = store.get("ielts:pass") || "";
+  // A key typed on the 记录 page wins; otherwise use the shared one from config.json, so syncing needs no setup.
+  S.pass = store.get("ielts:pass") || String(S.config.writeKey || "");
   loadLocalState();
   await Promise.all([refreshIndex(), refreshState()]);
+  if (S.api && S.pass && Object.values(S.attempts).some((a) => a.pending)) {
+    const n = await flushPending();
+    if (n) toast(`已自动补传 ${n} 篇成绩`);
+  }
   if (location.hash === "#history") S.view = "history";
   const want = (location.hash || "").replace(/^#p-/, "");
   const pick = S.index.find((p) => p.id === want) || S.index.find((p) => !S.attempts[p.id]) || S.index[0];
@@ -473,14 +478,20 @@ async function savePass(v) {
   try { await api("/check", {}); }
   catch (e) { S.pass = prev; toast(e.message || "口令验证失败"); return; }
   store.set("ielts:pass", S.pass);
+  const n = await flushPending();
+  toast(n ? `口令已保存，补传了 ${n} 篇的成绩` : "口令已保存，之后的成绩会自动同步");
+  renderHistory();
+}
+// Upload attempts that were saved on this device while the API could not be reached. Returns how many went up.
+async function flushPending() {
   const pending = Object.values(S.attempts).filter((a) => a.pending).sort((x, y) => String(x.submittedAt).localeCompare(String(y.submittedAt)));
+  let sent = 0;
   for (const a of pending) {
     const { pending: _, ...clean } = a;
-    try { await api("/attempt", clean); } catch { break; }
+    try { await api("/attempt", clean); sent++; } catch { break; }
   }
-  await refreshState();
-  toast(pending.length ? `口令已保存，补传了 ${pending.length} 篇的成绩` : "口令已保存，之后的成绩会自动同步");
-  renderHistory();
+  if (sent) await refreshState();
+  return sent;
 }
 
 
