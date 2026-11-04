@@ -418,7 +418,14 @@ async function poll() {
   if (S.busy) return;
   await refreshIndex();
   await refreshState();
+  await uploadPendingQuietly();
   if (S.view === "history") renderHistory(); else renderHeader();
+}
+// Retry any scores still waiting on this device (e.g. saved while offline).
+async function uploadPendingQuietly() {
+  if (!S.api || !S.pass || !Object.values(S.attempts).some((a) => a.pending)) return;
+  const n = await flushPending();
+  if (n) toast(`已自动补传 ${n} 篇成绩`);
 }
 const cur = () => S.cache[S.id];
 const partName = (slot) => (slot === "p1" ? "Part 1" : slot === "p3" ? "Part 3" : "Part 2");
@@ -608,11 +615,13 @@ async function submit() {
   try {
     if (S.api && S.pass) {
       try {
+        // Older scores still waiting on this device go up first, so the level rules see them in order.
+        const earlier = Object.values(S.attempts).some((a) => a.pending) ? await flushPending() : 0;
         const out = await api("/attempt", attempt);
         S.profile = out.profile; S.attempts[p.id] = out.attempt || attempt; S.lastChange = out.change || null;
-        saveLocalState(); toast("成绩已同步"); render();
+        saveLocalState(); toast(earlier ? `成绩已同步（另外补传了 ${earlier} 篇之前的成绩）` : "成绩已同步"); render();
         return;
-      } catch (e) { toast(`成绩没同步上（${e.message}），先保存在本机，下次填口令时会补传`); }
+      } catch (e) { toast(`成绩没同步上（${e.message}），先保存在本机，联网后会自动补传`); }
     } else if (S.api) toast("还没填同步口令，成绩先保存在本机。到“记录”页填写口令后会自动补传。");
     const out = applyAttempt(S.profile, Object.values(S.attempts), attempt);
     S.profile = out.profile; S.lastChange = out.change;
