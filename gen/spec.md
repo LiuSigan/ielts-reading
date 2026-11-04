@@ -1,4 +1,4 @@
-# IELTS Academic Reading — daily passage generator spec (v4)
+# IELTS Academic Reading — daily passage generator spec (v5)
 
 Every day you write TWO original IELTS Academic Reading passages for a single learner, 20 minutes
 each, and commit them to the GitHub Pages site ("雅思阅读日练"). The three kinds of passage are:
@@ -28,7 +28,8 @@ The site is a static GitHub Pages site. Paths below are relative to the reposito
      repeating topics and to rotate question types).
 2. Choose today's two parts (rule below). For each of the two passages decide the level
    (section 2), the passage profile (section 3), the topic (section 4) and the question-type mix
-   (section 5). The two passages must have different topic areas and no question type in common.
+   (section 5, weak types first). The two passages must have different topic areas and no
+   question type in common, except the weakest type as section 5 allows.
 3. Write each passage and its questions as JSON exactly in the schema of section 7 to
    `data/passages/<id>.json`, and the answer key to `data/keys/<id>.json`.
 4. Self-check every answer against the item-writing rules in section 6. For every item, quote the
@@ -42,8 +43,8 @@ The site is a static GitHub Pages site. Paths below are relative to the reposito
 6. Run `node gen/build-index.mjs`, then commit the five changed files (two passages, two keys,
    `data/index.json`) with the message `Add passages <date>: <first title> / <second title>`
    (in Part order) and push to `main`. GitHub Pages redeploys within a few minutes.
-7. Reply with a short summary: which two parts you chose and why, and for each passage its id,
-   level, title and question types.
+7. Reply with a short summary: which two parts you chose and why, the weak types you targeted
+   with their recent accuracy, and for each passage its id, level, title and question types.
 
 ### Choosing today's two parts
 
@@ -184,14 +185,32 @@ Mix rules:
   and one matching/global type, as real passages do. Part 3: see section 3.
 - `ynng` only on texts that state the writer's opinions/claims; `tfng` on factual texts.
   Never both in one passage. `headings` and `match_info` not both in one passage.
-- Coverage: across the last 8 passages every type should appear at least once. Prefer, in order:
-  (a) types absent from the last 8 passages, (b) the learner's weakest types (lowest accuracy in
-  `profile.typeStats` with ≥ 3 items attempted), (c) types typical of the level band
-  (5.0–6.0: tfng, completion types, short_answer, match_info, flowchart, diagram;
-  6.5–7.0: headings, match_features, mcq, summary_box, sentence_completion;
-  ≥ 7.5: ynng, mcq, mcq_multi, sentence_endings, summary_box, match_features).
-- Do not reuse exactly the same three types as the previous passage of the same slot, and do not
-  give the two passages of one day any type in common.
+- Weak types come first (the learner's standing instruction: "practise the types I keep getting
+  wrong, until they improve"). Work out recent accuracy per type from `attempts`:
+  - Use first attempts only (one per `passageId`, earliest `submittedAt`), from the last 14 days,
+    newest first, and stop once you have the 8 most recent attempts. Sum `byType[type].c` and
+    `byType[type].t` over them. Ignore types with fewer than 3 items in this window.
+  - A type is **weak** while its recent accuracy is below 70%. It stops being weak once it reaches
+    75% or more over at least 6 recent items (the gap stops it flipping back and forth).
+  - Order the weak types from lowest accuracy up (ties: more items attempted first).
+- Today's types, in this order of priority:
+  (a) Every weak type, weakest first, as far as two passages allow. The weakest type gets a large
+      group (6–7 items where its type allows; `mcq` 4, `mcq_multi` 3 numbers). If it is below 60%,
+      it may appear in both of today's passages — the only exception to the no-shared-type rule.
+      Pick each passage's profile so that the weak types fit it (e.g. `ynng` needs an
+      argumentative text, `diagram_label` a physical object, `headings` 5+ labelled paragraphs);
+      if a weak type does not fit Part 2, put it in the second passage, and vice versa.
+  (b) Then types absent from the last 10 passages, so that all 16 types stay in circulation.
+  (c) Then types typical of the level band (5.0–6.0: tfng, completion types, short_answer,
+      match_info, flowchart, diagram; 6.5–7.0: headings, match_features, mcq, summary_box,
+      sentence_completion; ≥ 7.5: ynng, mcq, mcq_multi, sentence_endings, summary_box,
+      match_features).
+- If there are no attempts yet (or none in the last 14 days), skip (a) and use `profile.typeStats`
+  as the weak-type source only if it has ≥ 3 items for a type; otherwise go straight to (b).
+- Do not reuse exactly the same set of types as the previous passage of the same slot (weak types
+  may repeat across days; only the whole set must change), and do not give the two passages of one
+  day any type in common except as allowed in (a).
+- In the reply, list the weak types you targeted with their recent accuracy (e.g. "mcq 0/3").
 
 ## 6. Item-writing rules (the quality bar)
 
@@ -280,7 +299,7 @@ Explanations (shown to the learner after submission, in Simplified Chinese)
   "suggestedMinutes": 20,
   "vocab": [ {"w": "mitigate", "zh": "减轻；缓和"} ],
   "generatedAt": "2026-10-30T06:50:00+08:00",
-  "spec": "v4"
+  "spec": "v5"
 }
 ```
 Every GROUP has `type`, `from`, `to`, `instructions` (array of strings, official wording) and

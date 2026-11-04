@@ -1,4 +1,4 @@
-// IELTS daily reading — passage/key validator (spec v4)
+// IELTS daily reading — passage/key validator (spec v5)
 // Usage: node validate.mjs passage.json key.json
 // Prints ERROR / WARN lines and ends with OK or FAILED (exit code 1).
 import { readFileSync } from "node:fs";
