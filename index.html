@@ -706,7 +706,7 @@ function renderQuestions(p) {
   const out = [];
   if (S.result) out.push(renderScore(p));
   for (const g of p.groups) out.push(renderGroup(p, g));
-  if (!S.result) out.push(el("p", { class: "note", text: "答案会自动保存在本机浏览器里。点右上角“交卷”后显示得分、正确答案、原文定位和中文解析。在文章里选中文字可以高亮。" }));
+  if (!S.result) out.push(el("p", { class: "note", text: "答案会自动保存在本机浏览器里。点右上角“交卷”后显示得分、正确答案、原文定位和中文解析。在文章或题目里选中文字可以高亮，点一下高亮的文字可以取消。" }));
   return out;
 }
 
@@ -790,7 +790,7 @@ function withGaps(g, text) {
 
 function renderGroup(p, g) {
   const range = g.from === g.to ? `Question ${g.from}` : `Questions ${g.from}–${g.to}`;
-  const sec = el("section", { class: "grp", "aria-label": range }, el("h3", { text: range }), instrBlock(g));
+  const sec = el("section", { class: "grp", "aria-label": range, "data-hlk": "g" + g.from }, el("h3", { text: range }), instrBlock(g));
   const T = g.type;
   const after = [];
   if (T === "tfng" || T === "ynng") {
@@ -889,8 +889,22 @@ function renderGroup(p, g) {
 }
 
 // ---------- evidence & highlight ----------
-// Text nodes of the passage that a range touches, with the part of each that is selected.
-function passageSlices(r) {
+// Highlighting works in the passage ([data-para]) and in the question groups ([data-hlk]),
+// but never inside form controls or the answer review that appears after submitting.
+const HL_HOST = "[data-para], [data-hlk]";
+const HL_SKIP = "select, option, button, input, textarea, .rv, .qn, h3";
+function hlEligible(t) {
+  const e = t.parentElement;
+  return !!(e && e.closest(HL_HOST) && !e.closest(HL_SKIP));
+}
+function hlTextNodes(host) {
+  const out = [];
+  const w = document.createTreeWalker(host, NodeFilter.SHOW_TEXT);
+  while (w.nextNode()) if (hlEligible(w.currentNode)) out.push(w.currentNode);
+  return out;
+}
+// Text nodes a range touches, with the part of each that is selected.
+function rangeSlices(r) {
   const c = r.commonAncestorContainer;
   let nodes = [];
   if (c.nodeType === 3) nodes = [c];
@@ -898,7 +912,7 @@ function passageSlices(r) {
     const w = document.createTreeWalker(c, NodeFilter.SHOW_TEXT);
     while (w.nextNode()) if (r.intersectsNode(w.currentNode)) nodes.push(w.currentNode);
   }
-  return nodes.filter((t) => t.parentElement && t.parentElement.closest("[data-para]")).map((t) => ({
+  return nodes.filter(hlEligible).map((t) => ({
     t, s: t === r.startContainer ? r.startOffset : 0, e: t === r.endContainer ? r.endOffset : t.length
   })).filter((x) => x.e > x.s && x.t.data.slice(x.s, x.e).trim());
 }
@@ -906,66 +920,69 @@ function passageSlices(r) {
 let hlGroup = 0;
 function wrapRange(r, cls) {
   const marks = [], g = String(++hlGroup);
-  for (const { t, s, e } of passageSlices(r)) {
+  for (const { t, s, e } of rangeSlices(r)) {
     if (cls === "hl" && t.parentElement.closest("mark.hl")) continue;
     let node = t;
     if (s > 0) node = node.splitText(s);
     if (e - s < node.length) node.splitText(e - s);
-    const m = el("mark", cls === "hl" ? { class: "hl", title: "点击取消高亮", "data-g": g } : { class: cls });
+    const m = el("mark", cls === "hl" ? { class: "hl", "data-g": g } : { class: cls });
     node.replaceWith(m);
     m.append(node);
     marks.push(m);
   }
   return marks;
 }
-// Highlights are kept per passage as character offsets within each paragraph, so they
-// survive re-renders (submitting, switching passages) and page reloads on this device.
+function unwrap(m) {
+  const parent = m.parentNode;
+  m.replaceWith(...m.childNodes);
+  if (parent) parent.normalize();
+}
+function removeGroups(groups) {
+  groups.forEach((g) => document.querySelectorAll(`mark.hl[data-g="${CSS.escape(g)}"]`).forEach(unwrap));
+}
+// Highlights are kept per passage as character offsets within each paragraph and question group,
+// so they survive re-renders (submitting, switching passages) and page reloads on this device.
+const hlKey = (host) => (host.dataset.para != null ? "p:" + host.dataset.para : "q:" + host.dataset.hlk);
 function saveHighlights() {
   const pane = $(".pane.left");
   if (!pane || !pane.dataset.pid) return;
   const out = {};
-  pane.querySelectorAll("[data-para]").forEach((p) => {
-    const w = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
+  document.querySelectorAll(".pane [data-para], .pane [data-hlk]").forEach((host) => {
     let pos = 0;
     const spans = [];
-    while (w.nextNode()) {
-      const t = w.currentNode;
+    for (const t of hlTextNodes(host)) {
       if (t.parentElement.closest("mark.hl")) {
         const last = spans[spans.length - 1];
         if (last && last[1] === pos) last[1] = pos + t.length; else spans.push([pos, pos + t.length]);
       }
       pos += t.length;
     }
-    if (spans.length) out[p.dataset.para] = spans;
+    if (spans.length) out[hlKey(host)] = spans;
   });
   store.set("hl:" + pane.dataset.pid, Object.keys(out).length ? out : null);
 }
 function restoreHighlights(pid) {
   const saved = store.get("hl:" + pid);
   if (!saved) return;
-  Object.entries(saved).forEach(([pk, spans]) => {
-    const p = document.querySelector(`[data-para="${CSS.escape(pk)}"]`);
-    if (!p) return;
-    spans.forEach(([a, z]) => { const r = paraRange(p, a, z); if (r) wrapRange(r, "hl"); });
+  Object.entries(saved).forEach(([k, spans]) => {
+    // Older saves used the bare paragraph label as the key.
+    const [kind, id] = /^[pq]:/.test(k) ? [k[0], k.slice(2)] : ["p", k];
+    const host = document.querySelector(kind === "p" ? `[data-para="${CSS.escape(id)}"]` : `[data-hlk="${CSS.escape(id)}"]`);
+    if (!host) return;
+    spans.forEach(([a, z]) => { const r = hostRange(host, a, z); if (r) wrapRange(r, "hl"); });
   });
 }
-// A range covering characters a..z of a paragraph's text, whatever marks it already contains.
-function paraRange(p, a, z) {
+// A range covering characters a..z of a host's highlightable text, whatever marks it already contains.
+function hostRange(host, a, z) {
   const r = document.createRange();
-  const w = document.createTreeWalker(p, NodeFilter.SHOW_TEXT);
   let pos = 0, started = false;
-  while (w.nextNode()) {
-    const t = w.currentNode, end = pos + t.length;
+  for (const t of hlTextNodes(host)) {
+    const end = pos + t.length;
     if (!started && a < end) { r.setStart(t, a - pos); started = true; }
     if (started && z <= end) { r.setEnd(t, z - pos); return r; }
     pos = end;
   }
   return null;
-}
-function unwrap(m) {
-  const parent = m.parentNode;
-  m.replaceWith(...m.childNodes);
-  if (parent) parent.normalize();
 }
 function locate(ev) {
   document.querySelectorAll("mark.ev").forEach(unwrap);
@@ -975,35 +992,26 @@ function locate(ev) {
   const q = String(ev.q).replace(/\s+/g, " ").trim();
   const i = p.textContent.indexOf(q);
   if (i < 0) { p.scrollIntoView({ block: "center", behavior: "smooth" }); return; }
-  const r = paraRange(p, i, i + q.length);
+  const r = hostRange(p, i, i + q.length);
   const marks = r ? wrapRange(r, "ev") : [];
   if (marks[0]) marks[0].scrollIntoView({ block: "center", behavior: "smooth" });
 }
-// Highlighting: works with a mouse and with long-press selection on phones and tablets.
-let tip = null, tipRange = null, tipTimer = 0;
-function hideTip() { if (tip) { tip.remove(); tip = null; tipRange = null; } }
-function showTip() {
-  const sel = window.getSelection();
-  if (!sel || sel.isCollapsed || !sel.rangeCount) return hideTip();
-  const r = sel.getRangeAt(0);
-  if (!passageSlices(r).length) return hideTip();
-  tipRange = r.cloneRange();
-  const rects = r.getClientRects();
-  const first = rects[0] || r.getBoundingClientRect(), last = rects[rects.length - 1] || first;
-  // On touch screens the system menu sits above the selection, so put the button below it.
-  const touch = window.matchMedia("(pointer: coarse)").matches;
-  const top = touch ? last.bottom + 12 : first.top - 38;
-  const left = touch ? last.right - 30 : first.left;
+// One floating button. Select text → "高亮"; select highlighted text, or tap a highlight → "取消高亮".
+// Works with a mouse and with long-press selection on phones and tablets.
+let tip = null, tipAct = null, tipTimer = 0;
+function hideTip() { if (tip) { tip.remove(); tip = null; tipAct = null; } }
+function placeTip(label, rect, below, act) {
   if (!tip) {
-    tip = el("button", { class: "hl-tip", type: "button", text: "高亮" });
+    tip = el("button", { class: "hl-tip", type: "button" });
     const keep = (e) => e.preventDefault();
     tip.addEventListener("mousedown", keep);
     tip.addEventListener("touchstart", keep, { passive: false });
     tip.addEventListener("pointerdown", keep);
     const go = (e) => {
       e.preventDefault();
-      if (!tipRange) return;
-      wrapRange(tipRange, "hl");
+      e.stopPropagation();
+      if (!tipAct) return;
+      tipAct.run();
       saveHighlights();
       const s = window.getSelection(); if (s) s.removeAllRanges();
       hideTip();
@@ -1012,18 +1020,48 @@ function showTip() {
     tip.addEventListener("touchend", go);
     document.body.append(tip);
   }
-  tip.style.left = `${Math.min(window.innerWidth - 70, Math.max(8, left))}px`;
+  tip.textContent = label;
+  tipAct = act;
+  const top = below ? rect.bottom + 12 : rect.top - 38;
+  tip.style.left = `${Math.min(window.innerWidth - 90, Math.max(8, below ? rect.right - 40 : rect.left))}px`;
   tip.style.top = `${Math.min(window.innerHeight - 44, Math.max(8, top))}px`;
+}
+function showTip() {
+  const sel = window.getSelection();
+  if (!sel || sel.isCollapsed || !sel.rangeCount) {
+    // A tap collapses the selection; keep a "取消高亮" button that the tap itself opened.
+    if (tipAct && tipAct.kind === "remove-tap") return;
+    return hideTip();
+  }
+  const r = sel.getRangeAt(0);
+  const slices = rangeSlices(r);
+  if (!slices.length) return hideTip();
+  const rects = r.getClientRects();
+  const first = rects[0] || r.getBoundingClientRect(), last = rects[rects.length - 1] || first;
+  // On touch screens the system menu sits above the selection, so put the button below it.
+  const touch = window.matchMedia("(pointer: coarse)").matches;
+  const inMarks = slices.map(({ t }) => t.parentElement.closest("mark.hl"));
+  if (inMarks.every(Boolean)) {
+    const groups = new Set(inMarks.map((m) => m.dataset.g));
+    placeTip("取消高亮", touch ? last : first, touch, { kind: "remove-sel", run: () => removeGroups(groups) });
+  } else {
+    const saved = r.cloneRange();
+    placeTip("高亮", touch ? last : first, touch, { kind: "add", run: () => wrapRange(saved, "hl") });
+  }
 }
 document.addEventListener("selectionchange", () => { clearTimeout(tipTimer); tipTimer = setTimeout(showTip, 200); });
 document.addEventListener("mouseup", (e) => { if (tip && e.target === tip) return; setTimeout(showTip, 0); });
-document.addEventListener("scroll", () => { if (tip) showTip(); }, true);
+document.addEventListener("scroll", () => { if (tip && tipAct && tipAct.kind !== "remove-tap") showTip(); else hideTip(); }, true);
 document.addEventListener("click", (e) => {
-  if (e.target === tip) return;
+  if (tip && (e.target === tip || tip.contains(e.target))) return;
   const sel = window.getSelection();
   if (sel && !sel.isCollapsed) return;
   const m = e.target.closest && e.target.closest("mark.hl");
-  if (m) { document.querySelectorAll(`mark.hl[data-g="${m.dataset.g}"]`).forEach(unwrap); saveHighlights(); }
+  if (!m) { if (tipAct && tipAct.kind === "remove-tap") hideTip(); return; }
+  // Don't let a tap on highlighted option text also tick the radio button or checkbox.
+  e.preventDefault();
+  const g = m.dataset.g;
+  placeTip("取消高亮", m.getBoundingClientRect(), true, { kind: "remove-tap", run: () => removeGroups([g]) });
 });
 
 // ---------- history ----------
