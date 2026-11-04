@@ -1,0 +1,121 @@
+{
+ "id": "2026-11-05-a",
+ "answers": {
+  "1": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "reigning monarchs in England, France, Austria and Russia were among its victims"
+   },
+   "why": "A段。A caused the deaths of several of the continent's rulers ↔ reigning monarchs in England, France, Austria and Russia were among its victims。B 与 struck rich and poor alike 相反；C 偷换数字：原文是 three in every ten（约三成），不是“大多数”；D 文中没有比较欧洲与亚非的致死率。"
+  },
+  "2": {
+   "a": "C",
+   "ev": {
+    "p": "B",
+    "q": "although around one or two in every hundred people who underwent it died"
+   },
+   "why": "B段。C a small but real risk of death ↔ around one or two in every hundred people … died。A 错：她是把这种做法带回英国（reached Britain largely through），不是发明者；B 错：原文说病情 much milder；D 错：还有 scratching pus into the skin 这种方式。"
+  },
+  "3": {
+   "a": "D",
+   "ev": {
+    "p": "C",
+    "q": "a Dorset farmer named Benjamin Jesty had protected his own wife and sons with cowpox in 1774. But it was Jenner who tested it systematically, recorded his results and, in 1798, published them"
+   },
+   "why": "C段。D used cowpox earlier than Jenner but did not publish ↔ Jesty … in 1774（早于 Jenner 的 1796）；But it was Jenner who … published them 说明发表的是 Jenner。A 时间顺序颠倒；B 原文只说他保护了自己的妻儿，不是“农户病人”；C 文中没有提到对牛是否有害。"
+  },
+  "4": {
+   "a": "B",
+   "ev": {
+    "p": "E",
+    "q": "The approach worked because smallpox had no animal host in which it could hide, and because its symptoms were so distinctive that cases were easy to identify."
+   },
+   "why": "E段。B could not survive in animals ↔ had no animal host in which it could hide；cases were easy to recognise ↔ symptoms were so distinctive that cases were easy to identify。A 与 Vaccinating every person on Earth was impossible 相反；D 与 workers with little training 相反；C 文中没有提到冷藏。"
+  },
+  "5": {
+   "a": "milkmaid",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "he took material from a cowpox blister on the hand of a milkmaid called Sarah Nelmes"
+   },
+   "why": "C段。a dairy worker ↔ a milkmaid；named ↔ called Sarah Nelmes。不要填 gardener，那是 James Phipps 父亲的职业。"
+  },
+  "6": {
+   "a": "eight",
+   "alt": [
+    "8"
+   ],
+   "ev": {
+    "p": "C",
+    "q": "James Phipps, the eight-year-old son of his gardener"
+   },
+   "why": "C段。aged ___ ↔ the eight-year-old son。同段的数字 1796、1774、1798 都是年份，不是年龄；Six weeks 是间隔时间。"
+  },
+  "7": {
+   "a": "fever",
+   "alt": [
+    "slight fever"
+   ],
+   "ev": {
+    "p": "C",
+    "q": "The boy developed a slight fever and a small sore but soon recovered."
+   },
+   "why": "C段。reaction ↔ developed；a mild ___ ↔ a slight fever；a little sore ↔ a small sore；full recovery ↔ soon recovered。不要填 blisters，那是挤奶女工手上出现的症状。"
+  },
+  "8": {
+   "a": "1798",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "recorded his results and, in 1798, published them"
+   },
+   "why": "C段末句。findings made public ↔ published them。1796 是实验年份，1774 是 Jesty 的年份，都是同段干扰数字。"
+  },
+  "9": {
+   "a": "orphan boys",
+   "alt": [
+    "orphans",
+    "22 orphan boys"
+   ],
+   "ev": {
+    "p": "D",
+    "q": "the organisers took 22 orphan boys who had never had smallpox and vaccinated them two at a time"
+   },
+   "why": "D段。kept alive at sea ↔ no way of keeping cowpox material active during a long sea voyage；in pairs ↔ two at a time；a chain of ↔ passed from arm to arm。不要只填 22，空格要的是“人”。"
+  },
+  "10": {
+   "a": "E",
+   "ev": {
+    "p": "B",
+    "q": "The practice reached Britain largely through Lady Mary Wortley Montagu, the wife of the British ambassador in Constantinople"
+   },
+   "why": "B段。brought home a protective practice ↔ The practice reached Britain largely through…；after encountering it overseas ↔ 她在君士坦丁堡让儿子接种（1718），回伦敦后才推广。D（1796年前用牛痘保护家人）说的是 Jesty，主语不同。"
+  },
+  "11": {
+   "a": "C",
+   "ev": {
+    "p": "D",
+    "q": "although the law provoked vigorous opposition, and protests against it continued for decades"
+   },
+   "why": "D段末句。met with strong and lasting resistance ↔ provoked vigorous opposition, and protests … continued for decades。G（被西班牙船运到亚洲）说的是疫苗本身，不是这部法律。"
+  },
+  "12": {
+   "a": "F",
+   "ev": {
+    "p": "E",
+    "q": "allowed workers with little training to vaccinate large numbers of people"
+   },
+   "why": "E段末句。enabled staff without much instruction ↔ allowed workers with little training；immunise people in great numbers ↔ vaccinate large numbers of people。原文还提到只用四分之一的疫苗量，但选项没有涉及，不影响答案。"
+  },
+  "13": {
+   "a": "A",
+   "ev": {
+    "p": "F",
+    "q": "he recovered and later worked as a volunteer in the campaign against polio"
+   },
+   "why": "F段。later helped in the fight against another disease ↔ later worked as a volunteer in the campaign against polio。B 是陷阱：Maalin 是最后一例自然感染者，但他康复了；最后一例死亡来自一年后伯明翰的实验室事故。"
+  }
+ }
+}

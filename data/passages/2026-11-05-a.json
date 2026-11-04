@@ -1,0 +1,292 @@
+{
+ "id": "2026-11-05-a",
+ "date": "2026-11-05",
+ "level": 6.5,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "health & medicine",
+ "title": "The End of Smallpox",
+ "subtitle": "From folk remedy to global campaign: how one disease was wiped off the face of the Earth",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Few diseases have caused as much suffering as smallpox. Caused by the variola virus, it killed roughly three in every ten people it infected and left many of the survivors scarred or blind. In eighteenth-century Europe it is thought to have killed around 400,000 people every year, and it struck rich and poor alike: reigning monarchs in England, France, Austria and Russia were among its victims. Unlike many other infections, it could be passed on simply by breathing in droplets from an infected person. Yet smallpox is also the only human disease that has ever been completely eradicated. The story of how that came about spans more than two centuries, and it begins not in a laboratory but in the folk practices of Asia and Africa."
+  },
+  {
+   "label": "B",
+   "text": "Long before anyone understood what a virus was, people had noticed that those who survived smallpox never caught it again. In China, India and parts of Africa, healthy people were deliberately given a mild form of the disease using material from a patient's sores, either by blowing powdered scabs into the nose or by scratching pus into the skin. The procedure, later called variolation, usually produced a much milder illness than natural infection, although around one or two in every hundred people who underwent it died. The practice reached Britain largely through Lady Mary Wortley Montagu, the wife of the British ambassador in Constantinople, who had survived smallpox herself and had her son variolated there in 1718. After returning to London, she had her daughter treated in 1721 in the presence of court physicians, and the method gradually spread among the wealthy, although it remained controversial because people who had been variolated could pass the disease on to others."
+  },
+  {
+   "label": "C",
+   "text": "The decisive step was taken by Edward Jenner, a country doctor in Gloucestershire. Jenner knew of a local belief that milkmaids who caught cowpox, a mild disease of cattle that produced blisters on the hands, did not catch smallpox. In May 1796 he took material from a cowpox blister on the hand of a milkmaid called Sarah Nelmes and introduced it into two small cuts on the arm of James Phipps, the eight-year-old son of his gardener. The boy developed a slight fever and a small sore but soon recovered. Six weeks later Jenner exposed him to smallpox material, and he did not become ill. Jenner was not, in fact, the first to try the idea: a Dorset farmer named Benjamin Jesty had protected his own wife and sons with cowpox in 1774. But it was Jenner who tested it systematically, recorded his results and, in 1798, published them."
+  },
+  {
+   "label": "D",
+   "text": "Jenner called the new procedure vaccination, from vacca, the Latin word for cow. It spread with remarkable speed, helped by Jenner's willingness to send samples of cowpox material to anyone who asked for them. Within a few years it was in use across Europe and in North America, and in 1803 the Spanish government sent an expedition to carry the vaccine to its colonies in the Americas and Asia. Because there was no way of keeping cowpox material active during a long sea voyage, the organisers took 22 orphan boys who had never had smallpox and vaccinated them two at a time, so that the infection was passed from arm to arm throughout the journey. Several countries soon made vaccination compulsory; in England it was required for all infants from 1853, although the law provoked vigorous opposition, and protests against it continued for decades."
+  },
+  {
+   "label": "E",
+   "text": "Even so, smallpox remained widespread in much of the world in the mid-twentieth century, causing an estimated two million deaths as late as 1967. In that year the World Health Organization launched an intensified eradication programme. Vaccinating every person on Earth was impossible, so the campaign adopted a strategy known as surveillance and containment: whenever a case was reported, teams traced everyone the patient had been in contact with and vaccinated them, creating a ring of immune people around each outbreak. The approach worked because smallpox had no animal host in which it could hide, and because its symptoms were so distinctive that cases were easy to identify. A simple two-pronged needle, which held a precise dose of vaccine between its points, also allowed workers with little training to vaccinate large numbers of people while using only a quarter as much vaccine as earlier methods."
+  },
+  {
+   "label": "F",
+   "text": "The last natural case occurred in October 1977, when Ali Maow Maalin, a hospital cook in the Somali town of Merca, developed the disease; he recovered and later worked as a volunteer in the campaign against polio. A year later a laboratory accident in Birmingham, England, caused one further death. In May 1980 the World Health Assembly formally declared that smallpox had been eradicated. Samples of the virus are still kept in two high-security laboratories, one in the United States and one in Russia, and whether they should finally be destroyed has been debated for decades."
+  }
+ ],
+ "groups": [
+  {
+   "type": "mcq",
+   "from": 1,
+   "to": 4,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 1–4 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "What does the writer say about smallpox in eighteenth-century Europe?",
+     "options": [
+      {
+       "k": "A",
+       "t": "It caused the deaths of several of the continent's rulers."
+      },
+      {
+       "k": "B",
+       "t": "It mainly affected people living in poverty."
+      },
+      {
+       "k": "C",
+       "t": "It killed the majority of those who caught it."
+      },
+      {
+       "k": "D",
+       "t": "It was less deadly there than in Asia and Africa."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "text": "According to the second paragraph, variolation",
+     "options": [
+      {
+       "k": "A",
+       "t": "was devised by Lady Mary Wortley Montagu."
+      },
+      {
+       "k": "B",
+       "t": "gave people a full-strength case of the disease."
+      },
+      {
+       "k": "C",
+       "t": "carried a small but real risk of death."
+      },
+      {
+       "k": "D",
+       "t": "was carried out only through the nose."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "text": "What does the writer say about Benjamin Jesty?",
+     "options": [
+      {
+       "k": "A",
+       "t": "He learned how to use cowpox from Jenner."
+      },
+      {
+       "k": "B",
+       "t": "He treated only patients from farming families."
+      },
+      {
+       "k": "C",
+       "t": "He showed that cowpox does no harm to cattle."
+      },
+      {
+       "k": "D",
+       "t": "He used cowpox earlier than Jenner but did not publish."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Why did the strategy of surveillance and containment succeed?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Nearly everyone in the world was eventually vaccinated."
+      },
+      {
+       "k": "B",
+       "t": "The virus could not survive in animals and cases were easy to recognise."
+      },
+      {
+       "k": "C",
+       "t": "New vaccines no longer needed to be kept cold."
+      },
+      {
+       "k": "D",
+       "t": "Fully qualified doctors were available in every affected country."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 5,
+   "to": 9,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+    "Write your answers in boxes 5–9 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+   "maxWords": 2,
+   "allowNumber": true,
+   "title": "Jenner's experiment and what followed",
+   "lines": [
+    {
+     "text": "The 1796 experiment",
+     "indent": 0
+    },
+    {
+     "text": "– cowpox taken from a dairy worker, a [[5]] named Sarah Nelmes",
+     "indent": 1
+    },
+    {
+     "text": "– patient: James Phipps, aged [[6]]",
+     "indent": 1
+    },
+    {
+     "text": "– reaction: a mild [[7]] and a little sore, then full recovery",
+     "indent": 1
+    },
+    {
+     "text": "– findings made public in [[8]]",
+     "indent": 1
+    },
+    {
+     "text": "Spreading the vaccine",
+     "indent": 0
+    },
+    {
+     "text": "– 1803: kept alive at sea by vaccinating a chain of [[9]] in pairs",
+     "indent": 1
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–G, below.",
+    "Write the correct letter, A–G, in boxes 10–13 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 10,
+     "text": "Lady Mary Wortley Montagu"
+    },
+    {
+     "n": 11,
+     "text": "The English vaccination law of 1853"
+    },
+    {
+     "n": 12,
+     "text": "The two-pronged needle"
+    },
+    {
+     "n": 13,
+     "text": "Ali Maow Maalin"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "later helped in the fight against another disease."
+    },
+    {
+     "k": "B",
+     "t": "was responsible for the very last death from smallpox."
+    },
+    {
+     "k": "C",
+     "t": "met with strong and lasting resistance."
+    },
+    {
+     "k": "D",
+     "t": "protected members of a family with cowpox before 1796."
+    },
+    {
+     "k": "E",
+     "t": "brought home a protective practice after encountering it overseas."
+    },
+    {
+     "k": "F",
+     "t": "enabled staff without much instruction to immunise people in great numbers."
+    },
+    {
+     "k": "G",
+     "t": "was carried to Asia aboard a Spanish ship."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "eradicate",
+   "zh": "根除；消灭"
+  },
+  {
+   "w": "monarch",
+   "zh": "君主"
+  },
+  {
+   "w": "folk practice",
+   "zh": "民间做法"
+  },
+  {
+   "w": "deliberately",
+   "zh": "故意地；有意地"
+  },
+  {
+   "w": "variolation",
+   "zh": "人痘接种"
+  },
+  {
+   "w": "ambassador",
+   "zh": "大使"
+  },
+  {
+   "w": "decisive",
+   "zh": "决定性的"
+  },
+  {
+   "w": "systematically",
+   "zh": "系统地"
+  },
+  {
+   "w": "compulsory",
+   "zh": "强制的；义务的"
+  },
+  {
+   "w": "provoke opposition",
+   "zh": "引起反对"
+  },
+  {
+   "w": "containment",
+   "zh": "遏制；控制（疫情）"
+  },
+  {
+   "w": "distinctive",
+   "zh": "独特的；易辨认的"
+  }
+ ],
+ "generatedAt": "2026-11-05T06:50:00+08:00",
+ "spec": "v5"
+}

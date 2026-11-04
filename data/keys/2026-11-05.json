@@ -1,0 +1,113 @@
+{
+ "id": "2026-11-05",
+ "answers": {
+  "1": {
+   "a": "B",
+   "ev": {
+    "p": "A",
+    "q": "water, carrying dissolved salts and carbon dioxide, gradually reaches the steel reinforcing bars inside, which rust and expand"
+   },
+   "why": "A段。B let in substances that attack the steel within ↔ water, carrying dissolved salts and carbon dioxide, gradually reaches the steel reinforcing bars inside, which rust。A 偷换：混凝土 strong when squeezed（抗压强），问题不在抗压；C 过度：原文只说裂缝难以发现（hard to see），并非无法检查；D 原文是 within a few years，不是几周。"
+  },
+  "2": {
+   "a": "D",
+   "ev": {
+    "p": "B",
+    "q": "it works only for very narrow cracks, generally those less than about a tenth of a millimetre wide, and only where the crack is repeatedly wetted"
+   },
+   "why": "B段。D can close only extremely fine cracks that are often wet ↔ only for very narrow cracks … and only where the crack is repeatedly wetted。A 错：原文说在几百年历史的结构中“观察到过”，并非“只有”老结构才有；B 是C段细菌法的内容；C 文中未提。"
+  },
+  "3": {
+   "a": "A",
+   "ev": {
+    "p": "D",
+    "q": "Because the channels can be refilled, the same element can be repaired more than once"
+   },
+   "why": "D段。A the same part of a structure can be healed repeatedly ↔ the same element can be repaired more than once。B 与 adds considerably to the complexity of construction 相反；C 与 uses no living organisms 相反；D 文中没有比较成本。"
+  },
+  "4": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "may in fact have been an important source of its durability"
+   },
+   "why": "E段。C may have enabled the concrete to seal its own cracks ↔ when cracks later admitted water, the lime dissolved and recrystallised, sealing the cracks。A 是过去的误解（long dismissed as evidence of careless mixing），被该研究推翻；B 原文说石灰块是高温混合的结果（formed because…），没说是“故意添加来硬化表面”；D 与成因不符。"
+  },
+  "5": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "closing a crack at the surface does not guarantee that the steel inside is protected"
+   },
+   "why": "F段 Holm 的观点。a repair may succeed only on the outside ↔ closing a crack at the surface does not guarantee that the steel inside is protected；reason ↔ corrosion may already have begun。A段讲的是裂缝如何导致钢筋锈蚀，不是修复只停留在表面。"
+  },
+  "6": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "maintenance and repair account for around a third of the money spent on concrete infrastructure"
+   },
+   "why": "A段。an estimate of the proportion of spending ↔ By some estimates … around a third of the money spent；upkeep ↔ maintenance and repair。F段提到细菌混凝土更贵、G段提到维修成本，但都没有给出比例。"
+  },
+  "7": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "much as blood vessels carry what is needed to a wound"
+   },
+   "why": "D段。a comparison between a repair method and the way a body treats an injury ↔ much as blood vessels carry what is needed to a wound；段首 takes its inspiration from living tissue 也呼应。C段用的是真正的细菌，不是与人体的类比。"
+  },
+  "8": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "in tunnels, underground water tanks, deep foundations or the walls of stores for nuclear waste"
+   },
+   "why": "G段。a list of places ↔ in tunnels, underground water tanks, deep foundations or the walls of stores for nuclear waste；especially hard to carry out repairs ↔ Where cracks are difficult or dangerous to reach。"
+  },
+  "9": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "long dismissed as evidence of careless mixing"
+   },
+   "why": "E段。a feature once taken as a sign of poor workmanship ↔ small white lumps of lime … long dismissed as evidence of careless mixing。B段的未完全反应的水泥颗粒也是一种“混合遗留物”，但文中没有说它曾被视为工艺缺陷，是近似干扰。"
+  },
+  "10": {
+   "a": "cement",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "Particles of cement that did not react fully when the concrete was mixed can react with water that seeps into a crack"
+   },
+   "why": "B段。leftover grains of ___ ↔ Particles of cement that did not react fully；water that enters a crack ↔ water that seeps into a crack。不要填 crystals，那是反应后生成的东西。"
+  },
+  "11": {
+   "a": "calcium lactate",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "together with a food source, calcium lactate"
+   },
+   "why": "C段。supplied with ___ to feed on ↔ together with a food source, calcium lactate。calcium carbonate 是细菌“产出”的石灰石，不是食物，是本题最诱人的错误答案。"
+  },
+  "12": {
+   "a": "quicklime",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "the Romans mixed their concrete with quicklime at high temperatures"
+   },
+   "why": "E段。while it was very hot ↔ at high temperatures；mixing it with ↔ mixed their concrete with。lime 也出现在同段（lumps of lime），但混合时加入的原料原文写的是 quicklime。"
+  },
+  "13": {
+   "a": "expensive",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "Bacterial concrete is currently considerably more expensive than the conventional material"
+   },
+   "why": "F段 Okonkwo。at present ↔ currently；far more ___ than standard concrete ↔ considerably more expensive than the conventional material。scarce 在同段形容的是长期实测证据，不是材料本身。"
+  }
+ }
+}

@@ -1,0 +1,259 @@
+{
+ "id": "2026-11-05",
+ "date": "2026-11-05",
+ "level": 7.0,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "materials & engineering",
+ "title": "Concrete That Mends Itself",
+ "subtitle": "Engineers are borrowing from bacteria, the human body and the Romans to make cracks close on their own",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Concrete is the most widely used manufactured material on Earth, and in the long run one of the most fragile. It is immensely strong when squeezed but weak when stretched, and almost every concrete structure develops fine cracks within a few years of being built. On their own these cracks are rarely dangerous. The problem is what passes through them: water, carrying dissolved salts and carbon dioxide, gradually reaches the steel reinforcing bars inside, which rust and expand, splitting the concrete from within. Repairing this damage is costly. By some estimates, maintenance and repair account for around a third of the money spent on concrete infrastructure in industrialised countries, and much of that work involves locating cracks that are hard to see, let alone reach."
+  },
+  {
+   "label": "B",
+   "text": "Concrete does, in fact, possess a limited ability to repair itself. Particles of cement that did not react fully when the concrete was mixed can react with water that seeps into a crack, forming new crystals that gradually close it. This process, known as autogenous healing, has been observed in structures that are centuries old, but it works only for very narrow cracks, generally those less than about a tenth of a millimetre wide, and only where the crack is repeatedly wetted. Engineers have therefore looked for ways to extend it, and over the past two decades three broad strategies have emerged, each with its own supporters and its own drawbacks."
+  },
+  {
+   "label": "C",
+   "text": "The best known relies on bacteria. In the late 2000s the microbiologist Henk Jonkers and colleagues at Delft University of Technology in the Netherlands began adding to concrete the spores of bacteria that can survive in highly alkaline conditions, together with a food source, calcium lactate. Choosing the bacteria was the hardest part, since fresh concrete is about as alkaline as household bleach and kills most microbes within hours. The spores remain dormant, sometimes for many years, until a crack lets in water and oxygen. They then germinate and consume the food, producing calcium carbonate, essentially limestone, which fills the gap. Laboratory tests have shown cracks almost a millimetre wide being sealed within a few weeks, and the technique has since been commercialised for use in repair mortars and sprayed coatings as well as in new concrete."
+  },
+  {
+   "label": "D",
+   "text": "A second strategy takes its inspiration from living tissue but uses no living organisms. Tiny capsules or thin glass tubes filled with a healing agent, such as a glue or a mineral solution, are mixed into the concrete. When a crack forms, it breaks the capsules in its path and the agent flows out to seal it. A more elaborate version, tested by researchers at Cardiff University, builds networks of narrow channels into concrete elements, through which a healing liquid can be pumped from outside, much as blood vessels carry what is needed to a wound. Because the channels can be refilled, the same element can be repaired more than once, but the approach adds considerably to the complexity of construction, and capsules that never break simply occupy space that would otherwise be filled by stronger material."
+  },
+  {
+   "label": "E",
+   "text": "The third strategy looks to the past. Roman harbour walls and buildings such as the Pantheon have survived for nearly two thousand years, and researchers have long tried to understand why. In 2023 a team led by the materials scientist Admir Masic at the Massachusetts Institute of Technology reported that small white lumps of lime found throughout Roman concrete, long dismissed as evidence of careless mixing, may in fact have been an important source of its durability. According to their analysis, the lumps formed because the Romans mixed their concrete with quicklime at high temperatures, and when cracks later admitted water, the lime dissolved and recrystallised, sealing the cracks. Modern concrete prepared in the same way, the team found, healed cracks that remained open in a conventional mix."
+  },
+  {
+   "label": "F",
+   "text": "Not everyone is convinced that self-healing concrete will transform construction, and some of the doubts come from engineers who are otherwise enthusiastic about the research. Dr Ruth Okonkwo, a structural engineer who advises infrastructure owners in the UK, points out that most of the published results come from small laboratory samples, and that evidence from full-scale structures observed over decades is still scarce. Bacterial concrete is currently considerably more expensive than the conventional material, and she argues that the extra cost is hard to justify for buildings whose cracks can be inspected and sealed easily by hand. Professor Anders Holm of the Technical University of Denmark adds that closing a crack at the surface does not guarantee that the steel inside is protected, since corrosion may already have begun before the crack is sealed."
+  },
+  {
+   "label": "G",
+   "text": "Even the sceptics, however, accept that the technology has a place. Where cracks are difficult or dangerous to reach, in tunnels, underground water tanks, deep foundations or the walls of stores for nuclear waste, the cost of a single repair can exceed the extra cost of the material many times over. Okonkwo suggests that the most likely future is not one in which all concrete heals itself, but one in which self-healing mixes are reserved for the parts of structures where inspection is hardest. In that sense the material may earn its place not as a replacement for maintenance but as a way of reducing the need for it precisely where maintenance is least practical."
+  }
+ ],
+ "groups": [
+  {
+   "type": "mcq",
+   "from": 1,
+   "to": 4,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 1–4 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "According to the writer, the main danger of cracks in concrete is that they",
+     "options": [
+      {
+       "k": "A",
+       "t": "reduce the material's ability to withstand compression."
+      },
+      {
+       "k": "B",
+       "t": "let in substances that attack the steel within."
+      },
+      {
+       "k": "C",
+       "t": "make the structure impossible to inspect."
+      },
+      {
+       "k": "D",
+       "t": "usually appear within weeks of construction."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "text": "What limitation of autogenous healing does the writer mention?",
+     "options": [
+      {
+       "k": "A",
+       "t": "It has only been observed in very old structures."
+      },
+      {
+       "k": "B",
+       "t": "It depends on bacteria being present in the mix."
+      },
+      {
+       "k": "C",
+       "t": "It weakens the concrete surrounding the crack."
+      },
+      {
+       "k": "D",
+       "t": "It can close only extremely fine cracks that are often wet."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "text": "What advantage of the network of channels is mentioned?",
+     "options": [
+      {
+       "k": "A",
+       "t": "The same part of a structure can be healed repeatedly."
+      },
+      {
+       "k": "B",
+       "t": "It is simpler to build than the other methods."
+      },
+      {
+       "k": "C",
+       "t": "It uses living organisms to deliver the healing agent."
+      },
+      {
+       "k": "D",
+       "t": "It is cheaper than mixing capsules into the concrete."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "text": "What did Masic's team conclude about the lumps of lime in Roman concrete?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They showed that the Romans mixed their concrete carelessly."
+      },
+      {
+       "k": "B",
+       "t": "They were added on purpose to harden the surface."
+      },
+      {
+       "k": "C",
+       "t": "They may have enabled the concrete to seal its own cracks."
+      },
+      {
+       "k": "D",
+       "t": "They developed slowly as the concrete cooled over centuries."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 5,
+   "to": 9,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 5–9 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 5,
+     "text": "a reason why a repair may succeed only on the outside"
+    },
+    {
+     "n": 6,
+     "text": "an estimate of the proportion of spending that goes on upkeep"
+    },
+    {
+     "n": 7,
+     "text": "a comparison between a repair method and the way a body treats an injury"
+    },
+    {
+     "n": 8,
+     "text": "a list of places where repairs are especially hard to carry out"
+    },
+    {
+     "n": 9,
+     "text": "an example of a feature once taken as a sign of poor workmanship"
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 10,
+     "text": "Autogenous healing relies on leftover grains of [[10]] reacting with water that enters a crack."
+    },
+    {
+     "n": 11,
+     "text": "The dormant spores in the Delft concrete are supplied with [[11]] to feed on once they are woken."
+    },
+    {
+     "n": 12,
+     "text": "The Romans made their concrete by mixing it with [[12]] while it was very hot."
+    },
+    {
+     "n": 13,
+     "text": "Okonkwo observes that, at present, the bacterial version is far more [[13]] than standard concrete."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "compression / tension",
+   "zh": "压力（受压）／拉力（受拉）"
+  },
+  {
+   "w": "reinforcing bar",
+   "zh": "钢筋"
+  },
+  {
+   "w": "infrastructure",
+   "zh": "基础设施"
+  },
+  {
+   "w": "seep",
+   "zh": "渗入；渗漏"
+  },
+  {
+   "w": "autogenous",
+   "zh": "自生的；自发的"
+  },
+  {
+   "w": "dormant",
+   "zh": "休眠的"
+  },
+  {
+   "w": "germinate",
+   "zh": "萌发"
+  },
+  {
+   "w": "commercialise",
+   "zh": "使商业化"
+  },
+  {
+   "w": "durability",
+   "zh": "耐久性"
+  },
+  {
+   "w": "recrystallise",
+   "zh": "重新结晶"
+  },
+  {
+   "w": "corrosion",
+   "zh": "腐蚀；锈蚀"
+  },
+  {
+   "w": "sceptic",
+   "zh": "怀疑者"
+  }
+ ],
+ "generatedAt": "2026-11-05T06:55:00+08:00",
+ "spec": "v5"
+}
