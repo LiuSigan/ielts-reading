@@ -752,7 +752,8 @@ function optionBox(title, options) {
 function selectFor(n, keys, cls = "sel") {
   const s = el("select", { class: cls, id: "q" + n, "aria-label": "Question " + n, disabled: locked() },
     el("option", { value: "", text: "—" }), ...keys.map((k) => el("option", { value: k, text: k, selected: S.answers[n] === k })));
-  s.addEventListener("change", () => { setAns(n, s.value); if (S.headingsChanged) S.headingsChanged(); });
+  // Always refresh against the passage on screen now, never one remembered from an earlier render.
+  s.addEventListener("change", () => { setAns(n, s.value); if (!S.result && cur()) refreshHeadingChips(cur()); });
   markField(s, n);
   return s;
 }
@@ -831,7 +832,6 @@ function renderGroup(p, g) {
   } else if (T === "headings") {
     sec.append(optionBox("List of Headings", g.options));
     if (g.example) sec.append(el("p", { class: "note", text: `Example: Paragraph ${g.example.para} — ${g.example.k}` }));
-    S.headingsChanged = () => { if (S.result) return; refreshHeadingChips(p); };
     g.items.forEach((it) => {
       sec.append(el("div", { class: "item" }, el("span", { class: "qn", text: it.n }),
         el("div", {}, el("p", { class: "qtext" }, `Paragraph ${it.para}  `, selectFor(it.n, g.options.map((o) => o.k).filter((k) => !g.example || k !== g.example.k))), review(it.n))));
