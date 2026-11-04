@@ -577,7 +577,8 @@ $("#submit").addEventListener("click", () => {
     S.confirmArm = true; renderHeader();
     const n = answeredCount(), p = cur();
     if (p && n < p.total) toast(`还有 ${p.total - n} 题没作答，再点一次确认交卷`);
-    setTimeout(() => { if (S.confirmArm) { S.confirmArm = false; renderHeader(); } }, 4000);
+    else toast("再点一次“确认交卷”才会提交");
+    setTimeout(() => { if (S.confirmArm) { S.confirmArm = false; renderHeader(); } }, 8000);
     return;
   }
   S.confirmArm = false;
@@ -731,6 +732,13 @@ function renderScore(p) {
   if (lc) box.append(el("div", { class: "lvl" }, "下一篇难度：", el("b", { text: lc.from === lc.to ? `Band ${fmtBand(lc.to)}（不变）` : `Band ${fmtBand(lc.from)} → ${fmtBand(lc.to)}` }), `。${lc.why}。`));
   else if (S.redo) box.append(el("div", { class: "note", text: "这是重做的结果，不计入难度调整。" }));
   else if (att) box.append(el("div", { class: "note", text: `首次作答于 ${new Date(att.submittedAt).toLocaleString("zh-CN", { hour12: false })}，用时 ${Math.round((att.durationSec || 0) / 60)} 分钟。` }));
+  // Say plainly whether this score reached the cloud, so a missed toast can't hide a sync problem.
+  if (att && !S.redo) {
+    const msg = !S.api ? "成绩只保存在这台设备上（网站没连上同步接口）。"
+      : att.pending ? (S.pass ? "⚠ 成绩还没同步到云端，联网后会自动补传。" : "⚠ 成绩还没同步到云端：这台设备没有同步口令。")
+      : "✓ 成绩已同步到云端。";
+    box.append(el("div", { class: "note", text: msg }));
+  }
   box.append(el("div", { class: "bytype" }, ...Object.entries(r.byType).map(([t, v]) => el("div", {}, el("span", { text: TYPE_NAMES[t] || t }), el("span", { text: `${v.c}/${v.t}` })))));
   box.append(el("div", {}, el("button", { class: "btn", onclick: startRedo, text: "重做这篇（不计分）" })));
   return box;
