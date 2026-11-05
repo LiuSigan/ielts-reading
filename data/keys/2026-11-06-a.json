@@ -1,0 +1,118 @@
+{
+ "id": "2026-11-06-a",
+ "answers": {
+  "1": {
+   "a": "B",
+   "ev": {
+    "p": "A",
+    "q": "finding longitude amounts to knowing the time at a reference point, such as the home port, at the same moment as the local time on board ship"
+   },
+   "why": "A段。B depended on knowing the time in two places at once ↔ knowing the time at a reference point … at the same moment as the local time on board ship。A 弄反了：用太阳或北极星测的是纬度；D 也是纬度的测法（height of the sun at noon）；C 文中未提。"
+  },
+  "2": {
+   "a": "D",
+   "ev": {
+    "p": "B",
+    "q": "many of its members expected the answer to come from astronomy rather than from clockmaking"
+   },
+   "why": "B段末句。D Many of its members expected an astronomical answer ↔ many of its members expected the answer to come from astronomy。A 错在 immediately：触礁是 1707 年，法案和评审机构在七年后（1714）；B 与原文相反（期待天文学而非钟表）；C 文中没有这种限制。"
+  },
+  "3": {
+   "a": "A",
+   "ev": {
+    "p": "C",
+    "q": "The method did not become practical until 1766, when the astronomer Nevil Maskelyne published the first Nautical Almanac, which gave the necessary predictions in advance."
+   },
+   "why": "C段末句。A the required predictions were published in advance ↔ published the first Nautical Almanac, which gave the necessary predictions in advance；did not become practical until ↔ became practical only when。B、C 都是该方法的要求（precise instruments、四小时计算），但不是“直到……才可行”的那个转折点。"
+  },
+  "4": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "Some members argued that the result might have been due to luck, others that a single watch proved nothing unless more could be made to the same standard"
+   },
+   "why": "E段。C doubted that the result could be repeated ↔ might have been due to luck / a single watch proved nothing unless more could be made to the same standard。A 与原文相反（far within the limit set by the Act）；B 颠倒：是评审要求他公开结构，并非他拒绝；D 文中没有此事。"
+  },
+  "5": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "in place of a pendulum, which would have been thrown off by the rolling of the ship, it used two linked balances connected by springs"
+   },
+   "why": "D段。design feature intended to cope with the movement of a ship ↔ in place of a pendulum, which would have been thrown off by the rolling of the ship, it used two linked balances。A段末也说钟表在海上 thrown about by the waves，但那是说明问题，不是设计上的应对。"
+  },
+  "6": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "offered a reward of £20,000, a fortune at the time, for a method that could determine longitude to within half a degree"
+   },
+   "why": "B段。the size of a reward offered by law ↔ the Longitude Act, which offered a reward of £20,000。F段的 £8,750 是议会后来给 Harrison 的拨款，不是法律悬赏的奖金，是近似干扰。"
+  },
+  "7": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "Because the Earth turns through 15 degrees every hour, finding longitude amounts to knowing the time at a reference point"
+   },
+   "why": "A段。the Earth's rotation ↔ the Earth turns through 15 degrees every hour；relates to finding a position ↔ finding longitude amounts to knowing the time…。C段讲月亮在星空背景下移动，不是地球自转。"
+  },
+  "8": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "Captain James Cook took a copy of H4, made by the watchmaker Larcum Kendall, on his second voyage to the Pacific"
+   },
+   "why": "F段。someone who took a copy of a timekeeper on a voyage ↔ Captain James Cook took a copy of H4 … on his second voyage。E段的牙买加航行用的是 H4 原件，不是复制品。"
+  },
+  "9": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "calculations that could take an experienced navigator up to four hours"
+   },
+   "why": "C段。how long a calculation could take ↔ calculations that could take … up to four hours。D段的 twenty-five years 是 Harrison 造钟花的时间，不是计算所需时间。"
+  },
+  "10": {
+   "a": "pocket watch",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "H4, finished in 1759, looked like an oversized pocket watch, only 13 centimetres across"
+   },
+   "why": "E段。appearance: like a large ↔ looked like an oversized。不要填 13 centimetres（那是尺寸，不是外观像什么）。"
+  },
+  "11": {
+   "a": "81 days",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "On a voyage from Portsmouth to Jamaica that lasted 81 days"
+   },
+   "why": "E段。trial voyage to the Caribbean ↔ a voyage from Portsmouth to Jamaica；lasted ↔ lasted 81 days。five seconds 是误差，1761 to 1762 是年份，都是同句干扰。"
+  },
+  "12": {
+   "a": "£8,750",
+   "alt": [
+    "8,750",
+    "£8750"
+   ],
+   "ev": {
+    "p": "F",
+    "q": "Parliament awarded him £8,750"
+   },
+   "why": "F段。sum finally granted by Parliament in 1773 ↔ in 1773 … Parliament awarded him £8,750。£20,000 是B段法案悬赏的总额，Harrison 从未领到全额。"
+  },
+  "13": {
+   "a": "Larcum Kendall",
+   "alt": [
+    "Kendall"
+   ],
+   "ev": {
+    "p": "F",
+    "q": "Captain James Cook took a copy of H4, made by the watchmaker Larcum Kendall"
+   },
+   "why": "F段。the copy … was the work of ↔ a copy of H4, made by the watchmaker Larcum Kendall。不要填 John Harrison：H4 原件是他做的，但 Cook 带的复制品出自 Kendall 之手。"
+  }
+ }
+}

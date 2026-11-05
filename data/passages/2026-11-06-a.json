@@ -1,0 +1,264 @@
+{
+ "id": "2026-11-06-a",
+ "date": "2026-11-06",
+ "level": 6.5,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "history of technology",
+ "title": "A Clock for the Ocean",
+ "subtitle": "How the problem of finding longitude at sea was finally solved",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "For most of history, sailors on the open ocean could work out how far north or south they were with reasonable accuracy, but not how far east or west. Latitude could be found by measuring the height of the sun at noon or of the Pole Star at night. Longitude was another matter. Because the Earth turns through 15 degrees every hour, finding longitude amounts to knowing the time at a reference point, such as the home port, at the same moment as the local time on board ship. The difference between the two, converted into degrees, gives the ship's position east or west. Near the equator, an error of just one minute in the time meant an error of more than 20 kilometres in position. The difficulty was that no clock of the period could keep accurate time at sea, where it was thrown about by the waves and exposed to damp and to sudden changes of temperature."
+  },
+  {
+   "label": "B",
+   "text": "The consequences of this ignorance could be catastrophic. In 1707 four British warships returning from Gibraltar struck rocks off the Isles of Scilly, and well over a thousand sailors were drowned, partly because the fleet had misjudged its position. Seven years later, in 1714, the British Parliament passed the Longitude Act, which offered a reward of £20,000, a fortune at the time, for a method that could determine longitude to within half a degree. Spain and the Netherlands had already offered similar prizes, without success. A body of experts, later known as the Board of Longitude, was set up to judge the proposals, and many of its members expected the answer to come from astronomy rather than from clockmaking."
+  },
+  {
+   "label": "C",
+   "text": "The astronomical solution was known as the lunar distance method. The Moon moves steadily across the sky against the background of the stars, so its position could, in principle, serve as a clock visible from anywhere on Earth. A navigator measured the angle between the Moon and a particular star and compared it with tables predicting that angle at different times at a reference location. Galileo had earlier suggested using the moons of Jupiter in a similar way, but they were almost impossible to observe through a telescope on a moving deck. The lunar idea was sound, but it required accurate tables, precise instruments and calculations that could take an experienced navigator up to four hours. The method did not become practical until 1766, when the astronomer Nevil Maskelyne published the first Nautical Almanac, which gave the necessary predictions in advance."
+  },
+  {
+   "label": "D",
+   "text": "Meanwhile John Harrison, a self-taught carpenter and clockmaker from Lincolnshire who had already made a name for himself with house clocks built largely of wood that needed no oil, set out to build a clock that could survive the motion, damp and temperature changes of a long voyage. His first marine timekeeper, now known as H1, was completed in 1735. It weighed about 34 kilograms and, in place of a pendulum, which would have been thrown off by the rolling of the ship, it used two linked balances connected by springs. H1 performed well on a trial voyage to Lisbon, but Harrison was not satisfied, and he spent most of the next twenty-five years on two further machines, H2 and H3, neither of which he considered good enough to submit for the prize."
+  },
+  {
+   "label": "E",
+   "text": "His breakthrough came with a much smaller device. H4, finished in 1759, looked like an oversized pocket watch, only 13 centimetres across. On a voyage from Portsmouth to Jamaica that lasted 81 days, in the winter of 1761 to 1762, it lost just over five seconds, an error corresponding to little more than one minute of longitude and far within the limit set by the Act. Yet the Board refused to pay the full reward. Some members argued that the result might have been due to luck, others that a single watch proved nothing unless more could be made to the same standard, and Harrison was required to explain the details of its construction and to have further examples built by other craftsmen."
+  },
+  {
+   "label": "F",
+   "text": "Harrison received a series of partial payments, but never the prize itself. Finally, in 1773, when he was 80, he appealed directly to King George III, who supported his case, and Parliament awarded him £8,750. He died three years later. By then, however, the value of his work was no longer in doubt. Captain James Cook took a copy of H4, made by the watchmaker Larcum Kendall, on his second voyage to the Pacific and praised it highly in his journal, and within a few decades marine chronometers based on Harrison's principles had become standard equipment on ocean-going ships, gradually replacing the slower lunar method. Today H1 to H4 are displayed together at the Royal Observatory in Greenwich, where the three larger machines are still kept running."
+  }
+ ],
+ "groups": [
+  {
+   "type": "mcq",
+   "from": 1,
+   "to": 4,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 1–4 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "According to the first paragraph, why was longitude harder to find than latitude?",
+     "options": [
+      {
+       "k": "A",
+       "t": "It required observations of the stars rather than the sun."
+      },
+      {
+       "k": "B",
+       "t": "It depended on knowing the time in two places at once."
+      },
+      {
+       "k": "C",
+       "t": "It changed much more quickly as a ship sailed."
+      },
+      {
+       "k": "D",
+       "t": "It could only be measured in the middle of the day."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "text": "What does the writer say about the Board of Longitude?",
+     "options": [
+      {
+       "k": "A",
+       "t": "It was formed immediately after the Scilly disaster."
+      },
+      {
+       "k": "B",
+       "t": "It consisted mainly of experienced clockmakers."
+      },
+      {
+       "k": "C",
+       "t": "It offered rewards only for complete solutions."
+      },
+      {
+       "k": "D",
+       "t": "Many of its members expected an astronomical answer."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "text": "The lunar distance method became practical only when",
+     "options": [
+      {
+       "k": "A",
+       "t": "the required predictions were published in advance."
+      },
+      {
+       "k": "B",
+       "t": "navigational instruments became accurate enough."
+      },
+      {
+       "k": "C",
+       "t": "navigators were trained to calculate more quickly."
+      },
+      {
+       "k": "D",
+       "t": "the movement of the Moon was fully understood."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Why did the Board refuse to pay Harrison the full reward after the Jamaica voyage?",
+     "options": [
+      {
+       "k": "A",
+       "t": "H4 had not met the standard of accuracy set by the Act."
+      },
+      {
+       "k": "B",
+       "t": "Harrison refused to reveal how H4 had been constructed."
+      },
+      {
+       "k": "C",
+       "t": "Some members doubted that the result could be repeated."
+      },
+      {
+       "k": "D",
+       "t": "A rival method had already proved more reliable."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 5,
+   "to": 9,
+   "instructions": [
+    "The reading passage has six paragraphs, A–F.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–F, in boxes 5–9 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 5,
+     "text": "a description of a design feature intended to cope with the movement of a ship"
+    },
+    {
+     "n": 6,
+     "text": "a reference to the size of a reward offered by law"
+    },
+    {
+     "n": 7,
+     "text": "an explanation of how the Earth's rotation relates to finding a position"
+    },
+    {
+     "n": 8,
+     "text": "an example of someone who took a copy of a timekeeper on a voyage"
+    },
+    {
+     "n": 9,
+     "text": "a mention of how long a calculation could take"
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+   "maxWords": 2,
+   "allowNumber": true,
+   "title": "H4 and what happened next",
+   "lines": [
+    {
+     "text": "The watch",
+     "indent": 0
+    },
+    {
+     "text": "– appearance: like a large [[10]]",
+     "indent": 1
+    },
+    {
+     "text": "– trial voyage to the Caribbean lasted [[11]] and the watch lost only a few seconds",
+     "indent": 1
+    },
+    {
+     "text": "Recognition",
+     "indent": 0
+    },
+    {
+     "text": "– sum finally granted by Parliament in 1773: [[12]]",
+     "indent": 1
+    },
+    {
+     "text": "– the copy on Cook's second Pacific voyage was the work of [[13]]",
+     "indent": 1
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "latitude / longitude",
+   "zh": "纬度／经度"
+  },
+  {
+   "w": "reference point",
+   "zh": "参照点"
+  },
+  {
+   "w": "catastrophic",
+   "zh": "灾难性的"
+  },
+  {
+   "w": "misjudge",
+   "zh": "判断错误"
+  },
+  {
+   "w": "in principle",
+   "zh": "原则上；理论上"
+  },
+  {
+   "w": "navigator",
+   "zh": "领航员"
+  },
+  {
+   "w": "self-taught",
+   "zh": "自学成才的"
+  },
+  {
+   "w": "pendulum",
+   "zh": "钟摆"
+  },
+  {
+   "w": "breakthrough",
+   "zh": "突破"
+  },
+  {
+   "w": "craftsman",
+   "zh": "工匠"
+  },
+  {
+   "w": "appeal to",
+   "zh": "向……请求／申诉"
+  },
+  {
+   "w": "chronometer",
+   "zh": "航海天文钟；精密计时器"
+  }
+ ],
+ "generatedAt": "2026-11-06T06:50:00+08:00",
+ "spec": "v5"
+}

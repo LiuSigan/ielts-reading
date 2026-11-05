@@ -1,0 +1,308 @@
+{
+ "id": "2026-11-06",
+ "date": "2026-11-06",
+ "level": 7.0,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "psychology & cognition",
+ "title": "The Uses of Boredom",
+ "subtitle": "Psychologists are discovering that an unwelcome state of mind may have a purpose",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Boredom has a poor reputation. It is associated with idleness, restlessness and, in children, bad behaviour, and an entire industry of smartphones, streaming services and games is devoted to making sure that no one need experience it for long. Teachers worry about it in classrooms, employers in offices and parents during long school holidays. Yet psychologists, who largely ignored boredom for most of the twentieth century, have recently begun to take it seriously. Their findings suggest that this uncomfortable state may be more useful than its reputation implies, and that our determination to escape it as quickly as possible may carry costs of its own."
+  },
+  {
+   "label": "B",
+   "text": "One reason boredom was neglected is that it proved surprisingly difficult to define. It is not simply the absence of something to do: people can be bored in the middle of a busy meeting, and perfectly content while doing nothing at all on a beach. In 2012 a group of Canadian researchers proposed a definition that has since been widely adopted, describing boredom as the unpleasant experience of wanting, but being unable, to engage in satisfying activity. On this view the problem lies not in the situation but in attention: the bored mind is searching for something to hold on to and failing to find it. Researchers also distinguish boredom from apathy, in which a person feels no desire to act at all; the bored person, by contrast, is restless and eager for something to do."
+  },
+  {
+   "label": "C",
+   "text": "Just how unpleasant this state can be was shown in 2014 by a series of experiments at the University of Virginia. Participants were asked to sit alone in a bare room for between six and fifteen minutes with nothing to do but think. Many found this surprisingly hard, and in one version of the study they were given the option of administering a mild electric shock to themselves during the session. Even among those who had earlier said that they would pay money to avoid such a shock, around two-thirds of the men and a quarter of the women chose to shock themselves at least once rather than simply sit with their own thoughts. The team later repeated the exercise with people of different ages, and with participants sitting in their own homes, and obtained similar results."
+  },
+  {
+   "label": "D",
+   "text": "Some researchers argue that this discomfort is precisely the point. Dr Elena Varga, a psychologist at the University of Groningen, compares boredom to pain or hunger: an unpleasant signal that something in our situation needs to change. In her view, boredom evolved to stop people persisting with activities that have ceased to be rewarding and to push them towards new goals. A person who never felt bored, she suggests, would be at a disadvantage, continuing indefinitely with tasks that offered nothing further to learn or gain. She points to evidence that people who are bored become more willing to seek out new experiences, a tendency that may once have driven our ancestors to explore unfamiliar places and acquire new skills."
+  },
+  {
+   "label": "E",
+   "text": "Others have focused on a more surprising benefit. In a frequently cited study, participants who had first spent fifteen minutes on a deliberately dull task, copying numbers out of a telephone directory, then produced more ideas when asked to think of uses for a pair of plastic cups than participants who had gone straight to the creative task. The researchers suggested that boredom encourages the mind to wander, and that daydreaming allows connections to form between ideas that would not otherwise be linked. Later attempts to repeat the finding have produced mixed results, however, and Dr Samuel Price of the University of Leeds cautions that the effect, if it is real, is probably small and may depend heavily on the type of task used."
+  },
+  {
+   "label": "F",
+   "text": "What worries some psychologists is not boredom itself but the speed with which we now escape it. Because a smartphone is almost always within reach, the brief moments of boredom that once filled queues, bus journeys and waiting rooms can be ended almost instantly. Yet a phone may not truly relieve boredom at all: people often report feeling no more satisfied after half an hour of scrolling than they did before. Professor Mira Chandra, who studies attention at the University of Toronto, argues that this constant relief may make boredom harder to bear when it does occur, in the same way that people who are never exposed to cold become less tolerant of it. Her surveys of students suggest that those who check their phones most often also report becoming bored most easily, although she acknowledges that the direction of cause and effect has not yet been established."
+  },
+  {
+   "label": "G",
+   "text": "None of this means that boredom should be sought out for its own sake. Chronic boredom, which persists for weeks or months, is associated with depression, overeating and risky behaviour, and some people are far more prone to it than others. Psychologists measure this tendency, known as boredom proneness, with questionnaires, and find that it is closely linked to difficulty in controlling attention. The emerging view is more modest: that short spells of boredom are a normal and possibly useful part of mental life, and that an occasional willingness to tolerate them, rather than reaching immediately for a distraction, may help us notice what we really want to do next."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Choose the correct heading for paragraphs B–G from the list of headings below.",
+    "Write the correct number, i–xi, in boxes 1–6 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "A disputed link with original thinking"
+    },
+    {
+     "k": "ii",
+     "t": "Why busy people are never bored"
+    },
+    {
+     "k": "iii",
+     "t": "A neglected and unpopular state"
+    },
+    {
+     "k": "iv",
+     "t": "Preferring discomfort to an idle mind"
+    },
+    {
+     "k": "v",
+     "t": "Differences between men and women in coping with silence"
+    },
+    {
+     "k": "vi",
+     "t": "A signal that something must change"
+    },
+    {
+     "k": "vii",
+     "t": "How technology sharpens concentration"
+    },
+    {
+     "k": "viii",
+     "t": "Defining the experience in terms of attention"
+    },
+    {
+     "k": "ix",
+     "t": "Does instant relief lower our tolerance?"
+    },
+    {
+     "k": "x",
+     "t": "The commercial value of entertainment"
+    },
+    {
+     "k": "xi",
+     "t": "Brief episodes rather than lasting ones"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    },
+    {
+     "n": 6,
+     "para": "G"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 7–10 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "The definition proposed by the Canadian researchers emphasises",
+     "options": [
+      {
+       "k": "A",
+       "t": "an unsuccessful search for something to engage with."
+      },
+      {
+       "k": "B",
+       "t": "a shortage of activities in a person's surroundings."
+      },
+      {
+       "k": "C",
+       "t": "the dullness of certain places and occasions."
+      },
+      {
+       "k": "D",
+       "t": "the physical restlessness of the bored person."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "What was surprising about the University of Virginia findings?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Most participants enjoyed being left alone with their thoughts."
+      },
+      {
+       "k": "B",
+       "t": "Women were more willing than men to give themselves a shock."
+      },
+      {
+       "k": "C",
+       "t": "Some people chose an unpleasant stimulus they had said they would pay to avoid."
+      },
+      {
+       "k": "D",
+       "t": "The shocks became stronger as the session went on."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "text": "According to Varga, someone incapable of boredom would",
+     "options": [
+      {
+       "k": "A",
+       "t": "probably be more creative than other people."
+      },
+      {
+       "k": "B",
+       "t": "be less sensitive to pain and hunger."
+      },
+      {
+       "k": "C",
+       "t": "find it easier than others to set new goals."
+      },
+      {
+       "k": "D",
+       "t": "go on with activities that had stopped benefiting them."
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "text": "What does Chandra admit about her surveys of students?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They included too few students to be reliable."
+      },
+      {
+       "k": "B",
+       "t": "They cannot show which factor is causing the other."
+      },
+      {
+       "k": "C",
+       "t": "They contradict earlier research on attention."
+      },
+      {
+       "k": "D",
+       "t": "They measured phone use only indirectly."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 11–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 11,
+     "text": "In the study involving plastic cups, the dull task consisted of copying figures from a [[11]]."
+    },
+    {
+     "n": 12,
+     "text": "The researchers believed that boredom helps creativity by letting thoughts [[12]]."
+    },
+    {
+     "n": 13,
+     "text": "Persistent boredom is connected with low mood, eating too much and [[13]]."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "reputation",
+   "zh": "名声"
+  },
+  {
+   "w": "idleness",
+   "zh": "无所事事；懒散"
+  },
+  {
+   "w": "neglect",
+   "zh": "忽视"
+  },
+  {
+   "w": "engage in",
+   "zh": "参与；从事"
+  },
+  {
+   "w": "administer",
+   "zh": "施加；给予"
+  },
+  {
+   "w": "persist with",
+   "zh": "坚持做"
+  },
+  {
+   "w": "cease",
+   "zh": "停止"
+  },
+  {
+   "w": "daydreaming",
+   "zh": "做白日梦；走神"
+  },
+  {
+   "w": "caution (v.)",
+   "zh": "告诫；提醒"
+  },
+  {
+   "w": "tolerant of",
+   "zh": "能忍受……的"
+  },
+  {
+   "w": "chronic",
+   "zh": "长期的；慢性的"
+  },
+  {
+   "w": "be prone to",
+   "zh": "易于……；倾向于……"
+  }
+ ],
+ "generatedAt": "2026-11-06T06:55:00+08:00",
+ "spec": "v5"
+}

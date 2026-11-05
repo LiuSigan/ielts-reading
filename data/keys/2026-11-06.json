@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-06",
+ "answers": {
+  "1": {
+   "a": "viii",
+   "ev": {
+    "p": "B",
+    "q": "On this view the problem lies not in the situation but in attention"
+   },
+   "why": "B段讲如何定义无聊：不是“没事做”，而是注意力找不到可以投入的东西。viii Defining the experience in terms of attention ↔ proposed a definition … the problem lies … in attention。ii 是干扰：段中说人在忙碌的会议中也会无聊，与“忙的人从不无聊”正好相反。"
+  },
+  "2": {
+   "a": "iv",
+   "ev": {
+    "p": "C",
+    "q": "chose to shock themselves at least once rather than simply sit with their own thoughts"
+   },
+   "why": "C段：弗吉尼亚大学实验中，不少人宁愿电击自己也不愿独自思考。iv Preferring discomfort to an idle mind ↔ chose to shock themselves … rather than simply sit with their own thoughts。v 只抓住了男女比例这个细节，不是段落主旨。"
+  },
+  "3": {
+   "a": "vi",
+   "ev": {
+    "p": "D",
+    "q": "an unpleasant signal that something in our situation needs to change"
+   },
+   "why": "D段 Varga：无聊像疼痛和饥饿一样，是提示需要改变的信号。vi A signal that something must change ↔ an unpleasant signal that something in our situation needs to change。"
+  },
+  "4": {
+   "a": "i",
+   "ev": {
+    "p": "E",
+    "q": "Later attempts to repeat the finding have produced mixed results"
+   },
+   "why": "E段：无聊可能促进创造力，但后续重复实验结果不一，Price 提醒效果可能很小。i A disputed link with original thinking ↔ more ideas … mixed results … if it is real, is probably small。只看前半段容易选“无聊提升创造力”，但标题必须包含“有争议”这一层。"
+  },
+  "5": {
+   "a": "ix",
+   "ev": {
+    "p": "F",
+    "q": "this constant relief may make boredom harder to bear when it does occur"
+   },
+   "why": "F段：手机让人立刻摆脱无聊，反而可能让人更难忍受无聊。ix Does instant relief lower our tolerance? ↔ constant relief may make boredom harder to bear / less tolerant。vii 正好相反，文中没有说技术提升专注力。"
+  },
+  "6": {
+   "a": "xi",
+   "ev": {
+    "p": "G",
+    "q": "short spells of boredom are a normal and possibly useful part of mental life"
+   },
+   "why": "G段：长期无聊有害，短暂的无聊才可能有益。xi Brief episodes rather than lasting ones ↔ short spells of boredom … useful 与 Chronic boredom, which persists for weeks or months … associated with depression 的对比。"
+  },
+  "7": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "describing boredom as the unpleasant experience of wanting, but being unable, to engage in satisfying activity"
+   },
+   "why": "B段。A an unsuccessful search for something to engage with ↔ wanting, but being unable, to engage in satisfying activity / searching for something to hold on to and failing to find it。B、C 正是该定义所否定的（problem lies not in the situation）；D 文中未提。"
+  },
+  "8": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "Even among those who had earlier said that they would pay money to avoid such a shock, around two-thirds of the men and a quarter of the women chose to shock themselves"
+   },
+   "why": "C段。C chose an unpleasant stimulus they had said they would pay to avoid ↔ Even among those who had earlier said that they would pay money to avoid such a shock … chose to shock themselves。B 把男女颠倒了（男性约三分之二，女性约四分之一）；A 与 Many found this surprisingly hard 相反；D 文中未提。"
+  },
+  "9": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "A person who never felt bored, she suggests, would be at a disadvantage, continuing indefinitely with tasks that offered nothing further to learn or gain"
+   },
+   "why": "D段末句。D might go on with activities that had stopped benefiting them ↔ continuing indefinitely with tasks that offered nothing further to learn or gain。C 弄反了：无聊才会推动人去追求新目标，从不无聊的人恰恰缺少这种推动；A 是E段关于创造力的研究，不是 Varga 的观点。"
+  },
+  "10": {
+   "a": "B",
+   "ev": {
+    "p": "F",
+    "q": "although she acknowledges that the direction of cause and effect has not yet been established"
+   },
+   "why": "F段末句。admit ↔ acknowledges；cannot show which factor is causing the other ↔ the direction of cause and effect has not yet been established（是常看手机导致易无聊，还是易无聊导致常看手机，尚不清楚）。A、C、D 文中都没有提到。"
+  },
+  "11": {
+   "a": "telephone directory",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "copying numbers out of a telephone directory"
+   },
+   "why": "E段。the dull task consisted of copying figures from ↔ a deliberately dull task, copying numbers out of a telephone directory。plastic cups 是后面创造力任务的对象，不是枯燥任务的材料。"
+  },
+  "12": {
+   "a": "wander",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "boredom encourages the mind to wander"
+   },
+   "why": "E段。helps creativity by letting thoughts ___ ↔ boredom encourages the mind to wander。daydreaming 意思相近，但放进句子（letting thoughts daydreaming）语法不通，且原文对应的动词是 wander。"
+  },
+  "13": {
+   "a": "risky behaviour",
+   "alt": [
+    "risky behavior"
+   ],
+   "ev": {
+    "p": "G",
+    "q": "is associated with depression, overeating and risky behaviour"
+   },
+   "why": "G段。Persistent boredom ↔ Chronic boredom, which persists for weeks or months；is connected with ↔ is associated with；low mood ↔ depression；eating too much ↔ overeating。题干已用 low mood 和 eating too much 改写了前两项，所以填第三项 risky behaviour。"
+  }
+ }
+}

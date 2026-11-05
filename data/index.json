@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-04T22:52:17.047Z",
+ "updatedAt": "2026-11-05T22:51:56.792Z",
  "passages": [
+  {
+   "id": "2026-11-06-a",
+   "date": "2026-11-06",
+   "slot": "p1",
+   "title": "A Clock for the Ocean",
+   "level": 6.5,
+   "style": "P1",
+   "topicArea": "history of technology",
+   "types": [
+    "mcq",
+    "match_info",
+    "note_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-06T06:50:00+08:00"
+  },
+  {
+   "id": "2026-11-06",
+   "date": "2026-11-06",
+   "slot": "main",
+   "title": "The Uses of Boredom",
+   "level": 7,
+   "style": "P2",
+   "topicArea": "psychology & cognition",
+   "types": [
+    "headings",
+    "mcq",
+    "sentence_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-06T06:55:00+08:00"
+  },
   {
    "id": "2026-11-05-a",
    "date": "2026-11-05",
