@@ -1,0 +1,117 @@
+{
+ "id": "2026-11-07-p",
+ "answers": {
+  "1": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "the American custom seems so natural that it is rarely questioned. It deserves to be."
+   },
+   "why": "A段末两句。A Familiarity has protected the custom from critical examination ↔ seems so natural that it is rarely questioned。B 与 by contrast … tipping is unusual 相反；C 与日本“多给钱会引起困惑甚至冒犯”相反；D 原文说付款屏幕建议的小费比例更高（25 per cent or more），不是更少。"
+  },
+  "2": {
+   "a": "C",
+   "ev": {
+    "p": "B",
+    "q": "tipping became entrenched, in part because it allowed employers to pay their staff less"
+   },
+   "why": "B段。firmly established ↔ became entrenched；partly because ↔ in part because；keep wages low ↔ allowed employers to pay their staff less。A 偷换：带回小费习惯的是出国旅行回来的富裕美国人，不是欧洲移民；B 与 impossible to enforce 相反；D 与 regarded by many as undemocratic 相反。"
+  },
+  "3": {
+   "a": "D",
+   "ev": {
+    "p": "C",
+    "q": "the size of a tip is only loosely related to customers' own ratings of the service they received"
+   },
+   "why": "C段。D The amount of a tip says little about the quality of service ↔ only loosely related to customers' own ratings of the service；段末 a remarkably imprecise one 也是作者的结论。A 与原文相反；B、C 原文只说熟客与否、账单大小会影响小费，没说方向。"
+  },
+  "4": {
+   "a": "B",
+   "ev": {
+    "p": "G",
+    "q": "the case for a gradual move towards higher basic wages, and towards prices that include service, is strong"
+   },
+   "why": "全文主旨见G段：小费制度不公平，应逐步转向更高的基本工资和含服务费的价格。B to argue for gradually replacing tips with fair wages ↔ a gradual move towards higher basic wages。A 只对应B段的历史；D 不对：作者提到 Meyer 的尝试失败，并没有为其辩护；C 不是主旨。"
+  },
+  "5": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "The laws proved impossible to enforce and were repealed within a few years"
+   },
+   "why": "B段。legislation that did not last ↔ several states passed laws banning it … were repealed within a few years。同段的联邦最低工资法至今仍有效，不是“没有持续”的法律。"
+  },
+  "6": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "such as the size of the bill, the weather, whether the server gave their name and whether the customer is a regular"
+   },
+   "why": "C段。things unconnected with service ↔ factors that have little to do with the quality of the work；examples ↔ the size of the bill, the weather…。D段的外貌偏见也与服务无关，但那是关于歧视的论证，用词是 appearance，不是这里列举的因素清单，是近似干扰。"
+  },
+  "7": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "tipping effectively passes part of the responsibility for setting wages from employers, who are bound by anti-discrimination law, to customers, who are not"
+   },
+   "why": "D段 Osei。shifts a duty ↔ passes part of the responsibility for setting wages；that the law places on employers ↔ employers, who are bound by anti-discrimination law。"
+  },
+  "8": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "a restaurant acting alone faces a classic coordination problem: the change benefits everyone only if most businesses make it at the same time"
+   },
+   "why": "E段 Lindahl。one business could not change the system on its own ↔ a restaurant acting alone faces a classic coordination problem。G段也提到先行者要付出代价（a single business that moves first may … pay a price），但没有解释原因，E段才有解释。"
+  },
+  "9": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "moves risk from businesses, which can absorb it, to individual workers, who often cannot"
+   },
+   "why": "F段。who bears the financial uncertainty ↔ moves risk from businesses … to individual workers；a quiet week, an illness … is borne by the server alone。"
+  },
+  "10": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "when wealthy Americans returning from travel abroad brought the habit home with them"
+   },
+   "why": "B段。helped to bring the practice to the United States ↔ brought the habit home with them。E（试图立法禁止）的主语是 several states，不是这些富人。"
+  },
+  "11": {
+   "a": "D",
+   "ev": {
+    "p": "C",
+    "q": "the size of a tip is only loosely related to customers' own ratings of the service they received"
+   },
+   "why": "C段。Diners' own judgements of how well they were served ↔ customers' own ratings of the service they received；are only weakly connected with the amount that is left ↔ the size of a tip is only loosely related to…。H（通常要多付约五分之一）说的是美国食客的惯例，主语不同。"
+  },
+  "12": {
+   "a": "C",
+   "ev": {
+    "p": "D",
+    "q": "passes part of the responsibility for setting wages from employers, who are bound by anti-discrimination law, to customers, who are not"
+   },
+   "why": "D段。pass part of their wage-setting role ↔ passes part of the responsibility for setting wages from employers；people who are not bound by equality law ↔ customers, who are not (bound by anti-discrimination law)。"
+  },
+  "13": {
+   "a": "G",
+   "ev": {
+    "p": "E",
+    "q": "some experienced servers, who had earned more under the old system, left for restaurants where tipping continued"
+   },
+   "why": "E段。moved to restaurants where tips were still paid ↔ left for restaurants where tipping continued。F（偏爱小费因为忙的晚上收入高）讲的是 Many servers 的一般态度，主语不同。"
+  },
+  "14": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "Many servers prefer it, because a busy evening can bring in far more than any fixed wage a restaurant could afford to offer"
+   },
+   "why": "F段。prefer the system because of what a busy night can earn them ↔ prefer it, because a busy evening can bring in far more than any fixed wage。"
+  }
+ }
+}

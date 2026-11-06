@@ -1,0 +1,191 @@
+{
+ "id": "2026-11-07",
+ "date": "2026-11-07",
+ "level": 5.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "biology & ecology",
+ "title": "The Return of the Beaver",
+ "subtitle": "After five centuries, a lost animal is back in British rivers, and not everyone is pleased",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "For most of the last five hundred years, there were no wild beavers in Britain. The animals were hunted for their fur, for their meat and for a substance produced by their glands that was used in medicine and perfume, and by the sixteenth century they had disappeared from England, Wales and Scotland. Today they are back. Beavers are Europe's largest rodent, weighing up to 30 kilograms, and are sometimes called ecosystem engineers, because few animals change their surroundings so dramatically. Beavers now live in rivers across much of Scotland and in several parts of England, and their return has become one of the most closely studied, and most argued over, wildlife stories in the country."
+  },
+  {
+   "label": "B",
+   "text": "The first official reintroduction took place in 2009, when a small number of beavers brought from Norway were released at Knapdale Forest in Argyll as part of a five-year trial run by conservation organisations. The animals were closely monitored, and more were later added to strengthen the small population. At around the same time, however, a much larger population was growing in the catchment of the River Tay, near Perth, descended from animals that had escaped from private collections or had been released illegally. By 2016, when the Scottish government decided that beavers could remain in the wild, the unofficial population on the Tay was many times larger than the official one at Knapdale."
+  },
+  {
+   "label": "C",
+   "text": "A similar story unfolded in England. Around 2008, people living near the River Otter in Devon began reporting signs of beavers, and in 2013 a family was filmed there, although no one knew where the animals had come from. The government at first planned to remove them, but after protests from local residents, a five-year study was set up in 2015 to assess their effects. When it ended in 2020, the beavers were given permission to stay, becoming the first wild population in England to be officially allowed to remain."
+  },
+  {
+   "label": "D",
+   "text": "Much of the interest in beavers concerns their dams. By blocking small streams with branches and mud, beavers create chains of ponds that hold back water. Unlike flood defences built by people, these dams are constructed and repaired by the animals themselves at no cost. Dr Helen Fairley, a hydrologist at the University of Exeter, has compared the flow of streams before and after beavers moved in. She found that during heavy rain the highest flows further downstream were reduced by around a third, because the ponds stored water and released it slowly. The ponds also trap soil and farm chemicals, so that water leaving a beaver site is often cleaner than water entering it."
+  },
+  {
+   "label": "E",
+   "text": "Ecologists point to other benefits. Beavers cut down young trees along the banks, which then regrow with many new stems and create a more varied woodland. The wetlands created by beavers provide habitats for insects, frogs and birds, and some studies have recorded more species of plants and animals at beaver sites than at similar sites without them. Numbers of fish may also rise, since young fish can shelter in the ponds, although some anglers fear that dams stop salmon and trout from swimming upstream to breed."
+  },
+  {
+   "label": "F",
+   "text": "Not everyone welcomes the beaver's return. Farmers on low-lying land have reported fields flooded by dams built across drainage ditches, and valuable trees felled or damaged. Professor Ian Muir, an agricultural economist at Scotland's Rural College, points out that the costs fall unevenly: a few farms on the flat land beside rivers suffer most of the damage, while the benefits, such as reduced flooding in towns further downstream, are shared by everyone. In Scotland, licences can be issued to remove dams or, as a last resort, to kill beavers, and in one year more than a hundred animals were killed under this system."
+  },
+  {
+   "label": "G",
+   "text": "Most researchers now agree that the question is no longer whether beavers will live in Britain but how people will live with them. Some argue for compensating farmers whose land is affected, as already happens with certain other protected species elsewhere in Europe. Others favour moving beavers from places where they cause trouble to rivers where they are wanted, which has been the preferred approach in Scotland since 2021. Whatever approach is taken, beavers seem certain to spread further, since young animals leave home at around two years old and may travel many kilometres in search of a territory of their own."
+  }
+ ],
+ "groups": [
+  {
+   "type": "tfng",
+   "from": 1,
+   "to": 4,
+   "instructions": [
+    "Do the following statements agree with the information given in the reading passage?",
+    "In boxes 1–4 on your answer sheet, write",
+    "TRUE if the statement agrees with the information",
+    "FALSE if the statement contradicts the information",
+    "NOT GIVEN if there is no information on this"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "Beavers survived in Scotland for longer than they did in England."
+    },
+    {
+     "n": 2,
+     "text": "The beavers released at Knapdale had been brought in from abroad."
+    },
+    {
+     "n": 3,
+     "text": "By 2016 there were more beavers around the Tay than in the official trial area."
+    },
+    {
+     "n": 4,
+     "text": "The authorities intended from the beginning to let the River Otter beavers remain."
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 5,
+   "to": 7,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+    "Write your answers in boxes 5–7 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+   "maxWords": 2,
+   "allowNumber": true,
+   "title": "Effects of beaver dams",
+   "lines": [
+    {
+     "text": "– built from sticks and [[5]]",
+     "indent": 0
+    },
+    {
+     "text": "– in storms, peak flows downstream fall by roughly [[6]]",
+     "indent": 0
+    },
+    {
+     "text": "– ponds hold back soil and agricultural [[7]], so water downstream is cleaner",
+     "indent": 0
+    }
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 8,
+   "to": 13,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 8–13 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 8,
+     "text": "a reason why beavers were once killed in large numbers"
+    },
+    {
+     "n": 9,
+     "text": "a reference to animals that got out of captivity"
+    },
+    {
+     "n": 10,
+     "text": "a measurement of how beavers change the flow of water"
+    },
+    {
+     "n": 11,
+     "text": "a concern raised by people who fish"
+    },
+    {
+     "n": 12,
+     "text": "an explanation of why some landowners are affected more than others"
+    },
+    {
+     "n": 13,
+     "text": "a policy of relocating animals"
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "reintroduction",
+   "zh": "（物种）重新引入"
+  },
+  {
+   "w": "catchment",
+   "zh": "集水区；流域"
+  },
+  {
+   "w": "descend from",
+   "zh": "是……的后代"
+  },
+  {
+   "w": "unfold",
+   "zh": "（事情）展开；发生"
+  },
+  {
+   "w": "assess",
+   "zh": "评估"
+  },
+  {
+   "w": "hydrologist",
+   "zh": "水文学家"
+  },
+  {
+   "w": "habitat",
+   "zh": "栖息地"
+  },
+  {
+   "w": "angler",
+   "zh": "钓鱼的人"
+  },
+  {
+   "w": "low-lying",
+   "zh": "低洼的"
+  },
+  {
+   "w": "unevenly",
+   "zh": "不均匀地"
+  },
+  {
+   "w": "as a last resort",
+   "zh": "作为最后手段"
+  },
+  {
+   "w": "compensate",
+   "zh": "赔偿；补偿"
+  }
+ ],
+ "generatedAt": "2026-11-07T06:50:00+08:00",
+ "spec": "v5"
+}

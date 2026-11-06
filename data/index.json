@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-05T22:51:56.792Z",
+ "updatedAt": "2026-11-06T22:51:26.184Z",
  "passages": [
+  {
+   "id": "2026-11-07",
+   "date": "2026-11-07",
+   "slot": "main",
+   "title": "The Return of the Beaver",
+   "level": 5.5,
+   "style": "P2",
+   "topicArea": "biology & ecology",
+   "types": [
+    "tfng",
+    "note_completion",
+    "match_info"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-07T06:50:00+08:00"
+  },
+  {
+   "id": "2026-11-07-p",
+   "date": "2026-11-07",
+   "slot": "p3",
+   "title": "Rethinking the Tip",
+   "level": 7,
+   "style": "P3",
+   "topicArea": "economics & business",
+   "types": [
+    "mcq",
+    "match_info",
+    "sentence_endings"
+   ],
+   "total": 14,
+   "generatedAt": "2026-11-07T06:55:00+08:00"
+  },
   {
    "id": "2026-11-06-a",
    "date": "2026-11-06",

@@ -1,0 +1,293 @@
+{
+ "id": "2026-11-07-p",
+ "date": "2026-11-07",
+ "level": 7.0,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "economics & business",
+ "title": "Rethinking the Tip",
+ "subtitle": "Is a custom that many people take for granted fair to the workers who depend on it?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "In the United States, a restaurant bill is rarely the final word on what a meal will cost. Diners are expected to add a tip of between 15 and 20 per cent, and in recent years the payment screens in cafés, bakeries and even self-service kiosks have begun to suggest tips of 25 per cent or more. Many customers say they feel pressured by these prompts, which often appear while the person serving them is watching. In much of Europe and East Asia, by contrast, service is either included in the price or tipping is unusual; in Japan, leaving extra money on the table can cause confusion or even offence. To those who grew up with it, the American custom seems so natural that it is rarely questioned. It deserves to be."
+  },
+  {
+   "label": "B",
+   "text": "Tipping was not always an American institution, and its history is less flattering than many people assume. It spread to the United States from Europe in the decades after the Civil War, when wealthy Americans returning from travel abroad brought the habit home with them, and it was initially regarded by many as undemocratic, a relic of aristocratic societies in which servants depended on the generosity of their masters. In the early twentieth century several states passed laws banning it. The laws proved impossible to enforce and were repealed within a few years, and tipping became entrenched, in part because it allowed employers to pay their staff less: under federal law, employers may still pay tipped workers a far lower minimum wage than other employees, on the assumption that tips will make up the difference."
+  },
+  {
+   "label": "C",
+   "text": "The standard defence of tipping is that it rewards good service and therefore encourages it. The evidence for this is surprisingly weak. Studies of restaurant bills, notably by researchers at Cornell University, have found that the size of a tip is only loosely related to customers' own ratings of the service they received. Tips vary far more with factors that have little to do with the quality of the work, such as the size of the bill, the weather, whether the server gave their name and whether the customer is a regular. Customers also tend to tip more when paying by card than in cash, and more when the server draws a smiling face on the bill. If tipping is meant to be a system of incentives, it is a remarkably imprecise one."
+  },
+  {
+   "label": "D",
+   "text": "It may also be an unfair one. Because tips depend on customers' impressions, they can reflect customers' prejudices. Several studies have found that, for the same standard of service, some groups of workers receive smaller tips than others, and that servers are rewarded for their appearance as much as for their effort. Dr Rachel Osei, a labour economist who studies the restaurant industry, argues that tipping effectively passes part of the responsibility for setting wages from employers, who are bound by anti-discrimination law, to customers, who are not, and who are never asked to justify their choices. In her view, this is not an accidental feature of the system but one of the reasons it has survived."
+  },
+  {
+   "label": "E",
+   "text": "Some restaurants have tried to abandon the practice. In 2015 the New York restaurateur Danny Meyer announced that his restaurants would stop accepting tips, raising menu prices so that staff could be paid higher fixed wages. The experiment attracted wide attention and was copied by a number of other restaurants, but in 2020 the company reversed the policy. Among the difficulties reported were that customers comparing menus with those of competitors saw only higher prices, not the absence of a tip, and that some experienced servers, who had earned more under the old system, left for restaurants where tipping continued. Professor Marcus Lindahl, who studies consumer behaviour, notes that a restaurant acting alone faces a classic coordination problem: the change benefits everyone only if most businesses make it at the same time."
+  },
+  {
+   "label": "F",
+   "text": "Defenders of tipping are not without arguments. Many servers prefer it, because a busy evening can bring in far more than any fixed wage a restaurant could afford to offer, and some customers value the sense of control it gives them over what they pay. Others argue that tipping keeps menu prices low and lets diners pay for the service they feel they actually received. Admittedly, these are real advantages for those who enjoy them. But a system in which the earnings of an entire workforce depend on the unpredictable generosity of strangers moves risk from businesses, which can absorb it, to individual workers, who often cannot. A good night is well rewarded; a quiet week, an illness or a string of difficult customers is borne by the server alone."
+  },
+  {
+   "label": "G",
+   "text": "None of this means that tipping can or should be abolished overnight. Where it is deeply embedded, sudden change may harm the very workers it is meant to protect, and a single business that moves first may, as Meyer discovered, pay a price for doing so. Governments could help by phasing out the lower minimum wage for tipped workers, as several American states have already done. And the case for a gradual move towards higher basic wages, and towards prices that include service, is strong, and the experience of countries where tipping is rare suggests that good service does not depend on it. The real question is not whether customers should be generous, but whether a worker's ability to pay the rent should depend on their generosity."
+  }
+ ],
+ "groups": [
+  {
+   "type": "mcq",
+   "from": 1,
+   "to": 4,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 1–4 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "What point does the writer make in the first paragraph?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Familiarity has protected the custom from critical examination."
+      },
+      {
+       "k": "B",
+       "t": "Tipping is just as widespread in Europe and East Asia."
+      },
+      {
+       "k": "C",
+       "t": "Customers in Japan tend to tip more generously than Americans."
+      },
+      {
+       "k": "D",
+       "t": "Payment screens have led people to leave smaller tips."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "text": "According to the writer, tipping became firmly established in the United States partly because",
+     "options": [
+      {
+       "k": "A",
+       "t": "it was introduced by European immigrants."
+      },
+      {
+       "k": "B",
+       "t": "laws against it were strictly enforced."
+      },
+      {
+       "k": "C",
+       "t": "it allowed businesses to keep wages low."
+      },
+      {
+       "k": "D",
+       "t": "it was regarded as a democratic custom."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "text": "What does the writer conclude from the research at Cornell University?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Good service is the main reason customers tip generously."
+      },
+      {
+       "k": "B",
+       "t": "Regular customers usually leave the smallest tips."
+      },
+      {
+       "k": "C",
+       "t": "Larger bills tend to produce smaller percentage tips."
+      },
+      {
+       "k": "D",
+       "t": "The amount of a tip says little about the quality of service."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "text": "What is the writer's main purpose in the passage?",
+     "options": [
+      {
+       "k": "A",
+       "t": "to trace the history of a social custom"
+      },
+      {
+       "k": "B",
+       "t": "to argue for gradually replacing tips with fair wages"
+      },
+      {
+       "k": "C",
+       "t": "to compare standards of service around the world"
+      },
+      {
+       "k": "D",
+       "t": "to defend restaurants that have abolished tipping"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 5,
+   "to": 9,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 5–9 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 5,
+     "text": "a reference to legislation that did not last"
+    },
+    {
+     "n": 6,
+     "text": "examples of things unconnected with service that affect the size of a tip"
+    },
+    {
+     "n": 7,
+     "text": "a claim that tipping shifts a duty that the law places on employers"
+    },
+    {
+     "n": 8,
+     "text": "an explanation of why one business could not change the system on its own"
+    },
+    {
+     "n": 9,
+     "text": "a description of who bears the financial uncertainty of the system"
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 10,
+   "to": 14,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–H, below.",
+    "Write the correct letter, A–H, in boxes 10–14 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 10,
+     "text": "Wealthy Americans who had travelled abroad"
+    },
+    {
+     "n": 11,
+     "text": "Diners' own judgements of how well they were served"
+    },
+    {
+     "n": 12,
+     "text": "According to Osei, employers"
+    },
+    {
+     "n": 13,
+     "text": "Some experienced servers in Meyer's restaurants"
+    },
+    {
+     "n": 14,
+     "text": "Many servers"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "regard leaving extra money as confusing or even rude."
+    },
+    {
+     "k": "B",
+     "t": "helped to bring the practice to the United States."
+    },
+    {
+     "k": "C",
+     "t": "pass part of their wage-setting role to people who are not bound by equality law."
+    },
+    {
+     "k": "D",
+     "t": "are only weakly connected with the amount that is left."
+    },
+    {
+     "k": "E",
+     "t": "tried to outlaw the practice in the early twentieth century."
+    },
+    {
+     "k": "F",
+     "t": "prefer the system because of what a busy night can earn them."
+    },
+    {
+     "k": "G",
+     "t": "moved to restaurants where tips were still paid."
+    },
+    {
+     "k": "H",
+     "t": "are usually supposed to leave roughly an extra fifth of the bill."
+    }
+   ]
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "institution",
+   "zh": "（社会）惯例；制度"
+  },
+  {
+   "w": "relic",
+   "zh": "遗迹；遗留物"
+  },
+  {
+   "w": "aristocratic",
+   "zh": "贵族的"
+  },
+  {
+   "w": "repeal",
+   "zh": "废除（法律）"
+  },
+  {
+   "w": "entrenched",
+   "zh": "根深蒂固的"
+  },
+  {
+   "w": "incentive",
+   "zh": "激励"
+  },
+  {
+   "w": "imprecise",
+   "zh": "不精确的"
+  },
+  {
+   "w": "prejudice",
+   "zh": "偏见"
+  },
+  {
+   "w": "coordination problem",
+   "zh": "协调问题（需多方同时行动才有效）"
+  },
+  {
+   "w": "absorb (risk)",
+   "zh": "承担；吸收（风险）"
+  },
+  {
+   "w": "embedded",
+   "zh": "根深的；嵌入的"
+  },
+  {
+   "w": "abolish",
+   "zh": "废除"
+  }
+ ],
+ "generatedAt": "2026-11-07T06:55:00+08:00",
+ "spec": "v5"
+}

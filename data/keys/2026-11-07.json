@@ -1,0 +1,118 @@
+{
+ "id": "2026-11-07",
+ "answers": {
+  "1": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "A",
+    "q": "by the sixteenth century they had disappeared from England, Wales and Scotland"
+   },
+   "why": "A段只说到16世纪时英格兰、威尔士和苏格兰的河狸都已消失，没有比较哪里消失得更晚。看起来像 FALSE（因为三个地方放在同一句里），但原文并没有说它们同时消失，所以是 NOT GIVEN。"
+  },
+  "2": {
+   "a": "TRUE",
+   "ev": {
+    "p": "B",
+    "q": "a small number of beavers brought from Norway were released at Knapdale Forest"
+   },
+   "why": "B段。brought in from abroad ↔ brought from Norway。不要和 Tay 的河狸混淆：那些是从私人饲养场逃出或被非法放生的。"
+  },
+  "3": {
+   "a": "TRUE",
+   "ev": {
+    "p": "B",
+    "q": "the unofficial population on the Tay was many times larger than the official one at Knapdale"
+   },
+   "why": "B段末句。more beavers around the Tay than in the official trial area ↔ the unofficial population on the Tay was many times larger than the official one at Knapdale；By 2016 ↔ By 2016, when the Scottish government decided…。"
+  },
+  "4": {
+   "a": "FALSE",
+   "ev": {
+    "p": "C",
+    "q": "The government at first planned to remove them"
+   },
+   "why": "C段。原文说政府起初计划把它们移走（at first planned to remove them），在居民抗议后才开展研究、最终允许留下，与 intended from the beginning to let … remain 矛盾，故 FALSE。"
+  },
+  "5": {
+   "a": "mud",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "By blocking small streams with branches and mud"
+   },
+   "why": "D段。sticks ↔ branches；built from ↔ blocking small streams with。soil 出现在同段，但那是池塘截留的东西，不是筑坝材料。"
+  },
+  "6": {
+   "a": "a third",
+   "alt": [
+    "one third",
+    "third",
+    "1/3"
+   ],
+   "ev": {
+    "p": "D",
+    "q": "the highest flows further downstream were reduced by around a third"
+   },
+   "why": "D段。in storms ↔ during heavy rain；peak flows downstream ↔ the highest flows further downstream；fall by roughly ↔ were reduced by around。"
+  },
+  "7": {
+   "a": "chemicals",
+   "alt": [
+    "farm chemicals"
+   ],
+   "ev": {
+    "p": "D",
+    "q": "The ponds also trap soil and farm chemicals"
+   },
+   "why": "D段末句。hold back ↔ trap；agricultural ↔ farm（题干已给出），所以填 chemicals；water downstream is cleaner ↔ water leaving a beaver site is often cleaner。"
+  },
+  "8": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "The animals were hunted for their fur, for their meat and for a substance produced by their glands"
+   },
+   "why": "A段。a reason why beavers were once killed ↔ hunted for their fur, for their meat and for a substance…。F段也提到苏格兰持证捕杀河狸，但那是现在的管理手段，原因是破坏农田，且不是“曾经大量”的历史原因，是近似干扰。"
+  },
+  "9": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "descended from animals that had escaped from private collections or had been released illegally"
+   },
+   "why": "B段。animals that got out of captivity ↔ animals that had escaped from private collections。C段的河狸来源不明（no one knew where the animals had come from），没有说是逃出来的。"
+  },
+  "10": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "has compared the flow of streams before and after beavers moved in"
+   },
+   "why": "D段。a measurement of how beavers change the flow of water ↔ compared the flow of streams before and after beavers moved in … reduced by around a third。"
+  },
+  "11": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "some anglers fear that dams stop salmon and trout from swimming upstream to breed"
+   },
+   "why": "E段末句。people who fish ↔ anglers；a concern ↔ fear that dams stop salmon and trout…。"
+  },
+  "12": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "a few farms on the flat land beside rivers suffer most of the damage, while the benefits"
+   },
+   "why": "F段 Muir。some landowners are affected more than others ↔ the costs fall unevenly: a few farms on the flat land beside rivers suffer most of the damage。G段提到给受影响的农民补偿，但没有解释为什么有些人受影响更大。"
+  },
+  "13": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "Others favour moving beavers from places where they cause trouble to rivers where they are wanted"
+   },
+   "why": "G段。a policy of relocating animals ↔ moving beavers from places where they cause trouble to rivers where they are wanted … the preferred approach in Scotland since 2021。C段政府曾计划“移走”（remove）河狸，但那是一次性的打算，不是迁移政策。"
+  }
+ }
+}
