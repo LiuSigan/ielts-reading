@@ -1,0 +1,112 @@
+{
+ "id": "2026-11-08",
+ "answers": {
+  "1": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "many of these children came from poor immigrant families and were being tested in a language they had only recently begun to learn"
+   },
+   "why": "A段末句。a reason why early research results may have been misleading ↔ Later researchers … pointed out that many of these children came from poor immigrant families and were being tested in a language they had only recently begun to learn。F段也讲研究结果可能有偏差，但那是2000年代关于认知优势的研究，与“早期”不符，是近似干扰。"
+  },
+  "2": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "compares this to a person with savings in two bank accounts"
+   },
+   "why": "C段 Ellison。a comparison with the way money can be kept ↔ savings in two bank accounts。"
+  },
+  "3": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "By around eight months, babies growing up with only one language have lost this ability"
+   },
+   "why": "B段。an ability that monolingual babies lose ↔ babies growing up with only one language have lost this ability（通过面部动作分辨语言切换）。"
+  },
+  "4": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "Children usually mix languages when they are speaking to someone who also understands both, and they tend to use only one language with people who do not"
+   },
+   "why": "D段。choose a language for different listeners ↔ mix languages when speaking to someone who also understands both … only one language with people who do not。E段讲的是父母的语言策略，不是孩子自己的选择。"
+  },
+  "5": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "studies which found an advantage were more likely to be published"
+   },
+   "why": "F段 Brooks。more likely to appear in print ↔ more likely to be published。"
+  },
+  "6": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "are much less likely to speak it, even if they understand it"
+   },
+   "why": "E段。understanding a language that they do not speak ↔ much less likely to speak it, even if they understand it。"
+  },
+  "7": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "notice when a speaker on a silent video switches from one language to another, simply by watching the movements of the speaker's face"
+   },
+   "why": "B段。noticed a change of language without hearing it ↔ notice when a speaker on a silent video switches … simply by watching the movements of the speaker's face。D 是干扰：失去能力的是8个月大的单语婴儿，不是对脸失去兴趣；B、C 文中未提。"
+  },
+  "8": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "looking at only one account gives a misleading impression of how much they have"
+   },
+   "why": "C段。gives a false idea of how much the child knows ↔ gives a misleading impression of how much they have（类比：只看一个账户会低估总存款）。A 正是 Ellison 要反驳的误解；D 是A段中过去的建议。"
+  },
+  "9": {
+   "a": "B",
+   "ev": {
+    "p": "D",
+    "q": "Adult bilinguals do exactly the same thing, and their switches follow grammatical rules rather than occurring at random"
+   },
+   "why": "D段末句。Their changes of language follow grammatical patterns ↔ their switches follow grammatical rules rather than occurring at random。A、D 与 do exactly the same thing（和孩子一样会混用）相反；C 文中未提。"
+  },
+  "10": {
+   "a": "D",
+   "ev": {
+    "p": "E",
+    "q": "the strategy itself matters less than the amount of contact the child has with each language"
+   },
+   "why": "E段。how much the child hears each language ↔ the amount of contact the child has with each language。A（一人一语）和 B（家里说一种）都是被说成“没那么重要”的具体策略，正是本题的陷阱。"
+  },
+  "11": {
+   "a": "speech",
+   "alt": [],
+   "ev": {
+    "p": "A",
+    "q": "hearing two languages would confuse young children, delay their speech and harm their progress at school"
+   },
+   "why": "A段。feared ↔ worried；slow down ↔ delay；children's ___ ↔ their speech。progress 也在同句，但原文是 harm their progress，与 slow down 对应的是 delay their speech。"
+  },
+  "12": {
+   "a": "control",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "Because bilinguals must constantly control which language they are using"
+   },
+   "why": "F段。the constant need to ↔ must constantly；___ their choice of language ↔ control which language they are using。concentrating 是结果，不是需要做的动作。"
+  },
+  "13": {
+   "a": "grandparents",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "the ability to talk with grandparents and relatives"
+   },
+   "why": "G段。communicating with ↔ the ability to talk with；other family members ↔ relatives（题干已改写），所以填 grandparents。"
+  }
+ }
+}

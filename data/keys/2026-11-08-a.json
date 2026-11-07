@@ -1,0 +1,113 @@
+{
+ "id": "2026-11-08-a",
+ "answers": {
+  "1": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "it was so highly valued that the Aztecs used cocoa beans as money"
+   },
+   "why": "A段末句。cocoa beans being used to pay for things ↔ the Aztecs used cocoa beans as money。F段讲的是农民收入和价格，不是把可可豆当钱用。"
+  },
+  "2": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "it remained expensive, since all the work of grinding the beans was done by hand"
+   },
+   "why": "B段末句。costly ↔ expensive；reason ↔ since all the work of grinding the beans was done by hand。C段提到可可粉 much cheaper to produce，是“后来变便宜”，不是早期昂贵的原因。"
+  },
+  "3": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "earlier attempts had failed because the water in ordinary milk spoiled the chocolate"
+   },
+   "why": "D段。why using ordinary milk had not worked ↔ earlier attempts had failed because the water in ordinary milk spoiled the chocolate。E段只提到牛奶巧克力要加牛奶，没有解释失败原因。"
+  },
+  "4": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "it could make a paste that could be pressed into a mould. The result was the first chocolate bar."
+   },
+   "why": "C段。how a solid chocolate product was first made ↔ adding cocoa butter back … a paste that could be pressed into a mould. The result was the first chocolate bar。E段描述的是今天的制作流程，不是“第一次”。"
+  },
+  "5": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "the industry has been criticised for its use of child labour and for clearing forests to plant new trees"
+   },
+   "why": "F段。damage to the natural environment ↔ clearing forests to plant new trees。同句的 child labour 是社会问题，不是环境问题，但证据都在F段。"
+  },
+  "6": {
+   "a": "ferment",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "the beans and the white pulp around them are left in heaps or boxes for about a week to ferment"
+   },
+   "why": "E段。piles or containers ↔ heaps or boxes；so that they can ↔ left … to ferment。dried 是下一步，不是放在堆里或箱子里的目的。"
+  },
+  "7": {
+   "a": "roasted",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "packed into sacks and shipped to factories, where they are roasted"
+   },
+   "why": "E段。sent to factories ↔ shipped to factories；and ___ ↔ where they are roasted。dried 在题干中已出现（after drying in the sun）。"
+  },
+  "8": {
+   "a": "nibs",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "their thin shells are removed, leaving small pieces called nibs"
+   },
+   "why": "E段。outer covering taken off ↔ their thin shells are removed；what remains is called ↔ leaving small pieces called nibs。不要填 shells（那是被去掉的部分）。"
+  },
+  "9": {
+   "a": "cocoa liquor",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "which are ground into a thick liquid known as cocoa liquor"
+   },
+   "why": "E段。crushed ↔ ground；a thick liquid called ↔ a thick liquid known as cocoa liquor。cocoa butter 是之后加入的原料之一，不是研磨可可碎粒得到的液体。"
+  },
+  "10": {
+   "a": "C",
+   "ev": {
+    "p": "B",
+    "q": "Chocolate houses, similar to the coffee houses of the time, opened in London in the 1650s."
+   },
+   "why": "B段。first opened in the middle of the seventeenth century ↔ opened in London in the 1650s（17世纪50年代即17世纪中叶）。G（起初把可可当药）说的是欧洲人对可可的看法，主语不同。"
+  },
+  "11": {
+   "a": "A",
+   "ev": {
+    "p": "C",
+    "q": "developed a press that squeezed most of the cocoa butter out of the beans"
+   },
+   "why": "C段。took most of the fat out of the beans ↔ squeezed most of the cocoa butter out of the beans；B段说明 cocoa butter 就是可可豆里的天然脂肪（natural fat）。E（1847年做出第一块巧克力）是 Fry 公司，不是 van Houten。"
+  },
+  "12": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "using condensed milk produced by his neighbour Henri Nestlé"
+   },
+   "why": "D段。provided an ingredient ↔ condensed milk produced by … Henri Nestlé；the first milk chocolate ↔ Daniel Peter … succeeded in making milk chocolate。做出牛奶巧克力的是 Daniel Peter，Nestlé 提供的是炼乳。"
+  },
+  "13": {
+   "a": "B",
+   "ev": {
+    "p": "D",
+    "q": "a machine called a conche, which stirred warm chocolate for many hours, and in some cases for several days"
+   },
+   "why": "D段。made chocolate smoother ↔ produced the smooth chocolate；by stirring it for a long time ↔ stirred warm chocolate for many hours … several days。"
+  }
+ }
+}

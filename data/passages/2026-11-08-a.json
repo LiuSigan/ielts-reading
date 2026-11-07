@@ -1,0 +1,214 @@
+{
+ "id": "2026-11-08-a",
+ "date": "2026-11-08",
+ "level": 5.0,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "agriculture & food",
+ "title": "From Bean to Bar",
+ "subtitle": "How a bitter drink of the Americas became the chocolate we know today",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Chocolate is now one of the most popular foods in the world, but for most of its history it was not eaten at all. It was drunk. The cacao tree, which grows only in hot, wet regions close to the equator, is native to Central and South America, and people there were using its seeds, known as cocoa beans, at least 3,000 years ago. The Maya and later the Aztecs ground roasted beans into a paste, mixed it with water, chilli and maize, and poured it from one container to another to create a foam. The word chocolate itself probably comes from the language of the Aztecs. The drink was bitter rather than sweet, and it was so highly valued that the Aztecs used cocoa beans as money."
+  },
+  {
+   "label": "B",
+   "text": "Spanish explorers brought cocoa to Europe in the sixteenth century. At first it was regarded as a medicine, but once the Spanish began adding sugar, and sometimes cinnamon or vanilla, it became a fashionable drink among the wealthy, and church leaders even debated whether drinking it broke a religious fast. Chocolate houses, similar to the coffee houses of the time, opened in London in the 1650s. However, the drink was oily, because cocoa beans contain a large amount of natural fat, called cocoa butter, and it remained expensive, since all the work of grinding the beans was done by hand."
+  },
+  {
+   "label": "C",
+   "text": "A series of inventions in the nineteenth century changed chocolate completely. In 1828 the Dutch chemist Coenraad van Houten developed a press that squeezed most of the cocoa butter out of the beans, leaving a dry cake that could be ground into a fine powder. This cocoa powder mixed easily with water and was much cheaper to produce. Van Houten also treated the powder with alkaline salts to make it darker and milder, a method still known as Dutch processing. In 1847 the British company J. S. Fry and Sons found that by adding some of the extracted cocoa butter back into cocoa powder and sugar, it could make a paste that could be pressed into a mould. The result was the first chocolate bar."
+  },
+  {
+   "label": "D",
+   "text": "Two Swiss inventors then improved the taste and texture. In 1875 Daniel Peter, a chocolate maker in the town of Vevey, succeeded in making milk chocolate, using condensed milk produced by his neighbour Henri Nestlé; earlier attempts had failed because the water in ordinary milk spoiled the chocolate. Peter had spent around eight years experimenting before he found a method that worked. Four years later, in 1879, Rodolphe Lindt invented a machine called a conche, which stirred warm chocolate for many hours, and in some cases for several days. This removed bitter flavours and produced the smooth chocolate that melts in the mouth today."
+  },
+  {
+   "label": "E",
+   "text": "The basic process has changed little since then. A single cacao tree produces only around 20 to 30 pods a year, each containing roughly 30 to 50 beans. After the pods are harvested, the beans and the white pulp around them are left in heaps or boxes for about a week to ferment, which develops the chocolate flavour. The beans are then dried in the sun, packed into sacks and shipped to factories, where they are roasted. Next, their thin shells are removed, leaving small pieces called nibs, which are ground into a thick liquid known as cocoa liquor. Sugar, cocoa butter and, for milk chocolate, milk are added before the mixture is conched and finally tempered, a careful process of heating and cooling that gives the finished chocolate its shine and its clean snap."
+  },
+  {
+   "label": "F",
+   "text": "Today most of the world's cocoa no longer comes from the Americas. Around 60 per cent is grown in two West African countries, Côte d'Ivoire and Ghana, mostly on small family farms. Many of these farmers earn very little, and the industry has been criticised for its use of child labour and for clearing forests to plant new trees. Some companies now pay extra for cocoa that is certified as fairly traded or grown without destroying forests, but critics argue that these schemes reach only a small proportion of farmers and that the prices paid to growers remain too low. Meanwhile demand continues to grow, especially in Asia, while ageing trees and plant diseases have reduced harvests in some areas."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_info",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "The reading passage has six paragraphs, A–F.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–F, in boxes 1–5 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "a reference to cocoa beans being used to pay for things"
+    },
+    {
+     "n": 2,
+     "text": "the reason why chocolate was costly in early modern Europe"
+    },
+    {
+     "n": 3,
+     "text": "an explanation of why using ordinary milk had not worked"
+    },
+    {
+     "n": 4,
+     "text": "a description of how a solid chocolate product was first made"
+    },
+    {
+     "n": 5,
+     "text": "a mention of damage to the natural environment caused by cocoa growing"
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 6,
+   "to": 9,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 6–9 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "title": "Making chocolate today",
+   "lines": [
+    {
+     "text": "– beans and pulp kept in piles or containers so that they can [[6]]",
+     "indent": 0
+    },
+    {
+     "text": "– after drying in the sun, beans sent to factories and [[7]]",
+     "indent": 0
+    },
+    {
+     "text": "– outer covering taken off; what remains is called [[8]]",
+     "indent": 0
+    },
+    {
+     "text": "– these are crushed to make a thick liquid called [[9]]",
+     "indent": 0
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–G, below.",
+    "Write the correct letter, A–G, in boxes 10–13 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 10,
+     "text": "Chocolate houses in London"
+    },
+    {
+     "n": 11,
+     "text": "Coenraad van Houten's press"
+    },
+    {
+     "n": 12,
+     "text": "Henri Nestlé"
+    },
+    {
+     "n": 13,
+     "text": "Rodolphe Lindt's machine"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "took most of the fat out of the beans."
+    },
+    {
+     "k": "B",
+     "t": "made chocolate smoother by stirring it for a long time."
+    },
+    {
+     "k": "C",
+     "t": "first opened in the middle of the seventeenth century."
+    },
+    {
+     "k": "D",
+     "t": "provided an ingredient used in the first milk chocolate."
+    },
+    {
+     "k": "E",
+     "t": "produced the first chocolate bar in 1847."
+    },
+    {
+     "k": "F",
+     "t": "came to supply most of the world's cocoa."
+    },
+    {
+     "k": "G",
+     "t": "at first treated cocoa as a medicine."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "native to",
+   "zh": "原产于"
+  },
+  {
+   "w": "equator",
+   "zh": "赤道"
+  },
+  {
+   "w": "fashionable",
+   "zh": "时髦的；流行的"
+  },
+  {
+   "w": "extract",
+   "zh": "提取"
+  },
+  {
+   "w": "mould",
+   "zh": "模具"
+  },
+  {
+   "w": "texture",
+   "zh": "质地；口感"
+  },
+  {
+   "w": "spoil",
+   "zh": "破坏；使变质"
+  },
+  {
+   "w": "ferment",
+   "zh": "发酵"
+  },
+  {
+   "w": "harvest",
+   "zh": "收获"
+  },
+  {
+   "w": "temper (chocolate)",
+   "zh": "（巧克力）调温"
+  },
+  {
+   "w": "certified",
+   "zh": "经认证的"
+  },
+  {
+   "w": "proportion",
+   "zh": "比例；部分"
+  }
+ ],
+ "generatedAt": "2026-11-08T06:50:00+08:00",
+ "spec": "v5"
+}

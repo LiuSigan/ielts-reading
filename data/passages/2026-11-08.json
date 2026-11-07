@@ -1,0 +1,259 @@
+{
+ "id": "2026-11-08",
+ "date": "2026-11-08",
+ "level": 5.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "linguistics",
+ "title": "Growing Up with Two Languages",
+ "subtitle": "Parents were once told that a second language would hold their children back. What does the research say now?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "For much of the twentieth century, parents who spoke more than one language were often advised to choose just one when raising their children. Teachers and doctors worried that hearing two languages would confuse young children, delay their speech and harm their progress at school. As a result, many immigrant parents stopped using their own language at home, and some later regretted it. Early studies seemed to support this view: in tests carried out in the 1920s and 1930s, bilingual children frequently scored lower than children who spoke only one language. Later researchers, however, pointed out that many of these children came from poor immigrant families and were being tested in a language they had only recently begun to learn."
+  },
+  {
+   "label": "B",
+   "text": "Modern research paints a very different picture. Babies can tell languages apart remarkably early: even newborns react differently to two languages with very different rhythms, such as English and Japanese. Dr Laura Costa, who studies infant development in Barcelona, has shown that four-month-old babies raised in bilingual homes notice when a speaker on a silent video switches from one language to another, simply by watching the movements of the speaker's face. By around eight months, babies growing up with only one language have lost this ability, while bilingual babies keep it."
+  },
+  {
+   "label": "C",
+   "text": "One finding that worries parents is that bilingual children often know fewer words in each of their languages than children who speak only one. A two-year-old learning English and Spanish, for example, may know fewer English words than an English-only child of the same age. But when the words in both languages are counted together, bilingual children generally know as many as, or more than, monolingual children. Professor Mark Ellison, a linguist at the University of Manchester, compares this to a person with savings in two bank accounts: looking at only one account gives a misleading impression of how much they have."
+  },
+  {
+   "label": "D",
+   "text": "Bilingual children also often mix their languages, sometimes within a single sentence. A child might say, for instance, 'I want the red pelota', using the Spanish word for ball simply because it is the first one that comes to mind. This used to be seen as a sign of confusion, but most researchers now regard it as normal and even skilful. Children usually mix languages when they are speaking to someone who also understands both, and they tend to use only one language with people who do not. Adult bilinguals do exactly the same thing, and their switches follow grammatical rules rather than occurring at random."
+  },
+  {
+   "label": "E",
+   "text": "Families use a variety of strategies. One of the best known is 'one parent, one language', in which each parent speaks only their own language to the child. Another is to use one language at home and the other outside it. Older brothers and sisters can also make a difference, since children often speak the language of the wider community with each other. Studies suggest that the strategy itself matters less than the amount of contact the child has with each language. Children who hear a language for less than about a quarter of their waking time are much less likely to speak it, even if they understand it, and many families find that the language of school and friends gradually takes over as children grow older."
+  },
+  {
+   "label": "F",
+   "text": "Some researchers have gone further, claiming that bilingualism improves general mental abilities. Because bilinguals must constantly control which language they are using, it was argued, they become better at concentrating and at switching between tasks. Several studies in the early 2000s reported such advantages. More recent studies, many of them much larger, have often failed to find any difference, and Dr Hannah Brooks of the University of Edinburgh believes that the earlier results may partly reflect the fact that studies which found an advantage were more likely to be published."
+  },
+  {
+   "label": "G",
+   "text": "What is now clear is that growing up with two languages does no harm. Even if the wider mental benefits are smaller than was once claimed, the practical ones are obvious: the ability to talk with grandparents and relatives, to take part in two cultures, and to use both languages for work and travel later in life. For many researchers, these are reason enough. More than half of the world's population is thought to use two or more languages in daily life, so being bilingual is, in global terms, normal rather than exceptional."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_info",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 1–6 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "a reason why some early research results may have been misleading"
+    },
+    {
+     "n": 2,
+     "text": "a comparison with the way money can be kept"
+    },
+    {
+     "n": 3,
+     "text": "an example of an ability that monolingual babies lose"
+    },
+    {
+     "n": 4,
+     "text": "a description of how children choose a language for different listeners"
+    },
+    {
+     "n": 5,
+     "text": "a suggestion that certain research findings were more likely to appear in print"
+    },
+    {
+     "n": 6,
+     "text": "a reference to children understanding a language that they do not speak"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 7–10 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "What did Costa's research show about four-month-old babies from bilingual homes?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They noticed a change of language without hearing it."
+      },
+      {
+       "k": "B",
+       "t": "They understood some words in both languages."
+      },
+      {
+       "k": "C",
+       "t": "They preferred the language their mother spoke."
+      },
+      {
+       "k": "D",
+       "t": "They lost interest in faces after a few months."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "According to Ellison, counting a bilingual child's words in only one language",
+     "options": [
+      {
+       "k": "A",
+       "t": "proves that bilingual children learn more slowly."
+      },
+      {
+       "k": "B",
+       "t": "is the most reliable way to compare children."
+      },
+      {
+       "k": "C",
+       "t": "gives a false idea of how much the child knows."
+      },
+      {
+       "k": "D",
+       "t": "shows why parents should choose a single language."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "text": "What does the writer say about adults who speak two languages?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They mix their languages less often than children."
+      },
+      {
+       "k": "B",
+       "t": "Their changes of language follow grammatical patterns."
+      },
+      {
+       "k": "C",
+       "t": "They switch language only when they forget a word."
+      },
+      {
+       "k": "D",
+       "t": "They avoid mixing languages within one sentence."
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "text": "According to the studies mentioned in paragraph E, what matters most?",
+     "options": [
+      {
+       "k": "A",
+       "t": "which parent speaks which language"
+      },
+      {
+       "k": "B",
+       "t": "whether one language is kept for the home"
+      },
+      {
+       "k": "C",
+       "t": "how early the child starts school"
+      },
+      {
+       "k": "D",
+       "t": "how much the child hears each language"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 11–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 11,
+     "text": "In the past, some experts feared that a second language would slow down children's [[11]]."
+    },
+    {
+     "n": 12,
+     "text": "Bilinguals were thought to concentrate better because of the constant need to [[12]] their choice of language."
+    },
+    {
+     "n": 13,
+     "text": "Practical benefits include communicating with [[13]] and other family members."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "bilingual / monolingual",
+   "zh": "双语的／单语的"
+  },
+  {
+   "w": "immigrant",
+   "zh": "移民"
+  },
+  {
+   "w": "remarkably",
+   "zh": "非常；显著地"
+  },
+  {
+   "w": "misleading",
+   "zh": "误导的"
+  },
+  {
+   "w": "skilful",
+   "zh": "熟练的；有技巧的"
+  },
+  {
+   "w": "at random",
+   "zh": "随机地"
+  },
+  {
+   "w": "strategy",
+   "zh": "策略"
+  },
+  {
+   "w": "take over",
+   "zh": "取而代之；占上风"
+  },
+  {
+   "w": "mental abilities",
+   "zh": "心智能力"
+  },
+  {
+   "w": "concentrate",
+   "zh": "集中注意力"
+  },
+  {
+   "w": "publish",
+   "zh": "发表"
+  },
+  {
+   "w": "relatives",
+   "zh": "亲戚"
+  }
+ ],
+ "generatedAt": "2026-11-08T06:55:00+08:00",
+ "spec": "v5"
+}

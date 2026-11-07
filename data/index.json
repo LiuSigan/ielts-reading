@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-06T22:51:26.184Z",
+ "updatedAt": "2026-11-07T22:50:35.615Z",
  "passages": [
+  {
+   "id": "2026-11-08-a",
+   "date": "2026-11-08",
+   "slot": "p1",
+   "title": "From Bean to Bar",
+   "level": 5,
+   "style": "P1",
+   "topicArea": "agriculture & food",
+   "types": [
+    "match_info",
+    "note_completion",
+    "sentence_endings"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-08T06:50:00+08:00"
+  },
+  {
+   "id": "2026-11-08",
+   "date": "2026-11-08",
+   "slot": "main",
+   "title": "Growing Up with Two Languages",
+   "level": 5.5,
+   "style": "P2",
+   "topicArea": "linguistics",
+   "types": [
+    "match_info",
+    "mcq",
+    "sentence_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-08T06:55:00+08:00"
+  },
   {
    "id": "2026-11-07",
    "date": "2026-11-07",
