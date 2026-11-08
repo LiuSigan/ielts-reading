@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-09",
+ "answers": {
+  "1": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "roofs covered with grass and turf were common on houses in Scandinavia for centuries"
+   },
+   "why": "A段。a traditional use of plants on roofs ↔ roofs covered with grass and turf were common on houses in Scandinavia for centuries。B段讲的是德国20世纪70–80年代的新技术，不是传统做法。"
+  },
+  "2": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "although the proportion is much lower during long periods of heavy rain, when the soil becomes saturated"
+   },
+   "why": "C段。a benefit is smaller in certain weather conditions ↔ the proportion is much lower during long periods of heavy rain；reason ↔ when the soil becomes saturated。D段的降温效果在低矮建筑中最好，那是建筑类型的差异，不是天气。"
+  },
+  "3": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "In 2009 Toronto became the first city in North America to require them on many new buildings above a certain size."
+   },
+   "why": "F段。a rule requiring green roofs ↔ Some cities have made green roofs compulsory … Toronto … to require them。B段德国城市提供的是资金支持（financial support），不是强制要求。"
+  },
+  "4": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "the thin, uniform planting used on most commercial roofs supports far fewer species than a roof designed with deeper soil"
+   },
+   "why": "E段 Reid。the design of a roof affects how many species it supports ↔ thin, uniform planting … supports far fewer species than a roof designed with deeper soil, a mixture of plants…。"
+  },
+  "5": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "by placing solar panels above planted roofs"
+   },
+   "why": "G段。two technologies being combined ↔ designers are combining approaches … placing solar panels above planted roofs。"
+  },
+  "6": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "the savings are greatest in low buildings, where the roof makes up a larger share of the building's outer surface"
+   },
+   "why": "D段末句。the type of building that gains most ↔ the savings are greatest in low buildings。F段要求的是 new buildings above a certain size，与降温无关。"
+  },
+  "7": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "These 'extensive' green roofs need little care and can be added to many existing buildings"
+   },
+   "why": "B段。B can be added to many buildings that already exist ↔ can be added to many existing buildings。A 是最大陷阱：需要较厚土层、定期浇水的是同段后面提到的 intensive 屋顶，而 extensive 屋顶 only a few centimetres deep、need little care；D 混淆了A段斯堪的纳维亚的传统草皮屋顶；C 文中未提。"
+  },
+  "8": {
+   "a": "D",
+   "ev": {
+    "p": "C",
+    "q": "although the proportion is much lower during long periods of heavy rain, when the soil becomes saturated"
+   },
+   "why": "C段。D The effect is weakest during long spells of heavy rain ↔ the proportion is much lower during long periods of heavy rain。A 错：只保留一半到四分之三；B 过度：原文没说能完全防止下水道溢出；C 文中未比较新旧屋顶。"
+  },
+  "9": {
+   "a": "A",
+   "ev": {
+    "p": "D",
+    "q": "partly because water evaporating from them uses up heat"
+   },
+   "why": "D段。A Evaporation takes heat away from them ↔ water evaporating from them uses up heat。B 是G段白色屋顶的原理（reflect sunlight），不是植物屋顶。"
+  },
+  "10": {
+   "a": "C",
+   "ev": {
+    "p": "F",
+    "q": "Building owners also worry about leaks, which can be difficult to locate beneath a layer of soil and plants."
+   },
+   "why": "F段末句。C Leaks may be hard to find ↔ worry about leaks, which can be difficult to locate。A 与E段相反（昆虫被视为好处）；B 与G段相反（植物让太阳能板更高效）。"
+  },
+  "11": {
+   "a": "conventional",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "A green roof can cost two or three times as much to install as a conventional one"
+   },
+   "why": "F段。double or triple ↔ two or three times as much；the ___ kind ↔ a conventional one。不要填 green：比较的对象是普通屋顶。"
+  },
+  "12": {
+   "a": "weight",
+   "alt": [
+    "extra weight"
+   ],
+   "ev": {
+    "p": "F",
+    "q": "the building must be strong enough to carry the extra weight, especially when the soil is wet"
+   },
+   "why": "F段。support additional ↔ carry the extra；above all when the soil is wet ↔ especially when the soil is wet。"
+  },
+  "13": {
+   "a": "white",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "In hot, sunny regions, roofs painted white to reflect sunlight can cool buildings more cheaply"
+   },
+   "why": "G段。in hot, sunny places ↔ In hot, sunny regions；at lower cost ↔ more cheaply；___ roofs ↔ roofs painted white。solar panels 是另一种选择，讲的是能源，不是降温。"
+  }
+ }
+}

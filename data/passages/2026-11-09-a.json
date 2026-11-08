@@ -1,0 +1,213 @@
+{
+ "id": "2026-11-09-a",
+ "date": "2026-11-09",
+ "level": 5.0,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "astronomy",
+ "title": "A Telescope Above the Sky",
+ "subtitle": "The troubled start and remarkable career of the Hubble Space Telescope",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "For centuries, astronomers faced a problem that no improvement in their instruments could fully solve: the Earth's atmosphere. Moving air blurs the light of stars, which is why they appear to twinkle, and the atmosphere also absorbs certain kinds of light, such as ultraviolet, before it reaches the ground. Large telescopes were therefore built on high mountains, where the air above them is thinner and steadier, but even the best sites could reduce the problem rather than remove it. In 1946 the American astronomer Lyman Spitzer published a paper arguing that a telescope placed in space, above the atmosphere, would produce far sharper images than any telescope on Earth. At the time, no rocket was powerful enough to launch such an instrument, and the idea seemed closer to science fiction than to practical science."
+  },
+  {
+   "label": "B",
+   "text": "It took more than forty years for Spitzer's idea to become reality. The project was approved by the United States Congress in the 1970s, with the European Space Agency as a partner, and the telescope was named after Edwin Hubble, the astronomer who had shown in the 1920s that the universe is expanding. Construction was slow and costly, and the launch was delayed further after the Space Shuttle Challenger was destroyed in 1986 and the whole shuttle fleet was grounded. By the time it was ready, the telescope had cost around 1.5 billion dollars. Finally, in April 1990, the Hubble Space Telescope was carried into orbit by the shuttle Discovery, more than 500 kilometres above the Earth."
+  },
+  {
+   "label": "C",
+   "text": "Within weeks, however, it became clear that something was wrong. The images Hubble sent back were blurred. Investigators discovered that the telescope's main mirror, 2.4 metres across, had been ground to the wrong shape. The error was tiny, about one-fiftieth of the width of a human hair at the edge of the mirror, but it was enough to spoil the pictures. The mistake was traced to a faulty testing instrument used during manufacture. Newspapers called the telescope a national embarrassment, and some politicians asked whether the money had been wasted. For about three years, scientists used computer processing to improve the pictures as far as possible, but many planned observations had to be postponed."
+  },
+  {
+   "label": "D",
+   "text": "Because Hubble had been designed to be visited and repaired by astronauts, the problem could be fixed. In December 1993, astronauts on the shuttle Endeavour installed a device containing small corrective mirrors, which worked rather like a pair of glasses, together with a new camera that had its own correction built in. The mission required five spacewalks, and when the first new images arrived, they were as sharp as the original design had promised. Four further servicing missions followed, the last in 2009, replacing instruments, batteries and gyroscopes and extending the telescope's working life far beyond the original plan of fifteen years. Each visit was carefully rehearsed on the ground, often for months."
+  },
+  {
+   "label": "E",
+   "text": "Hubble's observations have changed many areas of astronomy. In 1995 scientists pointed it at a tiny, apparently empty patch of sky for about ten days. The resulting image, known as the Hubble Deep Field, revealed around 3,000 galaxies, some of them seen as they were more than ten billion years ago. Measurements made with Hubble also helped to confirm that the expansion of the universe is speeding up rather than slowing down, a finding later recognised by the Nobel Prize in Physics in 2011. Closer to home, Hubble recorded the collision of a comet with Jupiter in 1994 and has measured the atmospheres of planets orbiting other stars."
+  },
+  {
+   "label": "F",
+   "text": "Hubble is now more than thirty years old and can no longer be repaired, since the space shuttle was retired in 2011. Its orbit is slowly getting lower, and it is expected eventually to fall back into the atmosphere, although NASA has studied the possibility of using a private spacecraft to raise it. Its successor, the James Webb Space Telescope, launched in December 2021, observes mainly in infrared light and is positioned around 1.5 million kilometres from Earth, far beyond the reach of any repair mission. Many astronomers argue, however, that Hubble remains valuable precisely because it can see visible and ultraviolet light, which Webb cannot, and that the two telescopes are most powerful when they are used together."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_info",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "The reading passage has six paragraphs, A–F.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–F, in boxes 1–5 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "the reason why stars seem to flicker"
+    },
+    {
+     "n": 2,
+     "text": "a reference to an event that held up the launch"
+    },
+    {
+     "n": 3,
+     "text": "a comparison between a repair and an everyday object"
+    },
+    {
+     "n": 4,
+     "text": "an explanation of how a manufacturing error came about"
+    },
+    {
+     "n": 5,
+     "text": "the reason why the telescope can no longer be serviced"
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 6,
+   "to": 9,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–G, below.",
+    "Write the correct letter, A–G, in boxes 6–9 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 6,
+     "text": "Lyman Spitzer"
+    },
+    {
+     "n": 7,
+     "text": "Edwin Hubble"
+    },
+    {
+     "n": 8,
+     "text": "The astronauts on the 1993 mission"
+    },
+    {
+     "n": 9,
+     "text": "The Hubble Deep Field"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "showed that the universe was growing larger."
+    },
+    {
+     "k": "B",
+     "t": "was carried into space by the shuttle Discovery."
+    },
+    {
+     "k": "C",
+     "t": "argued that a telescope above the atmosphere would see more clearly."
+    },
+    {
+     "k": "D",
+     "t": "fitted equipment that corrected the blurred images."
+    },
+    {
+     "k": "E",
+     "t": "was designed to observe mainly in infrared light."
+    },
+    {
+     "k": "F",
+     "t": "showed thousands of galaxies in a tiny area of sky."
+    },
+    {
+     "k": "G",
+     "t": "described the telescope as an embarrassment to the nation."
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+   "maxWords": 2,
+   "allowNumber": true,
+   "items": [
+    {
+     "n": 10,
+     "text": "The error in the mirror came from a defective [[10]] when the mirror was being made."
+    },
+    {
+     "n": 11,
+     "text": "Astronauts had to go outside the shuttle [[11]] times during the 1993 mission."
+    },
+    {
+     "n": 12,
+     "text": "When it was planned, Hubble was expected to work for [[12]]."
+    },
+    {
+     "n": 13,
+     "text": "One advantage Hubble has over Webb is that it can detect [[13]] light as well as visible light."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "atmosphere",
+   "zh": "大气层"
+  },
+  {
+   "w": "blur",
+   "zh": "使模糊"
+  },
+  {
+   "w": "absorb",
+   "zh": "吸收"
+  },
+  {
+   "w": "approve",
+   "zh": "批准"
+  },
+  {
+   "w": "orbit",
+   "zh": "轨道；绕轨道运行"
+  },
+  {
+   "w": "manufacture",
+   "zh": "制造"
+  },
+  {
+   "w": "embarrassment",
+   "zh": "令人尴尬的事"
+  },
+  {
+   "w": "corrective",
+   "zh": "矫正的"
+  },
+  {
+   "w": "spacewalk",
+   "zh": "太空行走"
+  },
+  {
+   "w": "galaxy",
+   "zh": "星系"
+  },
+  {
+   "w": "retire",
+   "zh": "退役"
+  },
+  {
+   "w": "successor",
+   "zh": "继任者；后继者"
+  }
+ ],
+ "generatedAt": "2026-11-09T06:50:00+08:00",
+ "spec": "v5"
+}

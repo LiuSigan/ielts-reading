@@ -1,0 +1,117 @@
+{
+ "id": "2026-11-09-a",
+ "answers": {
+  "1": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "Moving air blurs the light of stars, which is why they appear to twinkle"
+   },
+   "why": "A段。the reason why stars seem to flicker ↔ Moving air blurs the light of stars, which is why they appear to twinkle。C段也有“模糊”（blurred），但那是望远镜镜面的问题，不是星星闪烁的原因。"
+  },
+  "2": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "the launch was delayed further after the Space Shuttle Challenger was destroyed in 1986"
+   },
+   "why": "B段。an event that held up the launch ↔ the launch was delayed further after the Space Shuttle Challenger was destroyed in 1986。F段的航天飞机退役（2011）让望远镜无法维修，不是推迟发射。"
+  },
+  "3": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "which worked rather like a pair of glasses"
+   },
+   "why": "D段。a comparison between a repair and an everyday object ↔ a device containing small corrective mirrors, which worked rather like a pair of glasses。C段的“头发丝宽度”是用来比较误差大小，不是比较修复方法。"
+  },
+  "4": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "The mistake was traced to a faulty testing instrument used during manufacture."
+   },
+   "why": "C段。how a manufacturing error came about ↔ The mistake was traced to a faulty testing instrument used during manufacture。"
+  },
+  "5": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "can no longer be repaired, since the space shuttle was retired in 2011"
+   },
+   "why": "F段。the reason why the telescope can no longer be serviced ↔ can no longer be repaired, since the space shuttle was retired in 2011。D段讲的是它当初为什么能被修好（designed to be visited and repaired），方向相反。"
+  },
+  "6": {
+   "a": "C",
+   "ev": {
+    "p": "A",
+    "q": "arguing that a telescope placed in space, above the atmosphere, would produce far sharper images than any telescope on Earth"
+   },
+   "why": "A段。argued that a telescope above the atmosphere would see more clearly ↔ arguing that a telescope placed in space, above the atmosphere, would produce far sharper images。"
+  },
+  "7": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "the astronomer who had shown in the 1920s that the universe is expanding"
+   },
+   "why": "B段。showed that the universe was growing larger ↔ had shown … that the universe is expanding。注意望远镜只是以他命名，B（由 Discovery 送入轨道）说的是望远镜，不是 Edwin Hubble 本人。"
+  },
+  "8": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "installed a device containing small corrective mirrors"
+   },
+   "why": "D段。fitted equipment that corrected the blurred images ↔ installed a device containing small corrective mirrors … as sharp as the original design had promised。G（称其为国家的耻辱）的主语是 Newspapers。"
+  },
+  "9": {
+   "a": "F",
+   "ev": {
+    "p": "E",
+    "q": "The resulting image, known as the Hubble Deep Field, revealed around 3,000 galaxies"
+   },
+   "why": "E段。showed thousands of galaxies ↔ revealed around 3,000 galaxies；a tiny area of sky ↔ a tiny, apparently empty patch of sky。E（主要观测红外线）说的是韦布望远镜。"
+  },
+  "10": {
+   "a": "testing instrument",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "The mistake was traced to a faulty testing instrument used during manufacture."
+   },
+   "why": "C段。came from ↔ was traced to；defective ↔ faulty；when the mirror was being made ↔ during manufacture。不要填 main mirror：镜面是出错的东西，不是出错的原因。"
+  },
+  "11": {
+   "a": "five",
+   "alt": [
+    "5"
+   ],
+   "ev": {
+    "p": "D",
+    "q": "The mission required five spacewalks"
+   },
+   "why": "D段。go outside the shuttle ↔ spacewalks；the 1993 mission ↔ The mission（In December 1993…）。Four further servicing missions 是之后的维修任务次数，不是太空行走次数。"
+  },
+  "12": {
+   "a": "fifteen years",
+   "alt": [
+    "15 years"
+   ],
+   "ev": {
+    "p": "D",
+    "q": "extending the telescope's working life far beyond the original plan of fifteen years"
+   },
+   "why": "D段末句。When it was planned ↔ the original plan；expected to work for ↔ working life … of fifteen years。thirty years（F段）是它实际已工作的时间，不是原计划。"
+  },
+  "13": {
+   "a": "ultraviolet",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "it can see visible and ultraviolet light, which Webb cannot"
+   },
+   "why": "F段。One advantage Hubble has over Webb ↔ which Webb cannot；detect ↔ see；as well as visible light ↔ visible and…。infrared 是韦布擅长的波段，正好相反。"
+  }
+ }
+}

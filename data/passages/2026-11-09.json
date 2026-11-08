@@ -1,0 +1,260 @@
+{
+ "id": "2026-11-09",
+ "date": "2026-11-09",
+ "level": 5.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "urban planning & architecture",
+ "title": "Gardens on the Roof",
+ "subtitle": "Cities are turning to plants to deal with floods, heat and the loss of wildlife. Do green roofs live up to their promise?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Look down on almost any city from a tall building and you will see a landscape of grey and black roofs, many of them flat and unused. Roofs can account for as much as a quarter of the surface area of a city. In recent decades, a growing number of architects and city governments have begun to see these surfaces as wasted space. Covering roofs with soil and plants, they argue, could help cities cope with heavy rain, high temperatures and the loss of wildlife. Green roofs, as they are known, are not a new idea: roofs covered with grass and turf were common on houses in Scandinavia for centuries. What is new is the attempt to use them on a large scale in modern cities."
+  },
+  {
+   "label": "B",
+   "text": "Germany led the way. In the 1970s and 1980s German researchers developed lightweight systems in which a thin layer of growing material, often only a few centimetres deep, was laid over a waterproof barrier and planted with hardy, low-growing plants such as sedums. These 'extensive' green roofs need little care and can be added to many existing buildings without major changes to their structure. Deeper 'intensive' roofs, by contrast, can support shrubs and even small trees, but they are much heavier and need regular watering and care, much like a garden at ground level. Several German cities began to offer financial support to building owners who installed them, and today Germany has one of the largest areas of green roofs in the world."
+  },
+  {
+   "label": "C",
+   "text": "The benefit that most interests city authorities is the effect on rainwater. When rain falls on a conventional roof, almost all of it runs straight into the drains, and during storms the sewers can overflow, sending untreated waste into rivers. A green roof absorbs much of the water and releases it slowly. Dr Anna Weber, an engineer at the Technical University of Berlin, has monitored roofs in the city for over a decade and found that they hold back between half and three-quarters of the rain that falls on them over a year, although the proportion is much lower during long periods of heavy rain, when the soil becomes saturated."
+  },
+  {
+   "label": "D",
+   "text": "Green roofs also help to keep buildings and cities cool. In summer a black roof can become hot enough to fry an egg, and the heat passes into the rooms below. Plants and moist soil stay much cooler, partly because water evaporating from them uses up heat. Studies in several cities have found that buildings with green roofs need less energy for air conditioning, although the savings are greatest in low buildings, where the roof makes up a larger share of the building's outer surface."
+  },
+  {
+   "label": "E",
+   "text": "Supporters also point to benefits for wildlife. Green roofs can provide food and shelter for insects, including bees and butterflies, and in some cases for birds; a few have even been designed specifically for rare species such as the black redstart. Professor James Reid, an ecologist in London, has recorded more than a hundred species of insects on a single roof in the city centre. However, he warns that the thin, uniform planting used on most commercial roofs supports far fewer species than a roof designed with deeper soil, a mixture of plants and features such as logs and stones."
+  },
+  {
+   "label": "F",
+   "text": "Some cities have made green roofs compulsory. In 2009 Toronto became the first city in North America to require them on many new buildings above a certain size. Critics, however, point to the costs. A green roof can cost two or three times as much to install as a conventional one, and the building must be strong enough to carry the extra weight, especially when the soil is wet. Building owners also worry about leaks, which can be difficult to locate beneath a layer of soil and plants."
+  },
+  {
+   "label": "G",
+   "text": "Some researchers argue that green roofs are not always the best choice. In hot, sunny regions, roofs painted white to reflect sunlight can cool buildings more cheaply, and solar panels may be a better use of the space where energy is the main concern. Increasingly, designers are combining approaches, for example by placing solar panels above planted roofs, where the cooler air around the plants helps the panels to work more efficiently."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_info",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 1–6 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "a reference to a traditional use of plants on roofs"
+    },
+    {
+     "n": 2,
+     "text": "a reason why a benefit is smaller in certain weather conditions"
+    },
+    {
+     "n": 3,
+     "text": "a description of a rule requiring green roofs"
+    },
+    {
+     "n": 4,
+     "text": "a suggestion that the design of a roof affects how many species it supports"
+    },
+    {
+     "n": 5,
+     "text": "an example of two technologies being combined"
+    },
+    {
+     "n": 6,
+     "text": "the type of building that gains most from the cooling effect"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 7–10 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "What is true of the 'extensive' green roofs developed in Germany?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They need deep soil and regular watering."
+      },
+      {
+       "k": "B",
+       "t": "They can be added to many buildings that already exist."
+      },
+      {
+       "k": "C",
+       "t": "They were designed mainly to attract wildlife."
+      },
+      {
+       "k": "D",
+       "t": "They were first built in Scandinavia."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "What did Weber's research find?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Green roofs soak up every drop of rain they receive."
+      },
+      {
+       "k": "B",
+       "t": "Green roofs stop sewers from ever overflowing."
+      },
+      {
+       "k": "C",
+       "t": "Older roofs hold more water than newer ones."
+      },
+      {
+       "k": "D",
+       "t": "The effect is weakest during long spells of heavy rain."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "text": "Why do plants and soil stay cooler than a black roof?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Evaporation takes heat away from them."
+      },
+      {
+       "k": "B",
+       "t": "They reflect most of the sunlight."
+      },
+      {
+       "k": "C",
+       "t": "They are shaded by nearby buildings."
+      },
+      {
+       "k": "D",
+       "t": "They are cooled by air conditioning."
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "text": "Which worry of building owners is mentioned?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Green roofs attract too many insects."
+      },
+      {
+       "k": "B",
+       "t": "Plants may damage solar panels."
+      },
+      {
+       "k": "C",
+       "t": "Leaks may be hard to find."
+      },
+      {
+       "k": "D",
+       "t": "The roofs cannot be used in winter."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 11–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "title": "Drawbacks and alternatives",
+   "lines": [
+    {
+     "text": "– price: can be double or triple the cost of the [[11]] kind",
+     "indent": 0
+    },
+    {
+     "text": "– building must be able to support additional [[12]], above all when the soil is wet",
+     "indent": 0
+    },
+    {
+     "text": "– in hot, sunny places, [[13]] roofs may cool buildings at lower cost",
+     "indent": 0
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "landscape",
+   "zh": "景观；景色"
+  },
+  {
+   "w": "cope with",
+   "zh": "应对"
+  },
+  {
+   "w": "waterproof",
+   "zh": "防水的"
+  },
+  {
+   "w": "hardy",
+   "zh": "耐寒的；能吃苦的"
+  },
+  {
+   "w": "conventional",
+   "zh": "传统的；常规的"
+  },
+  {
+   "w": "overflow",
+   "zh": "溢出"
+  },
+  {
+   "w": "untreated",
+   "zh": "未经处理的"
+  },
+  {
+   "w": "saturated",
+   "zh": "饱和的；浸透的"
+  },
+  {
+   "w": "evaporate",
+   "zh": "蒸发"
+  },
+  {
+   "w": "compulsory",
+   "zh": "强制的"
+  },
+  {
+   "w": "install",
+   "zh": "安装"
+  },
+  {
+   "w": "efficiently",
+   "zh": "高效地"
+  }
+ ],
+ "generatedAt": "2026-11-09T06:55:00+08:00",
+ "spec": "v5"
+}
