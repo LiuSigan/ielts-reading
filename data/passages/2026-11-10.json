@@ -1,0 +1,300 @@
+{
+ "id": "2026-11-10",
+ "date": "2026-11-10",
+ "level": 5.0,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "health & medicine",
+ "title": "Late to Bed, Late to Rise",
+ "subtitle": "Why teenagers find early mornings so hard, and what some schools are doing about it",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Parents of teenagers often complain that their children stay up late at night and are almost impossible to wake in the morning. For a long time this behaviour was blamed on laziness, or on too many hours spent in front of screens. Many parents have tried earlier bedtimes, stricter rules about phones or alarm clocks placed on the far side of the room, often with little success. Research over the past thirty years, however, suggests that something more basic is going on. During adolescence, the body's internal clock actually shifts, so that teenagers naturally feel sleepy later in the evening, and wake later in the morning, than either younger children or adults."
+  },
+  {
+   "label": "B",
+   "text": "The shift is linked to melatonin, a hormone that helps to control the timing of sleep. In adults and younger children, the body begins to release melatonin in the evening, at around nine or ten o'clock. In teenagers the release starts later, sometimes not until eleven o'clock or after. As a result, a teenager who goes to bed at ten may simply lie awake. Dr Rachel Moore, a sleep scientist at the University of Leeds, points out that this pattern has been found in many different countries and cultures, which suggests that it is a natural part of growing up rather than a bad habit. The change usually begins at around the age of twelve or thirteen and reverses only in the early twenties, when sleeping patterns gradually move back towards those of adults."
+  },
+  {
+   "label": "C",
+   "text": "The difficulty is that most schools begin early. If a teenager cannot fall asleep before eleven and must get up at half past six to reach school on time, they will get well under the eight to ten hours of sleep that experts recommend for this age group. Lack of sleep has been linked to poor concentration, low mood and a greater risk of accidents, including road accidents among young drivers. Teachers of early morning lessons often describe classes in which many students struggle to stay awake, let alone learn. Many teenagers try to catch up at weekends by sleeping until late morning, but this can make it even harder to fall asleep on Sunday night, so that the cycle begins again. Some doctors compare the effect to a mild form of jet lag experienced every single week."
+  },
+  {
+   "label": "D",
+   "text": "In 2016 the city of Seattle in the United States moved the start of the school day at its high schools from 7.50 to 8.45. Researchers gave students wrist monitors to record their sleep before and after the change, comparing one group in the spring before the new timetable with students of the same age a year later. They found that on school days students slept on average 34 minutes longer, mainly because they woke up later, not because they went to bed any earlier. Grades in the subject that was studied improved slightly, and fewer students arrived late or missed lessons altogether. The results encouraged several other school districts to consider similar changes."
+  },
+  {
+   "label": "E",
+   "text": "Not everyone supports later start times. Changing the timetable can be costly, particularly where the same buses are used to carry younger children to primary schools at different times of the morning. Some parents need to leave for work early and worry about who will look after their children before school. Others fear that a later finish will leave less time for sport, part-time jobs and homework, and some coaches worry that there will be too little daylight for outdoor training in winter. Professor David Hughes, who has advised several education authorities on timetables, argues that these problems are real but can usually be solved with careful planning."
+  },
+  {
+   "label": "F",
+   "text": "Despite these difficulties, the idea is gaining ground, at least in North America, where school days have traditionally started earlier than in much of Europe. In 2014 the American Academy of Pediatrics recommended that secondary schools should not start before 8.30 in the morning, and in 2019 California became the first state to make this a legal requirement for most of its high schools. Researchers stress, however, that school timetables are only part of the answer. Limiting the use of phones and computers late at night, they say, is also important, since the light from screens can delay the release of melatonin even further."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "The reading passage has six paragraphs, A–F.",
+    "Choose the correct heading for paragraphs B–F from the list of headings below.",
+    "Write the correct number, i–x, in boxes 1–5 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "A hormone that arrives late"
+    },
+    {
+     "k": "ii",
+     "t": "Why teenagers prefer screens to sleep"
+    },
+    {
+     "k": "iii",
+     "t": "An old complaint with a new explanation"
+    },
+    {
+     "k": "iv",
+     "t": "Too little sleep before an early start"
+    },
+    {
+     "k": "v",
+     "t": "Measuring the effect of a later timetable"
+    },
+    {
+     "k": "vi",
+     "t": "Worries about the cost and practical effects of change"
+    },
+    {
+     "k": "vii",
+     "t": "Official support, but not a complete answer"
+    },
+    {
+     "k": "viii",
+     "t": "How exams affect teenagers' sleep"
+    },
+    {
+     "k": "ix",
+     "t": "Why younger children sleep more soundly"
+    },
+    {
+     "k": "x",
+     "t": "Teachers who refuse to change"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 6,
+   "to": 9,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 6–9 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 6,
+     "text": "According to Moore, the change in teenagers' sleeping pattern is probably",
+     "options": [
+      {
+       "k": "A",
+       "t": "a normal stage of development."
+      },
+      {
+       "k": "B",
+       "t": "caused by using screens late at night."
+      },
+      {
+       "k": "C",
+       "t": "more common in some cultures than others."
+      },
+      {
+       "k": "D",
+       "t": "the result of poor habits."
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "text": "What does the writer say about teenagers whose school starts early?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They usually go to bed earlier to make up for it."
+      },
+      {
+       "k": "B",
+       "t": "They often get less sleep than is recommended."
+      },
+      {
+       "k": "C",
+       "t": "They do better in morning lessons."
+      },
+      {
+       "k": "D",
+       "t": "They are less likely to have accidents."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "The Seattle study found that students slept longer mainly because they",
+     "options": [
+      {
+       "k": "A",
+       "t": "went to bed earlier than before."
+      },
+      {
+       "k": "B",
+       "t": "took short naps during the school day."
+      },
+      {
+       "k": "C",
+       "t": "used their phones less at night."
+      },
+      {
+       "k": "D",
+       "t": "got up later in the morning."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "text": "What is Hughes's view of the objections to later start times?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They are too serious to be overcome."
+      },
+      {
+       "k": "B",
+       "t": "They come from a misunderstanding of the research."
+      },
+      {
+       "k": "C",
+       "t": "They can generally be dealt with."
+      },
+      {
+       "k": "D",
+       "t": "They apply only to younger children."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 10,
+     "text": "A shortage of sleep has been connected with weak concentration, [[10]] and accidents."
+    },
+    {
+     "n": 11,
+     "text": "In Seattle, the researchers measured sleep with [[11]] that the students wore."
+    },
+    {
+     "n": 12,
+     "text": "Changing start times can be expensive where [[12]] are shared by different schools."
+    },
+    {
+     "n": 13,
+     "text": "Screen light at night may push back the time when the body produces [[13]]."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "adolescence",
+   "zh": "青春期"
+  },
+  {
+   "w": "internal clock",
+   "zh": "生物钟"
+  },
+  {
+   "w": "hormone",
+   "zh": "激素"
+  },
+  {
+   "w": "release (v./n.)",
+   "zh": "释放"
+  },
+  {
+   "w": "concentration",
+   "zh": "专注力"
+  },
+  {
+   "w": "mood",
+   "zh": "情绪"
+  },
+  {
+   "w": "struggle to",
+   "zh": "努力挣扎着做……"
+  },
+  {
+   "w": "timetable",
+   "zh": "时间表；课程表"
+  },
+  {
+   "w": "authority",
+   "zh": "当局；主管部门"
+  },
+  {
+   "w": "gain ground",
+   "zh": "逐渐被接受；取得进展"
+  },
+  {
+   "w": "legal requirement",
+   "zh": "法律要求"
+  },
+  {
+   "w": "delay",
+   "zh": "推迟"
+  }
+ ],
+ "generatedAt": "2026-11-10T06:50:00+08:00",
+ "spec": "v5"
+}

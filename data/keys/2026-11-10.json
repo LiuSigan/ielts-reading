@@ -1,0 +1,113 @@
+{
+ "id": "2026-11-10",
+ "answers": {
+  "1": {
+   "a": "i",
+   "ev": {
+    "p": "B",
+    "q": "In teenagers the release starts later, sometimes not until eleven o'clock or after."
+   },
+   "why": "B段主旨：青少年体内褪黑素（控制睡眠时间的激素）释放得更晚。i A hormone that arrives late ↔ melatonin, a hormone … In teenagers the release starts later。ii 是干扰：段中没有讨论屏幕，屏幕在F段才出现。"
+  },
+  "2": {
+   "a": "iv",
+   "ev": {
+    "p": "C",
+    "q": "they will get well under the eight to ten hours of sleep that experts recommend for this age group"
+   },
+   "why": "C段：学校开课早，青少年睡眠严重不足，并带来注意力差等后果。iv Too little sleep before an early start ↔ most schools begin early … well under the eight to ten hours of sleep that experts recommend。"
+  },
+  "3": {
+   "a": "v",
+   "ev": {
+    "p": "D",
+    "q": "Researchers gave students wrist monitors to record their sleep before and after the change"
+   },
+   "why": "D段：西雅图推迟上课时间，研究者用手环测量前后的睡眠变化。v Measuring the effect of a later timetable ↔ moved the start of the school day … record their sleep before and after the change。"
+  },
+  "4": {
+   "a": "vi",
+   "ev": {
+    "p": "E",
+    "q": "Changing the timetable can be costly"
+   },
+   "why": "E段：反对者担心成本（校车）、家长上班、放学后时间不够等实际问题。vi Worries about the cost and practical effects of change ↔ can be costly … worry about who will look after their children … less time for sport。x 是干扰：段中没有说老师拒绝改变。"
+  },
+  "5": {
+   "a": "vii",
+   "ev": {
+    "p": "F",
+    "q": "Researchers stress, however, that school timetables are only part of the answer."
+   },
+   "why": "F段：美国儿科学会建议、加州立法（官方支持），但研究者强调上课时间只是部分答案，还要限制夜间用屏。vii Official support, but not a complete answer ↔ recommended … legal requirement … only part of the answer。只看后半句容易选 ii，但F段并没有说青少年更喜欢屏幕而不睡觉。"
+  },
+  "6": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "which suggests that it is a natural part of growing up rather than a bad habit"
+   },
+   "why": "B段末句。A a normal stage of development ↔ a natural part of growing up。D 正是 Moore 否定的（rather than a bad habit）；C 与 found in many different countries and cultures 相反；B 是A段过去的看法。"
+  },
+  "7": {
+   "a": "B",
+   "ev": {
+    "p": "C",
+    "q": "they will get well under the eight to ten hours of sleep that experts recommend for this age group"
+   },
+   "why": "C段。B often get less sleep than is recommended ↔ get well under the eight to ten hours of sleep that experts recommend。A 与原文相反（cannot fall asleep before eleven）；C、D 与原文的后果描述相反。"
+  },
+  "8": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "mainly because they woke up later, not because they went to bed any earlier"
+   },
+   "why": "D段。D got up later in the morning ↔ mainly because they woke up later。A 是原文明确否定的（not because they went to bed any earlier），也是最容易被误选的；C 屏幕在F段，与西雅图研究无关。"
+  },
+  "9": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "argues that these problems are real but can usually be solved with careful planning"
+   },
+   "why": "E段末句。C can generally be dealt with ↔ can usually be solved with careful planning。A 与原文相反；B 不对：他承认这些问题是真实存在的（these problems are real），并不是误解。"
+  },
+  "10": {
+   "a": "low mood",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "Lack of sleep has been linked to poor concentration, low mood and a greater risk of accidents"
+   },
+   "why": "C段。A shortage of sleep ↔ Lack of sleep；has been connected with ↔ has been linked to；weak concentration ↔ poor concentration。accidents 已在题干中出现，空格对应中间一项 low mood。"
+  },
+  "11": {
+   "a": "wrist monitors",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "Researchers gave students wrist monitors to record their sleep"
+   },
+   "why": "D段。measured sleep with ↔ to record their sleep；that the students wore ↔ gave students wrist monitors。"
+  },
+  "12": {
+   "a": "buses",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "particularly where the same buses are used to carry younger children to primary schools at different times of the morning"
+   },
+   "why": "E段。expensive ↔ costly；shared by different schools ↔ the same buses are used to carry younger children to primary schools at different times。"
+  },
+  "13": {
+   "a": "melatonin",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "the light from screens can delay the release of melatonin even further"
+   },
+   "why": "F段末句。push back ↔ delay；Screen light ↔ the light from screens。B段说明 melatonin 是控制睡眠时间的激素。"
+  }
+ }
+}

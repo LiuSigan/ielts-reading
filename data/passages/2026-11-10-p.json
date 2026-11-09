@@ -1,0 +1,276 @@
+{
+ "id": "2026-11-10-p",
+ "date": "2026-11-10",
+ "level": 7.0,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "education",
+ "title": "The Homework Question",
+ "subtitle": "Does work done at home improve learning, or does it mainly cause conflict and stress?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Few aspects of education provoke such strong feelings among parents, and indeed among teachers and pupils themselves, as homework. For some, it is an essential part of a serious education, teaching children discipline and giving them the chance to practise what they have learned. For others, it is a source of nightly conflict that eats into family time, play and sleep while doing little for learning. In recent years a number of schools, particularly at primary level, have abolished homework altogether, and their decisions have been widely reported in the press. Politicians have joined in, too, with some governments issuing guidance on how much homework is appropriate at each age, only to withdraw or soften it a few years later. The debate is often conducted as though the evidence clearly favoured one side or the other. It does not; but nor is it as inconclusive as is sometimes claimed."
+  },
+  {
+   "label": "B",
+   "text": "The most frequently cited body of research is a series of reviews led by the American psychologist Harris Cooper, the most comprehensive of which was published in 2006. Combining the results of dozens of studies, Cooper and his colleagues found a positive relationship between homework and achievement, but its strength depended heavily on age. For students in the later years of secondary school, those who did more homework generally achieved higher results, at least up to a point. For children in primary school, the relationship was weak and, in some studies, close to zero. Cooper himself has proposed a rough rule of thumb, sometimes called the ten-minute rule: about ten minutes a night for each year of school, so that a child in the last year of primary school would do roughly an hour."
+  },
+  {
+   "label": "C",
+   "text": "These findings need careful interpretation. Measuring how much homework students actually do is itself difficult, since most studies rely on what students or their parents report, and both may exaggerate. Most of the studies were correlational: they showed that students who did more homework tended to do better, but not that the homework caused the improvement. Students who are already motivated and well supported at home may both complete more homework and achieve higher marks, for reasons that have nothing to do with the homework itself. Dr Laura Fenwick, an educational researcher at the University of Bristol, notes that the few studies which assigned homework at random were mostly small and short, although they, too, found larger benefits for older students than for younger ones."
+  },
+  {
+   "label": "D",
+   "text": "There is also evidence that more is not always better. Studies of older students in several countries suggest that the benefits level off beyond a certain amount, often estimated at around one and a half to two hours a night, and that very heavy loads are associated with stress, poor sleep and physical complaints such as headaches and stomach problems. A widely discussed survey of students at high-achieving schools in California found that many regarded homework as a major source of stress, and some said that they had little time left for friends, family or hobbies. The students in that survey were doing, on average, more than three hours a night, well beyond the level at which most studies find any additional benefit."
+  },
+  {
+   "label": "E",
+   "text": "Critics also argue that homework widens the gap between advantaged and disadvantaged pupils. Children with a quiet place to work, access to a computer and parents with the time and education to help are better placed to complete it well. Professor Samuel Adeyemi, who studies education policy in London, argues that for this reason homework can reward home circumstances as much as effort. Some research also suggests that when parents help too much, for example by correcting their children's work or even completing it for them, results can actually suffer. Defenders reply that schools can narrow the gap by running homework clubs, where pupils work with support after lessons, and that abolishing homework would remove a form of practice that disadvantaged pupils need as much as anyone."
+  },
+  {
+   "label": "F",
+   "text": "What seems to matter most is not how much homework is set but what kind. Tasks that ask students to practise skills they have already been taught, or to prepare for the next lesson, tend to be more useful than lengthy projects that depend heavily on resources at home, and short, regular tasks appear to work better than occasional long ones. Feedback also matters: homework that is marked and discussed in class appears to be more effective than homework that is simply collected and returned. Admittedly, setting tasks of this kind demands more planning from teachers, many of whom are already overloaded, and it is easier to set a worksheet than to design a task that builds on the day's lesson."
+  },
+  {
+   "label": "G",
+   "text": "The evidence therefore supports neither of the positions that dominate public debate. Abolishing homework for older students would probably remove a modest but real benefit; setting large amounts for young children seems to achieve little and may do harm. A sensible policy would be to set little or none in the early years of primary school, to increase it gradually and with a clear purpose as students grow older, and to judge it by its quality rather than by the number of hours it consumes. It would also require schools to be honest with parents about what homework can and cannot achieve. That is a less dramatic conclusion than either side would like, but it is the one the evidence supports."
+  }
+ ],
+ "groups": [
+  {
+   "type": "mcq",
+   "from": 1,
+   "to": 4,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 1–4 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "What does the writer suggest about the public debate on homework?",
+     "options": [
+      {
+       "k": "A",
+       "t": "The evidence is entirely on the side of homework's critics."
+      },
+      {
+       "k": "B",
+       "t": "Few parents have strong opinions on the subject."
+      },
+      {
+       "k": "C",
+       "t": "People often wrongly assume that the evidence is one-sided."
+      },
+      {
+       "k": "D",
+       "t": "Schools that drop homework rarely attract attention."
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "text": "What did Cooper's 2006 review find?",
+     "options": [
+      {
+       "k": "A",
+       "t": "The link with achievement was strongest for older students."
+      },
+      {
+       "k": "B",
+       "t": "Homework benefits all age groups to the same degree."
+      },
+      {
+       "k": "C",
+       "t": "Primary school children gained most from homework."
+      },
+      {
+       "k": "D",
+       "t": "More homework always leads to higher results."
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Why does the writer say that the research needs careful interpretation?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Most studies were carried out in a single country."
+      },
+      {
+       "k": "B",
+       "t": "Students often misreported the time they had spent."
+      },
+      {
+       "k": "C",
+       "t": "The randomised studies contradicted all the others."
+      },
+      {
+       "k": "D",
+       "t": "Most studies could not show that homework caused better results."
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "text": "What is the writer's main purpose in the passage?",
+     "options": [
+      {
+       "k": "A",
+       "t": "to argue that homework should be abolished"
+      },
+      {
+       "k": "B",
+       "t": "to propose a balanced policy based on the evidence"
+      },
+      {
+       "k": "C",
+       "t": "to show that more homework always improves results"
+      },
+      {
+       "k": "D",
+       "t": "to describe a survey of students in California"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 5,
+   "to": 9,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 5–9 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 5,
+     "text": "a reference to physical symptoms linked to heavy workloads"
+    },
+    {
+     "n": 6,
+     "text": "a suggestion for how schools might help pupils with fewer resources"
+    },
+    {
+     "n": 7,
+     "text": "an explanation of why a statistical link might be misleading"
+    },
+    {
+     "n": 8,
+     "text": "a reference to schools receiving publicity for a decision"
+    },
+    {
+     "n": 9,
+     "text": "a recognition that a recommended approach places demands on teachers"
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 10,
+   "to": 14,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 10–14 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "title": "What the research suggests",
+   "lines": [
+    {
+     "text": "Heavy workloads",
+     "indent": 0
+    },
+    {
+     "text": "– associated with anxiety, lack of [[10]] and headaches",
+     "indent": 1
+    },
+    {
+     "text": "– in a Californian survey, homework was seen as a major cause of [[11]]",
+     "indent": 1
+    },
+    {
+     "text": "Effective homework",
+     "indent": 0
+    },
+    {
+     "text": "– practising skills already covered, or getting ready for the [[12]]",
+     "indent": 1
+    },
+    {
+     "text": "– works better if teachers mark it and it is [[13]] in lessons",
+     "indent": 1
+    },
+    {
+     "text": "Recommended policy",
+     "indent": 0
+    },
+    {
+     "text": "– amount should rise step by step as students age, always with an obvious [[14]]",
+     "indent": 1
+    }
+   ]
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "provoke",
+   "zh": "激起；引发"
+  },
+  {
+   "w": "discipline",
+   "zh": "自律；纪律"
+  },
+  {
+   "w": "abolish",
+   "zh": "废除"
+  },
+  {
+   "w": "inconclusive",
+   "zh": "无定论的"
+  },
+  {
+   "w": "comprehensive",
+   "zh": "全面的"
+  },
+  {
+   "w": "correlational",
+   "zh": "相关性的（只显示关联，不证明因果）"
+  },
+  {
+   "w": "level off",
+   "zh": "趋于平稳；不再上升"
+  },
+  {
+   "w": "advantaged / disadvantaged",
+   "zh": "条件优越的／处境不利的"
+  },
+  {
+   "w": "narrow the gap",
+   "zh": "缩小差距"
+  },
+  {
+   "w": "feedback",
+   "zh": "反馈"
+  },
+  {
+   "w": "overloaded",
+   "zh": "负担过重的"
+  },
+  {
+   "w": "modest",
+   "zh": "适度的；不大的"
+  }
+ ],
+ "generatedAt": "2026-11-10T06:55:00+08:00",
+ "spec": "v5"
+}

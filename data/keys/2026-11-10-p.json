@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-10-p",
+ "answers": {
+  "1": {
+   "a": "C",
+   "ev": {
+    "p": "A",
+    "q": "The debate is often conducted as though the evidence clearly favoured one side or the other. It does not"
+   },
+   "why": "A段末两句。C People often wrongly assume that the evidence is one-sided ↔ The debate is often conducted as though the evidence clearly favoured one side … It does not。A 正是作者否定的；B 与段首 provoke such strong feelings 相反；D 与 widely reported in the press 相反。"
+  },
+  "2": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "its strength depended heavily on age. For students in the later years of secondary school, those who did more homework generally achieved higher results"
+   },
+   "why": "B段。A The link with achievement was strongest for older students ↔ For students in the later years of secondary school … achieved higher results；小学生则 weak and … close to zero。D 过度：原文有 at least up to a point 的限定；B、C 与年龄差异相反。"
+  },
+  "3": {
+   "a": "D",
+   "ev": {
+    "p": "C",
+    "q": "they showed that students who did more homework tended to do better, but not that the homework caused the improvement"
+   },
+   "why": "C段。D could not show that homework caused better results ↔ but not that the homework caused the improvement（相关研究不能证明因果）。C 不对：随机研究的结果与其他研究一致（they, too, found larger benefits for older students），只是规模小；A、B 文中未提。"
+  },
+  "4": {
+   "a": "B",
+   "ev": {
+    "p": "G",
+    "q": "A sensible policy would be to set little or none in the early years of primary school, to increase it gradually and with a clear purpose as students grow older"
+   },
+   "why": "全文主旨见G段：证据不支持任何一种极端立场，作者提出折中方案（低年级少布置或不布置，随年龄逐步增加并注重质量）。B to propose a balanced policy based on the evidence。A、C 正是作者说的两种极端；D 只对应D段的一个例子。"
+  },
+  "5": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "very heavy loads are associated with stress, poor sleep and physical complaints such as headaches and stomach problems"
+   },
+   "why": "D段。physical symptoms ↔ physical complaints such as headaches and stomach problems；heavy workloads ↔ very heavy loads。A段的 eats into … sleep 是家长的抱怨，不是身体症状的研究证据。"
+  },
+  "6": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "schools can narrow the gap by running homework clubs, where pupils work with support after lessons"
+   },
+   "why": "E段。how schools might help pupils with fewer resources ↔ schools can narrow the gap by running homework clubs。F段讲的是怎样布置更有效的作业，不是专门帮助资源少的学生。"
+  },
+  "7": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "Students who are already motivated and well supported at home may both complete more homework and achieve higher marks, for reasons that have nothing to do with the homework itself"
+   },
+   "why": "C段。why a statistical link might be misleading ↔ Most of the studies were correlational … students who are already motivated … may both complete more homework and achieve higher marks, for reasons that have nothing to do with the homework itself。"
+  },
+  "8": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "have abolished homework altogether, and their decisions have been widely reported in the press"
+   },
+   "why": "A段。schools receiving publicity for a decision ↔ schools … have abolished homework … their decisions have been widely reported in the press。D段的加州调查被广泛讨论（widely discussed），但那是一项调查，不是学校的决定，是近似干扰。"
+  },
+  "9": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "setting tasks of this kind demands more planning from teachers, many of whom are already overloaded"
+   },
+   "why": "F段末句。a recognition ↔ Admittedly；places demands on teachers ↔ demands more planning from teachers。"
+  },
+  "10": {
+   "a": "sleep",
+   "alt": [
+    "poor sleep"
+   ],
+   "ev": {
+    "p": "D",
+    "q": "very heavy loads are associated with stress, poor sleep and physical complaints such as headaches"
+   },
+   "why": "D段。associated with ↔ are associated with；anxiety ↔ stress；lack of ___ ↔ poor sleep；headaches 题干已给出。"
+  },
+  "11": {
+   "a": "stress",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "many regarded homework as a major source of stress"
+   },
+   "why": "D段末句。seen as a major cause of ↔ regarded … as a major source of。"
+  },
+  "12": {
+   "a": "next lesson",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "Tasks that ask students to practise skills they have already been taught, or to prepare for the next lesson"
+   },
+   "why": "F段。practising skills already covered ↔ practise skills they have already been taught；getting ready for ↔ prepare for。"
+  },
+  "13": {
+   "a": "discussed",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "homework that is marked and discussed in class appears to be more effective"
+   },
+   "why": "F段。works better ↔ appears to be more effective；teachers mark it ↔ marked；in lessons ↔ in class。collected 是效果较差的做法（simply collected and returned），正好相反。"
+  },
+  "14": {
+   "a": "purpose",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "to increase it gradually and with a clear purpose as students grow older"
+   },
+   "why": "G段。rise step by step ↔ increase it gradually；as students age ↔ as students grow older；with an obvious ___ ↔ with a clear purpose。"
+  }
+ }
+}
