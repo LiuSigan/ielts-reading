@@ -1,0 +1,115 @@
+{
+ "id": "2026-11-11-a",
+ "answers": {
+  "1": {
+   "a": "i",
+   "ev": {
+    "p": "B",
+    "q": "a simple way of steering the front wheel, but no pedals: the rider sat astride it and pushed against the ground with his feet"
+   },
+   "why": "B段：Drais 的“跑步机”没有脚踏，靠脚蹬地前进。i A machine without pedals ↔ but no pedals … pushed against the ground with his feet。v 是陷阱：段中说马饲料变贵（made animal feed expensive），不是马变便宜；vii 过度概括：只是在几个城市被禁止上人行道（several cities），不是全欧洲。"
+  },
+  "2": {
+   "a": "iv",
+   "ev": {
+    "p": "C",
+    "q": "Because the pedals turned the front wheel directly"
+   },
+   "why": "C段：19世纪60年代脚踏直接装在前轮上，这决定了速度只能靠加大前轮。iv Driving the front wheel directly ↔ pedals were added directly to the front wheel / the pedals turned the front wheel directly。"
+  },
+  "3": {
+   "a": "vi",
+   "ev": {
+    "p": "D",
+    "q": "The machines were fast and, thanks to new wire-spoked wheels and solid rubber tyres, more comfortable than the boneshaker, but they were also dangerous."
+   },
+   "why": "D段：高轮车速度快，但很危险，骑手容易从车把上翻出去。vi Speed at the cost of safety ↔ The machines were fast … but they were also dangerous。ii 是干扰：段中说骑车变成大胆年轻人的运动（a sport），但没有提比赛。"
+  },
+  "4": {
+   "a": "viii",
+   "ev": {
+    "p": "E",
+    "q": "Together these inventions created what was called the 'safety bicycle', the basic design still used today."
+   },
+   "why": "E段：Starley 的链条传动 Rover 和 Dunlop 的充气轮胎共同造就了现代自行车。viii Two inventions that created the modern machine ↔ Together these inventions created … the basic design still used today。"
+  },
+  "5": {
+   "a": "x",
+   "ev": {
+    "p": "F",
+    "q": "For the first time, large numbers of ordinary people could travel independently over long distances at little cost."
+   },
+   "why": "F段：安全自行车让普通人（尤其是女性）能独立出行。x Freedom for a wider public ↔ large numbers of ordinary people could travel independently … women … a symbol of independence。ix 是干扰：文中说自行车对女性影响大，但没有说女性自己设计自行车。"
+  },
+  "6": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "he was looking for an alternative to the horse after a series of poor harvests had made animal feed expensive"
+   },
+   "why": "B段。B feeding horses had become costly ↔ poor harvests had made animal feed expensive；some historians have suggested ↔ According to some historians。A 文中只说比走路快，没有说和马比赛；C 人行道是后来被禁止的地方，不是发明原因。"
+  },
+  "7": {
+   "a": "D",
+   "ev": {
+    "p": "C",
+    "q": "To go faster, makers therefore began to build larger and larger front wheels."
+   },
+   "why": "C段末句。D to allow the machine to travel faster ↔ To go faster, makers … build larger and larger front wheels。原因是脚踏直接带动前轮，前轮越大，每圈走得越远。A 不对：舒适度的改善来自D段的辐条轮和橡胶轮胎。"
+  },
+  "8": {
+   "a": "A",
+   "ev": {
+    "p": "D",
+    "q": "a sudden stop could throw him over the handlebars head first"
+   },
+   "why": "D段。A Riders could be thrown forward ↔ a sudden stop could throw him over the handlebars head first。B、C、D 文中都没有提到。"
+  },
+  "9": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "the rear wheel could turn faster than the pedals, removing the need for a giant front wheel"
+   },
+   "why": "E段。C let the rear wheel turn faster than the pedals ↔ the rear wheel could turn faster than the pedals。B 是干扰：轮胎是 Dunlop 后来的发明，和链条无关；D 链条只连接脚踏和后轮。"
+  },
+  "10": {
+   "a": "ground",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "the rider sat astride it and pushed against the ground with his feet"
+   },
+   "why": "B段。moved along by pushing his feet on the ___ ↔ pushed against the ground with his feet。"
+  },
+  "11": {
+   "a": "boneshakers",
+   "alt": [
+    "boneshaker"
+   ],
+   "ev": {
+    "p": "C",
+    "q": "in Britain they became known as “boneshakers”"
+   },
+   "why": "C段。British riders called the machines ↔ in Britain they became known as。velocipedes 是这种车的一般名称，不是英国人起的外号。"
+  },
+  "12": {
+   "a": "rear wheel",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "a chain that connected the pedals to the rear wheel"
+   },
+   "why": "E段。linked the pedals to ↔ connected the pedals to。不要填 front wheel：之前的车型才是脚踏带动前轮。"
+  },
+  "13": {
+   "a": "tricycle",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "developed an air-filled tyre, originally for his son's tricycle"
+   },
+   "why": "E段。first made for ↔ originally for；a child's ↔ his son's。"
+  }
+ }
+}

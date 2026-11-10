@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-09T22:51:18.644Z",
+ "updatedAt": "2026-11-10T22:50:23.244Z",
  "passages": [
+  {
+   "id": "2026-11-11-a",
+   "date": "2026-11-11",
+   "slot": "p1",
+   "title": "Two Wheels",
+   "level": 5,
+   "style": "P1",
+   "topicArea": "history of technology",
+   "types": [
+    "headings",
+    "mcq",
+    "note_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-11T06:50:00+08:00"
+  },
+  {
+   "id": "2026-11-11",
+   "date": "2026-11-11",
+   "slot": "main",
+   "title": "Why We Put Things Off",
+   "level": 5,
+   "style": "P2",
+   "topicArea": "psychology & cognition",
+   "types": [
+    "match_info",
+    "mcq",
+    "sentence_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-11T06:55:00+08:00"
+  },
   {
    "id": "2026-11-10",
    "date": "2026-11-10",

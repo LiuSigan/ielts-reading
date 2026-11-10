@@ -1,0 +1,259 @@
+{
+ "id": "2026-11-11",
+ "date": "2026-11-11",
+ "level": 5.0,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "psychology & cognition",
+ "title": "Why We Put Things Off",
+ "subtitle": "Procrastination, psychologists now believe, is less about managing time than managing feelings",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Almost everyone has put off an important task at some time, choosing to tidy a desk, check messages or watch one more video instead. Surveys suggest that around one in five adults regard themselves as chronic procrastinators, and among university students the figure is much higher. For a long time, procrastination was seen simply as a problem of laziness or of poor time management, and the usual advice was to make a better timetable. It is not a modern problem: writers in ancient Greece and Rome complained about it too. Psychologists now believe that the explanation is more interesting, and that it has more to do with feelings than with time."
+  },
+  {
+   "label": "B",
+   "text": "According to this view, people delay tasks not because they cannot organise their time but because the tasks make them feel bad. A task may be boring, difficult or associated with a fear of failure. Putting it off brings immediate relief from these unpleasant feelings, even though the relief is short-lived and the task still has to be done. Dr Maria Lopez, a psychologist at the University of Sheffield, describes procrastination as 'choosing to feel better now at the cost of feeling worse later'. This may explain why people often delay the tasks that matter most to them, since those are the ones most likely to cause anxiety."
+  },
+  {
+   "label": "C",
+   "text": "Research has also examined the way people think about their future selves. In one series of studies, brain scans showed that when people thought about themselves ten years in the future, the pattern of activity was closer to the pattern seen when they thought about a stranger than to the pattern seen when they thought about themselves in the present. Some researchers argue that this helps to explain procrastination: if your future self feels like another person, it is easier to leave the difficult work to them. Encouraging people to imagine their future selves more vividly, for example by looking at an image of themselves made to look older, has been found to make them more willing to save money for the future."
+  },
+  {
+   "label": "D",
+   "text": "Procrastination is not just an inconvenience. Studies of students have found that those who procrastinate more tend to receive lower marks, and that they report higher levels of stress, particularly as deadlines approach. In one well-known study, students who delayed their work felt less stressed than others early in the term, but became much more stressed, and fell ill more often, towards the end of it. Among adults, chronic procrastination has been linked with poorer finances, since paying bills and completing tax returns are often among the tasks that are put off. Some studies have also linked it with going to bed later than intended."
+  },
+  {
+   "label": "E",
+   "text": "Because the problem is emotional, advice that focuses only on planning often fails. Instead, researchers recommend strategies that make starting easier. One is to break a large task into very small steps, so that the first step seems manageable; another is to agree to work on a task for just a few minutes, on the understanding that one can stop after that. In practice, many people find that once they have started, they carry on. Professor Daniel Hart, who runs workshops for students at a Canadian university, also encourages people to notice the excuses they make, such as 'I work better under pressure', which, he says, are rarely true."
+  },
+  {
+   "label": "F",
+   "text": "A more surprising finding concerns self-criticism. It might seem that people who are hard on themselves after delaying a task would be less likely to do so again. In fact, the opposite appears to be true. In a study of students preparing for exams, those who forgave themselves for procrastinating before the first exam procrastinated less before the second. Lopez believes this is because guilt adds to the negative feelings that caused the delay in the first place."
+  },
+  {
+   "label": "G",
+   "text": "None of this means that every delay is harmful. Waiting until more information is available, or setting a task aside while thinking about it, can be perfectly sensible. Writers and artists, for example, often describe periods of apparent delay during which ideas develop in the background. Psychologists distinguish these deliberate decisions from procrastination, which they define as a voluntary delay that the person expects will make things worse. Recognising the difference, they suggest, is the first step towards changing the habit."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_info",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 1–5 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "a comparison between thinking about oneself and thinking about someone else"
+    },
+    {
+     "n": 2,
+     "text": "a reference to money problems linked with putting tasks off"
+    },
+    {
+     "n": 3,
+     "text": "an example of an untrue belief that people use to excuse delay"
+    },
+    {
+     "n": 4,
+     "text": "a definition that separates sensible waiting from procrastination"
+    },
+    {
+     "n": 5,
+     "text": "an estimate of how common serious procrastination is"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 6,
+   "to": 9,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 6–9 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 6,
+     "text": "According to the view described in paragraph B, people procrastinate mainly because",
+     "options": [
+      {
+       "k": "A",
+       "t": "delaying a task reduces bad feelings for a while."
+      },
+      {
+       "k": "B",
+       "t": "they are poor at planning their time."
+      },
+      {
+       "k": "C",
+       "t": "they enjoy working under pressure."
+      },
+      {
+       "k": "D",
+       "t": "the tasks they avoid are too easy."
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "text": "What did the well-known study of students find?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Students who delayed were calmer throughout the term."
+      },
+      {
+       "k": "B",
+       "t": "Students who delayed received the highest marks."
+      },
+      {
+       "k": "C",
+       "t": "Students who delayed became more stressed and unwell later on."
+      },
+      {
+       "k": "D",
+       "t": "All the students fell ill before their exams."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "What does the writer say about committing to a short period of effort?",
+     "options": [
+      {
+       "k": "A",
+       "t": "It rarely helps people to begin."
+      },
+      {
+       "k": "B",
+       "t": "It should be used only for small tasks."
+      },
+      {
+       "k": "C",
+       "t": "It tends to increase people's stress."
+      },
+      {
+       "k": "D",
+       "t": "It often leads people to keep working."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "text": "What did the research involving students facing two exams show?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Students who criticised themselves did better."
+      },
+      {
+       "k": "B",
+       "t": "Forgiving oneself was linked to less delay later."
+      },
+      {
+       "k": "C",
+       "t": "Feeling guilty helped students to start earlier."
+      },
+      {
+       "k": "D",
+       "t": "Students delayed less before the first exam."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 10,
+     "text": "In the past, procrastination was put down to laziness or to weak [[10]]."
+    },
+    {
+     "n": 11,
+     "text": "People may avoid a task because they are afraid of [[11]]."
+    },
+    {
+     "n": 12,
+     "text": "Splitting a large job into tiny [[12]] can make the start feel manageable."
+    },
+    {
+     "n": 13,
+     "text": "Lopez thinks that [[13]] makes the bad feelings behind the delay even stronger."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "put off",
+   "zh": "推迟；拖延"
+  },
+  {
+   "w": "procrastinate",
+   "zh": "拖延"
+  },
+  {
+   "w": "chronic",
+   "zh": "长期的；习惯性的"
+  },
+  {
+   "w": "relief",
+   "zh": "缓解；宽慰"
+  },
+  {
+   "w": "short-lived",
+   "zh": "短暂的"
+  },
+  {
+   "w": "at the cost of",
+   "zh": "以……为代价"
+  },
+  {
+   "w": "vividly",
+   "zh": "生动地；清晰地"
+  },
+  {
+   "w": "deadline",
+   "zh": "截止日期"
+  },
+  {
+   "w": "manageable",
+   "zh": "可应付的"
+  },
+  {
+   "w": "excuse",
+   "zh": "借口"
+  },
+  {
+   "w": "self-criticism",
+   "zh": "自我批评；自责"
+  },
+  {
+   "w": "voluntary",
+   "zh": "自愿的；主动的"
+  }
+ ],
+ "generatedAt": "2026-11-11T06:55:00+08:00",
+ "spec": "v5"
+}

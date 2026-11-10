@@ -1,0 +1,113 @@
+{
+ "id": "2026-11-11",
+ "answers": {
+  "1": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "the pattern of activity was closer to the pattern seen when they thought about a stranger"
+   },
+   "why": "C段。a comparison between thinking about oneself and thinking about someone else ↔ thought about themselves ten years in the future … closer to the pattern seen when they thought about a stranger。"
+  },
+  "2": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "chronic procrastination has been linked with poorer finances"
+   },
+   "why": "D段末句。money problems ↔ poorer finances；paying bills and completing tax returns 是例子。C段也提到存钱（save money），但那是关于想象未来的自己能让人更愿意存钱，不是拖延造成的金钱问题。"
+  },
+  "3": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "such as 'I work better under pressure', which, he says, are rarely true"
+   },
+   "why": "E段 Hart。an untrue belief that people use to excuse delay ↔ the excuses they make, such as 'I work better under pressure', which … are rarely true。"
+  },
+  "4": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "Psychologists distinguish these deliberate decisions from procrastination, which they define as a voluntary delay that the person expects will make things worse."
+   },
+   "why": "G段。a definition that separates sensible waiting from procrastination ↔ distinguish these deliberate decisions from procrastination, which they define as…。"
+  },
+  "5": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "around one in five adults regard themselves as chronic procrastinators"
+   },
+   "why": "A段。an estimate of how common serious procrastination is ↔ around one in five adults regard themselves as chronic procrastinators。"
+  },
+  "6": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "Putting it off brings immediate relief from these unpleasant feelings, even though the relief is short-lived"
+   },
+   "why": "B段。A delaying a task reduces bad feelings for a while ↔ Putting it off brings immediate relief from these unpleasant feelings … short-lived。B 是这一观点明确否定的（not because they cannot organise their time）；C 是E段提到的借口。"
+  },
+  "7": {
+   "a": "C",
+   "ev": {
+    "p": "D",
+    "q": "became much more stressed, and fell ill more often, towards the end of it"
+   },
+   "why": "D段。C became more stressed and unwell later on ↔ became much more stressed, and fell ill more often, towards the end of it。A 只对了一半：学期初确实压力较小（felt less stressed than others early in the term），但不是整个学期；B 与 lower marks 相反。"
+  },
+  "8": {
+   "a": "D",
+   "ev": {
+    "p": "E",
+    "q": "In practice, many people find that once they have started, they carry on."
+   },
+   "why": "E段。D It often leads people to keep working ↔ once they have started, they carry on。A、C 与原文相反；B 文中没有这种限制。"
+  },
+  "9": {
+   "a": "B",
+   "ev": {
+    "p": "F",
+    "q": "those who forgave themselves for procrastinating before the first exam procrastinated less before the second"
+   },
+   "why": "F段。B Forgiving oneself was linked to less delay later ↔ those who forgave themselves … procrastinated less before the second。A 是常见想法，但研究结果正好相反（the opposite appears to be true）；C 与 guilt adds to the negative feelings 相反。"
+  },
+  "10": {
+   "a": "time management",
+   "alt": [],
+   "ev": {
+    "p": "A",
+    "q": "procrastination was seen simply as a problem of laziness or of poor time management"
+   },
+   "why": "A段。put down to ↔ seen simply as a problem of；weak ___ ↔ poor time management。"
+  },
+  "11": {
+   "a": "failure",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "A task may be boring, difficult or associated with a fear of failure."
+   },
+   "why": "B段。afraid of ↔ a fear of。boring、difficult 也是原因，但不能接在 afraid of 后面。"
+  },
+  "12": {
+   "a": "steps",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "One is to break a large task into very small steps, so that the first step seems manageable"
+   },
+   "why": "E段。Splitting a large job into tiny ↔ break a large task into very small；make the start feel manageable ↔ the first step seems manageable。"
+  },
+  "13": {
+   "a": "guilt",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "guilt adds to the negative feelings that caused the delay in the first place"
+   },
+   "why": "F段末句。makes the bad feelings … even stronger ↔ adds to the negative feelings；behind the delay ↔ that caused the delay。self-criticism 也说得通，但原文这一句的主语是 guilt。"
+  }
+ }
+}
