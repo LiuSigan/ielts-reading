@@ -19,14 +19,15 @@ passage; write new text.
 
 The site is a static GitHub Pages site. Paths below are relative to the repository root.
 
-**Step 0 — only write new passages once the latest ones are done.** Before anything else, find the
-newest `date` in `data/index.json` (the latest batch) and fetch `GET <apiBase>/state`. If any
-passage of that latest batch has no attempt in `attempts`, or the state cannot be read, write
-nothing: no files, no commit, no push. Reply in Chinese with one short paragraph saying that
-today's passages are skipped, which of the latest passages (id and title) are still unattempted,
-and that new ones will come the morning after they are done. (The learner's standing
-instruction: "要是前一天没做，后一天就停止出题，直到做了最新的再出最新的".) Only when every
-passage of the latest batch has been attempted, continue with step 1.
+**Step 0 — skip a day only when none of the latest passages has been done.** Before anything
+else, find the newest `date` in `data/index.json` (the latest batch) and fetch
+`GET <apiBase>/state`. If NO passage of that latest batch has an attempt in `attempts`, or the
+state cannot be read, write nothing: no files, no commit, no push. Reply in Chinese with one short
+paragraph saying that today's passages are skipped because none of the latest passages (list id
+and title) has been done, and that new ones will come the morning after at least one of them is
+done. If at least one passage of the latest batch has been attempted, continue with step 1 as
+normal. (The learner's standing instruction: only skip when both of the previous day's passages
+are undone; one done is enough to keep going.)
 
 1. Read state:
    - `config.json` → `apiBase` (the sync API). If it is non-empty, `GET <apiBase>/state` returns
