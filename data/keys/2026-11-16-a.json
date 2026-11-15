@@ -1,0 +1,113 @@
+{
+ "id": "2026-11-16-a",
+ "answers": {
+  "1": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "the steel must contain at least 10.5 per cent chromium"
+   },
+   "why": "F段末句。the smallest proportion of an element that is required ↔ must contain at least 10.5 per cent chromium。C段的 12.8 per cent 是 Brearley 那块钢的实际含量，不是“最低要求”，这是最容易误选的。"
+  },
+  "2": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "corrosion of all kinds costs the world economy about 3 per cent of its total output each year"
+   },
+   "why": "A段。a figure for the global cost of damage to metals ↔ corrosion … costs the world economy about 3 per cent of its total output。G段也谈钱（more expensive / cheaper over the life of a product），但那是不锈钢本身的价格，不是全球腐蚀损失。"
+  },
+  "3": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "to cover the top of the Chrysler Building in New York"
+   },
+   "why": "E段。a well-known structure ↔ the Chrysler Building in New York。G段的 the outside walls of buildings 只是泛指建筑，没有提到具体有名的建筑。"
+  },
+  "4": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "also contained large amounts of carbon, which made them brittle, so that they cracked or broke"
+   },
+   "why": "B段。too fragile to use ↔ brittle, so that they cracked or broke … remained a scientific curiosity rather than a useful material；the reason ↔ large amounts of carbon。D段刀匠抱怨的是钢太硬、把工具弄钝（hard and blunted their tools），不是钢易碎。"
+  },
+  "5": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "old stainless steel can be melted down and used again without any loss of quality"
+   },
+   "why": "G段。reused ↔ melted down and used again；without becoming worse ↔ without any loss of quality。"
+  },
+  "6": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "A popular story says that he found pieces of it still shining on a heap of scrap metal outside the laboratory, but historians have found no evidence for this."
+   },
+   "why": "C段末句。an account of the discovery that may not be true ↔ A popular story says … but historians have found no evidence for this。D段的 is said to have been suggested 讲的是命名，不是发现过程。"
+  },
+  "7": {
+   "a": "acid",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "Before looking at a sample under the microscope, Brearley had to etch its surface with acid"
+   },
+   "why": "C段。studied under magnification ↔ looking at a sample under the microscope；treated with ↔ etch its surface with。B段的 acids 是复数且是 Berthier 的实验，和这里的步骤无关。"
+  },
+  "8": {
+   "a": "vinegar",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "ordinary steel blades were quickly stained by vinegar, fruit and other foods"
+   },
+   "why": "D段。marked by ↔ stained by；fruit 题干已给出，空格要填另一种食物 vinegar。不要填 cutlery 或 knives，它们是被弄脏的东西，不是弄脏它们的食物。"
+  },
+  "9": {
+   "a": "tools",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "at first the cutlers complained that it was hard and blunted their tools"
+   },
+   "why": "D段。knife makers ↔ the cutlers；at first said ↔ at first … complained；damaged ↔ blunted。hard 描述的是钢本身，不是被损坏的东西。"
+  },
+  "10": {
+   "a": "manager",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "is said to have been suggested by Ernest Stuart, a manager at the firm"
+   },
+   "why": "D段末句。probably proposed ↔ is said to have been suggested；Mosley's ↔ the firm（R. F. Mosley）。只能填一个词，所以填职位 manager，人名 Ernest Stuart 是两个词。"
+  },
+  "11": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "In 1821 the French scientist Pierre Berthier noticed that iron containing chromium was better able to resist attack by some acids."
+   },
+   "why": "B段。found ↔ noticed；withstand certain acids ↔ resist attack by some acids。F 也出自B段，但让金属变脆的是碳（carbon），不是 Berthier。"
+  },
+  "12": {
+   "a": "B",
+   "ev": {
+    "p": "E",
+    "q": "engineers at the Krupp company had been experimenting with steels that contained nickel as well as chromium"
+   },
+   "why": "E段。developed a type that combined chromium with a second added metal ↔ steels that contained nickel as well as chromium … took out a patent（a second added metal = nickel）。E 改名的是 Mosley 公司的 Ernest Stuart，不是 Krupp。"
+  },
+  "13": {
+   "a": "C",
+   "ev": {
+    "p": "F",
+    "q": "If the surface is scratched, the film quickly forms again, as long as oxygen is present."
+   },
+   "why": "F段。builds itself up again ↔ forms again；the surface is damaged ↔ the surface is scratched。D 是刀匠的抱怨（D段），说的是另一个主语。"
+  }
+ }
+}

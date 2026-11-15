@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-16",
+ "answers": {
+  "1": {
+   "a": "viii",
+   "ev": {
+    "p": "B",
+    "q": "acquaintances move in different circles and so can pass on information that we would not otherwise receive"
+   },
+   "why": "B段讲 weak ties：泛泛之交能带来我们原本得不到的信息。viii people we know only slightly ↔ someone they saw only occasionally or rarely / acquaintances。iii 是陷阱：段中恰恰说消息更多来自不常见的人，而不是 close friend。"
+  },
+  "2": {
+   "a": "vii",
+   "ev": {
+    "p": "C",
+    "q": "In fact, those who had spoken to a stranger reported the most enjoyable journey"
+   },
+   "why": "C段：志愿者以为和陌生人说话最不愉快，结果却是最愉快的一程。vii A journey that turned out better than expected ↔ predicted that talking would be the least pleasant … In fact … the most enjoyable journey。i 讲“为什么都等别人先开口”，那是D段的解释。"
+  },
+  "3": {
+   "a": "i",
+   "ev": {
+    "p": "D",
+    "q": "Because almost everyone holds the same mistaken belief, each person waits for the other to speak first"
+   },
+   "why": "D段解释预测为何出错：人人都以为对方不想聊，于是都等对方先开口。i Why everyone waits for someone else to begin ↔ each person waits for the other to speak first。vii 是C段的实验结果，D段只是解释原因。"
+  },
+  "4": {
+   "a": "v",
+   "ev": {
+    "p": "E",
+    "q": "On days when people had more of these minor contacts, they reported feeling happier and more connected to others."
+   },
+   "why": "E段 Brandt 的日记研究：短暂接触多的日子心情更好。v How passing exchanges affect the way we feel ↔ the effect of brief contacts on everyday mood / feeling happier。xi 是陷阱：内向者只是说更喜欢安静的日子，而且研究发现他们同样受益，段落主旨不是他们“讨厌与人相处”。"
+  },
+  "5": {
+   "a": "x",
+   "ev": {
+    "p": "F",
+    "q": "have removed many of the short conversations that were once part of daily errands"
+   },
+   "why": "F段：自助结账、网购、居家办公让日常的简短交谈越来越少。x Fewer chances for casual talk ↔ opportunities … becoming rarer / removed many of the short conversations … daily errands。ix 是陷阱：段中提到 working from home 是作为减少接触的原因，不是讲它的好处。"
+  },
+  "6": {
+   "a": "ii",
+   "ev": {
+    "p": "G",
+    "q": "A few organisations have tried to reverse the trend."
+   },
+   "why": "G段：超市的慢速结账通道、公园长椅，都是鼓励陌生人交谈的尝试。ii Attempts to encourage talk between strangers ↔ tried to reverse the trend … inviting passers-by to sit down and talk。vi 是陷阱：原文说 It is too early to say whether these schemes make a lasting difference，并没有证据。"
+  },
+  "7": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "acquaintances move in different circles and so can pass on information that we would not otherwise receive"
+   },
+   "why": "B段末句。B can tell us things we would not learn from friends ↔ pass on information that we would not otherwise receive。A 听起来合理但文中没说；C 与 saw only occasionally or rarely 相反；D 与 move in different circles 相反。"
+  },
+  "8": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "Before the journey, most volunteers predicted that talking would be the least pleasant option. In fact, those who had spoken to a stranger reported the most enjoyable journey"
+   },
+   "why": "C段。C the opposite of what most had predicted ↔ predicted … least pleasant … In fact … most enjoyable。A 错：none of them said that their attempt … had been rejected；B 说的是被要求安静坐着的那组（rated their journey as slightly less pleasant than usual），是张冠李戴。"
+  },
+  "9": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "Brandt was surprised to find that the pattern held for introverts as well as for extroverts"
+   },
+   "why": "E段末句。unexpected ↔ was surprised；introverts also benefited ↔ the pattern held for introverts as well as for extroverts。A 文中没有比较两类人的接触次数；D 中 dog owners 只是举例的接触对象。"
+  },
+  "10": {
+   "a": "B",
+   "ev": {
+    "p": "G",
+    "q": "It is too early to say whether these schemes make a lasting difference"
+   },
+   "why": "G段。B Their long-term effect is not yet known ↔ too early to say whether … a lasting difference。A 过度推断；C 与 many of them elderly 相反；D 错：超市在荷兰，只有长椅在英国。"
+  },
+  "11": {
+   "a": "mistaken belief",
+   "alt": [
+    "belief"
+   ],
+   "ev": {
+    "p": "D",
+    "q": "Because almost everyone holds the same mistaken belief, each person waits for the other to speak first"
+   },
+   "why": "D段。nearly all of them share ↔ almost everyone holds the same；stay silent ↔ each person waits for the other to speak first … the silence continues。只填 belief 意思也对，所以也算对。"
+  },
+  "12": {
+   "a": "save time",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "Brandt points out that these changes are usually introduced to save time"
+   },
+   "why": "F段末句。generally made in order to ↔ usually introduced to。不要填 daily errands：那是这些变化所影响的东西，不是它们的目的。"
+  },
+  "13": {
+   "a": "hurry",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "customers who are in no hurry, many of them elderly"
+   },
+   "why": "G段。shoppers who are not in a hurry ↔ customers who are in no hurry。elderly 是对这些顾客的描述，填进空格语法也不通（not in a elderly）。"
+  }
+ }
+}

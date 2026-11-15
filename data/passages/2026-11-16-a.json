@@ -1,0 +1,214 @@
+{
+ "id": "2026-11-16-a",
+ "date": "2026-11-16",
+ "level": 5.0,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "materials & engineering",
+ "title": "The Steel That Would Not Rust",
+ "subtitle": "How an experiment with gun barrels in Sheffield changed the kitchen, the hospital and the skyline",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Iron and ordinary steel have one serious weakness: in the presence of water and oxygen they rust. The reddish layer that forms on the surface is weak and flaky, and as it falls away, fresh metal is exposed and the process continues. Rust weakens bridges, ships and machines, and the cost of repairing and replacing damaged metal is enormous. One international study published in 2016 estimated that corrosion of all kinds costs the world economy about 3 per cent of its total output each year. For centuries, the only defence was to cover iron with paint, oil or a thin layer of another metal such as tin or zinc."
+  },
+  {
+   "label": "B",
+   "text": "Scientists had long suspected that mixing iron with other elements might help. In 1821 the French scientist Pierre Berthier noticed that iron containing chromium was better able to resist attack by some acids. However, the metals produced in the nineteenth century also contained large amounts of carbon, which made them brittle, so that they cracked or broke when they were hammered or bent. Without a way of reducing the carbon, chromium steel remained a scientific curiosity rather than a useful material, and several later researchers who tested similar mixtures did not realise how valuable they might be."
+  },
+  {
+   "label": "C",
+   "text": "The breakthrough is usually credited to Harry Brearley, who ran a research laboratory in Sheffield, then the centre of the British steel industry. In 1913 he was asked to find a steel for rifle barrels that would wear away less quickly when the guns were fired. He made a series of experimental steels containing chromium, and one of them, with about 12.8 per cent chromium, was produced on 13 August 1913. Before looking at a sample under the microscope, Brearley had to etch its surface with acid, and he noticed that this steel was hardly affected. A popular story says that he found pieces of it still shining on a heap of scrap metal outside the laboratory, but historians have found no evidence for this."
+  },
+  {
+   "label": "D",
+   "text": "Brearley soon saw that the new steel might be ideal for cutlery. Sheffield was famous for its knives, but ordinary steel blades were quickly stained by vinegar, fruit and other foods, and had to be cleaned with great care. He persuaded a local firm, R. F. Mosley, to try the metal, but at first the cutlers complained that it was hard and blunted their tools. Eventually they succeeded, and the first knives went on sale in 1914. Brearley had called his invention “rustless steel”, but the name “stainless steel” is said to have been suggested by Ernest Stuart, a manager at the firm, and it was this name that stayed."
+  },
+  {
+   "label": "E",
+   "text": "Brearley was not the only person working on the problem. In Germany, engineers at the Krupp company had been experimenting with steels that contained nickel as well as chromium, and they took out a patent for one in 1912. This type was easier to shape and even more resistant to corrosion, and it later became the most widely used kind of stainless steel. Krupp's steel was used, for example, to cover the top of the Chrysler Building in New York, which was completed in 1930 and still shines today."
+  },
+  {
+   "label": "F",
+   "text": "The secret of stainless steel lies in a layer that cannot be seen. When chromium in the steel meets oxygen in the air, it forms an extremely thin film of chromium oxide over the surface, only a few millionths of a millimetre thick. Unlike rust, this film is tight and stable, and it stops oxygen and water from reaching the iron underneath. If the surface is scratched, the film quickly forms again, as long as oxygen is present. For this to happen, the steel must contain at least 10.5 per cent chromium; below this level the protective layer is incomplete."
+  },
+  {
+   "label": "G",
+   "text": "Today stainless steel is found almost everywhere, from kitchen sinks and surgical instruments to food factories and the outside walls of buildings. More than 50 million tonnes are produced each year. It is more expensive than ordinary steel, but because it lasts much longer and needs little maintenance, it can be cheaper over the life of a product. It is also one of the most recycled materials in the world: old stainless steel can be melted down and used again without any loss of quality, and much of the new metal made today contains recycled scrap."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_info",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 1–6 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "the smallest proportion of an element that is required for protection"
+    },
+    {
+     "n": 2,
+     "text": "a figure for the global cost of damage to metals"
+    },
+    {
+     "n": 3,
+     "text": "a reference to a well-known structure"
+    },
+    {
+     "n": 4,
+     "text": "the reason why an early form of the metal was too fragile to use"
+    },
+    {
+     "n": 5,
+     "text": "the fact that the metal can be reused without becoming worse"
+    },
+    {
+     "n": 6,
+     "text": "an account of the discovery that may not be true"
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose ONE WORD ONLY from the passage for each answer.",
+    "Write your answers in boxes 7–10 on your answer sheet."
+   ],
+   "wordLimit": "ONE WORD ONLY",
+   "maxWords": 1,
+   "allowNumber": false,
+   "title": "Brearley's discovery",
+   "lines": [
+    {
+     "text": "– each sample was treated with [[7]] so that it could be studied under magnification",
+     "indent": 0
+    },
+    {
+     "text": "– blades made from ordinary steel were marked by foods such as fruit and [[8]]",
+     "indent": 0
+    },
+    {
+     "text": "– knife makers at first said the new metal damaged their [[9]]",
+     "indent": 0
+    },
+    {
+     "text": "– the name now used was probably proposed by a [[10]] at Mosley's",
+     "indent": 0
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–F, below.",
+    "Write the correct letter, A–F, in boxes 11–13 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 11,
+     "text": "In 1821, Pierre Berthier"
+    },
+    {
+     "n": 12,
+     "text": "The engineers at Krupp"
+    },
+    {
+     "n": 13,
+     "text": "The thin layer of chromium oxide"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "found that adding chromium helped iron to withstand certain acids."
+    },
+    {
+     "k": "B",
+     "t": "developed a type that combined chromium with a second added metal."
+    },
+    {
+     "k": "C",
+     "t": "builds itself up again when the surface is damaged."
+    },
+    {
+     "k": "D",
+     "t": "objected that the new metal was difficult to work with."
+    },
+    {
+     "k": "E",
+     "t": "proposed a new name for the metal."
+    },
+    {
+     "k": "F",
+     "t": "made the metal too brittle to be useful."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "rust",
+   "zh": "生锈；铁锈"
+  },
+  {
+   "w": "corrosion",
+   "zh": "腐蚀"
+  },
+  {
+   "w": "flaky",
+   "zh": "易剥落的；片状的"
+  },
+  {
+   "w": "brittle",
+   "zh": "脆的；易碎的"
+  },
+  {
+   "w": "curiosity",
+   "zh": "奇物；稀罕东西"
+  },
+  {
+   "w": "be credited to",
+   "zh": "归功于"
+  },
+  {
+   "w": "etch",
+   "zh": "蚀刻"
+  },
+  {
+   "w": "blunt",
+   "zh": "使变钝"
+  },
+  {
+   "w": "patent",
+   "zh": "专利"
+  },
+  {
+   "w": "resistant to",
+   "zh": "耐……的；抵抗……的"
+  },
+  {
+   "w": "maintenance",
+   "zh": "维护；保养"
+  },
+  {
+   "w": "recycle",
+   "zh": "回收利用"
+  }
+ ],
+ "generatedAt": "2026-11-16T06:50:00+08:00",
+ "spec": "v5"
+}

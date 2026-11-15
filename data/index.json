@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-10T22:50:23.244Z",
+ "updatedAt": "2026-11-15T22:52:45.579Z",
  "passages": [
+  {
+   "id": "2026-11-16-a",
+   "date": "2026-11-16",
+   "slot": "p1",
+   "title": "The Steel That Would Not Rust",
+   "level": 5,
+   "style": "P1",
+   "topicArea": "materials & engineering",
+   "types": [
+    "match_info",
+    "note_completion",
+    "sentence_endings"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-16T06:50:00+08:00"
+  },
+  {
+   "id": "2026-11-16",
+   "date": "2026-11-16",
+   "slot": "main",
+   "title": "The Value of Strangers",
+   "level": 5,
+   "style": "P2",
+   "topicArea": "sociology",
+   "types": [
+    "headings",
+    "mcq",
+    "sentence_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-16T06:55:00+08:00"
+  },
   {
    "id": "2026-11-11-a",
    "date": "2026-11-11",

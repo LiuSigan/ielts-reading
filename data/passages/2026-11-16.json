@@ -1,0 +1,308 @@
+{
+ "id": "2026-11-16",
+ "date": "2026-11-16",
+ "level": 5.0,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "sociology",
+ "title": "The Value of Strangers",
+ "subtitle": "We tend to avoid talking to people we do not know. Research suggests we may be missing out",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "On a crowded train in almost any large city, most passengers spend the journey in silence, looking at their phones or out of the window. Talking to a stranger is widely seen as odd or even rude, and many people assume that the person beside them would prefer to be left alone. In big cities, where people pass thousands of others every day, keeping to oneself can seem like a sensible way of coping. Yet a growing body of research suggests that this habit may cost us more than we think, and that the brief, casual contacts we have with people we hardly know play a surprisingly large part in our lives."
+  },
+  {
+   "label": "B",
+   "text": "One of the first researchers to take these contacts seriously was the American sociologist Mark Granovetter. In a famous paper published in 1973, he described what he called the strength of weak ties. Granovetter had interviewed people in the Boston area who had recently changed jobs, and he found that those who had heard about their new job through a personal contact had more often heard about it from someone they saw only occasionally or rarely than from a close friend. His explanation was simple. Close friends tend to know the same people and hear the same news as we do, whereas acquaintances move in different circles and so can pass on information that we would not otherwise receive."
+  },
+  {
+   "label": "C",
+   "text": "More recent studies have looked at what happens when people actually talk to strangers. In one experiment carried out on commuter trains, Dr Ruth Okafor and her colleagues at the University of Leeds asked one group of volunteers to start a conversation with the person sitting next to them, while a second group was told to sit quietly and a third was given no instructions. Before the journey, most volunteers predicted that talking would be the least pleasant option. In fact, those who had spoken to a stranger reported the most enjoyable journey, and none of them said that their attempt to start a conversation had been rejected. The volunteers who sat quietly, by contrast, rated their journey as slightly less pleasant than usual."
+  },
+  {
+   "label": "D",
+   "text": "Why are our predictions so wrong? Okafor believes that part of the answer lies in what people imagine others are thinking. Volunteers in her studies expected strangers to be less interested in talking than they really were, and after a conversation they also underestimated how much the other person had liked them. Because almost everyone holds the same mistaken belief, each person waits for the other to speak first, and the silence on the train continues. A similar pattern has been found among new university students, who often believe that their classmates have already made all the friends they want."
+  },
+  {
+   "label": "E",
+   "text": "Other researchers have studied the effect of brief contacts on everyday mood. Professor Lena Brandt of the University of Hamburg asked more than 200 adults to record their social interactions for a week, noting not only time spent with family and close friends but also short exchanges with people such as shop assistants, neighbours and other dog owners in the park. On days when people had more of these minor contacts, they reported feeling happier and more connected to others. Brandt was surprised to find that the pattern held for introverts as well as for extroverts, even though introverts said they preferred quieter days."
+  },
+  {
+   "label": "F",
+   "text": "Some social scientists are concerned that opportunities for such encounters are becoming rarer. Self-service checkouts, online shopping and banking apps have removed many of the short conversations that were once part of daily errands. The rise of working from home since 2020 has also reduced casual contact between colleagues who do not work together directly, the very people whom Granovetter's research suggests may be most useful. Brandt points out that these changes are usually introduced to save time, and that few people notice what has been lost."
+  },
+  {
+   "label": "G",
+   "text": "A few organisations have tried to reverse the trend. In 2019 the Dutch supermarket chain Jumbo opened a slow checkout at which customers who are in no hurry, many of them elderly, can chat with the cashier while their shopping is scanned. Some towns in Britain have placed special benches in parks, with signs inviting passers-by to sit down and talk to whoever is there. It is too early to say whether these schemes make a lasting difference, but researchers argue that the first step may simply be to recognise that a short conversation with a stranger is rarely as unwelcome as we fear."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Choose the correct heading for paragraphs B–G from the list of headings below.",
+    "Write the correct number, i–xi, in boxes 1–6 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "Why everyone waits for someone else to begin"
+    },
+    {
+     "k": "ii",
+     "t": "Attempts to encourage talk between strangers"
+    },
+    {
+     "k": "iii",
+     "t": "How close friends help people find work"
+    },
+    {
+     "k": "iv",
+     "t": "A habit of keeping to ourselves"
+    },
+    {
+     "k": "v",
+     "t": "How passing exchanges affect the way we feel"
+    },
+    {
+     "k": "vi",
+     "t": "Proof that new schemes reduce loneliness"
+    },
+    {
+     "k": "vii",
+     "t": "A journey that turned out better than expected"
+    },
+    {
+     "k": "viii",
+     "t": "The value of people we know only slightly"
+    },
+    {
+     "k": "ix",
+     "t": "The advantages of working from home"
+    },
+    {
+     "k": "x",
+     "t": "Fewer chances for casual talk"
+    },
+    {
+     "k": "xi",
+     "t": "Quiet people and their dislike of company"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iv"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    },
+    {
+     "n": 6,
+     "para": "G"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 7–10 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "According to Granovetter, acquaintances are useful because they",
+     "options": [
+      {
+       "k": "A",
+       "t": "are more willing to help than close friends are."
+      },
+      {
+       "k": "B",
+       "t": "can tell us things we would not learn from friends."
+      },
+      {
+       "k": "C",
+       "t": "are in contact with us more often than friends are."
+      },
+      {
+       "k": "D",
+       "t": "usually work in the same field as we do."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "What happened to the volunteers who were told to talk to a stranger?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Several of them found that the stranger refused to talk."
+      },
+      {
+       "k": "B",
+       "t": "They enjoyed the journey less than they usually did."
+      },
+      {
+       "k": "C",
+       "t": "Their experience was the opposite of what most had predicted."
+      },
+      {
+       "k": "D",
+       "t": "They liked it less than the group given no instructions."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "text": "What did Brandt find unexpected about her results?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Introverts had more brief contacts than extroverts."
+      },
+      {
+       "k": "B",
+       "t": "Time with family made people less happy."
+      },
+      {
+       "k": "C",
+       "t": "Introverts also benefited from more minor contacts."
+      },
+      {
+       "k": "D",
+       "t": "Dog owners were happier than other participants."
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "text": "What does the writer say about the slow checkout and the benches?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They have been shown to reduce loneliness."
+      },
+      {
+       "k": "B",
+       "t": "Their long-term effect is not yet known."
+      },
+      {
+       "k": "C",
+       "t": "They are mainly used by young people."
+      },
+      {
+       "k": "D",
+       "t": "They were both first introduced in Britain."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 11–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 11,
+     "text": "Okafor suggests that strangers stay silent because of a [[11]] that nearly all of them share."
+    },
+    {
+     "n": 12,
+     "text": "Changes such as self-service checkouts are generally made in order to [[12]]."
+    },
+    {
+     "n": 13,
+     "text": "The Dutch supermarket's special checkout is intended for shoppers who are not in a [[13]]."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "keep to oneself",
+   "zh": "不与人交往；独来独往"
+  },
+  {
+   "w": "cope",
+   "zh": "应对；应付"
+  },
+  {
+   "w": "acquaintance",
+   "zh": "熟人；泛泛之交"
+  },
+  {
+   "w": "weak ties",
+   "zh": "弱关系"
+  },
+  {
+   "w": "move in different circles",
+   "zh": "处于不同的社交圈"
+  },
+  {
+   "w": "commuter",
+   "zh": "通勤者"
+  },
+  {
+   "w": "underestimate",
+   "zh": "低估"
+  },
+  {
+   "w": "introvert / extrovert",
+   "zh": "内向者 / 外向者"
+  },
+  {
+   "w": "encounter",
+   "zh": "相遇；偶遇"
+  },
+  {
+   "w": "errand",
+   "zh": "差事；日常杂事"
+  },
+  {
+   "w": "reverse the trend",
+   "zh": "扭转趋势"
+  },
+  {
+   "w": "unwelcome",
+   "zh": "不受欢迎的"
+  }
+ ],
+ "generatedAt": "2026-11-16T06:55:00+08:00",
+ "spec": "v5"
+}
