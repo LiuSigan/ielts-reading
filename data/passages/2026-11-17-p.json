@@ -1,0 +1,313 @@
+{
+ "id": "2026-11-17-p",
+ "date": "2026-11-17",
+ "level": 7.0,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "economics & business",
+ "title": "The Trouble with Open Offices",
+ "subtitle": "Removing the walls was supposed to bring people together. The evidence suggests otherwise",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Few changes to working life have been promoted as enthusiastically, or resented as widely, as the open-plan office. Over the past half century, walls and doors have been removed from workplaces across the world, and today a majority of office employees in many countries sit in shared spaces without partitions. The arguments in favour are familiar: open offices are said to encourage conversation, break down barriers between departments and make managers more approachable. Their critics reply that they are noisy, distracting and stressful. Both sides tend to speak as if the question were settled. It is not, but the evidence that has accumulated over the past two decades points more clearly in one direction than the champions of open space would like to admit."
+  },
+  {
+   "label": "B",
+   "text": "The idea is older than is often supposed. Frank Lloyd Wright's Larkin Administration Building, completed in Buffalo, New York, in 1906, placed hundreds of clerks in a single great hall, although the purpose there was as much supervision as cooperation. In the late 1950s a team of German consultants developed what they called the office landscape, in which desks were grouped irregularly according to the flow of work, with plants and screens rather than walls dividing one group from another. The cubicle, introduced in the United States in the 1960s, was originally intended as a flexible improvement on such arrangements; only later did it become a symbol of anonymous corporate life. What finally made open plans almost universal, however, was not a theory of work but the price of property: removing walls allows more people to be fitted into the same floor area, and in expensive city centres that saving is hard to ignore."
+  },
+  {
+   "label": "C",
+   "text": "The claim that open offices increase collaboration is the one most often made, and the one that has fared worst under examination. Managers often cite it when announcing a move, and architects place it at the centre of their proposals. In a study published in 2018, two researchers at Harvard Business School used wearable sensors to record the interactions of employees at two large companies before and after they moved from cubicles to open-plan floors. Far from increasing, face-to-face interaction fell by roughly 70 per cent, while the use of email and instant messaging rose. The researchers' interpretation was that when everyone can see and hear everyone else, people protect what little privacy remains by withdrawing: they wear headphones, avoid eye contact and move their conversations onto their screens."
+  },
+  {
+   "label": "D",
+   "text": "Noise and interruption are the other main charge. Research on what psychologists call irrelevant speech has repeatedly found that overheard conversation is especially damaging to tasks involving reading, writing and arithmetic, because the brain cannot help processing language even when it is trying to ignore it. Laboratory studies typically find modest effects, of the order of a few per cent. Dr Miriam Achterberg, an environmental psychologist at the University of Groningen, cautions against dismissing such figures, however. A small reduction in efficiency, she points out, repeated across every working hour of every employee, may cost an organisation more than the rent it saved by removing the walls in the first place. Interruptions add a further cost: one widely cited estimate suggests that after being distracted, a worker may need many minutes to return fully to a demanding task."
+  },
+  {
+   "label": "E",
+   "text": "Admittedly, not every finding is negative. Some studies have found that open layouts make it easier for new employees to learn by observing more experienced colleagues, and that teams whose work genuinely requires constant coordination, such as those in newsrooms or on trading floors, can benefit from being close together. Professor Daniel Okonkwo of the London School of Economics argues that the problem lies less in openness itself than in the assumption that one layout can suit every kind of task. In his surveys, how satisfied employees were depended far more on whether they could find somewhere quiet when they needed it than on whether their main desk was enclosed. Openness, on this view, is not the enemy; the absence of any alternative to it is."
+  },
+  {
+   "label": "F",
+   "text": "This line of thinking has led many organisations towards so-called activity-based working, in which employees have no fixed desk but choose among quiet rooms, open areas, booths for telephone calls and spaces for meetings, depending on what they are doing. In principle, this answers the critics. In practice, the results have been mixed. Companies adopting the model have often provided too few quiet spaces, partly because the original motive, saving space, has not gone away. Employees who arrive late may find only the noisiest desks left, and several studies report that workers rarely move during the day even when alternatives are available, preferring to keep the place they claimed in the morning. Some employees also report that the daily search for a desk is itself a source of stress."
+  },
+  {
+   "label": "G",
+   "text": "None of this means that private offices for everyone are the answer; they are expensive, can isolate staff from one another and are no guarantee of good work. Nor is the evidence uniform across industries, and some of the studies are small. The lesson of the research is rather that the choice of layout has too often been justified by claims about collaboration while being driven by cost. An honest assessment would admit the trade-off openly, measure what employees actually do rather than what designers hope they will do, and treat the ability to work without interruption not as a privilege reserved for senior staff but as a basic requirement of any job that demands sustained concentration."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Choose the correct heading for paragraphs B–G from the list of headings below.",
+    "Write the correct number, i–xi, in boxes 1–6 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "A building designed for watching staff"
+    },
+    {
+     "k": "ii",
+     "t": "Why small losses should not be overlooked"
+    },
+    {
+     "k": "iii",
+     "t": "A debate that the evidence is beginning to resolve"
+    },
+    {
+     "k": "iv",
+     "t": "An economic motive behind a design history"
+    },
+    {
+     "k": "v",
+     "t": "The superiority of the private office"
+    },
+    {
+     "k": "vi",
+     "t": "A promising compromise that has often fallen short"
+    },
+    {
+     "k": "vii",
+     "t": "Headphones as a remedy for distraction"
+    },
+    {
+     "k": "viii",
+     "t": "Closeness that drove people apart"
+    },
+    {
+     "k": "ix",
+     "t": "Calling for candour about competing priorities"
+    },
+    {
+     "k": "x",
+     "t": "Somewhere to retreat counts for more than walls"
+    },
+    {
+     "k": "xi",
+     "t": "How newcomers learn by watching others"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    },
+    {
+     "n": 6,
+     "para": "G"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 7–10 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "What did the 2018 study suggest about employees who moved to open-plan floors?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They spoke to colleagues more often, but for shorter periods."
+      },
+      {
+       "k": "B",
+       "t": "They replaced many in-person exchanges with written ones."
+      },
+      {
+       "k": "C",
+       "t": "They sent fewer messages because colleagues were nearby."
+      },
+      {
+       "k": "D",
+       "t": "They asked for partitions in order to regain their privacy."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "What is Achterberg's view of the laboratory findings on noise?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They exaggerate how much overheard speech affects performance."
+      },
+      {
+       "k": "B",
+       "t": "Their apparently minor effects may add up to a considerable cost."
+      },
+      {
+       "k": "C",
+       "t": "They show that only reading tasks are harmed by conversation."
+      },
+      {
+       "k": "D",
+       "t": "They prove that savings on rent outweigh any loss of efficiency."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "text": "According to the writer, what has commonly gone wrong with activity-based working?",
+     "options": [
+      {
+       "k": "A",
+       "t": "Employees have objected to losing their own desks."
+      },
+      {
+       "k": "B",
+       "t": "The choice of spaces has caused too many interruptions."
+      },
+      {
+       "k": "C",
+       "t": "The pressure to economise has limited the number of quiet areas."
+      },
+      {
+       "k": "D",
+       "t": "It has proved more expensive than a conventional open office."
+      }
+     ]
+    },
+    {
+     "n": 10,
+     "text": "What is the writer's main purpose in the passage?",
+     "options": [
+      {
+       "k": "A",
+       "t": "to argue that every employee should be given a private office"
+      },
+      {
+       "k": "B",
+       "t": "to trace the development of office design since 1906"
+      },
+      {
+       "k": "C",
+       "t": "to show that open offices succeed in some industries but not others"
+      },
+      {
+       "k": "D",
+       "t": "to argue that the real reasons for open offices should be acknowledged and their costs weighed"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 11,
+   "to": 14,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose ONE WORD ONLY from the passage for each answer.",
+    "Write your answers in boxes 11–14 on your answer sheet."
+   ],
+   "wordLimit": "ONE WORD ONLY",
+   "maxWords": 1,
+   "allowNumber": false,
+   "title": "Origins of the open office",
+   "lines": [
+    {
+     "text": "– 1906, Buffalo: one great hall, meant to aid not only cooperation but also the [[11]] of clerks",
+     "indent": 0
+    },
+    {
+     "text": "– late 1950s, Germany: desks arranged to follow the [[12]] of tasks",
+     "indent": 0
+    },
+    {
+     "text": "– groups separated by screens and [[13]], not walls",
+     "indent": 0
+    },
+    {
+     "text": "– main reason open plans spread: the cost of [[14]]",
+     "indent": 0
+    }
+   ]
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "resent",
+   "zh": "怨恨；不满"
+  },
+  {
+   "w": "partition",
+   "zh": "隔断；隔板"
+  },
+  {
+   "w": "approachable",
+   "zh": "平易近人的；容易接近的"
+  },
+  {
+   "w": "champion",
+   "zh": "拥护者；倡导者"
+  },
+  {
+   "w": "supervision",
+   "zh": "监督；管理"
+  },
+  {
+   "w": "fare worst",
+   "zh": "表现最差；结果最糟"
+  },
+  {
+   "w": "withdraw",
+   "zh": "退缩；回避"
+  },
+  {
+   "w": "irrelevant speech",
+   "zh": "无关言语（干扰）"
+  },
+  {
+   "w": "of the order of",
+   "zh": "大约；数量级为"
+  },
+  {
+   "w": "trade-off",
+   "zh": "权衡；取舍"
+  },
+  {
+   "w": "privilege",
+   "zh": "特权"
+  },
+  {
+   "w": "sustained concentration",
+   "zh": "持续的专注"
+  }
+ ],
+ "generatedAt": "2026-11-17T07:00:00+08:00",
+ "spec": "v5"
+}

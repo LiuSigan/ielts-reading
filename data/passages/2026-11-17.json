@@ -1,0 +1,213 @@
+{
+ "id": "2026-11-17",
+ "date": "2026-11-17",
+ "level": 5.0,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "biology & ecology",
+ "title": "Why Birds Sing at Dawn",
+ "subtitle": "The dawn chorus is one of nature's most familiar sounds. Explaining it has proved surprisingly difficult",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "In spring, anyone who wakes early in a temperate country will hear what is known as the dawn chorus. Shortly before sunrise, often while it is still dark, birds begin to sing, and for an hour or so the sound can be remarkably loud. Some species are early risers: robins and blackbirds may start well before first light, while others, such as finches, tend to join in only once the sun is up. The chorus is strongest from March to June, the breeding season, and then becomes quieter. Birds sing at other times of day as well, but rarely with the same intensity, and the question of why so much singing is concentrated in such a short period has puzzled scientists for decades."
+  },
+  {
+   "label": "B",
+   "text": "Most songbirds that sing are males, and their song has two main purposes. It warns rival males that a territory is occupied, and it advertises the singer to females. Neither purpose obviously requires singing at dawn, however, and singing is not free. A small bird may lose a significant part of its body weight overnight simply keeping warm, so the energy it spends on song before it has eaten is energy that could have been saved. Any explanation of the chorus therefore has to explain why birds are willing to pay this cost."
+  },
+  {
+   "label": "C",
+   "text": "One long-standing idea is that dawn is simply the best time for sound to travel. In the early morning the air is often still and cool, with less of the turbulence that scatters sound later in the day, so a song might be heard over a wider area. Dr Helen Marsh of the University of Exeter tested this by playing recorded songs through loudspeakers in woodland at different times and measuring how far away they could be detected. She found that songs did carry further at dawn, but only by around 10 per cent compared with midday, an advantage she considers too small to account for the chorus on its own."
+  },
+  {
+   "label": "D",
+   "text": "A second explanation focuses on food. Many songbirds feed on insects, which are hard to find in poor light and are often inactive in the cold early morning. If foraging is inefficient at dawn, singing may be the most useful thing a bird can do with that time. A related idea is that dawn song is an honest signal of a bird's condition: only a male that has survived the night with energy to spare can afford to sing loudly. In support of this, Professor Anders Holm, working in Sweden, gave extra food to some male great tits in the evening and found that they began singing earlier the next morning and sang for longer than birds that had not been fed."
+  },
+  {
+   "label": "E",
+   "text": "Other researchers link the chorus to breeding behaviour. Female birds of many species tend to be most fertile early in the morning, shortly after laying an egg. A male that sings at this time may be guarding his partner, reminding rival males that he is present, and also attracting the attention of other females. Dr Clara Ruiz of the University of Granada recorded the singing of male nightingales over a whole season and found that their dawn singing was most intense in the days when their partners were laying, and fell sharply once the eggs had hatched."
+  },
+  {
+   "label": "F",
+   "text": "In towns and cities, the timing of the chorus is changing. Some urban birds now begin singing much earlier than their relatives in forests, and in a few places robins can be heard singing in the middle of the night. Street lighting was long assumed to be the cause, but a study carried out in Sheffield in 2007 found that night-time singing by robins was more closely linked to the level of noise during the day than to artificial light. The researchers suggested that birds in noisy areas may move their singing to quieter hours, when there is less traffic to compete with."
+  },
+  {
+   "label": "G",
+   "text": "Most scientists now believe that no single theory explains the dawn chorus. Sound transmission, the difficulty of feeding in the dark, the signalling of good condition and the needs of breeding may all play a part, and their importance probably differs from one species to another. What seems clear is that the chorus is not a simple expression of joy at the arrival of morning, as poets once imagined, but a carefully timed performance in which birds compete for space and partners."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_info",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 1–6 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "a figure showing how much an advantage at one time of day amounts to"
+    },
+    {
+     "n": 2,
+     "text": "a reference to an idea about birdsong that is no longer accepted"
+    },
+    {
+     "n": 3,
+     "text": "an explanation of why singing early in the day is costly for birds"
+    },
+    {
+     "n": 4,
+     "text": "an example of birds adjusting their behaviour to human activity"
+    },
+    {
+     "n": 5,
+     "text": "a contrast between species that begin singing at different times"
+    },
+    {
+     "n": 6,
+     "text": "a description of a fall in singing at a particular stage of breeding"
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 7,
+   "to": 9,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–F, below.",
+    "Write the correct letter, A–F, in boxes 7–9 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "Helen Marsh"
+    },
+    {
+     "n": 8,
+     "text": "Anders Holm"
+    },
+    {
+     "n": 9,
+     "text": "Clara Ruiz"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "suggested that birds may shift their singing to times with less traffic."
+    },
+    {
+     "k": "B",
+     "t": "showed that what a bird ate in the evening affected when it sang the following day."
+    },
+    {
+     "k": "C",
+     "t": "played recorded songs to female birds to see how they would react."
+    },
+    {
+     "k": "D",
+     "t": "concluded that a slight gain in how well sound travels could not explain the chorus alone."
+    },
+    {
+     "k": "E",
+     "t": "observed that some species do not start singing until after sunrise."
+    },
+    {
+     "k": "F",
+     "t": "found that singing dropped once the young birds had come out of their eggs."
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 10,
+     "text": "A male's song tells other males that a particular [[10]] already has an owner."
+    },
+    {
+     "n": 11,
+     "text": "Songs may be heard further away at dawn because there is little [[11]] in the air to break up the sound."
+    },
+    {
+     "n": 12,
+     "text": "Loud singing at dawn may be an [[12]] that shows a male is in good health."
+    },
+    {
+     "n": 13,
+     "text": "The Sheffield study suggests that robins singing at night are mainly reacting to daytime [[13]]."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "dawn chorus",
+   "zh": "黎明合唱（清晨群鸟鸣唱）"
+  },
+  {
+   "w": "temperate",
+   "zh": "温带的"
+  },
+  {
+   "w": "intensity",
+   "zh": "强度"
+  },
+  {
+   "w": "territory",
+   "zh": "领地"
+  },
+  {
+   "w": "advertise",
+   "zh": "宣传；展示"
+  },
+  {
+   "w": "turbulence",
+   "zh": "（空气）湍流；紊乱"
+  },
+  {
+   "w": "account for",
+   "zh": "解释；说明"
+  },
+  {
+   "w": "forage",
+   "zh": "觅食"
+  },
+  {
+   "w": "honest signal",
+   "zh": "（生物学）诚实信号"
+  },
+  {
+   "w": "fertile",
+   "zh": "能生育的；可受孕的"
+  },
+  {
+   "w": "hatch",
+   "zh": "孵化；破壳"
+  },
+  {
+   "w": "artificial light",
+   "zh": "人造光"
+  }
+ ],
+ "generatedAt": "2026-11-17T06:55:00+08:00",
+ "spec": "v5"
+}

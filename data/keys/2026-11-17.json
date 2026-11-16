@@ -1,0 +1,113 @@
+{
+ "id": "2026-11-17",
+ "answers": {
+  "1": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "She found that songs did carry further at dawn, but only by around 10 per cent compared with midday"
+   },
+   "why": "C段。a figure showing how much an advantage at one time of day amounts to ↔ songs did carry further at dawn, but only by around 10 per cent。F段的 2007 是年份，不是“优势有多大”的数字；A段的 March to June 是时间段。"
+  },
+  "2": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "the chorus is not a simple expression of joy at the arrival of morning, as poets once imagined"
+   },
+   "why": "G段末句。an idea that is no longer accepted ↔ not a simple expression of joy … as poets once imagined。F段的 Street lighting was long assumed to be the cause 也是被推翻的看法，但说的是城市鸟夜鸣的原因，不是关于鸟鸣本身的观念。这一题容易在 F 和 G 之间犹豫：F 是关于一个“原因”的假设，G 才是对鸟鸣性质的旧看法。"
+  },
+  "3": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "the energy it spends on song before it has eaten is energy that could have been saved"
+   },
+   "why": "B段。costly ↔ singing is not free / pay this cost；why ↔ lose a significant part of its body weight overnight … energy … before it has eaten。D段的 energy to spare 讲的是“能负担得起”的鸟，用来说明信号，不是解释为什么代价高。"
+  },
+  "4": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "birds in noisy areas may move their singing to quieter hours, when there is less traffic to compete with"
+   },
+   "why": "F段。adjusting their behaviour to human activity ↔ move their singing to quieter hours, when there is less traffic。"
+  },
+  "5": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "robins and blackbirds may start well before first light, while others, such as finches, tend to join in only once the sun is up"
+   },
+   "why": "A段。a contrast between species that begin singing at different times ↔ robins and blackbirds … well before first light, while … finches … once the sun is up。F段比较的是同一种鸟在城市和森林里的差别，不是不同物种。"
+  },
+  "6": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "fell sharply once the eggs had hatched"
+   },
+   "why": "E段末句。a fall in singing ↔ fell sharply；a particular stage of breeding ↔ once the eggs had hatched。A段说三到六月之后变安静，那是季节，不是繁殖的某个具体阶段。"
+  },
+  "7": {
+   "a": "D",
+   "ev": {
+    "p": "C",
+    "q": "an advantage she considers too small to account for the chorus on its own"
+   },
+   "why": "C段。a slight gain in how well sound travels ↔ only by around 10 per cent；could not explain the chorus alone ↔ too small to account for the chorus on its own。C 是陷阱：Marsh 确实播放了录音，但是在树林里测量传播距离，不是放给雌鸟听。"
+  },
+  "8": {
+   "a": "B",
+   "ev": {
+    "p": "D",
+    "q": "gave extra food to some male great tits in the evening and found that they began singing earlier the next morning"
+   },
+   "why": "D段。what a bird ate in the evening ↔ gave extra food … in the evening；affected when it sang the following day ↔ began singing earlier the next morning。"
+  },
+  "9": {
+   "a": "F",
+   "ev": {
+    "p": "E",
+    "q": "fell sharply once the eggs had hatched"
+   },
+   "why": "E段。singing dropped ↔ fell sharply；the young birds had come out of their eggs ↔ the eggs had hatched。A 是F段 Sheffield 研究者的推测，不是 Ruiz。"
+  },
+  "10": {
+   "a": "territory",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "It warns rival males that a territory is occupied"
+   },
+   "why": "B段。tells other males ↔ warns rival males；already has an owner ↔ is occupied。"
+  },
+  "11": {
+   "a": "turbulence",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "with less of the turbulence that scatters sound later in the day"
+   },
+   "why": "C段。little ___ ↔ less of the turbulence；break up the sound ↔ scatters sound。air 已经在题干里，不能填 still air（意思反了：要填的是“少的东西”）。"
+  },
+  "12": {
+   "a": "honest signal",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "dawn song is an honest signal of a bird's condition"
+   },
+   "why": "D段。shows a male is in good health ↔ of a bird's condition … energy to spare。注意冠词 an，只有 honest signal 合语法，单填 signal 会变成 an signal。"
+  },
+  "13": {
+   "a": "noise",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "more closely linked to the level of noise during the day than to artificial light"
+   },
+   "why": "F段。mainly reacting to ↔ more closely linked to；daytime ↔ during the day。artificial light / street lighting 是被否定的旧解释，最容易误填。"
+  }
+ }
+}

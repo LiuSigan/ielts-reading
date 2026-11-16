@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-15T22:52:45.579Z",
+ "updatedAt": "2026-11-16T22:52:03.598Z",
  "passages": [
+  {
+   "id": "2026-11-17",
+   "date": "2026-11-17",
+   "slot": "main",
+   "title": "Why Birds Sing at Dawn",
+   "level": 5,
+   "style": "P2",
+   "topicArea": "biology & ecology",
+   "types": [
+    "match_info",
+    "sentence_endings",
+    "sentence_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-17T06:55:00+08:00"
+  },
+  {
+   "id": "2026-11-17-p",
+   "date": "2026-11-17",
+   "slot": "p3",
+   "title": "The Trouble with Open Offices",
+   "level": 7,
+   "style": "P3",
+   "topicArea": "economics & business",
+   "types": [
+    "headings",
+    "mcq",
+    "note_completion"
+   ],
+   "total": 14,
+   "generatedAt": "2026-11-17T07:00:00+08:00"
+  },
   {
    "id": "2026-11-16-a",
    "date": "2026-11-16",

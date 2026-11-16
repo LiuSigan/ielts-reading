@@ -1,0 +1,121 @@
+{
+ "id": "2026-11-17-p",
+ "answers": {
+  "1": {
+   "a": "iv",
+   "ev": {
+    "p": "B",
+    "q": "What finally made open plans almost universal, however, was not a theory of work but the price of property"
+   },
+   "why": "B段前面讲历史，主旨要看最后一句：真正推动开放式办公普及的是房产价格。iv An economic motive behind a design history ↔ not a theory of work but the price of property。i 只对应 Larkin 大楼一个细节（supervision），不是整段主旨。"
+  },
+  "2": {
+   "a": "viii",
+   "ev": {
+    "p": "C",
+    "q": "Far from increasing, face-to-face interaction fell by roughly 70 per cent"
+   },
+   "why": "C段。viii Closeness that drove people apart ↔ 搬进开放空间后 face-to-face interaction fell … people … withdrawing。vii 是细节陷阱：headphones 只是人们退缩的表现之一，不是解决办法，更不是主旨。"
+  },
+  "3": {
+   "a": "ii",
+   "ev": {
+    "p": "D",
+    "q": "A small reduction in efficiency, she points out, repeated across every working hour of every employee, may cost an organisation more than the rent it saved"
+   },
+   "why": "D段。ii Why small losses should not be overlooked ↔ cautions against dismissing such figures … A small reduction in efficiency … may cost an organisation more…。"
+  },
+  "4": {
+   "a": "x",
+   "ev": {
+    "p": "E",
+    "q": "depended far more on whether they could find somewhere quiet when they needed it than on whether their main desk was enclosed"
+   },
+   "why": "E段先让步再落到 Okonkwo 的结论。x Somewhere to retreat counts for more than walls ↔ whether they could find somewhere quiet … than on whether their main desk was enclosed。xi 只是段首让步中的一个例子（new employees learn by observing），不是段落主旨。"
+  },
+  "5": {
+   "a": "vi",
+   "ev": {
+    "p": "F",
+    "q": "In principle, this answers the critics. In practice, the results have been mixed."
+   },
+   "why": "F段。vi A promising compromise that has often fallen short ↔ In principle, this answers the critics. In practice, the results have been mixed。"
+  },
+  "6": {
+   "a": "ix",
+   "ev": {
+    "p": "G",
+    "q": "An honest assessment would admit the trade-off openly"
+   },
+   "why": "G段。ix Calling for candour about competing priorities ↔ An honest assessment would admit the trade-off openly（cost 与 concentration 的取舍）。v 是陷阱：段首明确说 None of this means that private offices for everyone are the answer。"
+  },
+  "7": {
+   "a": "B",
+   "ev": {
+    "p": "C",
+    "q": "face-to-face interaction fell by roughly 70 per cent, while the use of email and instant messaging rose"
+   },
+   "why": "C段。B replaced many in-person exchanges with written ones ↔ face-to-face interaction fell … email and instant messaging rose。A 与 fell 相反；C 与 rose 相反；D 文中没提要求隔断，退缩的方式是戴耳机、避免眼神接触。"
+  },
+  "8": {
+   "a": "B",
+   "ev": {
+    "p": "D",
+    "q": "cautions against dismissing such figures, however. A small reduction in efficiency, she points out, repeated across every working hour of every employee"
+   },
+   "why": "D段。apparently minor effects ↔ modest effects, of the order of a few per cent；add up to a considerable cost ↔ repeated across every working hour … may cost an organisation more than the rent。D 方向相反：她说损失可能超过节省的租金；A 她并没说实验夸大了影响。"
+  },
+  "9": {
+   "a": "C",
+   "ev": {
+    "p": "F",
+    "q": "Companies adopting the model have often provided too few quiet spaces, partly because the original motive, saving space, has not gone away"
+   },
+   "why": "F段。the pressure to economise ↔ the original motive, saving space, has not gone away；limited the number of quiet areas ↔ provided too few quiet spaces。A 是陷阱：文中说员工很少换位置（rarely move），不是反对没有固定座位。"
+  },
+  "10": {
+   "a": "D",
+   "ev": {
+    "p": "G",
+    "q": "the choice of layout has too often been justified by claims about collaboration while being driven by cost"
+   },
+   "why": "全文主旨见A段末和G段：开放式办公真正的动因是成本，应承认这种取舍并衡量代价。A 被G段首句否定；B 只是B段的内容；C 只对应E段的让步。"
+  },
+  "11": {
+   "a": "supervision",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "although the purpose there was as much supervision as cooperation"
+   },
+   "why": "B段。not only cooperation but also ↔ as much supervision as cooperation；meant to aid ↔ the purpose there was。cooperation 题干已经给出，所以空格只能填另一个目的 supervision。"
+  },
+  "12": {
+   "a": "flow",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "desks were grouped irregularly according to the flow of work"
+   },
+   "why": "B段。arranged to follow ↔ grouped … according to；tasks ↔ work。"
+  },
+  "13": {
+   "a": "plants",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "with plants and screens rather than walls dividing one group from another"
+   },
+   "why": "B段。not walls ↔ rather than walls；groups separated by ↔ dividing one group from another。screens 已在题干中。"
+  },
+  "14": {
+   "a": "property",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "was not a theory of work but the price of property"
+   },
+   "why": "B段。main reason open plans spread ↔ What finally made open plans almost universal；cost ↔ price。不要填 rent（D段），那是后文的论证，且原文这里用的是 property。"
+  }
+ }
+}
