@@ -1,0 +1,294 @@
+{
+ "id": "2026-11-18-a",
+ "date": "2026-11-18",
+ "level": 5.0,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "earth science & climate",
+ "title": "Harvesting the Fog",
+ "subtitle": "In some of the driest places on Earth, simple nets are turning clouds into drinking water",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Along the coast of northern Chile lies the Atacama, one of the driest deserts on Earth. In some places there, no significant rain has been recorded for years at a time. Yet on many mornings a thick grey fog drifts in from the Pacific Ocean and covers the coastal hills. The fog contains water, and people have long tried to capture it. On El Hierro, in the Canary Islands, there are records of a tree whose leaves gathered so much moisture from passing clouds that it supplied the island's inhabitants with water. Today, a much simpler device is used for the same purpose in more than a dozen countries."
+  },
+  {
+   "label": "B",
+   "text": "The fog of the Atacama is produced by the ocean. A cold current flows north along the coast of South America, cooling the air above it. When this air holds a great deal of moisture, the water condenses into countless tiny droplets, forming fog. Wind from the sea then pushes the fog inland, where it meets the hills that rise steeply from the shore. The droplets are so small and light that they stay floating in the air rather than falling as rain, but when they touch a solid surface, many of them stick to it. Local people call this fog the camanchaca, and it is most common in the cooler months of the year."
+  },
+  {
+   "label": "C",
+   "text": "A fog collector makes use of this. It consists of a large net of fine plastic mesh stretched between two poles and placed so that it faces the wind. As the fog blows through the net, droplets strike the fibres and join together until they become heavy enough to run down the mesh. At the bottom they drop into a gutter, which carries the water through a pipe to a storage tank. A standard collector has a net of around 40 square metres, and in good locations each square metre can produce between two and ten litres a day, although the amount varies greatly from season to season."
+  },
+  {
+   "label": "D",
+   "text": "One of the first large projects began in the early 1990s above Chungungo, a small fishing village in Chile that had depended on water brought in by lorry. Scientists from Chile and Canada set up nearly a hundred nets on a nearby hill, and for several years they supplied the village's few hundred residents with clean water. By the early 2000s, however, most of the nets had fallen into disrepair. They had been damaged by strong winds and were not regularly mended, and the villagers, who had not been involved in planning the system, did not regard it as their own. The project showed that the technology itself worked, but that it would only last if local people were prepared to look after it."
+  },
+  {
+   "label": "E",
+   "text": "Later projects took this lesson seriously. In south-western Morocco, an organisation called Dar Si Hmad spent several years studying local fog before installing collectors on a mountain above a group of Berber villages in 2015. The nets used there were designed to survive strong winds, and local residents, many of them women, were trained to repair them and to manage the supply. Water is piped directly to homes, so that women and girls no longer have to spend hours each day fetching it from distant wells."
+  },
+  {
+   "label": "F",
+   "text": "Engineers have also looked to nature for ways to improve the nets. A beetle that lives in the Namib Desert in southern Africa collects drinking water from fog on its back, which is covered in tiny bumps that attract water and smooth channels that guide the drops towards its mouth. Researchers studying such surfaces have tested meshes with different fibre sizes and coatings, and some experimental designs have been found to gather several times as much water as the nets that were in use when the first projects began."
+  },
+  {
+   "label": "G",
+   "text": "Fog collection is not a solution for everywhere. It works only where there is frequent fog, high ground to catch it and a steady wind, and these conditions are found in relatively few places. The volume of water is also limited: a village system can provide enough for drinking and cooking and for growing a few vegetables, but it could never supply a city. Even so, the nets are cheap to build and need no fuel, and for small communities in dry coastal regions they can make a real difference. Some scientists also warn that a warming climate may change where and how often fog forms, which makes careful study of each site before building all the more important."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Choose the correct heading for paragraphs B–G from the list of headings below.",
+    "Write the correct number, i–xii, in boxes 1–6 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "The high cost of delivering water by road"
+    },
+    {
+     "k": "ii",
+     "t": "How a simple structure traps moisture"
+    },
+    {
+     "k": "iii",
+     "t": "Water from an unlikely source"
+    },
+    {
+     "k": "iv",
+     "t": "Plans to supply large cities"
+    },
+    {
+     "k": "v",
+     "t": "A promising start without lasting results"
+    },
+    {
+     "k": "vi",
+     "t": "The origin of the coastal mist"
+    },
+    {
+     "k": "vii",
+     "t": "Measuring the size of water droplets"
+    },
+    {
+     "k": "viii",
+     "t": "Benefits and limits of the method"
+    },
+    {
+     "k": "ix",
+     "t": "Women take charge of village water"
+    },
+    {
+     "k": "x",
+     "t": "Ideas borrowed from a desert creature"
+    },
+    {
+     "k": "xi",
+     "t": "Applying an earlier lesson"
+    },
+    {
+     "k": "xii",
+     "t": "A tree that supplied an island"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    },
+    {
+     "n": 6,
+     "para": "G"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 7,
+   "to": 9,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 7–9 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "Why does the fog in the Atacama not fall as rain?",
+     "options": [
+      {
+       "k": "A",
+       "t": "The ocean current warms the droplets."
+      },
+      {
+       "k": "B",
+       "t": "The hills prevent the droplets from moving."
+      },
+      {
+       "k": "C",
+       "t": "The droplets weigh too little to come down."
+      },
+      {
+       "k": "D",
+       "t": "The wind carries the droplets back out to sea."
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "text": "What was the main reason for the decline of the Chungungo project?",
+     "options": [
+      {
+       "k": "A",
+       "t": "The fog became less frequent."
+      },
+      {
+       "k": "B",
+       "t": "Lorries began delivering water again."
+      },
+      {
+       "k": "C",
+       "t": "The nets were too costly to replace."
+      },
+      {
+       "k": "D",
+       "t": "The community did not take care of the system."
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "text": "What does the writer say about some of the experimental meshes?",
+     "options": [
+      {
+       "k": "A",
+       "t": "They are covered in bumps like a beetle's back."
+      },
+      {
+       "k": "B",
+       "t": "They produce far more water than earlier nets."
+      },
+      {
+       "k": "C",
+       "t": "They were first tested in the Namib Desert."
+      },
+      {
+       "k": "D",
+       "t": "They no longer need the wind to work."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 10,
+     "text": "Water that has collected on the net flows down into a [[10]], from where it is piped away."
+    },
+    {
+     "n": 11,
+     "text": "In Morocco, villagers learned how to [[11]] the collectors when they were damaged."
+    },
+    {
+     "n": 12,
+     "text": "As well as regular fog and hills, the method needs a [[12]]."
+    },
+    {
+     "n": 13,
+     "text": "A village system can provide water for meals and drinks and for raising some [[13]]."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "drift",
+   "zh": "飘移；漂流"
+  },
+  {
+   "w": "moisture",
+   "zh": "水分；湿气"
+  },
+  {
+   "w": "inhabitant",
+   "zh": "居民"
+  },
+  {
+   "w": "current",
+   "zh": "洋流；水流"
+  },
+  {
+   "w": "condense",
+   "zh": "凝结"
+  },
+  {
+   "w": "droplet",
+   "zh": "小水滴"
+  },
+  {
+   "w": "mesh",
+   "zh": "网眼；网状物"
+  },
+  {
+   "w": "gutter",
+   "zh": "排水槽；檐槽"
+  },
+  {
+   "w": "fall into disrepair",
+   "zh": "年久失修"
+  },
+  {
+   "w": "install",
+   "zh": "安装"
+  },
+  {
+   "w": "coating",
+   "zh": "涂层"
+  },
+  {
+   "w": "make a difference",
+   "zh": "产生影响；起作用"
+  }
+ ],
+ "generatedAt": "2026-11-18T06:50:00+08:00",
+ "spec": "v5"
+}

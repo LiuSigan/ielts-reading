@@ -1,0 +1,115 @@
+{
+ "id": "2026-11-18-a",
+ "answers": {
+  "1": {
+   "a": "vi",
+   "ev": {
+    "p": "B",
+    "q": "The fog of the Atacama is produced by the ocean."
+   },
+   "why": "B段讲雾是怎么形成的：寒流使空气冷却、水汽凝结、风把雾推上山。vi The origin of the coastal mist ↔ The fog … is produced by the ocean。vii 是细节陷阱：段中说水滴很小（so small and light），但没有讲测量它们的大小。"
+  },
+  "2": {
+   "a": "ii",
+   "ev": {
+    "p": "C",
+    "q": "It consists of a large net of fine plastic mesh stretched between two poles"
+   },
+   "why": "C段讲集雾网的构造和工作原理。ii How a simple structure traps moisture ↔ a large net … stretched between two poles … droplets strike the fibres and join together。"
+  },
+  "3": {
+   "a": "v",
+   "ev": {
+    "p": "D",
+    "q": "for several years they supplied the village's few hundred residents with clean water. By the early 2000s, however, most of the nets had fallen into disrepair."
+   },
+   "why": "D段：Chungungo 项目起初成功，后来荒废。v A promising start without lasting results ↔ for several years they supplied … By the early 2000s, however … disrepair。i 是细节陷阱：段首只提到村子以前靠卡车送水，没有讲运水的成本。"
+  },
+  "4": {
+   "a": "xi",
+   "ev": {
+    "p": "E",
+    "q": "Later projects took this lesson seriously."
+   },
+   "why": "E段首句就点明主旨：吸取了 Chungungo 的教训（先研究当地的雾，培训当地人维修和管理）。xi Applying an earlier lesson ↔ took this lesson seriously。ix 是细节陷阱：女性参与维修和管理只是段中的一个细节，而且原文说的是 many of them women，并不是完全由女性负责。"
+  },
+  "5": {
+   "a": "x",
+   "ev": {
+    "p": "F",
+    "q": "A beetle that lives in the Namib Desert in southern Africa collects drinking water from fog on its back"
+   },
+   "why": "F段。x Ideas borrowed from a desert creature ↔ Engineers have also looked to nature … A beetle that lives in the Namib Desert。"
+  },
+  "6": {
+   "a": "viii",
+   "ev": {
+    "p": "G",
+    "q": "Fog collection is not a solution for everywhere."
+   },
+   "why": "G段先讲局限（只适用于少数地方、水量有限），最后讲好处（便宜、不用燃料）。viii Benefits and limits of the method 兼顾了两方面。iv 与原文相反：it could never supply a city。"
+  },
+  "7": {
+   "a": "C",
+   "ev": {
+    "p": "B",
+    "q": "The droplets are so small and light that they stay floating in the air rather than falling as rain"
+   },
+   "why": "B段。C weigh too little to come down ↔ so small and light that they stay floating … rather than falling as rain。A 错：寒流是让空气变冷（cooling），不是让水滴变暖；D 原文说风把雾往内陆推（inland），方向相反。"
+  },
+  "8": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "were not regularly mended, and the villagers, who had not been involved in planning the system, did not regard it as their own"
+   },
+   "why": "D段。D The community did not take care of the system ↔ were not regularly mended … the villagers … did not regard it as their own … only last if local people were prepared to look after it。B 是陷阱：卡车送水是项目开始之前的情况，文中没说后来又恢复了。"
+  },
+  "9": {
+   "a": "B",
+   "ev": {
+    "p": "F",
+    "q": "some experimental designs have been found to gather several times as much water as the nets that were in use when the first projects began"
+   },
+   "why": "F段末句。B produce far more water than earlier nets ↔ gather several times as much water as the nets that were in use when the first projects began。A 是甲虫背部的特征，不是新网的特征；C 文中只说甲虫生活在纳米布沙漠，没说网在那里测试。"
+  },
+  "10": {
+   "a": "gutter",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "At the bottom they drop into a gutter, which carries the water through a pipe to a storage tank."
+   },
+   "why": "C段。flows down into ↔ drop into；from where it is piped away ↔ which carries the water through a pipe。不要填 storage tank：那是水的最终去处，不是水滴先落进的地方。"
+  },
+  "11": {
+   "a": "repair",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "were trained to repair them and to manage the supply"
+   },
+   "why": "E段。learned how to ↔ were trained to；the collectors ↔ them（the nets）。D段的 mended 意思相同，但那是 Chungungo，而且原文形式是 mended，放进 how to ___ 语法也不对。"
+  },
+  "12": {
+   "a": "steady wind",
+   "alt": [
+    "wind"
+   ],
+   "ev": {
+    "p": "G",
+    "q": "It works only where there is frequent fog, high ground to catch it and a steady wind"
+   },
+   "why": "G段。regular fog ↔ frequent fog；hills ↔ high ground。题干前两个条件已给出，空格是第三个条件 steady wind，只填 wind 也算对。"
+  },
+  "13": {
+   "a": "vegetables",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "a village system can provide enough for drinking and cooking and for growing a few vegetables"
+   },
+   "why": "G段。meals and drinks ↔ drinking and cooking；raising some ↔ growing a few。"
+  }
+ }
+}

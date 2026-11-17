@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-17T08:13:02.183Z",
+ "updatedAt": "2026-11-17T22:50:29.022Z",
  "passages": [
+  {
+   "id": "2026-11-18-a",
+   "date": "2026-11-18",
+   "slot": "p1",
+   "title": "Harvesting the Fog",
+   "level": 5,
+   "style": "P1",
+   "topicArea": "earth science & climate",
+   "types": [
+    "headings",
+    "mcq",
+    "sentence_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-18T06:50:00+08:00"
+  },
+  {
+   "id": "2026-11-18",
+   "date": "2026-11-18",
+   "slot": "main",
+   "title": "Why Good Food Goes to Waste",
+   "level": 5,
+   "style": "P2",
+   "topicArea": "agriculture & food",
+   "types": [
+    "match_info",
+    "sentence_endings",
+    "note_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-18T06:55:00+08:00"
+  },
   {
    "id": "2026-11-17-b",
    "date": "2026-11-17",

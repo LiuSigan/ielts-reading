@@ -1,0 +1,113 @@
+{
+ "id": "2026-11-18",
+ "answers": {
+  "1": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "In 2016 France passed a law requiring large supermarkets to donate unsold food that is still fit to eat to charities"
+   },
+   "why": "F段。a legal duty placed on certain shops ↔ a law requiring large supermarkets to donate…。D段超市取消日期标签是商家自愿的做法，不是法律要求。"
+  },
+  "2": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "households alone were responsible for about 61 per cent of this"
+   },
+   "why": "A段。the proportion of waste that comes from homes ↔ households alone were responsible for about 61 per cent。B段的 8–10 per cent 是温室气体的比例，不是浪费来自家庭的比例。"
+  },
+  "3": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "as it rots without air, it releases methane, a gas that traps far more heat in the atmosphere than carbon dioxide does"
+   },
+   "why": "B段。contributes to global warming ↔ releases methane, a gas that traps far more heat in the atmosphere；discarded food ↔ Food that ends up in landfill sites。"
+  },
+  "4": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "replaced the use-by dates on most of its own milk with best-before dates"
+   },
+   "why": "D段。a business changing the information on a product ↔ Morrisons replaced the use-by dates on most of its own milk with best-before dates。E段超市低价卖“丑”蔬果改变的是价格，不是产品上的信息。"
+  },
+  "5": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "Their diaries showed that they threw away almost twice as much as they had believed."
+   },
+   "why": "C段。underestimate how much they throw away ↔ threw away almost twice as much as they had believed。G段也讲 Lindqvist，但那是关于信息宣传无效，不是低估浪费。"
+  },
+  "6": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "Some now sell such produce at a lower price, often in boxes labelled as wonky or imperfect."
+   },
+   "why": "E段。sold cheaply ↔ at a lower price；because of its appearance ↔ the wrong shape or size。F段 app 打折卖的是当天卖剩的食物，不是因为外观。"
+  },
+  "7": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "most of them estimated that they wasted very little. Their diaries showed that they threw away almost twice as much as they had believed"
+   },
+   "why": "C段。revealed a large gap between what families believed and what they did ↔ estimated that they wasted very little … threw away almost twice as much as they had believed。D 是A段联合国粮农组织的估计，不是 Lindqvist。"
+  },
+  "8": {
+   "a": "F",
+   "ev": {
+    "p": "E",
+    "q": "most food is lost before it ever reaches a shop"
+   },
+   "why": "E段。in some regions ↔ in poorer countries；lost long before it is sold ↔ lost before it ever reaches a shop。E 是英国超市的做法（D段），不是 Mensah。"
+  },
+  "9": {
+   "a": "A",
+   "ev": {
+    "p": "F",
+    "q": "requiring large supermarkets to donate unsold food that is still fit to eat to charities"
+   },
+   "why": "F段。required large stores ↔ requiring large supermarkets；pass on edible food they could not sell ↔ donate unsold food that is still fit to eat。B 是 Morrisons 的做法（D段）。"
+  },
+  "10": {
+   "a": "safety",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "a “use by” date is about safety, while a “best before” date is about quality"
+   },
+   "why": "D段。relates to ↔ is about。quality 已在题干中给出，对应的是 best before。"
+  },
+  "11": {
+   "a": "sniff test",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "encouraging customers to use a “sniff test” instead of pouring milk away unnecessarily"
+   },
+   "why": "D段末句。customers advised ↔ encouraging customers；check milk with ↔ use a sniff test instead of pouring milk away。"
+  },
+  "12": {
+   "a": "information",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "Lindqvist found that information campaigns alone rarely change behaviour"
+   },
+   "why": "G段。campaigns that only provide ___ ↔ information campaigns alone；seldom alter habits ↔ rarely change behaviour。"
+  },
+  "13": {
+   "a": "shopping list",
+   "alt": [],
+   "ev": {
+    "p": "G",
+    "q": "Writing a shopping list before going out, checking the fridge before buying more and serving smaller portions"
+   },
+   "why": "G段。make a ___ ↔ Writing a shopping list；check the fridge 和 serve less 已在题干中给出，对应 checking the fridge 和 serving smaller portions。"
+  }
+ }
+}

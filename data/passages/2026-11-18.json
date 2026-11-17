@@ -1,0 +1,214 @@
+{
+ "id": "2026-11-18",
+ "date": "2026-11-18",
+ "level": 5.0,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "agriculture & food",
+ "title": "Why Good Food Goes to Waste",
+ "subtitle": "A third of the world's food is never eaten. Where is it lost, and what can be done?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Every year, an enormous amount of food that could have been eaten is thrown away. In 2011 the Food and Agriculture Organization of the United Nations estimated that roughly a third of all the food produced in the world is lost or wasted somewhere between the farm and the plate. A later United Nations report, published in 2021, calculated that around 931 million tonnes of food were wasted in 2019 by shops, restaurants and households, and that households alone were responsible for about 61 per cent of this. In other words, much of the problem lies not in factories or fields but in ordinary kitchens."
+  },
+  {
+   "label": "B",
+   "text": "Wasted food is not only a waste of money. Growing, transporting and storing it uses land, water and energy, all of which are lost when the food is thrown away. Food that ends up in landfill sites also creates a further problem: as it rots without air, it releases methane, a gas that traps far more heat in the atmosphere than carbon dioxide does over the short term. The United Nations has estimated that food which is produced but never eaten is responsible for between 8 and 10 per cent of the greenhouse gases released by human activity."
+  },
+  {
+   "label": "C",
+   "text": "Why do households throw away so much? Dr Sarah Lindqvist, a researcher at Lund University in Sweden, asked more than 300 families to keep a detailed diary of everything they threw away over two weeks. Before the study began, most of them estimated that they wasted very little. Their diaries showed that they threw away almost twice as much as they had believed. The most common reasons were buying more than was needed, forgetting what was already in the fridge and cooking portions that were too large to finish. Bread, fresh vegetables and milk were the items thrown away most often, and families with young children wasted more than other households."
+  },
+  {
+   "label": "D",
+   "text": "Confusion over date labels adds to the problem. In Britain, for example, a “use by” date is about safety, while a “best before” date is about quality, and food is usually still safe to eat after its best-before date has passed. Many shoppers, however, treat the two as if they meant the same thing. In response, several British supermarkets have removed best-before dates from many fresh fruits and vegetables, and in 2022 one chain, Morrisons, replaced the use-by dates on most of its own milk with best-before dates, encouraging customers to use a “sniff test” instead of pouring milk away unnecessarily."
+  },
+  {
+   "label": "E",
+   "text": "Shops and farms waste food too. Supermarkets have traditionally rejected fruit and vegetables that are the wrong shape or size, even though they taste exactly the same. Some now sell such produce at a lower price, often in boxes labelled as wonky or imperfect. Professor Daniel Mensah of the University of Reading points out, however, that the situation in poorer countries is quite different. There, he argues, most food is lost before it ever reaches a shop, because farmers lack proper storage, refrigeration and transport, and crops spoil soon after they are harvested. In such places, he believes, investment in cool stores and better roads would save far more food than any campaign aimed at shoppers."
+  },
+  {
+   "label": "F",
+   "text": "Governments and businesses have tried a range of solutions. In 2016 France passed a law requiring large supermarkets to donate unsold food that is still fit to eat to charities, rather than throwing it away or making it inedible. Elsewhere, mobile phone apps allow restaurants and bakeries to sell food at the end of the day at a reduced price, and let neighbours give away food they do not need. Some cities collect food waste separately from other rubbish so that it can be turned into fertiliser or used to produce energy. South Korea, which introduced charges for food waste based on its weight, is often cited as one of the most successful examples."
+  },
+  {
+   "label": "G",
+   "text": "At home, though, changing habits is not easy. Lindqvist found that information campaigns alone rarely change behaviour: people who know that waste is a problem often continue to waste food. Small practical steps appear to work better. Writing a shopping list before going out, checking the fridge before buying more and serving smaller portions all reduced waste among the families she studied. The biggest savings, she says, come not from knowing more but from planning a little more carefully."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_info",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 1–6 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "a reference to a legal duty placed on certain shops"
+    },
+    {
+     "n": 2,
+     "text": "a figure for the proportion of waste that comes from homes"
+    },
+    {
+     "n": 3,
+     "text": "an explanation of how discarded food contributes to global warming"
+    },
+    {
+     "n": 4,
+     "text": "an example of a business changing the information on a product"
+    },
+    {
+     "n": 5,
+     "text": "evidence that people underestimate how much they throw away"
+    },
+    {
+     "n": 6,
+     "text": "a mention of produce being sold cheaply because of its appearance"
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 7,
+   "to": 9,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–F, below.",
+    "Write the correct letter, A–F, in boxes 7–9 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "Sarah Lindqvist's diary study"
+    },
+    {
+     "n": 8,
+     "text": "Daniel Mensah"
+    },
+    {
+     "n": 9,
+     "text": "The French law of 2016"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "required large stores to pass on edible food they could not sell."
+    },
+    {
+     "k": "B",
+     "t": "suggested that shoppers should smell milk before throwing it away."
+    },
+    {
+     "k": "C",
+     "t": "revealed a large gap between what families believed and what they did."
+    },
+    {
+     "k": "D",
+     "t": "estimated that a third of all food is never eaten."
+    },
+    {
+     "k": "E",
+     "t": "removed date labels from many kinds of fresh produce."
+    },
+    {
+     "k": "F",
+     "t": "claimed that in some regions most food is lost long before it is sold."
+    }
+   ]
+  },
+  {
+   "type": "note_completion",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the notes below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 10–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "title": "Reducing waste in the home",
+   "lines": [
+    {
+     "text": "– Labels: “use by” relates to [[10]]; “best before” relates to quality",
+     "indent": 0
+    },
+    {
+     "text": "– Morrisons: customers advised to check milk with a [[11]]",
+     "indent": 0
+    },
+    {
+     "text": "– campaigns that only provide [[12]] seldom alter habits",
+     "indent": 0
+    },
+    {
+     "text": "– useful steps: make a [[13]], check the fridge, serve less",
+     "indent": 0
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "estimate",
+   "zh": "估计；估算"
+  },
+  {
+   "w": "be responsible for",
+   "zh": "造成；占（比例）"
+  },
+  {
+   "w": "landfill",
+   "zh": "垃圾填埋场"
+  },
+  {
+   "w": "rot",
+   "zh": "腐烂"
+  },
+  {
+   "w": "methane",
+   "zh": "甲烷"
+  },
+  {
+   "w": "greenhouse gas",
+   "zh": "温室气体"
+  },
+  {
+   "w": "portion",
+   "zh": "（食物的）一份"
+  },
+  {
+   "w": "label",
+   "zh": "标签；贴标签"
+  },
+  {
+   "w": "produce",
+   "zh": "（名词）农产品"
+  },
+  {
+   "w": "spoil",
+   "zh": "变质；腐坏"
+  },
+  {
+   "w": "donate",
+   "zh": "捐赠"
+  },
+  {
+   "w": "fertiliser",
+   "zh": "肥料"
+  }
+ ],
+ "generatedAt": "2026-11-18T06:55:00+08:00",
+ "spec": "v5"
+}
