@@ -1,0 +1,231 @@
+{
+ "id": "2026-11-17-b",
+ "date": "2026-11-17",
+ "level": 6.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "arts & cultural history",
+ "title": "The Vanishing Films",
+ "subtitle": "Most of the films made in cinema's first decades no longer exist. Why were they lost, and can what remains be saved?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "For the first few decades of its existence, cinema was treated less as an art than as a disposable product. Films were made quickly, shown for a few weeks and then, in most cases, forgotten. Studios were businesses, and a film that had finished its run was, to them, little more than used stock. The consequences of that attitude are now plain. A report published by the Library of Congress in 2013 concluded that around 70 per cent of the feature films made in the United States during the silent era are lost entirely, and that only about 14 per cent survive in the format in which audiences originally saw them. For many other countries the picture is, if anything, worse, because few national film archives existed before the 1930s."
+  },
+  {
+   "label": "B",
+   "text": "Part of the explanation is chemical. Until the early 1950s, professional film was made on a base of cellulose nitrate, a material that gave sharp, bright images but was dangerously unstable. Nitrate is highly flammable, and once alight it produces its own oxygen, so that a burning reel cannot easily be put out, even under water. Fires in storage vaults destroyed huge quantities of film; a single blaze at a Fox warehouse in New Jersey in 1937 is thought to have consumed most of the studio's silent productions. Even without fire, nitrate decays over time, becoming sticky, then brittle, and finally turning into a brown powder."
+  },
+  {
+   "label": "C",
+   "text": "Chemistry alone, however, cannot account for the scale of the loss. When sound arrived at the end of the 1920s, studios regarded their silent catalogues as commercially worthless, and storing thousands of reels was expensive. Many prints were deliberately destroyed, sometimes so that the small quantity of silver in the film could be recovered and sold. Copyright holders rarely kept more than a handful of copies of each title, and there was no legal requirement to deposit one with a national library. Films disappeared, in other words, not mainly because they were fragile but because almost nobody thought they were worth keeping."
+  },
+  {
+   "label": "D",
+   "text": "From the early 1950s nitrate was replaced by cellulose acetate, known in the industry as safety film because it does not burn readily. It was not, as many archivists had hoped, a permanent answer. Acetate slowly breaks down, releasing acetic acid; the film shrinks, curls and gives off a sharp smell, a condition known as vinegar syndrome. Heat and humidity speed up the process, and once it has begun it cannot be reversed, only slowed. Colour film brought a further problem, since the dyes used in many processes fade, so that prints from the 1970s may now look pink. Most large archives therefore store film in vaults kept at low temperatures, an approach that can extend its life by hundreds of years."
+  },
+  {
+   "label": "E",
+   "text": "Digital technology might seem to make such efforts unnecessary, but many specialists disagree. Dr Ingrid Solberg, a conservator at the National Library of Norway, points out that digital files are only as durable as the systems that read them, and that storage formats and the machines needed to play them become obsolete within a few years. Files must therefore be copied to new systems repeatedly, at considerable cost, for as long as they are to be kept. A reel of film in a cold vault, by contrast, needs little attention and can be read with nothing more than a light and a lens. Professor Marcus Webb of the University of East Anglia accepts these arguments but maintains that they miss the point: a film that survives only in a vault, he says, is preserved in name only, and it is digitisation that allows audiences to see it at all."
+  },
+  {
+   "label": "F",
+   "text": "Occasionally, films thought to be lost reappear in unlikely places. In 1978 workers digging a building site in Dawson City, in the far north of Canada, uncovered more than 500 reels of nitrate film from the 1910s and 1920s. Because the town was at the end of the distribution chain, films sent there had seldom been returned, and in 1929 many of them had been dumped into a disused swimming pool simply to fill it in. The permanently frozen ground had preserved them remarkably well. In 2010, archivists in New Zealand found dozens of American silent films in their collection that had been lost in the United States, and sent them back to be restored."
+  },
+  {
+   "label": "G",
+   "text": "Discoveries of this kind are exciting, but archivists warn against relying on luck. Preservation budgets are limited, and every decision to restore one title is in effect a decision not to restore another. Solberg argues that archives have too often concentrated on famous feature films, while newsreels, advertisements and amateur footage, which may tell historians more about ordinary life, have been left to decay. Deciding what deserves to survive, she suggests, is now as much a part of the archivist's work as keeping it from harm."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Choose the correct heading for paragraphs B–G from the list of headings below.",
+    "Write the correct number, i–xii, in boxes 1–6 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "Films sent home from abroad"
+    },
+    {
+     "k": "ii",
+     "t": "Danger and decay built into the medium"
+    },
+    {
+     "k": "iii",
+     "t": "A disaster at a single warehouse"
+    },
+    {
+     "k": "iv",
+     "t": "A loss on an enormous scale"
+    },
+    {
+     "k": "v",
+     "t": "Neglect rather than fragility"
+    },
+    {
+     "k": "vi",
+     "t": "Why digital copies cost less to keep"
+    },
+    {
+     "k": "vii",
+     "t": "A safer substitute with flaws of its own"
+    },
+    {
+     "k": "viii",
+     "t": "Survival by accident"
+    },
+    {
+     "k": "ix",
+     "t": "The arrival of sound in the cinema"
+    },
+    {
+     "k": "x",
+     "t": "Conflicting views of a modern alternative"
+    },
+    {
+     "k": "xi",
+     "t": "Cold storage as a long-term answer"
+    },
+    {
+     "k": "xii",
+     "t": "Hard choices about what to keep"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iv"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    },
+    {
+     "n": 6,
+     "para": "G"
+    }
+   ]
+  },
+  {
+   "type": "tfng",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Do the following statements agree with the information given in the reading passage?",
+    "In boxes 7–10 on your answer sheet, write",
+    "TRUE if the statement agrees with the information",
+    "FALSE if the statement contradicts the information",
+    "NOT GIVEN if there is no information on this"
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "The majority of American feature films from before the sound era no longer exist in any form."
+    },
+    {
+     "n": 8,
+     "text": "Burning nitrate film can be extinguished by putting it in water."
+    },
+    {
+     "n": 9,
+     "text": "After the introduction of sound, some studios sold their silent films to private collectors."
+    },
+    {
+     "n": 10,
+     "text": "The films found in Dawson City were in better condition than those discovered in New Zealand."
+    }
+   ]
+  },
+  {
+   "type": "summary_completion",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete the summary below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 11–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "title": "After nitrate",
+   "text": "The material that took the place of nitrate was given the name [[11]], since it was far less likely to catch fire. Unfortunately, it gradually decomposes, and this happens faster in warm conditions or where there is a lot of [[12]]. Digital versions do not solve the problem either: according to Solberg, the formats and equipment used to read them are soon out of date, which means that files have to be [[13]] onto new systems again and again."
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "disposable",
+   "zh": "一次性的；用完即弃的"
+  },
+  {
+   "w": "silent era",
+   "zh": "默片时代"
+  },
+  {
+   "w": "flammable",
+   "zh": "易燃的"
+  },
+  {
+   "w": "unstable",
+   "zh": "不稳定的"
+  },
+  {
+   "w": "consume",
+   "zh": "（火）烧毁；吞噬"
+  },
+  {
+   "w": "account for",
+   "zh": "解释；占……比例"
+  },
+  {
+   "w": "deposit",
+   "zh": "存放；交存"
+  },
+  {
+   "w": "humidity",
+   "zh": "湿度"
+  },
+  {
+   "w": "reverse",
+   "zh": "逆转"
+  },
+  {
+   "w": "obsolete",
+   "zh": "过时的；淘汰的"
+  },
+  {
+   "w": "in name only",
+   "zh": "名义上的；徒有其名"
+  },
+  {
+   "w": "distribution chain",
+   "zh": "发行链；分销链"
+  }
+ ],
+ "generatedAt": "2026-11-17T16:15:00+08:00",
+ "spec": "v5"
+}

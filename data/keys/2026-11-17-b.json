@@ -1,0 +1,112 @@
+{
+ "id": "2026-11-17-b",
+ "answers": {
+  "1": {
+   "a": "ii",
+   "ev": {
+    "p": "B",
+    "q": "a material that gave sharp, bright images but was dangerously unstable"
+   },
+   "why": "B段讲硝酸胶片本身的两大问题：易燃（Danger）和自然分解（decay）。ii Danger and decay built into the medium ↔ dangerously unstable … highly flammable … Even without fire, nitrate decays。iii 是细节陷阱：Fox 仓库大火只是段中一个例子。"
+  },
+  "2": {
+   "a": "v",
+   "ev": {
+    "p": "C",
+    "q": "not mainly because they were fragile but because almost nobody thought they were worth keeping"
+   },
+   "why": "C段主旨在最后一句。v Neglect rather than fragility ↔ not mainly because they were fragile but because almost nobody thought they were worth keeping。ix 是细节陷阱：有声片的到来只是背景，不是整段主旨。"
+  },
+  "3": {
+   "a": "vii",
+   "ev": {
+    "p": "D",
+    "q": "It was not, as many archivists had hoped, a permanent answer."
+   },
+   "why": "D段。vii A safer substitute with flaws of its own ↔ safety film … It was not … a permanent answer（vinegar syndrome、彩色褪色）。xi 是陷阱：冷藏只是段末提到的应对办法，不是整段主旨。"
+  },
+  "4": {
+   "a": "x",
+   "ev": {
+    "p": "E",
+    "q": "Professor Marcus Webb of the University of East Anglia accepts these arguments but maintains that they miss the point"
+   },
+   "why": "E段有两种观点：Solberg 认为数字文件不耐久，Webb 认为数字化才能让观众看到。x Conflicting views of a modern alternative ↔ many specialists disagree … Webb … maintains that they miss the point。vi 与原文相反：数字文件要反复迁移，at considerable cost。"
+  },
+  "5": {
+   "a": "viii",
+   "ev": {
+    "p": "F",
+    "q": "many of them had been dumped into a disused swimming pool simply to fill it in. The permanently frozen ground had preserved them remarkably well"
+   },
+   "why": "F段。viii Survival by accident ↔ films … reappear in unlikely places；胶片是被随手丢进泳池填坑，却被冻土意外保存了下来。i 只对应段末新西兰的一个细节。"
+  },
+  "6": {
+   "a": "xii",
+   "ev": {
+    "p": "G",
+    "q": "every decision to restore one title is in effect a decision not to restore another"
+   },
+   "why": "G段。xii Hard choices about what to keep ↔ every decision to restore one title is in effect a decision not to restore another … Deciding what deserves to survive。"
+  },
+  "7": {
+   "a": "TRUE",
+   "ev": {
+    "p": "A",
+    "q": "around 70 per cent of the feature films made in the United States during the silent era are lost entirely"
+   },
+   "why": "A段。The majority ↔ around 70 per cent；no longer exist in any form ↔ lost entirely。不要被 14 per cent 干扰：那是“以原始格式保存”的比例，不是“完全失传”的比例。"
+  },
+  "8": {
+   "a": "FALSE",
+   "ev": {
+    "p": "B",
+    "q": "a burning reel cannot easily be put out, even under water"
+   },
+   "why": "B段。extinguished ↔ put out；原文说 cannot easily be put out, even under water，与题干直接矛盾，所以是 FALSE，不是 NOT GIVEN。"
+  },
+  "9": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "C",
+    "q": "Many prints were deliberately destroyed, sometimes so that the small quantity of silver in the film could be recovered and sold."
+   },
+   "why": "C段只说胶片被销毁，有时是为了回收其中的银去卖（sold 的是银）。至于有没有卖给私人收藏者，文中没有提到。看到 sold 就选 TRUE 是这题的陷阱。"
+  },
+  "10": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "F",
+    "q": "The permanently frozen ground had preserved them remarkably well."
+   },
+   "why": "F段说道森市的胶片保存得非常好，但对新西兰发现的胶片保存状况只字未提，没有比较，所以是 NOT GIVEN。"
+  },
+  "11": {
+   "a": "safety film",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "known in the industry as safety film because it does not burn readily"
+   },
+   "why": "D段。was given the name ↔ known in the industry as；far less likely to catch fire ↔ does not burn readily。不要填 cellulose acetate：那是它的材料名，原文说“业内称为”的是 safety film。"
+  },
+  "12": {
+   "a": "humidity",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "Heat and humidity speed up the process"
+   },
+   "why": "D段。happens faster ↔ speed up the process；warm conditions ↔ Heat。题干已经给了 warm，所以空格只能填 humidity。"
+  },
+  "13": {
+   "a": "copied",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "Files must therefore be copied to new systems repeatedly"
+   },
+   "why": "E段。have to be ↔ must therefore be；again and again ↔ repeatedly。注意要填过去分词 copied（have to be ___），填 copy 语法不对。"
+  }
+ }
+}

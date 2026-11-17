@@ -1,6 +1,22 @@
 {
- "updatedAt": "2026-11-16T22:52:03.598Z",
+ "updatedAt": "2026-11-17T08:13:02.183Z",
  "passages": [
+  {
+   "id": "2026-11-17-b",
+   "date": "2026-11-17",
+   "slot": "main",
+   "title": "The Vanishing Films",
+   "level": 6.5,
+   "style": "P2",
+   "topicArea": "arts & cultural history",
+   "types": [
+    "headings",
+    "tfng",
+    "summary_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-17T16:15:00+08:00"
+  },
   {
    "id": "2026-11-17",
    "date": "2026-11-17",
