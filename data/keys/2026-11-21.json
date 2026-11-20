@@ -1,0 +1,115 @@
+{
+ "id": "2026-11-21",
+ "answers": {
+  "1": {
+   "a": "viii",
+   "ev": {
+    "p": "B",
+    "q": "whistlers reproduce the melody of ordinary speech rather than inventing new words"
+   },
+   "why": "B段讲口哨语言的原理：把现有口语的旋律吹出来。viii Speech turned into melody ↔ reproduce the melody of ordinary speech。iii 与原文相反：A whistled language is not a secret code；x 是细节陷阱：段中提到声调语言，但没说它们更难吹。"
+  },
+  "2": {
+   "a": "iv",
+   "ev": {
+    "p": "C",
+    "q": "Most are found in mountainous areas or in dense forest, where people working on the land are often far apart"
+   },
+   "why": "C段讲口哨语言出现在哪类环境：山区、密林，人们相距很远。iv Places where distance and terrain favour whistling ↔ mountainous areas or in dense forest, where people … are often far apart。ii 是例子段A的标题，C段讲的是多个地方的共同特点。"
+  },
+  "3": {
+   "a": "ix",
+   "ev": {
+    "p": "D",
+    "q": "In most of these places, whistling is now in decline."
+   },
+   "why": "D段：道路、年轻人外流、手机让口哨语言衰落。ix Modern life and a fading skill ↔ in decline … Roads … mobile phones … few young people could whistle fluently。"
+  },
+  "4": {
+   "a": "v",
+   "ev": {
+    "p": "E",
+    "q": "Not everyone regards this as a complete success."
+   },
+   "why": "E段：La Gomera 通过学校复兴了 Silbo，但 Quintero 认为它主要变成了表演。v A recovery that some consider incomplete ↔ revival … Not everyone regards this as a complete success。vi 是细节陷阱：段中只说表演吸引游客，没有说游客学吹口哨。"
+  },
+  "5": {
+   "a": "vii",
+   "ev": {
+    "p": "F",
+    "q": "whistled Turkish was processed by the left and right hemispheres to a similar degree"
+   },
+   "why": "F段：口语通常主要由左脑处理，而口哨土耳其语左右脑处理程度相近，出乎意料。vii An unexpected pattern of activity in the head ↔ In most people … left hemisphere … however … left and right hemispheres to a similar degree。i 过度推断：原文只说 could eventually help in understanding，并不是“治疗方法”。"
+  },
+  "6": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "Here vowels are represented by higher or lower notes, while consonants appear as breaks, slides and sudden changes in the sound."
+   },
+   "why": "B段。B shows vowels through pitch and consonants through changes in the whistle ↔ vowels are represented by higher or lower notes, while consonants appear as breaks, slides and sudden changes。C 是陷阱：跟着声调走的是声调语言，原文说西班牙语 is not tonal；D 与 carries less information than speech 相反。"
+  },
+  "7": {
+   "a": "B",
+   "ev": {
+    "p": "E",
+    "q": "the language now survives mainly as a performance, something to be shown at festivals and in classrooms, rather than as a practical means of communication"
+   },
+   "why": "E段末句。B displayed more than it is actually used ↔ survives mainly as a performance … rather than as a practical means of communication。A 错：原文说大多数孩子都学会了基础；C 原文没说旅游是威胁。"
+  },
+  "8": {
+   "a": "shepherds",
+   "alt": [],
+   "ev": {
+    "p": "A",
+    "q": "For centuries the island's shepherds have communicated over these distances by whistling"
+   },
+   "why": "A段。send messages across the island ↔ communicated over these distances。C段的 farmers 是土耳其 Kuşköy 的人，不是 La Gomera。"
+  },
+  "9": {
+   "a": "melody",
+   "alt": [],
+   "ev": {
+    "p": "B",
+    "q": "whistlers reproduce the melody of ordinary speech rather than inventing new words"
+   },
+   "why": "B段。Rather than creating new words ↔ rather than inventing new words；copy ↔ reproduce。B段后面的 tones 只适用于声调语言，不是所有口哨语言的共同点。"
+  },
+  "10": {
+   "a": "Occitan",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "people in the village of Aas, high in the French Pyrenees, communicated in a whistled form of Occitan"
+   },
+   "why": "C段。Up to around a century ago ↔ Until about a hundred years ago。不要填 Turkish（那是 Kuşköy）或 French（Aas 虽然在法国，吹的却是地方语言 Occitan）。"
+  },
+  "11": {
+   "a": "hunters",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "whistling is also used by hunters, who can communicate without frightening the animals they are following"
+   },
+   "why": "C段末句。parts of South America ↔ parts of the Amazon rainforest；do not scare their prey ↔ without frightening the animals they are following。farmers 是土耳其的例子。"
+  },
+  "12": {
+   "a": "primary schools",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "in 1999 the regional government made it a compulsory subject in all of the island's primary schools"
+   },
+   "why": "E段。have had to study ↔ made it a compulsory subject。classrooms 也在E段出现，但那是 Quintero 说 Silbo 被“展示”的场所，不是1999年规定必修的地方。"
+  },
+  "13": {
+   "a": "hemispheres",
+   "alt": [],
+   "ev": {
+    "p": "F",
+    "q": "whistled Turkish was processed by the left and right hemispheres to a similar degree"
+   },
+   "why": "F段。the two ___ of the brain ↔ the left and right hemispheres；equally ↔ to a similar degree。"
+  }
+ }
+}

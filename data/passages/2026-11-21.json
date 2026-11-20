@@ -1,0 +1,264 @@
+{
+ "id": "2026-11-21",
+ "date": "2026-11-21",
+ "level": 5.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "linguistics",
+ "title": "Languages That Are Whistled",
+ "subtitle": "In a few remote places, people still talk to each other by whistling. What happens to these languages, and what can they teach us?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "On La Gomera, one of the Canary Islands, the landscape is cut by deep, steep-sided valleys. Walking from one side of a valley to the other can take hours, but a message can cross it in seconds. For centuries the island's shepherds have communicated over these distances by whistling, using a system known as Silbo Gomero. A skilled whistler can be understood several kilometres away, far beyond the range of a shouted voice. Because a whistle is higher and purer than the human voice, it is less easily absorbed by the air and by vegetation, and it stands out clearly against the background noise of wind and animals. La Gomera is not unique: researchers have identified dozens of communities around the world, perhaps as many as seventy, in which people have used whistled forms of speech."
+  },
+  {
+   "label": "B",
+   "text": "A whistled language is not a secret code with its own vocabulary. It is a way of transmitting an existing spoken language, and whistlers reproduce the melody of ordinary speech rather than inventing new words. In tonal languages, such as some spoken in South-East Asia, the whistle follows the rising and falling tones that distinguish one word from another. Silbo, by contrast, is based on Spanish, which is not tonal. Here vowels are represented by higher or lower notes, while consonants appear as breaks, slides and sudden changes in the sound. Listeners who know the spoken language well can understand complete sentences, although whistled speech carries less information than speech and depends heavily on context."
+  },
+  {
+   "label": "C",
+   "text": "Whistled languages tend to develop in particular kinds of environment. Most are found in mountainous areas or in dense forest, where people working on the land are often far apart and cannot easily see one another. In the village of Kuşköy, in the mountains of north-eastern Turkey, farmers on opposite slopes traditionally exchanged news by whistling Turkish. Until about a hundred years ago, people in the village of Aas, high in the French Pyrenees, communicated in a whistled form of Occitan, the regional language, while tending animals on the hillsides. In parts of the Amazon rainforest, whistling is also used by hunters, who can communicate without frightening the animals they are following."
+  },
+  {
+   "label": "D",
+   "text": "In most of these places, whistling is now in decline. Roads have made villages less isolated, and young people have moved to towns in search of work. In Kuşköy, the spread of mobile phones in the 1990s and 2000s removed much of the practical need for whistling, and by the early twenty-first century relatively few young people could whistle fluently. In 2017 the United Nations cultural organisation UNESCO added the whistled language of the region to its list of cultural traditions in need of urgent protection. The whistled Occitan of Aas has already disappeared entirely. Linguists fear that many other whistled forms will follow before anyone has had the chance to record or study them properly."
+  },
+  {
+   "label": "E",
+   "text": "La Gomera offers a rare example of revival. By the 1990s Silbo was spoken by only a small number of older islanders, but in 1999 the regional government made it a compulsory subject in all of the island's primary schools. Today most children on the island learn at least the basics, and demonstrations of Silbo have become a popular attraction for tourists. Not everyone regards this as a complete success. Dr Marta Quintero, a linguist at the University of La Laguna, argues that the language now survives mainly as a performance, something to be shown at festivals and in classrooms, rather than as a practical means of communication in everyday life."
+  },
+  {
+   "label": "F",
+   "text": "Whistled languages have also attracted the interest of brain scientists. In most people, spoken language is processed mainly in the left hemisphere of the brain. In 2015, however, a team led by the German neuroscientist Onur Güntürkün tested whistlers from Kuşköy and found that whistled Turkish was processed by the left and right hemispheres to a similar degree. The finding suggests that the way the brain handles language depends partly on the physical form of the signal and not only on its meaning. Some researchers believe that studies of this kind could eventually help in understanding how people whose left hemisphere has been damaged might recover the ability to communicate. For now, however, such applications remain a hope rather than a result."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "The reading passage has six paragraphs, A–F.",
+    "Choose the correct heading for paragraphs B–F from the list of headings below.",
+    "Write the correct number, i–x, in boxes 1–5 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "A cure for patients with brain damage"
+    },
+    {
+     "k": "ii",
+     "t": "Signals carried across a difficult landscape"
+    },
+    {
+     "k": "iii",
+     "t": "A secret code invented by shepherds"
+    },
+    {
+     "k": "iv",
+     "t": "Places where distance and terrain favour whistling"
+    },
+    {
+     "k": "v",
+     "t": "A recovery that some consider incomplete"
+    },
+    {
+     "k": "vi",
+     "t": "Tourists learning to whistle"
+    },
+    {
+     "k": "vii",
+     "t": "An unexpected pattern of activity in the head"
+    },
+    {
+     "k": "viii",
+     "t": "Speech turned into melody"
+    },
+    {
+     "k": "ix",
+     "t": "Modern life and a fading skill"
+    },
+    {
+     "k": "x",
+     "t": "Why tonal languages are harder to whistle"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "ii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    }
+   ]
+  },
+  {
+   "type": "mcq",
+   "from": 6,
+   "to": 7,
+   "instructions": [
+    "Choose the correct letter, A, B, C or D.",
+    "Write the correct letter in boxes 6–7 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 6,
+     "text": "What does the writer say about Silbo Gomero?",
+     "options": [
+      {
+       "k": "A",
+       "t": "It uses a vocabulary that is quite different from Spanish."
+      },
+      {
+       "k": "B",
+       "t": "It shows vowels through pitch and consonants through changes in the whistle."
+      },
+      {
+       "k": "C",
+       "t": "It follows the tones that separate words in Spanish."
+      },
+      {
+       "k": "D",
+       "t": "It contains more information than spoken Spanish."
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "text": "What is Quintero's opinion of the situation on La Gomera today?",
+     "options": [
+      {
+       "k": "A",
+       "t": "The school programme has failed to teach children Silbo."
+      },
+      {
+       "k": "B",
+       "t": "Silbo is now displayed more than it is actually used."
+      },
+      {
+       "k": "C",
+       "t": "Tourism is the main threat to the survival of Silbo."
+      },
+      {
+       "k": "D",
+       "t": "Silbo should be taught in schools on other islands."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 8,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 8–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 8,
+     "text": "Silbo Gomero developed as a way for [[8]] to send messages across the island."
+    },
+    {
+     "n": 9,
+     "text": "Rather than creating new words, whistlers copy the [[9]] of spoken language."
+    },
+    {
+     "n": 10,
+     "text": "Up to around a century ago, villagers in Aas communicated by whistling in [[10]]."
+    },
+    {
+     "n": 11,
+     "text": "In parts of South America, [[11]] whistle so that they do not scare their prey."
+    },
+    {
+     "n": 12,
+     "text": "Since 1999, all children on La Gomera have had to study Silbo in [[12]]."
+    },
+    {
+     "n": 13,
+     "text": "In the 2015 study, the two [[13]] of the brain dealt with whistled Turkish to a similar extent."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "steep-sided",
+   "zh": "（山谷）两侧陡峭的"
+  },
+  {
+   "w": "transmit",
+   "zh": "传送；传递"
+  },
+  {
+   "w": "tonal language",
+   "zh": "声调语言"
+  },
+  {
+   "w": "distinguish",
+   "zh": "区分；区别"
+  },
+  {
+   "w": "dense",
+   "zh": "茂密的；密集的"
+  },
+  {
+   "w": "isolated",
+   "zh": "偏远的；孤立的"
+  },
+  {
+   "w": "fluently",
+   "zh": "流利地"
+  },
+  {
+   "w": "urgent protection",
+   "zh": "紧急保护"
+  },
+  {
+   "w": "revival",
+   "zh": "复兴；复苏"
+  },
+  {
+   "w": "compulsory",
+   "zh": "必修的；强制的"
+  },
+  {
+   "w": "hemisphere",
+   "zh": "（大脑）半球"
+  },
+  {
+   "w": "recover",
+   "zh": "恢复"
+  }
+ ],
+ "generatedAt": "2026-11-21T06:55:00+08:00",
+ "spec": "v5"
+}

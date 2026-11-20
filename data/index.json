@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-17T22:50:29.022Z",
+ "updatedAt": "2026-11-20T22:51:52.221Z",
  "passages": [
+  {
+   "id": "2026-11-21",
+   "date": "2026-11-21",
+   "slot": "main",
+   "title": "Languages That Are Whistled",
+   "level": 5.5,
+   "style": "P2",
+   "topicArea": "linguistics",
+   "types": [
+    "headings",
+    "mcq",
+    "sentence_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-21T06:55:00+08:00"
+  },
+  {
+   "id": "2026-11-21-p",
+   "date": "2026-11-21",
+   "slot": "p3",
+   "title": "The Case for Doing Less",
+   "level": 7,
+   "style": "P3",
+   "topicArea": "health & medicine",
+   "types": [
+    "ynng",
+    "match_info",
+    "sentence_endings"
+   ],
+   "total": 14,
+   "generatedAt": "2026-11-21T07:00:00+08:00"
+  },
   {
    "id": "2026-11-18-a",
    "date": "2026-11-18",

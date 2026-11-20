@@ -1,0 +1,220 @@
+{
+ "id": "2026-11-21-p",
+ "date": "2026-11-21",
+ "level": 7.0,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "health & medicine",
+ "title": "The Case for Doing Less",
+ "subtitle": "More tests and more treatment are usually seen as better care. A growing number of doctors disagree",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Modern medicine is built on an instinct to act. When a patient arrives with a symptom, or even without one, the natural response is to look for something wrong and to put it right: to order a test, prescribe a drug or schedule an operation. That instinct has saved countless lives, and it would be foolish to wish it away. Yet a growing body of evidence suggests that more medicine is not always better medicine, and that a significant share of the care delivered in wealthy countries brings patients no benefit at all. One widely cited estimate put the cost of unnecessary services in the United States alone at more than 200 billion dollars a year. Some of this care does patients harm. The assumption that a doctor who does more is necessarily a better doctor deserves to be questioned."
+  },
+  {
+   "label": "B",
+   "text": "At the centre of the debate is the idea of overdiagnosis: the detection of a condition that is real but would never have caused symptoms or shortened the patient's life. Overdiagnosis is not the same as a false positive, in which a test wrongly suggests that a disease is present; in an overdiagnosed case, the abnormality genuinely exists, but it is harmless. The clearest example comes from South Korea. After a national screening programme began in 1999, many people were offered ultrasound scans of the thyroid gland, often as an inexpensive addition to other check-ups. By 2011 the rate at which thyroid cancer was diagnosed was around fifteen times higher than it had been in 1993, yet the number of people dying of the disease scarcely changed. Thousands of patients had their thyroid removed and now need medication for the rest of their lives, in most cases for tumours that would never have troubled them."
+  },
+  {
+   "label": "C",
+   "text": "Several forces push in the same direction. Imaging technology has become so sensitive that it can reveal abnormalities far smaller than any that doctors could detect a generation ago. The definitions of some conditions have also been widened: when the level of blood pressure or blood sugar regarded as abnormal is lowered, millions of people become patients overnight. Doctors may fear being sued for missing a disease, while patients often expect a visit to end with a prescription or a referral. Dr Hannah Okoye, a sociologist at the University of Bristol, argues that it is a mistake to blame individual doctors. In her view, the decisive factor is a payment system that rewards hospitals and clinics for the number of procedures they carry out rather than for the health of the people they treat. Where doctors are paid a salary instead of a fee for each service, she notes, rates of some low-value procedures are noticeably lower."
+  },
+  {
+   "label": "D",
+   "text": "Attempts to address the problem have so far achieved less than their supporters hoped. In 2012 a campaign called Choosing Wisely was launched in the United States, in which medical societies published lists of tests and treatments that their own members often used without good reason. The idea has since been taken up in more than twenty countries. Studies of its effects, however, have generally found only small reductions in the use of the targeted tests, and in some cases none at all. Professor Lars Eriksen of the University of Copenhagen is not surprised. Lists of this kind, he maintains, rarely alter behaviour unless the financial incentives that encourage unnecessary care are changed at the same time."
+  },
+  {
+   "label": "E",
+   "text": "Admittedly, the case for doing less has limits. Screening for some conditions, such as cancer of the cervix, has prevented a great many deaths, and a doctor who withholds a test may miss a disease that could have been treated. The difficulty is that for many conditions there is no reliable way of telling, at the time of diagnosis, which abnormalities will grow and which will remain harmless. Under such uncertainty, some degree of overtreatment may be the price of catching the cases that matter. The argument, then, is not against screening or treatment as such, but against their indiscriminate use where the evidence of benefit is weak. The question in each case should be whether a test is likely to change what happens to the patient, not merely whether it can find something."
+  },
+  {
+   "label": "F",
+   "text": "Patients themselves may be part of the solution. When people are given clear information about the likely benefits and harms of a procedure, many choose a more cautious course than their doctors would have recommended. Dr Priya Nair of McMaster University in Canada studied patients who were considering surgery for back and knee problems and found that those given decision aids, short guides that set out the options and their probable outcomes, chose an operation less often than those who were not, and were no less satisfied with their care a year later. Nair stresses that the guides did not tell patients what to choose; they simply made the trade-offs visible."
+  },
+  {
+   "label": "G",
+   "text": "None of this will be easy to change. Doing less requires a doctor to explain why a test is unnecessary, which takes more time than ordering it, and to accept a degree of uncertainty that both doctors and patients find uncomfortable. A patient who is told that nothing needs to be done may leave feeling dismissed rather than reassured, and a doctor may worry about how the decision will look if things go wrong. It also requires health systems to measure their success by the health of the populations they serve rather than by the volume of activity they record. The most difficult skill in medicine, it may turn out, is knowing when to do nothing."
+  }
+ ],
+ "groups": [
+  {
+   "type": "ynng",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "Do the following statements agree with the claims of the writer in the reading passage?",
+    "In boxes 1–5 on your answer sheet, write",
+    "YES if the statement agrees with the claims of the writer",
+    "NO if the statement contradicts the claims of the writer",
+    "NOT GIVEN if it is impossible to say what the writer thinks about this"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "Receiving additional medical care invariably improves a patient's health."
+    },
+    {
+     "n": 2,
+     "text": "Most of the South Korean patients who lost their thyroid gland would not have been harmed by their tumours."
+    },
+    {
+     "n": 3,
+     "text": "Fear of legal action is the chief reason why conditions are overdiagnosed."
+    },
+    {
+     "n": 4,
+     "text": "The Choosing Wisely campaign has been more effective than its supporters expected."
+    },
+    {
+     "n": 5,
+     "text": "A certain amount of unnecessary treatment may be impossible to avoid."
+    }
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 6,
+   "to": 10,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 6–10 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 6,
+     "text": "a contrast between two different problems that can result from testing"
+    },
+    {
+     "n": 7,
+     "text": "a reference to an initiative being adopted beyond its country of origin"
+    },
+    {
+     "n": 8,
+     "text": "an explanation of why it is hard to predict which cases need treatment"
+    },
+    {
+     "n": 9,
+     "text": "an example of the boundaries of an illness being redrawn"
+    },
+    {
+     "n": 10,
+     "text": "a financial estimate of care that brings no benefit"
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 11,
+   "to": 14,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–G, below.",
+    "Write the correct letter, A–G, in boxes 11–14 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 11,
+     "text": "The thyroid screening programme in South Korea"
+    },
+    {
+     "n": 12,
+     "text": "Hannah Okoye"
+    },
+    {
+     "n": 13,
+     "text": "Lars Eriksen"
+    },
+    {
+     "n": 14,
+     "text": "Priya Nair"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "published lists of tests that were often used without good reason."
+    },
+    {
+     "k": "B",
+     "t": "maintains that guidance alone achieves little unless money is also involved."
+    },
+    {
+     "k": "C",
+     "t": "led to a sharp rise in diagnoses without a fall in deaths."
+    },
+    {
+     "k": "D",
+     "t": "showed that patients usually expect a prescription at the end of a visit."
+    },
+    {
+     "k": "E",
+     "t": "found that well-informed patients opted for surgery less often."
+    },
+    {
+     "k": "F",
+     "t": "prevented a large number of deaths from cancer of the cervix."
+    },
+    {
+     "k": "G",
+     "t": "believes that the way hospitals are paid encourages excessive treatment."
+    }
+   ]
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "instinct",
+   "zh": "本能；直觉"
+  },
+  {
+   "w": "overdiagnosis",
+   "zh": "过度诊断"
+  },
+  {
+   "w": "false positive",
+   "zh": "假阳性"
+  },
+  {
+   "w": "abnormality",
+   "zh": "异常；畸形"
+  },
+  {
+   "w": "screening",
+   "zh": "筛查"
+  },
+  {
+   "w": "scarcely",
+   "zh": "几乎不"
+  },
+  {
+   "w": "referral",
+   "zh": "转诊"
+  },
+  {
+   "w": "incentive",
+   "zh": "激励；诱因"
+  },
+  {
+   "w": "withhold",
+   "zh": "不给予；保留"
+  },
+  {
+   "w": "indiscriminate",
+   "zh": "不加区分的；滥用的"
+  },
+  {
+   "w": "trade-off",
+   "zh": "权衡；取舍"
+  },
+  {
+   "w": "volume of activity",
+   "zh": "业务量；活动量"
+  }
+ ],
+ "generatedAt": "2026-11-21T07:00:00+08:00",
+ "spec": "v5"
+}

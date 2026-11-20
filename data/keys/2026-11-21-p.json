@@ -1,0 +1,117 @@
+{
+ "id": "2026-11-21-p",
+ "answers": {
+  "1": {
+   "a": "NO",
+   "ev": {
+    "p": "A",
+    "q": "more medicine is not always better medicine"
+   },
+   "why": "A段。invariably improves ↔ 作者明确说 more medicine is not always better medicine，而且 Some of this care does patients harm。题干的 invariably（总是）与原文直接矛盾，所以是 NO。"
+  },
+  "2": {
+   "a": "YES",
+   "ev": {
+    "p": "B",
+    "q": "in most cases for tumours that would never have troubled them"
+   },
+   "why": "B段末句。Most of … would not have been harmed ↔ in most cases for tumours that would never have troubled them；lost their thyroid gland ↔ had their thyroid removed。"
+  },
+  "3": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "C",
+    "q": "Doctors may fear being sued for missing a disease"
+   },
+   "why": "C段把怕被起诉列为几个原因之一，但作者没有说哪个原因最重要。认为“决定性因素”是付费制度的是 Okoye，不是作者本人，而且她说的也不是诉讼。所以作者的观点无从判断。"
+  },
+  "4": {
+   "a": "NO",
+   "ev": {
+    "p": "D",
+    "q": "Attempts to address the problem have so far achieved less than their supporters hoped."
+   },
+   "why": "D段首句。more effective than its supporters expected ↔ achieved less than their supporters hoped，方向完全相反。"
+  },
+  "5": {
+   "a": "YES",
+   "ev": {
+    "p": "E",
+    "q": "Under such uncertainty, some degree of overtreatment may be the price of catching the cases that matter."
+   },
+   "why": "E段。A certain amount of unnecessary treatment ↔ some degree of overtreatment；may be impossible to avoid ↔ may be the price of catching the cases that matter。"
+  },
+  "6": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "Overdiagnosis is not the same as a false positive, in which a test wrongly suggests that a disease is present"
+   },
+   "why": "B段。a contrast between two different problems ↔ Overdiagnosis is not the same as a false positive。"
+  },
+  "7": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "The idea has since been taken up in more than twenty countries."
+   },
+   "why": "D段。an initiative being adopted beyond its country of origin ↔ Choosing Wisely … launched in the United States … taken up in more than twenty countries。"
+  },
+  "8": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "there is no reliable way of telling, at the time of diagnosis, which abnormalities will grow and which will remain harmless"
+   },
+   "why": "E段。hard to predict which cases need treatment ↔ no reliable way of telling … which abnormalities will grow and which will remain harmless。B段说的是已经确诊、但其实无害的病例，不是“为什么难以预测”。"
+  },
+  "9": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "when the level of blood pressure or blood sugar regarded as abnormal is lowered, millions of people become patients overnight"
+   },
+   "why": "C段。the boundaries of an illness being redrawn ↔ The definitions of some conditions have also been widened … the level … regarded as abnormal is lowered。"
+  },
+  "10": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "put the cost of unnecessary services in the United States alone at more than 200 billion dollars a year"
+   },
+   "why": "A段。a financial estimate ↔ One widely cited estimate put the cost … at more than 200 billion dollars；care that brings no benefit ↔ unnecessary services。B段的 inexpensive 只是在说甲状腺扫描便宜，不是费用估算。"
+  },
+  "11": {
+   "a": "C",
+   "ev": {
+    "p": "B",
+    "q": "the rate at which thyroid cancer was diagnosed was around fifteen times higher than it had been in 1993, yet the number of people dying of the disease scarcely changed"
+   },
+   "why": "B段。a sharp rise in diagnoses ↔ around fifteen times higher；without a fall in deaths ↔ the number of people dying … scarcely changed。F 是E段宫颈癌筛查的结果，不是韩国的甲状腺筛查。"
+  },
+  "12": {
+   "a": "G",
+   "ev": {
+    "p": "C",
+    "q": "the decisive factor is a payment system that rewards hospitals and clinics for the number of procedures they carry out"
+   },
+   "why": "C段。the way hospitals are paid ↔ a payment system that rewards hospitals and clinics；encourages excessive treatment ↔ rewards … for the number of procedures。D 是陷阱：病人期待开药是C段的泛泛描述，不是 Okoye 的研究发现。"
+  },
+  "13": {
+   "a": "B",
+   "ev": {
+    "p": "D",
+    "q": "Lists of this kind, he maintains, rarely alter behaviour unless the financial incentives that encourage unnecessary care are changed at the same time."
+   },
+   "why": "D段。guidance alone achieves little ↔ Lists of this kind … rarely alter behaviour；unless money is also involved ↔ unless the financial incentives … are changed。A 是 medical societies 做的事，不是 Eriksen。"
+  },
+  "14": {
+   "a": "E",
+   "ev": {
+    "p": "F",
+    "q": "those given decision aids, short guides that set out the options and their probable outcomes, chose an operation less often"
+   },
+   "why": "F段。well-informed patients ↔ those given decision aids, short guides that set out the options；opted for surgery less often ↔ chose an operation less often。"
+  }
+ }
+}
