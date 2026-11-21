@@ -1,0 +1,261 @@
+{
+ "id": "2026-11-22-p",
+ "date": "2026-11-22",
+ "level": 7.0,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "philosophy of science",
+ "title": "Who Reviews the Reviewers?",
+ "subtitle": "Peer review is often treated as a guarantee of scientific truth. It was never meant to be one",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Few phrases carry as much authority in public debate as “peer-reviewed”. Journalists use it to signal that a finding can be trusted, politicians cite it to end arguments, and courts increasingly treat it as a test of whether scientific evidence should be admitted. Universities and funding bodies, too, judge researchers largely by how many reviewed papers they have published. The idea behind it is reassuring: before a study is published, other experts in the field have examined it and found it sound. Yet this confidence rests on a misunderstanding of what peer review is and what it can do. It is a valuable human practice, carried out by busy people with limited time and information, and it was never designed to certify that a piece of research is correct. To treat the label as a guarantee of truth is to ask of it something it cannot deliver."
+  },
+  {
+   "label": "B",
+   "text": "It is also a younger tradition than is commonly supposed. For most of the history of modern science, the decision to publish a paper lay with a journal's editor, who might consult a colleague informally or might not. In 1936 Albert Einstein submitted a paper written with Nathan Rosen to the American journal Physical Review, which, without telling him, sent it to an anonymous referee. Einstein, who had never encountered the practice, withdrew the paper in anger. His indignation, it turned out, was misplaced: the referee had identified a genuine error, and a corrected version appeared in another journal the following year. Even Nature, one of the most prestigious journals in the world, did not send every paper to outside reviewers as a matter of routine until 1973. What is now regarded as the defining feature of scientific publishing was, in large part, a response after the Second World War to the rapidly growing number of papers that editors could no longer judge by themselves."
+  },
+  {
+   "label": "C",
+   "text": "Whatever its origins, the process has clear limits. Reviewers rarely see the raw data on which a study is based, and almost never repeat the experiments it describes; they judge whether the methods appear sensible and whether the conclusions follow from the results as reported. They are usually unpaid and fit the work around their own research and teaching. Under these conditions it would be surprising if they caught every problem, and the evidence suggests that they do not. In a well-known experiment published in 1998, the editors of the British Medical Journal deliberately inserted eight errors into a paper and sent it to several hundred reviewers; on average, each reviewer identified only about two of them. Deliberate fraud, which is designed to look convincing, is even harder to detect, and most cases that come to light are exposed after publication rather than before it. In many of these cases it was readers, not reviewers, who first noticed that images had been duplicated or that figures did not add up."
+  },
+  {
+   "label": "D",
+   "text": "A more troubling criticism is that peer review may favour the familiar. In a study carried out in the early 1980s, two psychologists took papers that had already been published by researchers at prestigious American universities, changed the authors' names and institutions to fictitious and obscure ones, and resubmitted them to the same journals. Most of the resubmissions went unrecognised, and almost all of those were rejected, frequently on the grounds of serious methodological flaws. Dr Sofia Lindgren, who studies research evaluation at Uppsala University, argues that this kind of conservatism is built into the system. A reviewer who approves a mistaken paper risks embarrassment, she points out, whereas one who rejects an original but unusual idea suffers no penalty at all. Over time, she suggests, this imbalance rewards research that extends existing ideas a little and discourages work that challenges them."
+  },
+  {
+   "label": "E",
+   "text": "None of this means that peer review should be abandoned. Authors themselves often report that reviewers' comments made their papers clearer and more careful, and the process undoubtedly filters out a great deal of weak work. The question is whether it can be supplemented. One development is the rise of preprints, versions of papers posted online before review; physicists have shared their work in this way through the arXiv server since 1991, and the practice has since spread to biology and medicine. Preprints expose research to many more readers than two or three anonymous referees could ever be. Professor Daniel Ferreira of the University of Lisbon warns, however, that during the Covid-19 pandemic unverified claims posted as preprints were widely reported in the press before anyone had checked them, sometimes with damaging consequences. He does not oppose preprints, but he believes that journalists and readers need to be told clearly when a finding has not yet been examined by anyone."
+  },
+  {
+   "label": "F",
+   "text": "The most realistic view, then, is to regard peer review as the first stage of scrutiny rather than the last. The reliability of science depends less on any single gatekeeper than on what happens afterwards: other researchers attempt to repeat the work, criticise it, extend it or show that it is wrong. Journals could help by publishing reviewers' reports alongside papers and by making it easier to correct the record when errors are found, rather than treating corrections as a source of shame. The public, in turn, would be better served if the phrase “peer-reviewed” were understood for what it is. It tells us that a paper has passed a test; it does not tell us that the paper is true."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "The reading passage has six paragraphs, A–F.",
+    "Choose the correct heading for paragraphs B–F from the list of headings below.",
+    "Write the correct number, i–x, in boxes 1–5 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "Why fraud is widespread in research"
+    },
+    {
+     "k": "ii",
+     "t": "A misplaced faith in a label"
+    },
+    {
+     "k": "iii",
+     "t": "Supplementing the system, with some dangers"
+    },
+    {
+     "k": "iv",
+     "t": "A famous scientist's rejected discovery"
+    },
+    {
+     "k": "v",
+     "t": "A practice more recent than it appears"
+    },
+    {
+     "k": "vi",
+     "t": "An early hurdle, not a final verdict"
+    },
+    {
+     "k": "vii",
+     "t": "The case for paying reviewers"
+    },
+    {
+     "k": "viii",
+     "t": "Built-in caution towards the unfamiliar"
+    },
+    {
+     "k": "ix",
+     "t": "What checking can and cannot catch"
+    },
+    {
+     "k": "x",
+     "t": "The end of anonymous reviewing"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "ii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    }
+   ]
+  },
+  {
+   "type": "ynng",
+   "from": 6,
+   "to": 10,
+   "instructions": [
+    "Do the following statements agree with the claims of the writer in the reading passage?",
+    "In boxes 6–10 on your answer sheet, write",
+    "YES if the statement agrees with the claims of the writer",
+    "NO if the statement contradicts the claims of the writer",
+    "NOT GIVEN if it is impossible to say what the writer thinks about this"
+   ],
+   "items": [
+    {
+     "n": 6,
+     "text": "Journalists are justified in regarding peer-reviewed findings as established facts."
+    },
+    {
+     "n": 7,
+     "text": "Einstein had good reason to be angry about the treatment of his 1936 paper."
+    },
+    {
+     "n": 8,
+     "text": "Reviewers would do a better job if they were paid for their work."
+    },
+    {
+     "n": 9,
+     "text": "Where a researcher works can affect how their paper is judged."
+    },
+    {
+     "n": 10,
+     "text": "The comments of reviewers generally improve the quality of papers."
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 11,
+   "to": 14,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–G, below.",
+    "Write the correct letter, A–G, in boxes 11–14 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 11,
+     "text": "The 1998 experiment by the editors of a medical journal"
+    },
+    {
+     "n": 12,
+     "text": "The psychologists who resubmitted published papers"
+    },
+    {
+     "n": 13,
+     "text": "Sofia Lindgren"
+    },
+    {
+     "n": 14,
+     "text": "Daniel Ferreira"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "made routine external review standard practice in 1973."
+    },
+    {
+     "k": "B",
+     "t": "points out that the risks for a reviewer favour turning down new ideas."
+    },
+    {
+     "k": "C",
+     "t": "showed that most dishonest research is detected before it is published."
+    },
+    {
+     "k": "D",
+     "t": "revealed that reviewers noticed only a small share of planted mistakes."
+    },
+    {
+     "k": "E",
+     "t": "draws attention to the harm caused when unchecked findings reach the media."
+    },
+    {
+     "k": "F",
+     "t": "withdrew work after learning it had been sent to an outside expert."
+    },
+    {
+     "k": "G",
+     "t": "found that work was mostly rejected once it appeared to come from little-known places."
+    }
+   ]
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "peer review",
+   "zh": "同行评审"
+  },
+  {
+   "w": "certify",
+   "zh": "证明；认证"
+  },
+  {
+   "w": "referee",
+   "zh": "（论文）审稿人"
+  },
+  {
+   "w": "indignation",
+   "zh": "愤慨"
+  },
+  {
+   "w": "prestigious",
+   "zh": "有威望的；著名的"
+  },
+  {
+   "w": "raw data",
+   "zh": "原始数据"
+  },
+  {
+   "w": "fraud",
+   "zh": "欺诈；学术造假"
+  },
+  {
+   "w": "fictitious",
+   "zh": "虚构的"
+  },
+  {
+   "w": "conservatism",
+   "zh": "保守倾向"
+  },
+  {
+   "w": "supplement",
+   "zh": "补充"
+  },
+  {
+   "w": "preprint",
+   "zh": "预印本"
+  },
+  {
+   "w": "scrutiny",
+   "zh": "审查；仔细检查"
+  }
+ ],
+ "generatedAt": "2026-11-22T07:00:00+08:00",
+ "spec": "v5"
+}

@@ -1,0 +1,117 @@
+{
+ "id": "2026-11-22-p",
+ "answers": {
+  "1": {
+   "a": "v",
+   "ev": {
+    "p": "B",
+    "q": "It is also a younger tradition than is commonly supposed."
+   },
+   "why": "B段首句是主旨，末句再次确认：同行评审是二战后才普及的。v A practice more recent than it appears ↔ a younger tradition than is commonly supposed。iv 是陷阱：爱因斯坦的论文并没有被拒，是他自己撤稿，而且只是段中一个例子。"
+  },
+  "2": {
+   "a": "ix",
+   "ev": {
+    "p": "C",
+    "q": "Whatever its origins, the process has clear limits."
+   },
+   "why": "C段讲审稿能查出什么、查不出什么：不看原始数据、不重复实验、BMJ 实验只发现约两处错误。ix What checking can and cannot catch ↔ the process has clear limits。vii 是细节陷阱：段中只顺带提到审稿人通常无报酬，没有主张付费；i 与原文相反，原文只说造假更难被发现，没说造假很普遍。"
+  },
+  "3": {
+   "a": "viii",
+   "ev": {
+    "p": "D",
+    "q": "argues that this kind of conservatism is built into the system"
+   },
+   "why": "D段。viii Built-in caution towards the unfamiliar ↔ peer review may favour the familiar … this kind of conservatism is built into the system。"
+  },
+  "4": {
+   "a": "iii",
+   "ev": {
+    "p": "E",
+    "q": "The question is whether it can be supplemented."
+   },
+   "why": "E段先让步（不应废除同行评审），再讲预印本这种补充办法，最后讲它的风险（Ferreira）。iii Supplementing the system, with some dangers 涵盖了补充和风险两部分。x 过度推断：原文没有说匿名审稿会结束。"
+  },
+  "5": {
+   "a": "vi",
+   "ev": {
+    "p": "F",
+    "q": "regard peer review as the first stage of scrutiny rather than the last"
+   },
+   "why": "F段。vi An early hurdle, not a final verdict ↔ the first stage of scrutiny rather than the last … passed a test; it does not tell us that the paper is true。"
+  },
+  "6": {
+   "a": "NO",
+   "ev": {
+    "p": "A",
+    "q": "To treat the label as a guarantee of truth is to ask of it something it cannot deliver."
+   },
+   "why": "A段。作者认为 this confidence rests on a misunderstanding，把这个标签当成真理保证是要求它做做不到的事。题干说记者这样做是对的，与作者观点相反。"
+  },
+  "7": {
+   "a": "NO",
+   "ev": {
+    "p": "B",
+    "q": "His indignation, it turned out, was misplaced: the referee had identified a genuine error"
+   },
+   "why": "B段。had good reason to be angry ↔ 原文明确说 His indignation … was misplaced，因为审稿人确实发现了错误。"
+  },
+  "8": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "C",
+    "q": "They are usually unpaid and fit the work around their own research and teaching."
+   },
+   "why": "C段只陈述审稿人通常没有报酬，没有说付费会不会让他们做得更好。作者对此没有表态，所以是 NOT GIVEN。很多人会把 unpaid 和审稿漏错联系起来选 YES，这是推断，不是作者的说法。"
+  },
+  "9": {
+   "a": "YES",
+   "ev": {
+    "p": "D",
+    "q": "changed the authors' names and institutions to fictitious and obscure ones"
+   },
+   "why": "D段。作者把这个研究当作 peer review may favour the familiar 的证据：同样的论文换成不知名的机构后几乎都被拒。Where a researcher works ↔ institutions。"
+  },
+  "10": {
+   "a": "YES",
+   "ev": {
+    "p": "E",
+    "q": "Authors themselves often report that reviewers' comments made their papers clearer and more careful"
+   },
+   "why": "E段让步部分。improve the quality of papers ↔ made their papers clearer and more careful … filters out a great deal of weak work。作者在这里认可了同行评审的作用。"
+  },
+  "11": {
+   "a": "D",
+   "ev": {
+    "p": "C",
+    "q": "deliberately inserted eight errors into a paper and sent it to several hundred reviewers; on average, each reviewer identified only about two of them"
+   },
+   "why": "C段。planted mistakes ↔ deliberately inserted eight errors；only a small share ↔ only about two of them。C 与原文相反：most cases … are exposed after publication rather than before it。"
+  },
+  "12": {
+   "a": "G",
+   "ev": {
+    "p": "D",
+    "q": "Most of the resubmissions went unrecognised, and almost all of those were rejected"
+   },
+   "why": "D段。little-known places ↔ fictitious and obscure institutions；mostly rejected ↔ almost all of those were rejected。"
+  },
+  "13": {
+   "a": "B",
+   "ev": {
+    "p": "D",
+    "q": "A reviewer who approves a mistaken paper risks embarrassment, she points out, whereas one who rejects an original but unusual idea suffers no penalty at all."
+   },
+   "why": "D段末句。the risks for a reviewer favour turning down new ideas ↔ approving a mistaken paper risks embarrassment, whereas rejecting an original idea suffers no penalty。"
+  },
+  "14": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "unverified claims posted as preprints were widely reported in the press before anyone had checked them, sometimes with damaging consequences"
+   },
+   "why": "E段末句。unchecked findings reach the media ↔ unverified claims … widely reported in the press；harm ↔ damaging consequences。A 是 Nature 的做法（B段）；F 是爱因斯坦的经历。"
+  }
+ }
+}

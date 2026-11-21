@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-20T22:51:52.221Z",
+ "updatedAt": "2026-11-21T22:51:26.372Z",
  "passages": [
+  {
+   "id": "2026-11-22",
+   "date": "2026-11-22",
+   "slot": "main",
+   "title": "Tiny Forests",
+   "level": 6,
+   "style": "P2",
+   "topicArea": "urban planning & architecture",
+   "types": [
+    "sentence_endings",
+    "match_info",
+    "sentence_completion"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-22T06:55:00+08:00"
+  },
+  {
+   "id": "2026-11-22-p",
+   "date": "2026-11-22",
+   "slot": "p3",
+   "title": "Who Reviews the Reviewers?",
+   "level": 7,
+   "style": "P3",
+   "topicArea": "philosophy of science",
+   "types": [
+    "headings",
+    "ynng",
+    "sentence_endings"
+   ],
+   "total": 14,
+   "generatedAt": "2026-11-22T07:00:00+08:00"
+  },
   {
    "id": "2026-11-21",
    "date": "2026-11-21",

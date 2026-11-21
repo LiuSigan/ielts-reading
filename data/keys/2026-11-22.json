@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-22",
+ "answers": {
+  "1": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "the plant community that would eventually cover a piece of land if people left it alone"
+   },
+   "why": "B段。based his work on the vegetation that an area would support without human interference ↔ potential natural vegetation: the plant community that would eventually cover a piece of land if people left it alone。F 是陷阱：只种几种商业树种的是 plantations，正是 Miyawaki 反对的做法。"
+  },
+  "2": {
+   "a": "G",
+   "ev": {
+    "p": "C",
+    "q": "Because the young trees compete fiercely for light, they tend to grow upwards rapidly"
+   },
+   "why": "C段。pushes young trees to grow tall quickly ↔ tend to grow upwards rapidly；in the struggle for light ↔ compete fiercely for light。"
+  },
+  "3": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "have rarely been tested independently under controlled conditions"
+   },
+   "why": "D段。doubts that the best-known claims have been properly checked ↔ is cautious about such figures … rarely been tested independently。A 是瑞典研究的结论，不是 Benz 本人的观点。"
+  },
+  "4": {
+   "a": "A",
+   "ev": {
+    "p": "D",
+    "q": "the trees had grown no faster than those in ordinary plantations"
+   },
+   "why": "D段。found no evidence that the trees developed more quickly than usual ↔ had grown no faster than those in ordinary plantations。"
+  },
+  "5": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "they were colonised by a wide variety of insects within two years of planting"
+   },
+   "why": "E段。observed that new sites soon became home to many kinds of insect ↔ colonised by a wide variety of insects within two years。C 是过度推断：Harding 强调降温效果 is very local，只限于森林周围。"
+  },
+  "6": {
+   "a": "H",
+   "ev": {
+    "p": "F",
+    "q": "argues that the greatest benefit is the sense of connection with nature, and with neighbours, that the projects create"
+   },
+   "why": "F段。matter most for the people who take part ↔ the greatest benefit is the sense of connection … residents who took part。担心资金被转移的是 Some ecologists，不是 Rao。"
+  },
+  "7": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "For the first two or three years the site is weeded and watered, after which it is left to look after itself."
+   },
+   "why": "C段。the point at which human care of a site comes to an end ↔ For the first two or three years … after which it is left to look after itself。"
+  },
+  "8": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "The first in the Netherlands was planted in the town of Zaandam in 2015"
+   },
+   "why": "A段。two countries ↔ the Netherlands（Zaandam，2015）和 Britain（Witney，2020）。B段讲的是日本的方法起源，不是“第一片小森林”在哪里。"
+  },
+  "9": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "a tiny forest is considerably more expensive per tree than a conventional planting scheme"
+   },
+   "why": "G段。a comparison of the expense of two planting approaches ↔ more expensive per tree than a conventional planting scheme。A段 affordable 只是支持者的形容，没有比较。"
+  },
+  "10": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "may divert attention and funding from protecting existing woodland and old trees"
+   },
+   "why": "F段末句。resources may be taken away ↔ divert attention and funding；other conservation work ↔ protecting existing woodland and old trees。"
+  },
+  "11": {
+   "a": "saplings",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "about three saplings per square metre"
+   },
+   "why": "C段。In each square metre ↔ per square metre；are put in the ground ↔ planted。不要填 species：thirty or more 指的是物种数量，不是每平方米种几棵。"
+  },
+  "12": {
+   "a": "carbon",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "can make little difference to the amount of carbon removed from the atmosphere"
+   },
+   "why": "E段。little effect on the quantity of ↔ make little difference to the amount of；taken out of the air ↔ removed from the atmosphere。"
+  },
+  "13": {
+   "a": "local volunteers",
+   "alt": [
+    "volunteers"
+   ],
+   "ev": {
+    "p": "F",
+    "q": "Tiny forests are usually planted by local volunteers and schoolchildren"
+   },
+   "why": "F段。generally done by ↔ usually planted by。schoolchildren 已在题干中给出，空格填 local volunteers；只填 volunteers 也对。residents 是 Rao 采访的对象，不是题目问的种树的人。"
+  }
+ }
+}

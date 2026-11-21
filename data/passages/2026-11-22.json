@@ -1,0 +1,225 @@
+{
+ "id": "2026-11-22",
+ "date": "2026-11-22",
+ "level": 6.0,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "urban planning & architecture",
+ "title": "Tiny Forests",
+ "subtitle": "Small, densely planted woodlands are springing up in cities everywhere. Do they deserve their reputation?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Over the past decade, a new kind of woodland has been appearing in towns and cities across Europe. Planted on school grounds, beside busy roads and in the corners of parks, these so-called tiny forests are often no bigger than a tennis court, yet they contain hundreds of young trees packed closely together. The first in the Netherlands was planted in the town of Zaandam in 2015, and within a few years there were well over a hundred across the country. Britain followed in 2020, when the first was planted in Witney, in Oxfordshire. Supporters describe them as a fast and affordable way of bringing nature back into urban areas. Critics are less sure, and the debate has become a useful test of how claims about environmental projects are made and checked."
+  },
+  {
+   "label": "B",
+   "text": "The technique behind them was developed by the Japanese botanist Akira Miyawaki, who died in 2021. Miyawaki was interested in what ecologists call potential natural vegetation: the plant community that would eventually cover a piece of land if people left it alone. He noticed that fragments of Japan's original forest had survived mainly in the grounds of temples and shrines, while elsewhere they had been replaced by plantations of a few commercially useful species. From the 1970s onwards he used native species to create new forests, many of them on land around factories and ports, and he is often credited with overseeing the planting of millions of trees. His approach spread to India, Malaysia and South America long before it reached Europe."
+  },
+  {
+   "label": "C",
+   "text": "The method itself is simple but demanding. The soil is first dug over to a considerable depth and enriched with organic material. A wide range of species that are native to the area, often thirty or more, is then planted at very high density, about three saplings per square metre, far more than in a conventional plantation. For the first two or three years the site is weeded and watered, after which it is left to look after itself. Because the young trees compete fiercely for light, they tend to grow upwards rapidly, quickly forming a closed canopy. As the forest matures, the weaker trees are shaded out and die, leaving a smaller number of stronger ones, a process that in a natural forest would take far longer."
+  },
+  {
+   "label": "D",
+   "text": "Promoters of tiny forests often claim that they grow ten times faster, are thirty times denser and support a hundred times more wildlife than conventional plantations. Dr Laura Benz, a forest ecologist at Utrecht University, is cautious about such figures. They come largely from Miyawaki's own reports, she points out, and have rarely been tested independently under controlled conditions. Some studies that have done so are less encouraging. One study of plantings in southern Sweden found that, after more than two decades, the trees had grown no faster than those in ordinary plantations, and that many had died as they competed with their neighbours. Benz adds that comparisons are difficult, because the conventional plantations used as a standard are often poorly chosen."
+  },
+  {
+   "label": "E",
+   "text": "This does not mean that tiny forests bring no benefits. Professor Tom Harding of the University of Sheffield has monitored a number of them in British towns and found that they were colonised by a wide variety of insects within two years of planting, and that on hot summer days the air immediately around them was noticeably cooler than on nearby streets. Harding emphasises, however, that the effect is very local, and that sites of this size can make little difference to the amount of carbon removed from the atmosphere. A single mature tree, he notes, may store more than an entire young tiny forest."
+  },
+  {
+   "label": "F",
+   "text": "For many of those involved, the main value is social rather than ecological. Tiny forests are usually planted by local volunteers and schoolchildren, and many are used for outdoor lessons. Dr Anika Rao, a sociologist at the University of Leeds, has interviewed residents who took part in planting days and argues that the greatest benefit is the sense of connection with nature, and with neighbours, that the projects create. Some ecologists, however, worry that the popularity of tiny forests may divert attention and funding from protecting existing woodland and old trees, which are far more valuable to wildlife. A tree that is two hundred years old, they point out, cannot be replaced by planting a few hundred saplings."
+  },
+  {
+   "label": "G",
+   "text": "Cost is another point of debate. Because of the deep soil preparation and the large number of trees, a tiny forest is considerably more expensive per tree than a conventional planting scheme. Supporters respond that the comparison is unfair: in a crowded city, where land is scarce, the ability to create a functioning woodland on a site the size of a few parking spaces may be worth paying for. Both sides agree that the forests should be judged on what they actually achieve rather than on the remarkable figures that are sometimes used to promote them."
+  }
+ ],
+ "groups": [
+  {
+   "type": "sentence_endings",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–I, below.",
+    "Write the correct letter, A–I, in boxes 1–6 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "Akira Miyawaki"
+    },
+    {
+     "n": 2,
+     "text": "Planting saplings very close together"
+    },
+    {
+     "n": 3,
+     "text": "Laura Benz"
+    },
+    {
+     "n": 4,
+     "text": "The research carried out in Sweden"
+    },
+    {
+     "n": 5,
+     "text": "Tom Harding"
+    },
+    {
+     "n": 6,
+     "text": "Anika Rao"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "found no evidence that the trees developed more quickly than usual."
+    },
+    {
+     "k": "B",
+     "t": "based his work on the vegetation that an area would support without human interference."
+    },
+    {
+     "k": "C",
+     "t": "showed that tiny forests reduce temperatures across an entire city."
+    },
+    {
+     "k": "D",
+     "t": "doubts that the best-known claims have been properly checked."
+    },
+    {
+     "k": "E",
+     "t": "observed that new sites soon became home to many kinds of insect."
+    },
+    {
+     "k": "F",
+     "t": "recommended planting a small number of commercially useful species."
+    },
+    {
+     "k": "G",
+     "t": "pushes young trees to grow tall quickly in the struggle for light."
+    },
+    {
+     "k": "H",
+     "t": "believes that the projects matter most for the people who take part."
+    },
+    {
+     "k": "I",
+     "t": "was first tried in Britain in 2015."
+    }
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 7–10 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "a mention of the point at which human care of a site comes to an end"
+    },
+    {
+     "n": 8,
+     "text": "details of where tiny forests were first established in two countries"
+    },
+    {
+     "n": 9,
+     "text": "a comparison of the expense of two planting approaches"
+    },
+    {
+     "n": 10,
+     "text": "a fear that resources may be taken away from other conservation work"
+    }
+   ]
+  },
+  {
+   "type": "sentence_completion",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete the sentences below.",
+    "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "Write your answers in boxes 11–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN TWO WORDS",
+   "maxWords": 2,
+   "allowNumber": false,
+   "items": [
+    {
+     "n": 11,
+     "text": "In each square metre of a tiny forest, around three [[11]] are put in the ground."
+    },
+    {
+     "n": 12,
+     "text": "Harding believes tiny forests have little effect on the quantity of [[12]] taken out of the air."
+    },
+    {
+     "n": 13,
+     "text": "The work of planting is generally done by schoolchildren and [[13]]."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "botanist",
+   "zh": "植物学家"
+  },
+  {
+   "w": "native species",
+   "zh": "本地物种；原生物种"
+  },
+  {
+   "w": "fragment",
+   "zh": "碎片；残存部分"
+  },
+  {
+   "w": "plantation",
+   "zh": "人工林；种植园"
+  },
+  {
+   "w": "be credited with",
+   "zh": "被认为有……功劳"
+  },
+  {
+   "w": "sapling",
+   "zh": "树苗"
+  },
+  {
+   "w": "canopy",
+   "zh": "（森林的）树冠层"
+  },
+  {
+   "w": "independently",
+   "zh": "独立地"
+  },
+  {
+   "w": "colonise",
+   "zh": "（动植物）在……定居；占据"
+  },
+  {
+   "w": "mature",
+   "zh": "成熟的"
+  },
+  {
+   "w": "divert",
+   "zh": "转移；使转向"
+  },
+  {
+   "w": "scarce",
+   "zh": "稀缺的"
+  }
+ ],
+ "generatedAt": "2026-11-22T06:55:00+08:00",
+ "spec": "v5"
+}
