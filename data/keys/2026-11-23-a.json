@@ -1,0 +1,122 @@
+{
+ "id": "2026-11-23-a",
+ "answers": {
+  "1": {
+   "a": "D",
+   "ev": {
+    "p": "D",
+    "q": "After around 50,000 years so little carbon-14 is left that it can no longer be measured reliably"
+   },
+   "why": "D段末两句。cannot be used on very ancient remains ↔ The method has a natural limit … After around 50,000 years … can no longer be measured reliably。E段讲早期结果有误差，那是测出来不准，不是“不能用”。"
+  },
+  "2": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "They therefore tested it on samples whose age was already known from other sources"
+   },
+   "why": "B段。checked against existing knowledge ↔ tested it on samples whose age was already known from other sources（埃及墓葬的木头）。E段用树轮校准也涉及已知年代，但那是后来修正误差，不是方法公布前的验证。"
+  },
+  "3": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "nuclear weapons tests in the 1950s and early 1960s almost doubled the amount of carbon-14 in the air"
+   },
+   "why": "E段末句。a human action ↔ nuclear weapons tests；altered the composition of the air ↔ almost doubled the amount of carbon-14 in the air。C段讲碳-14 自然产生，是宇宙射线造成的，不是人为。"
+  },
+  "4": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "The new technique counts the atoms directly and needs only a few milligrams"
+   },
+   "why": "F段。greatly reduced the size of samples ↔ required several grams … needs only a few milligrams。"
+  },
+  "5": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "a date only shows when an organism died, not when people used it"
+   },
+   "why": "G段。may not reflect when an item was in use ↔ only shows when an organism died, not when people used it（例子：木梁）。"
+  },
+  "6": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "is absorbed by plants during photosynthesis. Animals take it in when they eat plants"
+   },
+   "why": "C段。how living things come to contain carbon-14 ↔ absorbed by plants during photosynthesis. Animals take it in when they eat plants。D段讲死后碳-14怎么减少，方向相反。"
+  },
+  "7": {
+   "a": "nitrogen",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "cosmic rays from space strike nitrogen atoms and convert them into carbon-14"
+   },
+   "why": "C段。Radiation from space ↔ cosmic rays from space；hits ↔ strike。oxygen 是下一步与碳-14 结合的元素，不是被宇宙射线击中的原子。"
+  },
+  "8": {
+   "a": "photosynthesis",
+   "alt": [],
+   "ev": {
+    "p": "C",
+    "q": "is absorbed by plants during photosynthesis"
+   },
+   "why": "C段。in the process of ↔ during。"
+  },
+  "9": {
+   "a": "decays",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "the carbon-14 it already contains decays at a fixed rate"
+   },
+   "why": "D段。the existing carbon-14 ↔ the carbon-14 it already contains；at a constant speed ↔ at a fixed rate。注意要用原文的 decays（第三人称单数），填 decay 与主语不搭配。"
+  },
+  "10": {
+   "a": "proportion",
+   "alt": [],
+   "ev": {
+    "p": "D",
+    "q": "By measuring the proportion of carbon-14 that survives"
+   },
+   "why": "D段。still survives ↔ that survives；find out ↔ measuring；work out the time since death ↔ calculate how long ago the organism died。不要填 amount（E段讲大气中的量），这里原文用的是 proportion。"
+  },
+  "11": {
+   "a": "bristlecone pines",
+   "alt": [],
+   "ev": {
+    "p": "E",
+    "q": "Long sequences from bristlecone pines in California, some of the oldest living trees on Earth, were especially important"
+   },
+   "why": "E段。especially valuable ↔ were especially important；correcting radiocarbon dates ↔ calibration。corals 和 lake sediments 是后来补充的记录，不是树。"
+  },
+  "12": {
+   "a": "three",
+   "alt": [
+    "3"
+   ],
+   "ev": {
+    "p": "F",
+    "q": "In 1988 three laboratories, in Oxford, Zurich and Tucson, each analysed a small strip"
+   },
+   "why": "F段。examined material from ↔ analysed a small strip cut from。注意不要被年份 1988 或年代 1260–1390 干扰。"
+  },
+  "13": {
+   "a": "wooden beam",
+   "alt": [
+    "a wooden beam",
+    "beam",
+    "a beam"
+   ],
+   "ev": {
+    "p": "G",
+    "q": "A wooden beam, for example, may have been cut from the centre of a tree that was already centuries old"
+   },
+   "why": "G段。seem older than the building ↔ appears much older than the building in which it was found；given as an example ↔ for example。"
+  }
+ }
+}

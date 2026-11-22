@@ -1,0 +1,109 @@
+{
+ "id": "2026-11-23",
+ "answers": {
+  "1": {
+   "a": "iii",
+   "ev": {
+    "p": "B",
+    "q": "The explanation is neat, but there is little documentary evidence to support it"
+   },
+   "why": "B段：防员工偷钱的起源说法很流行，但缺乏证据。iii A doubtful account of how it began ↔ Even the origins … are uncertain … little documentary evidence to support it。i 是陷阱：防止员工偷钱只是那个说法的内容，而作者对这个说法持怀疑态度，它不是整段主旨。"
+  },
+  "2": {
+   "a": "ix",
+   "ev": {
+    "p": "C",
+    "q": "they pay most attention to the first digit"
+   },
+   "why": "C段讲左位数效应。ix The importance of the first figure ↔ pay most attention to the first digit … left-digit effect。"
+  },
+  "3": {
+   "a": "ii",
+   "ev": {
+    "p": "D",
+    "q": "Evidence from real markets supports the idea that such small differences can matter."
+   },
+   "why": "D段用邮购目录实验和二手车市场的真实数据作证据。ii What actual purchases reveal ↔ Evidence from real markets。"
+  },
+  "4": {
+   "a": "viii",
+   "ev": {
+    "p": "E",
+    "q": "Price endings may also send messages about the product itself."
+   },
+   "why": "E段首句即主旨：价格尾数传达关于产品的信息（便宜、奢侈、用途）。viii The meaning a price can carry ↔ send messages about the product itself。iv 是细节陷阱：段中只说奢侈品用整数价格，没解释奢侈品为什么贵。"
+  },
+  "5": {
+   "a": "v",
+   "ev": {
+    "p": "F",
+    "q": "The effect is not equally strong everywhere."
+   },
+   "why": "F段：在某些国家、品类、关注价格的顾客中，以及网购时效果变弱。v Conditions that reduce the influence of endings ↔ weak or absent … smaller among shoppers … much less influenced。x 是细节陷阱：网购只是其中一种情况。"
+  },
+  "6": {
+   "a": "xi",
+   "ev": {
+    "p": "G",
+    "q": "the episode shows something more modest"
+   },
+   "why": "G段：J.C. Penney 取消尾数定价失败，作者认为真正的教训是顾客已经习惯找“便宜”。xi A failed experiment and its real lesson ↔ Sales fell sharply … reversed … the episode shows something more modest。vii 与原文相反：改变是失败的。"
+  },
+  "7": {
+   "a": "NO",
+   "ev": {
+    "p": "B",
+    "q": "there is little documentary evidence to support it"
+   },
+   "why": "B段。Historians agree ↔ 作者说这个说法 neat, but there is little documentary evidence，与“已被证实”相矛盾，所以是 NO。"
+  },
+  "8": {
+   "a": "YES",
+   "ev": {
+    "p": "D",
+    "q": "Remarkably, the version priced at $39 sold more than the version priced at $34"
+   },
+   "why": "D段。unexpected ↔ Remarkably … even though it was more expensive。作者用 Remarkably 表达了意外。"
+  },
+  "9": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "F",
+    "q": "Some studies have found it to be weak or absent in particular countries and product categories"
+   },
+   "why": "文中提到 €（欧元）价格，也说效果在某些国家较弱，但没有比较欧洲和美国哪里更常用尾数9的价格。看到 particular countries 就推断出 YES 或 NO 都是过度推断。"
+  },
+  "10": {
+   "a": "NO",
+   "ev": {
+    "p": "G",
+    "q": "It is tempting to conclude that prices ending in 9 have an almost magical power over shoppers, but the episode shows something more modest"
+   },
+   "why": "G段。shoppers are almost powerless against charm pricing ↔ an almost magical power over shoppers。作者说人们容易这样下结论，紧接着用 but … something more modest 否定了它，所以是 NO，不是 YES。"
+  },
+  "11": {
+   "a": "A",
+   "ev": {
+    "p": "E",
+    "q": "they tend to suggest that something is a bargain"
+   },
+   "why": "E段。make an item appear ↔ tend to suggest that something is；good value ↔ a bargain。G overpriced 意思相反。"
+  },
+  "12": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "sellers of luxury goods usually avoid them and prefer round numbers such as $200"
+   },
+   "why": "E段。companies selling luxury products ↔ sellers of luxury goods；whole figures ↔ round numbers。B luxurious 修饰产品，不能修饰 figures；D precise 与 round 意思相反。"
+  },
+  "13": {
+   "a": "F",
+   "ev": {
+    "p": "E",
+    "q": "prices ending in 9 worked better for purchases made for practical reasons, such as cleaning products"
+   },
+   "why": "E段末句。more effective for ↔ worked better for；functional purchases ↔ purchases made for practical reasons。E emotional 对应的是 buying something for pleasure，那是整数价格更受欢迎的情况。"
+  }
+ }
+}

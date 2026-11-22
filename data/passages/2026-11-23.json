@@ -1,0 +1,257 @@
+{
+ "id": "2026-11-23",
+ "date": "2026-11-23",
+ "level": 6.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "economics & business",
+ "title": "The Power of Ninety-Nine",
+ "subtitle": "Why do so many prices end in 9, and how much difference does it really make?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Walk into almost any shop and you will find prices that stop just short of a round number: £4.99, $19.99, €299. The practice, sometimes called charm pricing, is so widespread that most shoppers barely notice it, and it is often presented in business books as one of the simplest ways of increasing sales. There is good evidence that it can work. Yet the story of why it works, and of how strong the effect really is, turns out to be more complicated than such books usually suggest. Researchers disagree not only about how large the effect is, but also about whether it reflects a quirk of human perception or simply a habit that shops and shoppers have learned together."
+  },
+  {
+   "label": "B",
+   "text": "Even the origins of the practice are uncertain. A story that is frequently repeated holds that prices ending in 9 were introduced in American shops in the late nineteenth century to stop dishonest staff from pocketing money. Because a customer paying $0.99 with a dollar would need change, the cashier would have to open the till and record the sale. The explanation is neat, but there is little documentary evidence to support it, and it does not explain why the practice spread so widely, even to places where theft by employees was not a particular concern. It seems at least as likely that retailers simply copied one another, each assuming that a competitor's prices must have been chosen for a good reason."
+  },
+  {
+   "label": "C",
+   "text": "The most widely accepted explanation today is psychological. Because people read numbers from left to right, they pay most attention to the first digit, and a price of $2.99 is therefore perceived as being closer to $2 than to $3. In a series of studies published in 2005, the marketing researchers Manoj Thomas and Vicki Morwitz showed that this left-digit effect appears only when the first digit actually changes. Shoppers judged $2.99 to be considerably cheaper than $3.00, but saw little difference between $3.59 and $3.60, even though the gap in each case was only one cent. The effect was strongest when shoppers had little time to think, which suggests that it works below the level of careful calculation."
+  },
+  {
+   "label": "D",
+   "text": "Evidence from real markets supports the idea that such small differences can matter. In a well-known experiment reported in 2003, a mail-order company selling women's clothing printed different versions of its catalogue in which the same dress was offered at $34, $39 or $44. Remarkably, the version priced at $39 sold more than the version priced at $34, even though it was more expensive. A similar pattern has been found in the market for used cars in the United States, where sale prices drop noticeably as the distance shown on a car's meter passes each 10,000-mile mark, even though a car with 69,900 miles is in practice almost identical to one with 70,100."
+  },
+  {
+   "label": "E",
+   "text": "Price endings may also send messages about the product itself. Because prices ending in 9 are associated with discounts, they tend to suggest that something is a bargain, which is why sellers of luxury goods usually avoid them and prefer round numbers such as $200. Dr Rachel Osei of the University of Manchester has found that the type of purchase matters too. In her experiments, round prices were preferred when people were buying something for pleasure, such as a bottle of wine for a celebration, whereas prices ending in 9 worked better for purchases made for practical reasons, such as cleaning products."
+  },
+  {
+   "label": "F",
+   "text": "The effect is not equally strong everywhere. Some studies have found it to be weak or absent in particular countries and product categories, and it appears to be smaller among shoppers who are already paying close attention to price. The growth of online shopping has added a further complication. Professor Henrik Vogel of the University of Mannheim has found that shoppers who sort products from cheapest to most expensive, or who use filters to show only items below a certain price, are much less influenced by the final digits than shoppers in a physical store. Instead, online retailers increasingly set prices just below the limits that such filters commonly use, such as £50 or £100. In this setting, Vogel argues, the important boundary is the one set by the website, not the one in the shopper's head."
+  },
+  {
+   "label": "G",
+   "text": "The strongest evidence that shoppers have come to expect charm prices may come from a retailer that tried to abandon them. In 2012 the American department store chain J.C. Penney replaced most of its discounts and prices ending in 9 with simple whole-number prices. Sales fell sharply, and within about a year the policy had been reversed. It is tempting to conclude that prices ending in 9 have an almost magical power over shoppers, but the episode shows something more modest: that customers who have been trained to look for apparent bargains may be confused, or even suspicious, when they no longer see them."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Choose the correct heading for paragraphs B–G from the list of headings below.",
+    "Write the correct number, i–xi, in boxes 1–6 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "Protecting shops from dishonest staff"
+    },
+    {
+     "k": "ii",
+     "t": "What actual purchases reveal"
+    },
+    {
+     "k": "iii",
+     "t": "A doubtful account of how it began"
+    },
+    {
+     "k": "iv",
+     "t": "Why luxury goods cost more"
+    },
+    {
+     "k": "v",
+     "t": "Conditions that reduce the influence of endings"
+    },
+    {
+     "k": "vi",
+     "t": "A common tactic with a complicated explanation"
+    },
+    {
+     "k": "vii",
+     "t": "A retailer's successful change of policy"
+    },
+    {
+     "k": "viii",
+     "t": "The meaning a price can carry"
+    },
+    {
+     "k": "ix",
+     "t": "The importance of the first figure"
+    },
+    {
+     "k": "x",
+     "t": "The rise of shopping on the internet"
+    },
+    {
+     "k": "xi",
+     "t": "A failed experiment and its real lesson"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "vi"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    },
+    {
+     "n": 6,
+     "para": "G"
+    }
+   ]
+  },
+  {
+   "type": "ynng",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Do the following statements agree with the claims of the writer in the reading passage?",
+    "In boxes 7–10 on your answer sheet, write",
+    "YES if the statement agrees with the claims of the writer",
+    "NO if the statement contradicts the claims of the writer",
+    "NOT GIVEN if it is impossible to say what the writer thinks about this"
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "Historians agree that odd prices were originally a way of stopping staff from stealing."
+    },
+    {
+     "n": 8,
+     "text": "The sales of the $39 dress were an unexpected result."
+    },
+    {
+     "n": 9,
+     "text": "Prices ending in 9 are more common in Europe than in the United States."
+    },
+    {
+     "n": 10,
+     "text": "What happened at J.C. Penney demonstrates that shoppers are almost powerless against charm pricing."
+    }
+   ]
+  },
+  {
+   "type": "summary_box",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete the summary using the list of words, A–H, below.",
+    "Write the correct letter, A–H, in boxes 11–13 on your answer sheet."
+   ],
+   "title": "What a price ending can suggest",
+   "text": "Since such endings are connected in shoppers' minds with special offers, they usually make an item appear [[11]]. For this reason, companies selling luxury products tend to use [[12]] figures instead. According to Osei, round prices are most attractive when people buy something to enjoy it, while prices ending in 9 are more effective for [[13]] purchases.",
+   "options": [
+    {
+     "k": "A",
+     "t": "good value"
+    },
+    {
+     "k": "B",
+     "t": "luxurious"
+    },
+    {
+     "k": "C",
+     "t": "whole"
+    },
+    {
+     "k": "D",
+     "t": "precise"
+    },
+    {
+     "k": "E",
+     "t": "emotional"
+    },
+    {
+     "k": "F",
+     "t": "functional"
+    },
+    {
+     "k": "G",
+     "t": "overpriced"
+    },
+    {
+     "k": "H",
+     "t": "unusual"
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "round number",
+   "zh": "整数"
+  },
+  {
+   "w": "charm pricing",
+   "zh": "魅力定价（尾数定价）"
+  },
+  {
+   "w": "pocket (money)",
+   "zh": "私吞（钱）"
+  },
+  {
+   "w": "documentary evidence",
+   "zh": "文献证据"
+  },
+  {
+   "w": "perceive",
+   "zh": "感知；认为"
+  },
+  {
+   "w": "digit",
+   "zh": "数字；数位"
+  },
+  {
+   "w": "mail-order",
+   "zh": "邮购的"
+  },
+  {
+   "w": "bargain",
+   "zh": "便宜货；划算的东西"
+  },
+  {
+   "w": "luxury goods",
+   "zh": "奢侈品"
+  },
+  {
+   "w": "category",
+   "zh": "类别"
+  },
+  {
+   "w": "reverse",
+   "zh": "撤销；推翻"
+  },
+  {
+   "w": "suspicious",
+   "zh": "怀疑的；猜疑的"
+  }
+ ],
+ "generatedAt": "2026-11-23T06:55:00+08:00",
+ "spec": "v5"
+}

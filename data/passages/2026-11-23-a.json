@@ -1,0 +1,181 @@
+{
+ "id": "2026-11-23-a",
+ "date": "2026-11-23",
+ "level": 6.0,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "archaeology",
+ "title": "The Carbon Clock",
+ "subtitle": "How a rare form of carbon allowed archaeologists to put dates on the past",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "For most of the history of archaeology, the age of an object could only be estimated in relative terms. Excavators knew that material found in deeper layers of soil was usually older than material above it, and they could compare the styles of pottery or tools found at different sites. What they could not do was say with any confidence how many years ago a particular fire had been lit or a particular animal had died. In the middle of the twentieth century this changed, and the method responsible, radiocarbon dating, has since transformed the study of the human past. It is now used not only by archaeologists but also by geologists, climate scientists and even art historians."
+  },
+  {
+   "label": "B",
+   "text": "The technique was developed in the late 1940s by the American chemist Willard Libby and his colleagues at the University of Chicago, work for which Libby received the Nobel Prize in Chemistry in 1960. Before announcing the method, the team needed to show that it worked. They therefore tested it on samples whose age was already known from other sources, including pieces of wood from ancient Egyptian tombs that could be dated from historical records of the rulers buried in them. The radiocarbon results agreed closely enough with the historical dates to convince other scientists that the approach was sound. Within a few years, radiocarbon laboratories had been set up in several countries, and the first dates for prehistoric sites in Europe were published."
+  },
+  {
+   "label": "C",
+   "text": "The method depends on a rare, slightly unstable form of carbon known as carbon-14. It is produced continuously high in the atmosphere, where cosmic rays from space strike nitrogen atoms and convert them into carbon-14. The new carbon combines with oxygen to form carbon dioxide, which mixes through the atmosphere and is absorbed by plants during photosynthesis. Animals take it in when they eat plants, or when they eat other animals that have done so. As a result, every living thing contains carbon-14 in roughly the same proportion to ordinary carbon as the air around it, for as long as it remains alive."
+  },
+  {
+   "label": "D",
+   "text": "When an organism dies, it stops taking in new carbon, and the carbon-14 it already contains decays at a fixed rate, gradually turning back into nitrogen. After about 5,730 years, half of it has gone; after another 5,730 years, half of what remained has gone, and so on. By measuring the proportion of carbon-14 that survives in a piece of bone, wood or charcoal, scientists can calculate how long ago the organism died. The method has a natural limit, however. After around 50,000 years so little carbon-14 is left that it can no longer be measured reliably, and older material must be dated by other means. Contamination is a further risk: even a small amount of modern carbon, introduced by roots, groundwater or careless handling, can make a sample appear far younger than it really is."
+  },
+  {
+   "label": "E",
+   "text": "Libby assumed that the amount of carbon-14 in the atmosphere had always been the same, but it was later found to have varied considerably over time, so that some early results were wrong by several centuries. The solution was calibration. By measuring carbon-14 in tree rings of known age, researchers built up a record of how its level had changed. Long sequences from bristlecone pines in California, some of the oldest living trees on Earth, were especially important, and the record has since been extended using corals and lake sediments. Human activity has also played a part: nuclear weapons tests in the 1950s and early 1960s almost doubled the amount of carbon-14 in the air, a change that scientists can now use to date very recent material."
+  },
+  {
+   "label": "F",
+   "text": "A second advance came in the late 1970s with the development of accelerator mass spectrometry. Earlier laboratories had to wait for carbon-14 atoms to decay and count the radiation they gave off, which required several grams of material. The new technique counts the atoms directly and needs only a few milligrams, so that objects too precious to be damaged could be tested for the first time. In 1988 three laboratories, in Oxford, Zurich and Tucson, each analysed a small strip cut from the Shroud of Turin, a cloth long claimed to date from the time of Christ. All three dated the linen to between about 1260 and 1390."
+  },
+  {
+   "label": "G",
+   "text": "Today radiocarbon laboratories produce many thousands of dates each year, and large databases allow archaeologists to compare results from sites across the world. Specialists warn, however, that a date only shows when an organism died, not when people used it. A wooden beam, for example, may have been cut from the centre of a tree that was already centuries old, or reused from an earlier structure, so that it appears much older than the building in which it was found. Radiocarbon dates, in other words, are most useful when they are interpreted alongside other evidence from the site."
+  }
+ ],
+ "groups": [
+  {
+   "type": "match_info",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 1–6 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 1,
+     "text": "a reason why the method cannot be used on very ancient remains"
+    },
+    {
+     "n": 2,
+     "text": "an account of how the method was checked against existing knowledge"
+    },
+    {
+     "n": 3,
+     "text": "a reference to a human action that altered the composition of the air"
+    },
+    {
+     "n": 4,
+     "text": "a description of a development that greatly reduced the size of samples"
+    },
+    {
+     "n": 5,
+     "text": "a warning that a result may not reflect when an item was in use"
+    },
+    {
+     "n": 6,
+     "text": "an explanation of how living things come to contain carbon-14"
+    }
+   ]
+  },
+  {
+   "type": "flowchart_completion",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "Complete the flow-chart below.",
+    "Choose ONE WORD ONLY from the passage for each answer.",
+    "Write your answers in boxes 7–10 on your answer sheet."
+   ],
+   "wordLimit": "ONE WORD ONLY",
+   "maxWords": 1,
+   "allowNumber": false,
+   "title": "From the atmosphere to a date",
+   "steps": [
+    "Radiation from space hits [[7]] atoms in the upper atmosphere, creating carbon-14",
+    "Carbon-14 joins with oxygen and becomes part of the carbon dioxide in the air",
+    "Plants absorb it in the process of [[8]]; animals obtain it through their food",
+    "After death, no more is taken in and the existing carbon-14 [[9]] at a constant speed",
+    "Scientists find out what [[10]] still survives and use it to work out the time since death"
+   ]
+  },
+  {
+   "type": "short_answer",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Answer the questions below.",
+    "Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+    "Write your answers in boxes 11–13 on your answer sheet."
+   ],
+   "wordLimit": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+   "maxWords": 3,
+   "allowNumber": true,
+   "items": [
+    {
+     "n": 11,
+     "text": "Which trees supplied especially valuable records for correcting radiocarbon dates?"
+    },
+    {
+     "n": 12,
+     "text": "How many laboratories examined material from the Shroud of Turin?"
+    },
+    {
+     "n": 13,
+     "text": "What object is given as an example of something that may seem older than the building where it was found?"
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "excavator",
+   "zh": "发掘者"
+  },
+  {
+   "w": "relative",
+   "zh": "相对的"
+  },
+  {
+   "w": "unstable",
+   "zh": "不稳定的"
+  },
+  {
+   "w": "cosmic rays",
+   "zh": "宇宙射线"
+  },
+  {
+   "w": "photosynthesis",
+   "zh": "光合作用"
+  },
+  {
+   "w": "organism",
+   "zh": "生物；有机体"
+  },
+  {
+   "w": "decay",
+   "zh": "衰变；衰退"
+  },
+  {
+   "w": "calibration",
+   "zh": "校准"
+  },
+  {
+   "w": "sediment",
+   "zh": "沉积物"
+  },
+  {
+   "w": "precious",
+   "zh": "珍贵的"
+  },
+  {
+   "w": "linen",
+   "zh": "亚麻布"
+  },
+  {
+   "w": "interpret",
+   "zh": "解释；诠释"
+  }
+ ],
+ "generatedAt": "2026-11-23T06:50:00+08:00",
+ "spec": "v5"
+}
