@@ -1,0 +1,117 @@
+{
+ "id": "2026-11-24-p",
+ "answers": {
+  "1": {
+   "a": "ii",
+   "ev": {
+    "p": "B",
+    "q": "the trial would have been stopped early because the benefits of the new treatment were so clear"
+   },
+   "why": "B段：2014年综合225项研究，结果看起来一边倒，甚至被比作提前叫停的药物试验。ii Figures that appear to close the debate ↔ the benefits … were so clear … calls to abolish the lecture followed。ix 是细节陷阱：废除讲课的呼声只是段末一句结果，而且作者并不认同。"
+  },
+  "2": {
+   "a": "v",
+   "ev": {
+    "p": "C",
+    "q": "The students learned more in the active sessions, but they believed they had learned less"
+   },
+   "why": "C段。v When better learning feels worse ↔ learned more … but they believed they had learned less … feels like failure even when it produces better learning。"
+  },
+  "3": {
+   "a": "vi",
+   "ev": {
+    "p": "D",
+    "q": "the comparisons on which it rests are often unbalanced"
+   },
+   "why": "D段：很多研究拿最差的讲课和精心设计的主动学习比较。vi A contest between unequal opponents ↔ the comparisons … are often unbalanced。iv 文中没说老师不喜欢主动学习，反而提到 enthusiastic teachers who had volunteered。"
+  },
+  "4": {
+   "a": "viii",
+   "ev": {
+    "p": "E",
+    "q": "It is also worth remembering what lectures do well."
+   },
+   "why": "E段首句即主旨：讲课仍有的优势（覆盖面广、成本低、展示专家思路、激发兴趣）。viii The lasting strengths of a familiar format ↔ what lectures do well。vii 是细节陷阱：录播让学生可以按自己的节奏学，只是段中一部分，而且也提到了不来上课的学生成绩最差。"
+  },
+  "5": {
+   "a": "x",
+   "ev": {
+    "p": "F",
+    "q": "how the time that students and teachers spend together in a room should be used"
+   },
+   "why": "F段。x Rethinking the use of shared time ↔ The real question … is … how the time that students and teachers spend together in a room should be used。"
+  },
+  "6": {
+   "a": "NO",
+   "ev": {
+    "p": "A",
+    "q": "That verdict, however, is premature"
+   },
+   "why": "A段末。题干说证据已经是定论（conclusive）；作者承认证据 begun to look overwhelming，但紧接着说 That verdict … is premature，所以是 NO。"
+  },
+  "7": {
+   "a": "NO",
+   "ev": {
+    "p": "C",
+    "q": "If students' satisfaction with a course is no guide to how much they have learned"
+   },
+   "why": "C段末。How much students enjoy a course ↔ students' satisfaction；a dependable indicator ↔ a guide。作者说 no guide，与题干相反。"
+  },
+  "8": {
+   "a": "YES",
+   "ev": {
+    "p": "D",
+    "q": "Many studies compared the first kind of lecture with carefully designed active-learning sessions run by enthusiastic teachers"
+   },
+   "why": "D段。weak lectures ↔ the first kind（照本宣科一小时不抬头）；unusually strong alternatives ↔ carefully designed … run by enthusiastic teachers who had volunteered。"
+  },
+  "9": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "E",
+    "q": "Evidence from the humanities, where lectures often take a different form, is much thinner than evidence from the sciences."
+   },
+   "why": "E段末句只说人文学科的证据少得多，没有说讲课在人文学科更有效还是更无效。证据少≠效果好，所以无法判断。"
+  },
+  "10": {
+   "a": "YES",
+   "ev": {
+    "p": "F",
+    "q": "Lecturers should break up long periods of talking with problems, questions and discussion"
+   },
+   "why": "F段。ought to interrupt long stretches of talking ↔ should break up long periods of talking；other activities ↔ problems, questions and discussion。"
+  },
+  "11": {
+   "a": "A",
+   "ev": {
+    "p": "E",
+    "q": "They allow a single expert to reach hundreds of students at once, at a low cost per student"
+   },
+   "why": "E段。at little expense for each student ↔ at a low cost per student。B effort 语法可以，但原文说的是成本。"
+  },
+  "12": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "they can show how a specialist reasons through a difficult problem"
+   },
+   "why": "E段。demonstrate the way an expert thinks ↔ show how a specialist reasons through a difficult problem。"
+  },
+  "13": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "many value the chance to pause and replay difficult passages, working at their own speed"
+   },
+   "why": "E段。control their own pace ↔ working at their own speed。I attendance 是陷阱：录播反而让到课率下降（attendance … falls），而不是让学生掌控到课。"
+  },
+  "14": {
+   "a": "G",
+   "ev": {
+    "p": "E",
+    "q": "students who neither attended nor watched the recordings, a sizeable group, had the poorest results of all"
+   },
+   "why": "E段。missed both live and recorded lectures ↔ neither attended nor watched the recordings；the lowest marks ↔ the poorest results。H highest 意思相反。"
+  }
+ }
+}

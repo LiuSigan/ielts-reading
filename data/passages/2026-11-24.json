@@ -1,0 +1,235 @@
+{
+ "id": "2026-11-24",
+ "date": "2026-11-24",
+ "level": 6.5,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "psychology & cognition",
+ "title": "The Tunes That Won't Go Away",
+ "subtitle": "Most people regularly have a song stuck in their head. What causes earworms, and how can they be stopped?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Almost everyone knows the experience of a tune that will not go away. A few bars of a song heard on the radio or in a shop begin to repeat themselves in the mind, sometimes for hours, often at the most inconvenient moments. In English the phenomenon is commonly called an earworm, a direct translation of the German word Ohrwurm. It is also remarkably common. In a large online survey carried out in Finland in 2012, the psychologist Lassi Liikkanen found that about nine out of ten respondents experienced earworms at least once a week, and a quarter said they did so more than once a day. Most episodes were short, lasting less than half an hour, and usually involved only a small part of a song, such as the chorus, rather than the whole piece."
+  },
+  {
+   "label": "B",
+   "text": "Earworms are not distributed evenly. Surveys suggest that people who spend more time listening to or playing music report them more often, and that they are especially likely to occur when the mind is not fully occupied: while walking, doing housework or lying awake at night. A song may also be triggered by something that recalls it, such as a word, a place or a person associated with it, and some people report that earworms become more frequent when they are tired or under stress. Exposure matters too: a tune that has been heard several times in the past few days is a more likely candidate than one that has not been heard for years. Even so, many people report earworms of songs they cannot remember hearing recently, which suggests that memory can retrieve music without any obvious external cue."
+  },
+  {
+   "label": "C",
+   "text": "Researchers have also asked whether some songs are more likely than others to become earworms. In a study published in 2016, Kelly Jakubowski and her colleagues compared a hundred songs that had frequently been named as earworms with a hundred others that were similar in popularity and style but had rarely been named. The earworm songs tended to have a faster tempo, and their melodies usually followed a fairly common overall shape, rising and then falling, while containing a few unusual leaps or repetitions that made them distinctive. Not surprisingly, they had also enjoyed greater success in the charts and had been played more often on the radio."
+  },
+  {
+   "label": "D",
+   "text": "Why the brain behaves in this way is less clear. Dr Marcus Bell, a cognitive psychologist at the University of Glasgow, argues that earworms are a by-product of a memory system that helps us to learn sequences, such as the steps of a task or the words of a sentence, by rehearsing them automatically. Music, with its strong rhythm and repetition, is particularly well suited to this kind of rehearsal. Another suggestion is that hearing only a fragment of a song leaves the mind with an incomplete pattern, which it then tries to complete by replaying the music again and again. The two explanations are not incompatible, and Bell suspects that both play a part, depending on the person and the song."
+  },
+  {
+   "label": "E",
+   "text": "For most people, earworms are a minor curiosity rather than a problem. In surveys, the majority describe them as neutral or even pleasant, and only a small minority find them distressing. In rare cases, however, persistent musical imagery has been linked with anxiety or with obsessive thoughts, and some people with these difficulties report that particular tunes can play in their minds almost continuously for days. Researchers stress that such cases are unusual and should not be confused with the everyday experience that most people share. For the great majority, an earworm fades of its own accord within minutes, usually as soon as attention moves to something more absorbing."
+  },
+  {
+   "label": "F",
+   "text": "Those who want to be rid of an earworm have several options. In a series of experiments carried out at the University of Reading in 2015, participants who chewed gum after hearing a catchy song reported hearing it in their heads less often than those who did not. The researchers suggested that chewing interferes with the silent movements of the mouth and throat that accompany imagining a song. Other studies suggest that listening to the whole song may help, perhaps because it completes the pattern, and that a moderately demanding task, such as solving word puzzles, can push the tune aside. Deliberately trying not to think about it, on the other hand, tends to make it return more often."
+  },
+  {
+   "label": "G",
+   "text": "Not everyone regards earworms as a nuisance. Advertisers have long tried to write jingles that will stay in customers' heads, and teachers use songs to help children remember everything from the alphabet to the order of the planets. Bell believes that the phenomenon also has scientific value. Because earworms appear without any effort or intention, he argues, they offer a rare chance to study the thoughts that arise spontaneously in the mind, a subject that has been surprisingly difficult for psychologists to investigate."
+  }
+ ],
+ "groups": [
+  {
+   "type": "summary_box",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "Complete the summary using the list of words, A–L, below.",
+    "Write the correct letter, A–L, in boxes 1–6 on your answer sheet."
+   ],
+   "title": "What makes an earworm",
+   "text": "Jakubowski's team found that songs which become earworms are generally [[1]] than comparable songs, and that their melodies have a [[2]] outline with some distinctive features. Such songs are also more likely to have been [[3]]. Bell suggests that earworms come from a part of memory that [[4]] sequences without conscious effort. Most people do not find the experience [[5]], and one study found that keeping the [[6]] busy, for example by chewing gum, made it happen less often.",
+   "options": [
+    {
+     "k": "A",
+     "t": "quicker"
+    },
+    {
+     "k": "B",
+     "t": "slower"
+    },
+    {
+     "k": "C",
+     "t": "typical"
+    },
+    {
+     "k": "D",
+     "t": "irregular"
+    },
+    {
+     "k": "E",
+     "t": "popular"
+    },
+    {
+     "k": "F",
+     "t": "obscure"
+    },
+    {
+     "k": "G",
+     "t": "repeats"
+    },
+    {
+     "k": "H",
+     "t": "forgets"
+    },
+    {
+     "k": "I",
+     "t": "troubling"
+    },
+    {
+     "k": "J",
+     "t": "enjoyable"
+    },
+    {
+     "k": "K",
+     "t": "mouth"
+    },
+    {
+     "k": "L",
+     "t": "mind"
+    }
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 7,
+   "to": 10,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 7–10 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "the source of a term used for the experience"
+    },
+    {
+     "n": 8,
+     "text": "a description of situations in which earworms are particularly frequent"
+    },
+    {
+     "n": 9,
+     "text": "a warning that one method of stopping an earworm can have the opposite effect"
+    },
+    {
+     "n": 10,
+     "text": "examples of earworms being encouraged for useful purposes"
+    }
+   ]
+  },
+  {
+   "type": "sentence_endings",
+   "from": 11,
+   "to": 13,
+   "instructions": [
+    "Complete each sentence with the correct ending, A–F, below.",
+    "Write the correct letter, A–F, in boxes 11–13 on your answer sheet."
+   ],
+   "items": [
+    {
+     "n": 11,
+     "text": "Lassi Liikkanen's survey"
+    },
+    {
+     "n": 12,
+     "text": "Kelly Jakubowski and her colleagues"
+    },
+    {
+     "n": 13,
+     "text": "Marcus Bell"
+    }
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "found that chewing reduced how often a tune returned."
+    },
+    {
+     "k": "B",
+     "t": "compared songs often reported as earworms with similar songs that seldom were."
+    },
+    {
+     "k": "C",
+     "t": "showed that musicians are less affected than other people."
+    },
+    {
+     "k": "D",
+     "t": "sees earworms as a way of studying thoughts that arise by themselves."
+    },
+    {
+     "k": "E",
+     "t": "suggested that a large majority of people have earworms every week."
+    },
+    {
+     "k": "F",
+     "t": "claimed that earworms are usually a sign of a mental health problem."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "phenomenon",
+   "zh": "现象"
+  },
+  {
+   "w": "respondent",
+   "zh": "受访者"
+  },
+  {
+   "w": "occupied",
+   "zh": "忙碌的；被占用的"
+  },
+  {
+   "w": "trigger",
+   "zh": "引发；触发"
+  },
+  {
+   "w": "tempo",
+   "zh": "节奏；速度"
+  },
+  {
+   "w": "distinctive",
+   "zh": "独特的；与众不同的"
+  },
+  {
+   "w": "by-product",
+   "zh": "副产品；附带结果"
+  },
+  {
+   "w": "rehearse",
+   "zh": "（在脑中）反复练习、默念"
+  },
+  {
+   "w": "persistent",
+   "zh": "持续的；顽固的"
+  },
+  {
+   "w": "catchy",
+   "zh": "（曲调）易记的；朗朗上口的"
+  },
+  {
+   "w": "jingle",
+   "zh": "广告歌"
+  },
+  {
+   "w": "spontaneously",
+   "zh": "自发地"
+  }
+ ],
+ "generatedAt": "2026-11-24T06:55:00+08:00",
+ "spec": "v5"
+}

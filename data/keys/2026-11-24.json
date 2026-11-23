@@ -1,0 +1,109 @@
+{
+ "id": "2026-11-24",
+ "answers": {
+  "1": {
+   "a": "A",
+   "ev": {
+    "p": "C",
+    "q": "The earworm songs tended to have a faster tempo"
+   },
+   "why": "C段。quicker ↔ a faster tempo。B slower 意思相反。"
+  },
+  "2": {
+   "a": "C",
+   "ev": {
+    "p": "C",
+    "q": "their melodies usually followed a fairly common overall shape, rising and then falling"
+   },
+   "why": "C段。typical outline ↔ a fairly common overall shape。D irregular 是陷阱：原文说旋律里有一些 unusual leaps，但那是“独特之处”（题干已经说了 with some distinctive features），整体轮廓是常见的。"
+  },
+  "3": {
+   "a": "E",
+   "ev": {
+    "p": "C",
+    "q": "they had also enjoyed greater success in the charts and had been played more often on the radio"
+   },
+   "why": "C段末句。popular ↔ greater success in the charts … played more often on the radio。F obscure（冷门的）意思相反。"
+  },
+  "4": {
+   "a": "G",
+   "ev": {
+    "p": "D",
+    "q": "a memory system that helps us to learn sequences, such as the steps of a task or the words of a sentence, by rehearsing them automatically"
+   },
+   "why": "D段。repeats sequences without conscious effort ↔ rehearsing them automatically。H forgets 意思相反。"
+  },
+  "5": {
+   "a": "I",
+   "ev": {
+    "p": "E",
+    "q": "only a small minority find them distressing"
+   },
+   "why": "E段。Most people do not find the experience troubling ↔ the majority describe them as neutral or even pleasant, and only a small minority find them distressing。J enjoyable 放进去变成“大多数人不觉得愉快”，与 even pleasant 矛盾。"
+  },
+  "6": {
+   "a": "K",
+   "ev": {
+    "p": "F",
+    "q": "chewing interferes with the silent movements of the mouth and throat that accompany imagining a song"
+   },
+   "why": "F段。keeping the mouth busy ↔ chewing interferes with the silent movements of the mouth and throat。L mind 是陷阱：F段另一个方法（做字谜）才是让大脑忙起来，嚼口香糖针对的是嘴部动作。"
+  },
+  "7": {
+   "a": "A",
+   "ev": {
+    "p": "A",
+    "q": "a direct translation of the German word Ohrwurm"
+   },
+   "why": "A段。the source of a term ↔ a direct translation of the German word Ohrwurm。"
+  },
+  "8": {
+   "a": "B",
+   "ev": {
+    "p": "B",
+    "q": "they are especially likely to occur when the mind is not fully occupied"
+   },
+   "why": "B段。situations in which earworms are particularly frequent ↔ especially likely to occur when the mind is not fully occupied: while walking, doing housework…。E段讲的是罕见的严重情况，不是“容易出现的场合”。"
+  },
+  "9": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "Deliberately trying not to think about it, on the other hand, tends to make it return more often."
+   },
+   "why": "F段末句。one method of stopping an earworm can have the opposite effect ↔ Deliberately trying not to think about it … tends to make it return more often。"
+  },
+  "10": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "Advertisers have long tried to write jingles that will stay in customers' heads, and teachers use songs to help children remember"
+   },
+   "why": "G段。earworms being encouraged for useful purposes ↔ advertisers … jingles that will stay in customers' heads … teachers use songs to help children remember。"
+  },
+  "11": {
+   "a": "E",
+   "ev": {
+    "p": "A",
+    "q": "about nine out of ten respondents experienced earworms at least once a week"
+   },
+   "why": "A段。a large majority ↔ about nine out of ten；every week ↔ at least once a week。"
+  },
+  "12": {
+   "a": "B",
+   "ev": {
+    "p": "C",
+    "q": "compared a hundred songs that had frequently been named as earworms with a hundred others that were similar in popularity and style but had rarely been named"
+   },
+   "why": "C段。songs often reported as earworms ↔ frequently been named as earworms；similar songs that seldom were ↔ similar … but had rarely been named。A 是 Reading 大学的实验（F段），不是 Jakubowski。"
+  },
+  "13": {
+   "a": "D",
+   "ev": {
+    "p": "G",
+    "q": "they offer a rare chance to study the thoughts that arise spontaneously in the mind"
+   },
+   "why": "G段。thoughts that arise by themselves ↔ thoughts that arise spontaneously；a way of studying ↔ a rare chance to study。F 与E段相反：严重情况很罕见。"
+  }
+ }
+}

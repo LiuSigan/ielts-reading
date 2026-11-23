@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-22T22:51:30.340Z",
+ "updatedAt": "2026-11-23T22:50:43.091Z",
  "passages": [
+  {
+   "id": "2026-11-24",
+   "date": "2026-11-24",
+   "slot": "main",
+   "title": "The Tunes That Won't Go Away",
+   "level": 6.5,
+   "style": "P2",
+   "topicArea": "psychology & cognition",
+   "types": [
+    "summary_box",
+    "match_info",
+    "sentence_endings"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-24T06:55:00+08:00"
+  },
+  {
+   "id": "2026-11-24-p",
+   "date": "2026-11-24",
+   "slot": "p3",
+   "title": "Is the Lecture Finished?",
+   "level": 7.5,
+   "style": "P3",
+   "topicArea": "education",
+   "types": [
+    "headings",
+    "ynng",
+    "summary_box"
+   ],
+   "total": 14,
+   "generatedAt": "2026-11-24T07:00:00+08:00"
+  },
   {
    "id": "2026-11-23-a",
    "date": "2026-11-23",

@@ -1,0 +1,253 @@
+{
+ "id": "2026-11-24-p",
+ "date": "2026-11-24",
+ "level": 7.5,
+ "slot": "p3",
+ "style": "P3",
+ "topicArea": "education",
+ "title": "Is the Lecture Finished?",
+ "subtitle": "Research seems to show that traditional lectures are a poor way to teach. The truth is more complicated",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "The lecture is the oldest surviving method of university teaching. In the universities of medieval Europe, where books were scarce and expensive, a master would read a text aloud and comment on it while students copied down his words; the word itself comes from the Latin for reading. Nine centuries later the basic arrangement, one expert speaking while many listen, still dominates higher education across the world, even though printed books, recordings and the internet have long since removed the problem it was designed to solve. Critics have described it as a relic, and in recent years the research evidence against it has begun to look overwhelming. That verdict, however, is premature, and the reasons why are instructive about how educational evidence should be read. Research on teaching is difficult to conduct well, and the conclusions drawn from it are often simpler than the studies themselves allow."
+  },
+  {
+   "label": "B",
+   "text": "The most influential study appeared in 2014, when a group of researchers combined the results of 225 earlier studies of undergraduate courses in science, engineering and mathematics. They compared courses taught mainly by traditional lecturing with courses that used what is known as active learning, in which students spend class time solving problems, discussing questions with one another or answering questions posed by the teacher. Students in the lecture-based courses were on average one and a half times more likely to fail than those in active-learning courses, and their examination scores were noticeably lower. The authors suggested that if the comparison had been a trial of a new medicine, the trial would have been stopped early because the benefits of the new treatment were so clear. Their findings were widely reported, and calls to abolish the lecture followed. Several universities announced plans to reduce the number of lectures in their science courses, and some individual departments replaced them altogether."
+  },
+  {
+   "label": "C",
+   "text": "A later study revealed a curious complication. In 2019 researchers at Harvard University taught the same physics material to students in two ways, once through a polished lecture and once through active learning, and then tested what they had learned. The students learned more in the active sessions, but they believed they had learned less, and they rated the lectures as more effective. The explanation offered was that a fluent, well-organised lecture creates a feeling of understanding, while the effort of working through problems, with all its mistakes and confusion, feels like failure even when it produces better learning. The finding matters well beyond physics. If students' satisfaction with a course is no guide to how much they have learned, then the popularity of lectures among students tells us very little about their value. It also suggests that teachers who introduce active methods should expect some resistance at first, and should explain to students why the approach is being used."
+  },
+  {
+   "label": "D",
+   "text": "Yet the case against the lecture is weaker than it first appears, because the comparisons on which it rests are often unbalanced. The word lecture covers an enormous range of practice, from a speaker who reads from notes for an hour without looking up to one who stops every ten minutes to pose a question, takes a vote, and adjusts the explanation according to the answers. Many studies compared the first kind of lecture with carefully designed active-learning sessions run by enthusiastic teachers who had volunteered to take part. Professor Helen Marlow of the University of Edinburgh argues that the best lecturers have always used active methods, and that much of what is now presented as a new approach is simply good lecturing under another name. What the research condemns, in her view, is not the lecture as such but uninterrupted talk. A fair test, she suggests, would compare the best examples of each approach, taught by equally committed teachers, and such studies remain rare."
+  },
+  {
+   "label": "E",
+   "text": "It is also worth remembering what lectures do well. They allow a single expert to reach hundreds of students at once, at a low cost per student, and they can show how a specialist reasons through a difficult problem in a way that a textbook rarely does. A good lecture can give a subject a narrative shape and inspire students to pursue it further. The rise of recorded lectures has changed the picture again. Dr Yuki Tanaka of the University of Melbourne has studied how students use recordings and found that many value the chance to pause and replay difficult passages, working at their own speed. She also found, however, that attendance at live lectures falls when recordings are available, and that students who neither attended nor watched the recordings, a sizeable group, had the poorest results of all. Evidence from the humanities, where lectures often take a different form, is much thinner than evidence from the sciences."
+  },
+  {
+   "label": "F",
+   "text": "The real question, then, is not whether lectures should exist but how the time that students and teachers spend together in a room should be used. That time is the most expensive resource a university has, and spending most of it on the transfer of information that could be delivered in other ways is hard to justify. Lecturers should break up long periods of talking with problems, questions and discussion, and universities should judge teaching by what students learn rather than by how satisfied they feel. None of this requires the lecture theatre to be abandoned. The lecture is not dead; the lecturer who talks for an hour without pause, however brilliantly, ought to be."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "The reading passage has six paragraphs, A–F.",
+    "Choose the correct heading for paragraphs B–F from the list of headings below.",
+    "Write the correct number, i–x, in boxes 1–5 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "The origins of the modern university"
+    },
+    {
+     "k": "ii",
+     "t": "Figures that appear to close the debate"
+    },
+    {
+     "k": "iii",
+     "t": "An ancient method under attack"
+    },
+    {
+     "k": "iv",
+     "t": "Why teachers dislike active learning"
+    },
+    {
+     "k": "v",
+     "t": "When better learning feels worse"
+    },
+    {
+     "k": "vi",
+     "t": "A contest between unequal opponents"
+    },
+    {
+     "k": "vii",
+     "t": "Students who would rather study at home"
+    },
+    {
+     "k": "viii",
+     "t": "The lasting strengths of a familiar format"
+    },
+    {
+     "k": "ix",
+     "t": "A demand that lectures be abolished"
+    },
+    {
+     "k": "x",
+     "t": "Rethinking the use of shared time"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    }
+   ]
+  },
+  {
+   "type": "ynng",
+   "from": 6,
+   "to": 10,
+   "instructions": [
+    "Do the following statements agree with the claims of the writer in the reading passage?",
+    "In boxes 6–10 on your answer sheet, write",
+    "YES if the statement agrees with the claims of the writer",
+    "NO if the statement contradicts the claims of the writer",
+    "NOT GIVEN if it is impossible to say what the writer thinks about this"
+   ],
+   "items": [
+    {
+     "n": 6,
+     "text": "The evidence against lectures is now conclusive."
+    },
+    {
+     "n": 7,
+     "text": "How much students enjoy a course is a dependable indicator of what they have learned."
+    },
+    {
+     "n": 8,
+     "text": "Many studies have set weak lectures against unusually strong alternatives."
+    },
+    {
+     "n": 9,
+     "text": "Lectures are more effective in the humanities than in the sciences."
+    },
+    {
+     "n": 10,
+     "text": "Lecturers ought to interrupt long stretches of talking with other activities."
+    }
+   ]
+  },
+  {
+   "type": "summary_box",
+   "from": 11,
+   "to": 14,
+   "instructions": [
+    "Complete the summary using the list of words, A–I, below.",
+    "Write the correct letter, A–I, in boxes 11–14 on your answer sheet."
+   ],
+   "title": "The case for lectures",
+   "text": "Lectures make it possible for one specialist to teach very large audiences at little [[11]] for each student, and they can demonstrate the way an expert [[12]] when faced with a hard problem. Recordings allow students to control their own [[13]], but Tanaka discovered that those who missed both live and recorded lectures achieved the [[14]] marks.",
+   "options": [
+    {
+     "k": "A",
+     "t": "expense"
+    },
+    {
+     "k": "B",
+     "t": "effort"
+    },
+    {
+     "k": "C",
+     "t": "thinks"
+    },
+    {
+     "k": "D",
+     "t": "hesitates"
+    },
+    {
+     "k": "E",
+     "t": "pace"
+    },
+    {
+     "k": "F",
+     "t": "timetable"
+    },
+    {
+     "k": "G",
+     "t": "lowest"
+    },
+    {
+     "k": "H",
+     "t": "highest"
+    },
+    {
+     "k": "I",
+     "t": "attendance"
+    }
+   ]
+  }
+ ],
+ "total": 14,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "scarce",
+   "zh": "稀缺的"
+  },
+  {
+   "w": "relic",
+   "zh": "遗物；过时的东西"
+  },
+  {
+   "w": "premature",
+   "zh": "过早的；草率的"
+  },
+  {
+   "w": "instructive",
+   "zh": "有启发性的"
+  },
+  {
+   "w": "undergraduate",
+   "zh": "本科的；本科生"
+  },
+  {
+   "w": "abolish",
+   "zh": "废除"
+  },
+  {
+   "w": "fluent",
+   "zh": "流畅的"
+  },
+  {
+   "w": "condemn",
+   "zh": "谴责；否定"
+  },
+  {
+   "w": "narrative",
+   "zh": "叙事的；叙述"
+  },
+  {
+   "w": "sizeable",
+   "zh": "相当大的"
+  },
+  {
+   "w": "justify",
+   "zh": "证明……合理"
+  },
+  {
+   "w": "ought to",
+   "zh": "应当"
+  }
+ ],
+ "generatedAt": "2026-11-24T07:00:00+08:00",
+ "spec": "v5"
+}
