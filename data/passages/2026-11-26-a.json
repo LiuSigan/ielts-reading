@@ -1,0 +1,212 @@
+{
+ "id": "2026-11-26-a",
+ "date": "2026-11-26",
+ "level": 5.5,
+ "slot": "p1",
+ "style": "P1",
+ "topicArea": "history of technology",
+ "title": "Lines in the Sand",
+ "subtitle": "The barcode took more than twenty-five years to travel from a beach in Miami to a supermarket checkout",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Every day, the black and white stripes of barcodes are scanned billions of times in shops, warehouses, hospitals and airports around the world. The technology is so familiar that it is easy to forget how recent it is, and how long it took to become part of everyday life. The idea of representing information as a pattern of lines was first proposed in the late 1940s, but it was not until the 1970s that the first barcode was scanned at a supermarket checkout, and not until the following decade that most shoppers would have seen one."
+  },
+  {
+   "label": "B",
+   "text": "The story usually begins in 1948, when the head of a supermarket chain visited the Drexel Institute of Technology in Philadelphia and asked whether a way could be found to record automatically which products a customer was buying at the till. Two graduate students, Bernard Silver and Norman Joseph Woodland, took up the challenge. According to Woodland's own account, the key idea came to him while he was sitting on a beach in Miami. Thinking of the dots and dashes of Morse code, which he had learned as a boy scout, he pushed his fingers into the sand and drew them downwards, turning the dots and dashes into thin and thick lines. To allow the pattern to be read from any direction, the pair's first design arranged the lines in a series of circles, like a target."
+  },
+  {
+   "label": "C",
+   "text": "Silver and Woodland were granted a patent for their invention in 1952, but there was a serious problem: the equipment needed to read the code reliably simply did not exist. A practical scanner would require a strong, narrow beam of light and a computer to interpret the signal, and in the early 1950s lasers had not yet been invented and computers filled entire rooms. The two inventors sold their patent to an electronics company for 15,000 dollars, a modest sum for an idea that would eventually transform retailing, and neither of them made a great deal of money from it."
+  },
+  {
+   "label": "D",
+   "text": "By the early 1970s both lasers and computers had become cheaper and smaller, and the American grocery industry set up a committee to agree on a single standard that every manufacturer and shop could use. Several companies submitted designs. The committee chose a rectangular pattern developed by George Laurer, an engineer at IBM, which became known as the Universal Product Code. One reason for the choice was that rectangular stripes could be printed more accurately than circles: on the high-speed printing presses of the time, circular codes tended to smear in the direction in which the paper moved, making them hard to read."
+  },
+  {
+   "label": "E",
+   "text": "The first product to be scanned in an ordinary shop was a ten-pack of chewing gum, sold at a supermarket in Troy, Ohio, on 26 June 1974. The packet is now kept at the Smithsonian's National Museum of American History in Washington. The new system did not spread quickly, however. Shops had to buy expensive scanners, and they saw little point in doing so until most products carried codes, while manufacturers were reluctant to change their packaging until enough shops could read them. For several years many observers doubted that the barcode would succeed at all, and it was only in the early 1980s that it became common."
+  },
+  {
+   "label": "F",
+   "text": "Once it was established, the benefits became obvious. Checkouts were faster and made fewer mistakes, since cashiers no longer had to type in prices. More importantly, shops now knew exactly which products had been sold, in what quantities and at what times, which allowed them to order new stock more precisely and to reduce the amount of space wasted on goods that did not sell. The same information later made loyalty schemes possible. In 1992, forty years after receiving his patent, Woodland was awarded the National Medal of Technology by the President of the United States."
+  },
+  {
+   "label": "G",
+   "text": "Newer technologies have since appeared. In 1994 the Japanese company Denso Wave developed the QR code, a square pattern of black and white modules originally intended to track parts in car factories. Because it is two-dimensional, it can store far more information than a traditional barcode, and it can be read by the camera of an ordinary mobile phone. Radio tags, which can be read without being seen, are also increasingly used. Yet the traditional barcode has survived, largely because it can be printed on almost any package at practically no cost."
+  }
+ ],
+ "groups": [
+  {
+   "type": "summary_box",
+   "from": 1,
+   "to": 6,
+   "instructions": [
+    "Complete the summary using the list of words, A–L, below.",
+    "Write the correct letter, A–L, in boxes 1–6 on your answer sheet."
+   ],
+   "title": "From an idea to a standard",
+   "text": "In 1948 a supermarket owner wanted a way of automatically recording purchases at the [[1]]. Woodland's solution was inspired by a system of [[2]] that he had learned as a child. To make it readable from any angle, the first version of the code was [[3]]. However, the machines needed to read it had not yet been [[4]], and the inventors made little [[5]] from their patent. Two decades later, a design based on stripes was preferred partly because it could be [[6]] more accurately.",
+   "options": [
+    {
+     "k": "A",
+     "t": "till"
+    },
+    {
+     "k": "B",
+     "t": "shelf"
+    },
+    {
+     "k": "C",
+     "t": "symbols"
+    },
+    {
+     "k": "D",
+     "t": "colours"
+    },
+    {
+     "k": "E",
+     "t": "round"
+    },
+    {
+     "k": "F",
+     "t": "square"
+    },
+    {
+     "k": "G",
+     "t": "invented"
+    },
+    {
+     "k": "H",
+     "t": "tested"
+    },
+    {
+     "k": "I",
+     "t": "profit"
+    },
+    {
+     "k": "J",
+     "t": "progress"
+    },
+    {
+     "k": "K",
+     "t": "reproduced"
+    },
+    {
+     "k": "L",
+     "t": "folded"
+    }
+   ]
+  },
+  {
+   "type": "match_info",
+   "from": 7,
+   "to": 9,
+   "instructions": [
+    "The reading passage has seven paragraphs, A–G.",
+    "Which paragraph contains the following information?",
+    "Write the correct letter, A–G, in boxes 7–9 on your answer sheet.",
+    "NB You may use any letter more than once."
+   ],
+   "items": [
+    {
+     "n": 7,
+     "text": "a mention of an object that has been preserved for display"
+    },
+    {
+     "n": 8,
+     "text": "an explanation of how detailed sales information helped shops"
+    },
+    {
+     "n": 9,
+     "text": "the original purpose of a later type of code"
+    }
+   ]
+  },
+  {
+   "type": "tfng",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Do the following statements agree with the information given in the reading passage?",
+    "In boxes 10–13 on your answer sheet, write",
+    "TRUE if the statement agrees with the information",
+    "FALSE if the statement contradicts the information",
+    "NOT GIVEN if there is no information on this"
+   ],
+   "items": [
+    {
+     "n": 10,
+     "text": "More than one company put forward a design for the industry standard."
+    },
+    {
+     "n": 11,
+     "text": "Shops were quick to adopt the new system after the first product was scanned."
+    },
+    {
+     "n": 12,
+     "text": "Woodland was eventually given a national honour for his work."
+    },
+    {
+     "n": 13,
+     "text": "QR codes are now more widely used in supermarkets than traditional barcodes."
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "warehouse",
+   "zh": "仓库"
+  },
+  {
+   "w": "checkout",
+   "zh": "收银台"
+  },
+  {
+   "w": "graduate student",
+   "zh": "研究生"
+  },
+  {
+   "w": "patent",
+   "zh": "专利"
+  },
+  {
+   "w": "interpret",
+   "zh": "解读；解释"
+  },
+  {
+   "w": "retailing",
+   "zh": "零售业"
+  },
+  {
+   "w": "standard",
+   "zh": "标准"
+  },
+  {
+   "w": "smear",
+   "zh": "弄脏；涂污"
+  },
+  {
+   "w": "reluctant",
+   "zh": "不情愿的"
+  },
+  {
+   "w": "stock",
+   "zh": "库存"
+  },
+  {
+   "w": "loyalty scheme",
+   "zh": "会员积分计划"
+  },
+  {
+   "w": "module",
+   "zh": "模块；（二维码的）小方块"
+  }
+ ],
+ "generatedAt": "2026-11-26T06:50:00+08:00",
+ "spec": "v5"
+}

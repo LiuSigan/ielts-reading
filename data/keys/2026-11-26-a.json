@@ -1,0 +1,109 @@
+{
+ "id": "2026-11-26-a",
+ "answers": {
+  "1": {
+   "a": "A",
+   "ev": {
+    "p": "B",
+    "q": "record automatically which products a customer was buying at the till"
+   },
+   "why": "B段。recording purchases at the till ↔ record … which products a customer was buying at the till。B shelf 也是超市里的地方，但原文说的是结账时。"
+  },
+  "2": {
+   "a": "C",
+   "ev": {
+    "p": "B",
+    "q": "Thinking of the dots and dashes of Morse code, which he had learned as a boy scout"
+   },
+   "why": "B段。a system of symbols ↔ the dots and dashes of Morse code；learned as a child ↔ learned as a boy scout。D colours 原文没有提到。"
+  },
+  "3": {
+   "a": "E",
+   "ev": {
+    "p": "B",
+    "q": "the pair's first design arranged the lines in a series of circles, like a target"
+   },
+   "why": "B段末句。readable from any angle ↔ read from any direction；round ↔ a series of circles。F square 是G段 QR 码的形状。"
+  },
+  "4": {
+   "a": "G",
+   "ev": {
+    "p": "C",
+    "q": "in the early 1950s lasers had not yet been invented and computers filled entire rooms"
+   },
+   "why": "C段。had not yet been invented ↔ lasers had not yet been invented；the equipment needed to read the code reliably simply did not exist。H tested 语法也通，但原文强调的是设备根本还不存在。"
+  },
+  "5": {
+   "a": "I",
+   "ev": {
+    "p": "C",
+    "q": "The two inventors sold their patent to an electronics company for 15,000 dollars, a modest sum"
+   },
+   "why": "C段。made little profit ↔ a modest sum … neither of them made a great deal of money from it。"
+  },
+  "6": {
+   "a": "K",
+   "ev": {
+    "p": "D",
+    "q": "rectangular stripes could be printed more accurately than circles"
+   },
+   "why": "D段。reproduced more accurately ↔ printed more accurately（印刷就是把图案复制到包装上）。L folded 原文没有提；不要误以为是“扫描”更准确，原文讲的是印刷时圆形会糊。"
+  },
+  "7": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "The packet is now kept at the Smithsonian's National Museum of American History in Washington."
+   },
+   "why": "E段。an object that has been preserved for display ↔ The packet is now kept at … Museum。"
+  },
+  "8": {
+   "a": "F",
+   "ev": {
+    "p": "F",
+    "q": "shops now knew exactly which products had been sold, in what quantities and at what times, which allowed them to order new stock more precisely"
+   },
+   "why": "F段。detailed sales information ↔ which products had been sold, in what quantities and at what times；helped shops ↔ order new stock more precisely … reduce the amount of space wasted。"
+  },
+  "9": {
+   "a": "G",
+   "ev": {
+    "p": "G",
+    "q": "originally intended to track parts in car factories"
+   },
+   "why": "G段。the original purpose of a later type of code ↔ QR code … originally intended to track parts in car factories。B段讲的是条形码最初的目的（结账记录），不是“后来的”码。"
+  },
+  "10": {
+   "a": "TRUE",
+   "ev": {
+    "p": "D",
+    "q": "Several companies submitted designs."
+   },
+   "why": "D段。More than one company ↔ Several companies；put forward a design ↔ submitted designs。最后入选的是 IBM 的 Laurer 方案，但题干只问是否有多家公司提交，所以是 TRUE。"
+  },
+  "11": {
+   "a": "FALSE",
+   "ev": {
+    "p": "E",
+    "q": "The new system did not spread quickly, however."
+   },
+   "why": "E段。题干说商店很快采用了新系统，原文直接说 did not spread quickly，直到1980年代初才普及，所以是 FALSE。"
+  },
+  "12": {
+   "a": "TRUE",
+   "ev": {
+    "p": "F",
+    "q": "Woodland was awarded the National Medal of Technology by the President of the United States"
+   },
+   "why": "F段末句。eventually ↔ In 1992, forty years after receiving his patent；a national honour ↔ the National Medal of Technology。"
+  },
+  "13": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "G",
+    "q": "Yet the traditional barcode has survived, largely because it can be printed on almost any package at practically no cost."
+   },
+   "why": "G段只说 QR 码能存更多信息、传统条形码因便宜而保留下来，没有比较两者在超市里哪个用得更多。容易误选 FALSE（因为“条形码保留下来”），但原文并没有说条形码比 QR 码更常用。"
+  }
+ }
+}

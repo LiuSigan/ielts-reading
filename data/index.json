@@ -1,6 +1,38 @@
 {
- "updatedAt": "2026-11-23T22:50:43.091Z",
+ "updatedAt": "2026-11-25T22:51:05.626Z",
  "passages": [
+  {
+   "id": "2026-11-26-a",
+   "date": "2026-11-26",
+   "slot": "p1",
+   "title": "Lines in the Sand",
+   "level": 5.5,
+   "style": "P1",
+   "topicArea": "history of technology",
+   "types": [
+    "summary_box",
+    "match_info",
+    "tfng"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-26T06:50:00+08:00"
+  },
+  {
+   "id": "2026-11-26",
+   "date": "2026-11-26",
+   "slot": "main",
+   "title": "Bringing Back the Mammoth?",
+   "level": 6,
+   "style": "P2",
+   "topicArea": "biology & ecology",
+   "types": [
+    "headings",
+    "ynng",
+    "summary_box"
+   ],
+   "total": 13,
+   "generatedAt": "2026-11-26T06:55:00+08:00"
+  },
   {
    "id": "2026-11-24",
    "date": "2026-11-24",

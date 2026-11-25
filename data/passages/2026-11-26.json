@@ -1,0 +1,249 @@
+{
+ "id": "2026-11-26",
+ "date": "2026-11-26",
+ "level": 6.0,
+ "slot": "main",
+ "style": "P2",
+ "topicArea": "biology & ecology",
+ "title": "Bringing Back the Mammoth?",
+ "subtitle": "Scientists say they can resurrect extinct animals. Should they, and what would they really be creating?",
+ "paragraphs": [
+  {
+   "label": "A",
+   "text": "Few scientific projects capture the public imagination as quickly as the promise to bring extinct animals back to life. In recent years, companies and research groups have announced plans to recreate the woolly mammoth, the passenger pigeon and the thylacine, the striped carnivore of Tasmania that disappeared in the twentieth century. Some have even suggested dates by which the first animals might be born. Such announcements attract investors and headlines, but some of the claims made in this field have been, to put it politely, optimistic. The science is considerably more difficult than the publicity suggests, and the arguments about whether it should be attempted at all are only beginning. It is worth asking, therefore, not only whether these animals can be brought back, but what exactly would be brought back, and at what cost to the conservation of species that are still alive."
+  },
+  {
+   "label": "B",
+   "text": "Researchers have three main routes available to them, and none of them leads back to the original animal. The first is cloning, in which the nucleus of a preserved cell is placed into an egg from a related species; this is possible only where intact cells have been kept, which in practice means species that have died out very recently. The second is back-breeding, in which living descendants are selectively bred to recover the appearance of an ancestor; projects in Europe have used this approach to produce cattle that resemble the wild aurochs, which died out in the seventeenth century. The third, and the most ambitious, is to edit the genes of a living relative, for example the Asian elephant, so that it carries some of the features of the extinct species. Whichever method is chosen, the result is at best a close substitute rather than a true copy. An elephant carrying mammoth genes for thick hair and a layer of fat might survive in the cold, but it would not have learned the behaviour of mammoths, which would have been passed from one generation to the next and has been lost for ever."
+  },
+  {
+   "label": "C",
+   "text": "The only animal so far to have been brought back from extinction, even briefly, illustrates the difficulties. The last bucardo, a wild goat of the Pyrenees, died in 2000, but scientists had taken and frozen samples of her cells. In 2003 a cloned bucardo was born to a surrogate mother of a related species. It lived for only a few minutes before dying of a defect in its lungs. Even if it had survived, a single animal, or even a handful of animals produced from the cells of one individual, could never have formed a healthy population, because they would have lacked the genetic variety that a species needs to cope with disease and changing conditions. For species that disappeared thousands of years ago, the problem is even greater, because their DNA survives only in damaged fragments."
+  },
+  {
+   "label": "D",
+   "text": "Supporters argue that the techniques have benefits even if no extinct species ever walks again. Dr Tomas Reyes of the University of California, Santa Cruz, points to the black-footed ferret, one of the most endangered mammals in North America, whose surviving population descends from only a few individuals. In 2020 scientists cloned a ferret from cells that had been frozen more than thirty years earlier, adding genes that had disappeared from the living population. Others believe that substitute species could restore lost ecological roles. Large plant-eaters resembling mammoths, they suggest, might help to maintain the grasslands of the Arctic by trampling snow and knocking down trees, slowing the thawing of the frozen ground beneath."
+  },
+  {
+   "label": "E",
+   "text": "Critics raise practical and moral objections. De-extinction is extremely expensive, and Professor Anna Kowalski of the University of Warsaw, who has studied conservation budgets, estimates that the money needed to recreate a single species could protect the habitats of a far larger number of threatened ones. There is also a fear that the public, and governments, may come to regard extinction as reversible, and therefore take the loss of species less seriously. In many cases the habitat in which an extinct animal once lived has itself disappeared, leaving nowhere for a recreated population to go. Finally, the animals used as surrogate mothers, and the many embryos that fail, raise questions about animal welfare that have so far received little attention. Elephants, for example, are themselves endangered, highly social and slow to reproduce, which makes them poor candidates for use in large-scale experiments."
+  },
+  {
+   "label": "F",
+   "text": "None of this means that the research should stop, but it does suggest where its value lies. The most useful results are likely to be tools that help endangered species to survive, such as ways of restoring lost genetic diversity, rather than the recreation of animals that disappeared long ago. Preventing the extinction of species that still exist is far cheaper and far more certain than trying to reverse it afterwards, and it should remain the priority. A living mammoth, or something like it, would be a remarkable scientific achievement. It would not, however, undo the loss of the original animal, nor of the world in which it lived."
+  }
+ ],
+ "groups": [
+  {
+   "type": "headings",
+   "from": 1,
+   "to": 5,
+   "instructions": [
+    "The reading passage has six paragraphs, A–F.",
+    "Choose the correct heading for paragraphs B–F from the list of headings below.",
+    "Write the correct number, i–x, in boxes 1–5 on your answer sheet."
+   ],
+   "options": [
+    {
+     "k": "i",
+     "t": "The return of the woolly mammoth"
+    },
+    {
+     "k": "ii",
+     "t": "Practical and ethical doubts"
+    },
+    {
+     "k": "iii",
+     "t": "Bold promises meet a complicated reality"
+    },
+    {
+     "k": "iv",
+     "t": "A rescued species of ferret"
+    },
+    {
+     "k": "v",
+     "t": "Three methods, none of them perfect"
+    },
+    {
+     "k": "vi",
+     "t": "Where the real value of the research lies"
+    },
+    {
+     "k": "vii",
+     "t": "How cloning was first developed"
+    },
+    {
+     "k": "viii",
+     "t": "Advantages that do not depend on success"
+    },
+    {
+     "k": "ix",
+     "t": "A short-lived achievement"
+    },
+    {
+     "k": "x",
+     "t": "Why the Arctic is warming"
+    }
+   ],
+   "example": {
+    "para": "A",
+    "k": "iii"
+   },
+   "items": [
+    {
+     "n": 1,
+     "para": "B"
+    },
+    {
+     "n": 2,
+     "para": "C"
+    },
+    {
+     "n": 3,
+     "para": "D"
+    },
+    {
+     "n": 4,
+     "para": "E"
+    },
+    {
+     "n": 5,
+     "para": "F"
+    }
+   ]
+  },
+  {
+   "type": "ynng",
+   "from": 6,
+   "to": 9,
+   "instructions": [
+    "Do the following statements agree with the claims of the writer in the reading passage?",
+    "In boxes 6–9 on your answer sheet, write",
+    "YES if the statement agrees with the claims of the writer",
+    "NO if the statement contradicts the claims of the writer",
+    "NOT GIVEN if it is impossible to say what the writer thinks about this"
+   ],
+   "items": [
+    {
+     "n": 6,
+     "text": "Some organisations have made claims about de-extinction that are too hopeful."
+    },
+    {
+     "n": 7,
+     "text": "Altering the DNA of a related species that still exists could recreate a lost animal exactly."
+    },
+    {
+     "n": 8,
+     "text": "The ferret cloned in 2020 has since produced offspring of its own."
+    },
+    {
+     "n": 9,
+     "text": "Stopping species from dying out should be considered more important than recreating them."
+    }
+   ]
+  },
+  {
+   "type": "summary_box",
+   "from": 10,
+   "to": 13,
+   "instructions": [
+    "Complete the summary using the list of words, A–I, below.",
+    "Write the correct letter, A–I, in boxes 10–13 on your answer sheet."
+   ],
+   "title": "The case against de-extinction",
+   "text": "Opponents point first to the great [[10]] of such projects; Kowalski believes the same funds could [[11]] the living places of many more endangered species. Some also worry that people may begin to think of extinction as [[12]] and so care less about preventing it. There are concerns, too, about the [[13]] of the animals that carry the embryos.",
+   "options": [
+    {
+     "k": "A",
+     "t": "expense"
+    },
+    {
+     "k": "B",
+     "t": "popularity"
+    },
+    {
+     "k": "C",
+     "t": "safeguard"
+    },
+    {
+     "k": "D",
+     "t": "identify"
+    },
+    {
+     "k": "E",
+     "t": "temporary"
+    },
+    {
+     "k": "F",
+     "t": "inevitable"
+    },
+    {
+     "k": "G",
+     "t": "wellbeing"
+    },
+    {
+     "k": "H",
+     "t": "size"
+    },
+    {
+     "k": "I",
+     "t": "value"
+    }
+   ]
+  }
+ ],
+ "total": 13,
+ "suggestedMinutes": 20,
+ "vocab": [
+  {
+   "w": "extinct",
+   "zh": "灭绝的"
+  },
+  {
+   "w": "carnivore",
+   "zh": "食肉动物"
+  },
+  {
+   "w": "nucleus",
+   "zh": "细胞核"
+  },
+  {
+   "w": "intact",
+   "zh": "完整的；未受损的"
+  },
+  {
+   "w": "descendant",
+   "zh": "后代"
+  },
+  {
+   "w": "ancestor",
+   "zh": "祖先"
+  },
+  {
+   "w": "substitute",
+   "zh": "替代品"
+  },
+  {
+   "w": "surrogate mother",
+   "zh": "代孕母体"
+  },
+  {
+   "w": "genetic variety",
+   "zh": "遗传多样性"
+  },
+  {
+   "w": "trample",
+   "zh": "踩踏"
+  },
+  {
+   "w": "reversible",
+   "zh": "可逆的"
+  },
+  {
+   "w": "embryo",
+   "zh": "胚胎"
+  }
+ ],
+ "generatedAt": "2026-11-26T06:55:00+08:00",
+ "spec": "v5"
+}

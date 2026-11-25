@@ -1,0 +1,109 @@
+{
+ "id": "2026-11-26",
+ "answers": {
+  "1": {
+   "a": "v",
+   "ev": {
+    "p": "B",
+    "q": "Researchers have three main routes available to them, and none of them leads back to the original animal."
+   },
+   "why": "B段介绍克隆、回交育种、基因编辑三种方法，结果都只是替代品。v Three methods, none of them perfect ↔ three main routes … none of them leads back to the original animal。vii 是陷阱：段中讲了克隆的原理，但没讲克隆是怎么发明的。"
+  },
+  "2": {
+   "a": "ix",
+   "ev": {
+    "p": "C",
+    "q": "It lived for only a few minutes before dying of a defect in its lungs."
+   },
+   "why": "C段：2003年克隆出布卡多野山羊，但只活了几分钟。ix A short-lived achievement ↔ brought back from extinction, even briefly … lived for only a few minutes。"
+  },
+  "3": {
+   "a": "viii",
+   "ev": {
+    "p": "D",
+    "q": "Supporters argue that the techniques have benefits even if no extinct species ever walks again."
+   },
+   "why": "D段首句即主旨。viii Advantages that do not depend on success ↔ benefits even if no extinct species ever walks again。iv 是细节陷阱：黑足雪貂只是一个例子，而且原文没说它已经“被拯救”；x 是细节陷阱，原文只提到减缓冻土融化。"
+  },
+  "4": {
+   "a": "ii",
+   "ev": {
+    "p": "E",
+    "q": "Critics raise practical and moral objections."
+   },
+   "why": "E段列出费用、公众心态、栖息地消失和动物福利等反对理由。ii Practical and ethical doubts ↔ practical and moral objections。"
+  },
+  "5": {
+   "a": "vi",
+   "ev": {
+    "p": "F",
+    "q": "it does suggest where its value lies"
+   },
+   "why": "F段。vi Where the real value of the research lies ↔ it does suggest where its value lies … The most useful results are likely to be tools that help endangered species。i 是陷阱：作者说复活猛犸象即使实现，也 would not undo the loss。"
+  },
+  "6": {
+   "a": "YES",
+   "ev": {
+    "p": "A",
+    "q": "some of the claims made in this field have been, to put it politely, optimistic"
+   },
+   "why": "A段。too hopeful ↔ to put it politely, optimistic。作者用委婉的说法表达了“过于乐观”的判断。"
+  },
+  "7": {
+   "a": "NO",
+   "ev": {
+    "p": "B",
+    "q": "Whichever method is chosen, the result is at best a close substitute rather than a true copy."
+   },
+   "why": "B段末句。recreate … exactly ↔ 原文说 at best a close substitute rather than a true copy，直接矛盾，所以是 NO。"
+  },
+  "8": {
+   "a": "NOT GIVEN",
+   "ev": {
+    "p": "D",
+    "q": "In 2020 scientists cloned a ferret from cells that had been frozen more than thirty years earlier"
+   },
+   "why": "D段只说2020年克隆了一只雪貂，为现存种群补回丢失的基因，没有提到它后来是否繁殖。"
+  },
+  "9": {
+   "a": "YES",
+   "ev": {
+    "p": "F",
+    "q": "Preventing the extinction of species that still exist is far cheaper and far more certain than trying to reverse it afterwards, and it should remain the priority."
+   },
+   "why": "F段。Stopping species from dying out ↔ Preventing the extinction of species that still exist；should be considered more important ↔ it should remain the priority。"
+  },
+  "10": {
+   "a": "A",
+   "ev": {
+    "p": "E",
+    "q": "De-extinction is extremely expensive"
+   },
+   "why": "E段。the great expense ↔ extremely expensive。B popularity 文中说这类项目吸引投资者和媒体，但这是A段的内容，不是反对者的理由。"
+  },
+  "11": {
+   "a": "C",
+   "ev": {
+    "p": "E",
+    "q": "the money needed to recreate a single species could protect the habitats of a far larger number of threatened ones"
+   },
+   "why": "E段。safeguard the living places ↔ protect the habitats；many more endangered species ↔ a far larger number of threatened ones。"
+  },
+  "12": {
+   "a": "E",
+   "ev": {
+    "p": "E",
+    "q": "may come to regard extinction as reversible, and therefore take the loss of species less seriously"
+   },
+   "why": "E段。think of extinction as temporary ↔ regard extinction as reversible；care less about preventing it ↔ take the loss of species less seriously。F inevitable（不可避免）放进去句子也通，但意思与“可以逆转”相反。"
+  },
+  "13": {
+   "a": "G",
+   "ev": {
+    "p": "E",
+    "q": "the animals used as surrogate mothers, and the many embryos that fail, raise questions about animal welfare"
+   },
+   "why": "E段末句。the animals that carry the embryos ↔ the animals used as surrogate mothers；wellbeing ↔ animal welfare。"
+  }
+ }
+}
