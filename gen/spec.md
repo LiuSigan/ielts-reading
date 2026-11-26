@@ -1,4 +1,4 @@
-# IELTS Academic Reading — daily passage generator spec (v5)
+# IELTS Academic Reading — daily passage generator spec (v5, with daily review)
 
 Every day you write TWO original IELTS Academic Reading passages for a single learner, 20 minutes
 each, and commit them to the GitHub Pages site ("雅思阅读日练"). The three kinds of passage are:
@@ -29,6 +29,26 @@ done. If at least one passage of the latest batch has been attempted, continue w
 normal. (The learner's standing instruction: only skip when both of the previous day's passages
 are undone; one done is enough to keep going.)
 
+**Step 0.5 — review every new attempt before writing anything (the learner's standing
+instruction: "look at exactly where she goes wrong, record all of it, and make the questions as
+targeted as possible; do not just follow the rule; review and evaluate every day").**
+   - Read `gen/learner-notes.md` (the learner record). Note the date of the last daily entry.
+   - Run `node gen/analyze.mjs --since <that date>` (read-only). It prints every wrong or blank item
+     of the new first attempts: the item, what the learner chose, the correct answer, the evidence and
+     the key's explanation. Read all of it.
+   - Classify each error with the trap codes defined in the notes (T1 adjacent paragraph / shifted
+     heading, T2 topic word instead of information type or qualifier, T3 detail taken for main idea,
+     T4 attribution / subject swap, T5 direction, comparison or "tempting to conclude… but" missed,
+     T6 background knowledge or skipped calculation, T7 grammar/collocation not checked, T8 wrong
+     location, word limit or word form in completion). Add a new code if a new pattern appears.
+   - Update `gen/learner-notes.md`: append a dated entry under "每日记录" (new attempts, every error
+     with its code, what improved, what did not) and revise "当前画像" (level judgment, type table,
+     trap counts and examples, next focus). Write it in Chinese.
+   - Decide today's levels yourself from this review (see section 1, "Judgment"), and decide which
+     traps today's items must target. Every passage must contain at least three items built on the
+     learner's current top traps, and their explanations must name the trap (e.g. 「这是相邻段干扰」).
+   - Commit `gen/learner-notes.md` together with the day's passage files.
+
 1. Read state:
    - `config.json` → `apiBase` (the sync API). If it is non-empty, `GET <apiBase>/state` returns
      `{profile, attempts}`: `profile.level` = L (default 6.5), `profile.typeStats` = accuracy per
@@ -50,11 +70,13 @@ are undone; one done is enough to keep going.)
 5. Run `node gen/validate.mjs data/passages/<id>.json data/keys/<id>.json` for each passage. Fix
    every ERROR and re-run until it prints `OK`. Treat WARN lines seriously. Never commit a passage
    that fails.
-6. Run `node gen/build-index.mjs`, then commit the five changed files (two passages, two keys,
-   `data/index.json`) with the message `Add passages <date>: <first title> / <second title>`
+6. Run `node gen/build-index.mjs`, then commit the six changed files (two passages, two keys,
+   `data/index.json`, `gen/learner-notes.md`) with the message `Add passages <date>: <first title> / <second title>`
    (in Part order) and push to `main`. GitHub Pages redeploys within a few minutes.
-7. Reply with a short summary: which two parts you chose and why, the weak types you targeted
-   with their recent accuracy, and for each passage its id, level, title and question types.
+7. Reply with a short summary: what the review of the new attempts found (the main errors and
+   trap codes, what improved), which two parts you chose and why, the levels you chose and why
+   (especially if they differ from `profile.level`), the weak types and traps you targeted with
+   their recent accuracy, and for each passage its id, level, title and question types.
 
 ### Choosing today's two parts
 
@@ -92,6 +114,15 @@ Document ids, using the date in Asia/Singapore time: Part 1 `YYYY-MM-DD-a`, Part
   - last two main attempts both ≥ 0.70 → L + 0.5
   - last two main attempts both < 0.60 → L − 0.5
   - otherwise stay at L. Clamp to [5.0, 9.0].
+- **Judgment (overrides the rule for the passages you write).** `profile.level` is a mechanical
+  reference, not the decision. Each day choose the level of today's Part 2 passage yourself from the
+  review in Step 0.5: accuracy at each level so far, the trend of the last few Part 2 attempts, which
+  errors were careless and which show a real ceiling, and time used. You may differ from
+  `profile.level` by at most 0.5, and you must give the reason in the notes and in the reply. Part 1
+  and Part 3 levels then follow from your Part 2 level by the formulas at the top. When the learner
+  is close to a level but keeps falling into the same traps, prefer keeping the text level and making
+  the items harder on exactly those traps (closer near-matches, main ideas placed after a concession,
+  stated-then-rejected views) over raising the text level.
 
 ## 2. What changes with level
 
